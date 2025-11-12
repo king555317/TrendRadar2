@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T08:20:04.467323+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2025-11-12T09:34:17.182222+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 47,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -76,11 +76,12 @@
           "ranks": [
             15,
             14,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 08时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 09时34分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -88,19 +89,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 07时06分]"
-        },
-        {
-          "title": "特朗普威胁起诉BBC 索赔10亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            20,
-            21
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -118,8 +106,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 08时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 09时34分]"
+        },
+        {
+          "title": "特朗普威胁起诉BBC 索赔10亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89BBC+%E7%B4%A2%E8%B5%9410%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时06分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -129,11 +130,23 @@
             27,
             16,
             14,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时05分 ~ 08时20分]"
+          "appearance_count": 8,
+          "time_info": "[03时05分 ~ 09时34分]"
+        },
+        {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
@@ -191,8 +204,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 08时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 09时34分]"
+        },
+        {
+          "title": "特朗普夸赞沙拉：他是个硬汉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%B5%9E%E6%B2%99%E6%8B%89%EF%BC%9A%E4%BB%96%E6%98%AF%E4%B8%AA%E7%A1%AC%E6%B1%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 09时34分]"
         },
         {
           "title": "美国加利福利亚州长Newsom：总统特朗普的海上石油计划将让加州环保环境“到达时已死亡”（DOA）。",
@@ -205,6 +229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时08分 ~ 03时05分]"
+        },
+        {
+          "title": "据CBS记者：摩根大通CEO戴蒙也受邀参加明晚的特朗普晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112075535490800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 09时34分]"
         },
         {
           "title": "美国总统特朗普谈众议院就结束停摆协议的潜在投票：我认为投票结果会是积极的。",
@@ -279,17 +315,6 @@
           "time_info": "[03时05分 ~ 04时06分]"
         },
         {
-          "title": "特朗普夸赞沙拉：他是个硬汉",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%B5%9E%E6%B2%99%E6%8B%89%EF%BC%9A%E4%BB%96%E6%98%AF%E4%B8%AA%E7%A1%AC%E6%B1%89",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 08时20分]"
-        },
-        {
           "title": "特朗普宣布：赦免75名支持者",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%EF%BC%9A%E8%B5%A6%E5%85%8D75%E5%90%8D%E6%94%AF%E6%8C%81%E8%80%85",
           "source": "百度热搜",
@@ -300,17 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时06分 ~ 06时06分]"
-        },
-        {
-          "title": "据CBS记者：摩根大通CEO戴蒙也受邀参加明晚的特朗普晚宴。",
-          "url": "https://flash.jin10.com/detail/20251112075535490800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
         },
         {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
@@ -352,7 +366,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         },
@@ -374,9 +388,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
+        },
+        {
+          "title": "美国总统特朗普：我们将降低一些咖啡关税。",
+          "url": "https://flash.jin10.com/detail/20251112083626942800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及是否会起诉英国广播公司）我想我不得不这么做。",
+          "url": "https://flash.jin10.com/detail/20251112083438495800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "美国交通部长Duffy：空管人员将在特朗普政府开门之后24-48（小时）获得以往薪酬的70%。 剩余30%将在那一周之后发放。",
@@ -407,9 +443,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
+        },
+        {
+          "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
+          "url": "https://wallstreetcn.com/livenews/3003054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
@@ -434,6 +481,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "特朗普：美国不再资助乌克兰",
+          "url": "https://www.douyin.com/hot/2303153",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
           "title": "据华尔街日报：知情人士透露，房利美监督人员正在调查特朗普任命的联邦住房金融局局长普尔特是否不当获取了包括纽约总检察长在内的关键民主党官员的抵押贷款记录。消息人士称，对普尔特的调查已升级至监察长，并已移交检察官。",
           "url": "https://flash.jin10.com/detail/20251112045606789800",
           "source": "金十数据",
@@ -443,6 +501,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "特朗普：美国需要一些有才华的外国工人。",
+          "url": "https://wallstreetcn.com/livenews/3003050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "特朗普：将降低部分咖啡关税。",
+          "url": "https://wallstreetcn.com/livenews/3003047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "一些航空公司首席执行官敦促特朗普政府官员为削减航班提供理由。",
@@ -462,7 +542,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         },
@@ -489,11 +569,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 08时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 09时34分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -722,8 +803,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 08时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 09时34分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -733,8 +814,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 08时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 09时34分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -910,11 +991,12 @@
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 08时20分]"
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 09时34分]"
         },
         {
           "title": "美债期货上涨，美元走软，美国就业前景低迷",
