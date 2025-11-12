@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:08:08.396931+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-11-12T13:07:15.337589+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,19 @@
           "time_info": "[00时06分 ~ 08时20分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时34分 ~ 13时07分]"
+        },
+        {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
           "source": "澎湃新闻",
@@ -67,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 12时08分]"
+          "appearance_count": 19,
+          "time_info": "[00时06分 ~ 13时07分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -95,19 +108,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时06分 ~ 07时06分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时34分 ~ 12时08分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -615,8 +615,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时06分 ~ 12时08分]"
+          "appearance_count": 11,
+          "time_info": "[07时06分 ~ 13时07分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -847,8 +847,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 12时08分]"
+          "appearance_count": 19,
+          "time_info": "[00时06分 ~ 13时07分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -860,8 +860,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时19分 ~ 12时08分]"
+          "appearance_count": 10,
+          "time_info": "[08时19分 ~ 13时07分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -933,11 +933,13 @@
           "ranks": [
             23,
             21,
-            22
+            22,
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时35分 ~ 12时08分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 13时07分]"
         },
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -992,7 +994,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -1066,8 +1068,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时19分 ~ 12时08分]"
+          "appearance_count": 10,
+          "time_info": "[08时19分 ~ 13时07分]"
         },
         {
           "title": "美债期货上涨，美元走软，美国就业前景低迷",
