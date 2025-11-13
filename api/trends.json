@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T20:09:31.840266+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2025-11-13T21:16:22.104555+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时07分 ~ 20时09分]"
+          "appearance_count": 28,
+          "time_info": "[01时07分 ~ 21时16分]"
         },
         {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
@@ -90,6 +90,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时09分 ~ 15时07分]"
+        },
+        {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 21时16分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -137,16 +149,15 @@
           "time_info": "16时08分"
         },
         {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            5
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时09分]"
+          "appearance_count": 6,
+          "time_info": "[17时06分 ~ 21时16分]"
         },
         {
           "title": "瑞士商业代表团送特朗普金条和劳力士 或为换取低关税",
@@ -182,17 +193,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时09分 ~ 14时08分]"
-        },
-        {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时06分 ~ 20时09分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -503,7 +503,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -635,7 +635,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -712,8 +712,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 20时09分]"
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时16分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -734,11 +734,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 21时16分]"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -762,6 +763,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时09分 ~ 21时16分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -795,17 +808,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -855,7 +857,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -868,6 +870,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[07时06分 ~ 17时07分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113210734667800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
@@ -948,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "美股小型股有望跑赢大盘 盈利增长更快估值更具吸引力",
+          "url": "https://flash.jin10.com/detail/20251113202452131800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -1031,7 +1055,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1042,7 +1066,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1053,7 +1077,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1130,7 +1154,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
