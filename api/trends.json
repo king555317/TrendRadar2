@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-14T10:36:11.805237+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2025-11-14T11:26:16.676320+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时33分 ~ 11时26分]"
+        },
         {
           "title": "特朗普政府考虑重新引入“食物金字塔”膳食指南",
           "url": "https://flash.jin10.com/detail/20251114081415527800",
@@ -112,18 +125,6 @@
           "time_info": "[04时07分 ~ 05时06分]"
         },
         {
-          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
-          "url": "https://www.cls.cn/detail/2200266",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时33分 ~ 10时36分]"
-        },
-        {
           "title": "美国总统夫人梅拉尼娅：特朗普总统将签署一项行政命令，旨在改善医疗保健、粮食安全和其他社会福利。",
           "url": "https://flash.jin10.com/detail/20251114032003225800",
           "source": "金十数据",
@@ -159,6 +160,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时21分 ~ 10时36分]"
+        },
+        {
+          "title": "特朗普送叙利亚领导人香水还问有几个妻子，美网民：缺乏外交礼仪",
+          "url": "https://v.ifeng.com/c/8oFBSDgaA5N",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "市场消息：特朗普计划出席明年1月份的达沃斯会议。",
@@ -230,6 +242,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时33分 ~ 09时34分]"
+        },
+        {
+          "title": "特朗普为内塔尼亚胡“求情”遭拒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E2%80%9C%E6%B1%82%E6%83%85%E2%80%9D%E9%81%AD%E6%8B%92",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "美、布两油短线波动不大，此前有报道称，美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案。",
@@ -445,8 +468,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时06分 ~ 10时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时06分 ~ 11时26分]"
         },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -470,11 +493,12 @@
           "ranks": [
             10,
             19,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 10时36分]"
+          "appearance_count": 7,
+          "time_info": "[08时21分 ~ 11时26分]"
         },
         {
           "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
@@ -499,6 +523,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 08时21分]"
+        },
+        {
+          "title": "美股为何大跌",
+          "url": "https://www.toutiao.com/trending/7572362509869387270/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 11时26分]"
         },
         {
           "title": "美股全线下挫 特斯拉跌超6%",
@@ -535,17 +571,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时07分]"
-        },
-        {
-          "title": "美股为何大跌",
-          "url": "https://www.toutiao.com/trending/7572362509869387270/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
           "title": "美股",
@@ -672,8 +697,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 10时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时07分 ~ 11时26分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -686,8 +711,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 10时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时07分 ~ 11时26分]"
+        },
+        {
+          "title": "微软CEO：祝OpenAI甲骨文好运",
+          "url": "https://www.toutiao.com/trending/7572366525785443903/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 11时26分]"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
@@ -700,17 +737,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 08时21分]"
-        },
-        {
-          "title": "微软CEO：祝OpenAI甲骨文好运",
-          "url": "https://www.toutiao.com/trending/7572366525785443903/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
           "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
