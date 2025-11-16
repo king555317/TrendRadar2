@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T11:29:21.566619+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2025-11-16T12:10:13.979665+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时05分 ~ 11时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 12时10分]"
         },
         {
           "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
@@ -32,11 +32,12 @@
             6,
             16,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 11时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 12时10分]"
         },
         {
           "title": "特朗普：对委内瑞拉“差不多下定决心”",
@@ -86,6 +87,20 @@
           "time_info": "[00时06分 ~ 08时21分]"
         },
         {
+          "title": "特朗普：已对委内瑞拉问题作出决定",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%97%AE%E9%A2%98%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时21分 ~ 12时10分]"
+        },
+        {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3005184",
           "source": "华尔街见闻-快讯",
@@ -97,17 +112,26 @@
           "time_info": "[00时06分 ~ 07时05分]"
         },
         {
-          "title": "特朗普：已对委内瑞拉问题作出决定",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%97%AE%E9%A2%98%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A",
-          "source": "百度热搜",
+          "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
+          "url": "https://wallstreetcn.com/livenews/3005241",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            5,
-            10
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "特朗普想发2000美元支票 钱从哪来",
+          "url": "https://www.toutiao.com/trending/7573116368300559914/",
+          "source": "今日头条",
+          "ranks": [
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 11时29分]"
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         }
       ]
     },
@@ -123,8 +147,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时05分 ~ 11时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 12时10分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -183,11 +207,12 @@
             1,
             11,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时29分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时10分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -197,11 +222,12 @@
             6,
             11,
             14,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时21分 ~ 11时29分]"
+          "appearance_count": 5,
+          "time_info": "[08时21分 ~ 12时10分]"
         }
       ]
     },
@@ -217,8 +243,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时05分 ~ 11时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 12时10分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -228,11 +254,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时05分 ~ 11时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 12时10分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -245,8 +272,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时05分 ~ 11时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 12时10分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -288,8 +315,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时05分 ~ 11时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 12时10分]"
         }
       ]
     }
