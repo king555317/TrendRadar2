@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:08:11.373190+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2025-11-16T21:10:38.778861+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -124,8 +124,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时06分 ~ 21时10分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时06分 ~ 20时08分]"
+          "time_info": "[17时06分 ~ 21时10分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -158,17 +169,6 @@
           "time_info": "[14时08分 ~ 18时06分]"
         },
         {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 20时08分]"
-        },
-        {
           "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
           "url": "https://wallstreetcn.com/livenews/3005241",
           "source": "华尔街见闻-快讯",
@@ -184,6 +184,19 @@
           "time_info": "[12时10分 ~ 16时06分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
+          "url": "https://flash.jin10.com/detail/20251116182155589800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普想发2000美元支票 钱从哪来",
           "url": "https://www.toutiao.com/trending/7573116368300559914/",
           "source": "今日头条",
@@ -193,18 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 13时06分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-16）",
-          "url": "https://flash.jin10.com/detail/20251116182155589800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 20时08分]"
         },
         {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
@@ -221,7 +222,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -335,11 +336,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 20时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时10分]"
         },
         {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
@@ -360,11 +362,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 20时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时10分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
@@ -372,11 +375,23 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 20时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时10分]"
+        },
+        {
+          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
+          "url": "https://wallstreetcn.com/livenews/3005334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
@@ -426,8 +441,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时05分 ~ 20时08分]"
+          "appearance_count": 32,
+          "time_info": "[00时05分 ~ 21时10分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -483,8 +498,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 20时08分]"
+          "appearance_count": 7,
+          "time_info": "[17时06分 ~ 21时10分]"
         }
       ]
     }
