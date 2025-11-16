@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T21:10:38.778861+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2025-11-16T22:05:26.476125+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时05分 ~ 06时05分]"
+        },
+        {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时06分 ~ 22时05分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
@@ -103,6 +117,17 @@
           "time_info": "[08时21分 ~ 13时06分]"
         },
         {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时06分 ~ 22时05分]"
+        },
+        {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3005184",
           "source": "华尔街见闻-快讯",
@@ -112,31 +137,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时05分]"
-        },
-        {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时06分 ~ 21时10分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时06分 ~ 21时10分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -316,6 +316,20 @@
           "time_info": "[16时06分 ~ 20时08分]"
         },
         {
+          "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
+          "url": "https://flash.jin10.com/detail/20251116184126885800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 22时05分]"
+        },
+        {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
           "url": "https://wallstreetcn.com/livenews/3005207",
           "source": "华尔街见闻-快讯",
@@ -329,19 +343,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时21分 ~ 12时10分]"
-        },
-        {
-          "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
-          "url": "https://flash.jin10.com/detail/20251116184126885800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时10分]"
         },
         {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
@@ -387,11 +388,12 @@
           "url": "https://wallstreetcn.com/livenews/3005334",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时05分]"
         }
       ]
     },
@@ -441,8 +443,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时05分 ~ 21时10分]"
+          "appearance_count": 33,
+          "time_info": "[00时05分 ~ 22时05分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -498,8 +500,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时06分 ~ 21时10分]"
+          "appearance_count": 8,
+          "time_info": "[17时06分 ~ 22时05分]"
         }
       ]
     }
