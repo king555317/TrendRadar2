@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T10:36:57.727147+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2025-11-17T11:28:26.668991+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -90,11 +90,12 @@
           "ranks": [
             5,
             22,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时20分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[08时20分 ~ 11时28分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -104,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 10时36分]"
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 11时28分]"
         },
         {
           "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
@@ -116,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时34分 ~ 10时36分]"
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 11时28分]"
         },
         {
           "title": "美国总统特朗普：（在谈及针对俄罗斯制裁的立法时）任何与俄罗斯开展业务的国家都将受到制裁。此外，伊朗可能会被列入该名单。",
@@ -186,6 +187,17 @@
           "time_info": "09时34分"
         },
         {
+          "title": "特朗普不到两个月内完成超175笔投资",
+          "url": "https://www.toutiao.com/trending/7573491698903289386/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "特朗普：共和党人正起草法案，将制裁与俄罗斯有贸易往来的国家",
           "url": "https://flash.jin10.com/detail/20251117082056379800",
           "source": "金十数据",
@@ -206,12 +218,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        },
+        {
+          "title": "美国总统特朗普：众议院共和党人应投票公布爱泼斯坦文件，因为我们没有什么可隐瞒的。",
+          "url": "https://flash.jin10.com/detail/20251117101957938800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -225,6 +248,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时06分 ~ 07时05分]"
+        },
+        {
+          "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
+          "url": "https://wallstreetcn.com/livenews/3005519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "亚洲市场盘初，美股三大股指期货微跌。现货黄金基本平开。",
@@ -251,45 +285,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Gemini3.0能碾压GPT-5.1吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            7,
-            12,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 10时36分]"
-        },
-        {
-          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
-          "url": "https://www.zhihu.com/question/1973043161929577003",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时06分 ~ 09时34分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
+          "url": "https://flash.jin10.com/detail/20251117110119026800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
         {
           "title": "降息预期降温之际，金价在连跌两日后小幅回升",
           "url": "https://flash.jin10.com/detail/20251117073755033800",
@@ -311,6 +320,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Gemini3.0能碾压GPT-5.1吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            7,
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 11时28分]"
+        },
+        {
+          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
+          "url": "https://www.zhihu.com/question/1973043161929577003",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时06分 ~ 09时34分]"
         }
       ]
     },
@@ -347,6 +392,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 06时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
+          "url": "https://flash.jin10.com/detail/20251117103913637800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     }
