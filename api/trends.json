@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T09:34:30.028929+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2025-11-17T10:36:57.727147+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 09时34分]"
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 10时36分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -102,9 +103,21 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 10时36分]"
+        },
+        {
+          "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
+          "url": "https://www.cls.cn/detail/2201676",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 10时36分]"
         },
         {
           "title": "美国总统特朗普：（在谈及针对俄罗斯制裁的立法时）任何与俄罗斯开展业务的国家都将受到制裁。此外，伊朗可能会被列入该名单。",
@@ -140,17 +153,6 @@
           "time_info": "08时20分"
         },
         {
-          "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
-          "url": "https://www.cls.cn/detail/2201676",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时34分"
-        },
-        {
           "title": "美国总统特朗普：可能会与委内瑞拉总统马杜罗进行交谈。",
           "url": "https://flash.jin10.com/detail/20251117075139534800",
           "source": "金十数据",
@@ -168,7 +170,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -179,7 +181,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -190,7 +192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -201,7 +203,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         }
@@ -261,11 +263,12 @@
             5,
             7,
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 09时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 10时36分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
