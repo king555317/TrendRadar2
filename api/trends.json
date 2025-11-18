@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T10:36:06.869979+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-11-18T11:26:03.524519+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 10时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 11时26分]"
         },
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普为何因关税问题大动肝火",
+          "url": "https://www.toutiao.com/trending/7573841857147309614/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时33分 ~ 11时26分]"
         },
         {
           "title": "美国一家上诉法院预计将在周一听取部分家庭的辩论，他们敦促上诉法院恢复超过500起针对泰诺制造商Kenvue（科赴）的索赔诉讼。此前，特朗普政府公开宣传了他们的说法，即这种广泛使用的止痛药与儿童自闭症有关。",
@@ -126,18 +138,6 @@
           "time_info": "[04时07分 ~ 05时06分]"
         },
         {
-          "title": "特朗普为何因关税问题大动肝火",
-          "url": "https://www.toutiao.com/trending/7573841857147309614/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时33分 ~ 10时36分]"
-        },
-        {
           "title": "美国总统特朗普将在会见麦当劳的控股方（所有人）、运营方、供应商时谈论经济形势，并兜售特朗普政府在压低生活成本方面所付出的努力。 美国民众对通胀压力的担忧情绪日益沉重。",
           "url": "https://wallstreetcn.com/livenews/3006014",
           "source": "华尔街见闻-快讯",
@@ -209,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时05分 ~ 04时07分]"
+        },
+        {
+          "title": "特朗普表态支持公开爱泼斯坦案文件",
+          "url": "https://www.toutiao.com/trending/7572905836377604105/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         },
         {
           "title": "据Politico：特朗普考虑将美国联邦紧急事务管理局（FEMA）总部迁移到得州。",
@@ -319,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
+        },
+        {
+          "title": "特朗普称计划向沙特出售F-35战机",
+          "url": "https://wallstreetcn.com/livenews/3006205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "美国总统特朗普：我听说麦当劳(MCD.N)正在重新致力于提供价格实惠的选择。",
@@ -534,8 +556,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时06分 ~ 10时36分]"
+          "appearance_count": 9,
+          "time_info": "[07时06分 ~ 11时26分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -543,11 +565,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时33分 ~ 10时36分]"
+          "appearance_count": 6,
+          "time_info": "[09时33分 ~ 11时26分]"
+        },
+        {
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时33分 ~ 11时26分]"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -560,18 +596,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时06分]"
-        },
-        {
-          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
-          "url": "https://www.cls.cn/detail/2203264",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时33分 ~ 10时36分]"
         },
         {
           "title": "（美股）费城金银指数收跌1.68%，报289.48点。 纽约证交所ARCA金矿开采商指数收跌1.58%，报2124.04点，北京时间22:59涨至2170.10点刷新日高，01:33出现一波显著的下跌行情，04:03跌至2109.73点刷新日低。",
@@ -748,11 +772,12 @@
             12,
             11,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 10时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 11时26分]"
         },
         {
           "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
@@ -773,8 +798,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 11时26分]"
         },
         {
           "title": "谷歌A(GOOGL.O)：WeatherNext 2的预报速度提升了8倍。",
@@ -857,8 +882,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时19分 ~ 11时26分]"
+        },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
           "url": "https://wallstreetcn.com/articles/3759498",
@@ -871,17 +907,6 @@
           "time_info": "[00时07分 ~ 04时07分]"
         },
         {
-          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时19分 ~ 10时36分]"
-        },
-        {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
@@ -891,6 +916,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时05分 ~ 07时06分]"
+        },
+        {
+          "title": "金十图示：2025年11月18日（周二）上海金早盘价为921.22元/克，较国际金价(917.98元/克)，高3.24元/克",
+          "url": "https://flash.jin10.com/detail/20251118110222619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
@@ -949,11 +985,12 @@
           "url": "https://www.cls.cn/detail/2203227",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 11时26分]"
         }
       ]
     },
@@ -983,6 +1020,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 11时26分]"
         }
       ]
     },
