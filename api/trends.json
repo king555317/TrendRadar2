@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T15:06:51.788077+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2025-11-18T16:08:05.457413+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,21 @@
           "time_info": "[09时33分 ~ 12时08分]"
         },
         {
+          "title": "特朗普威胁更换世界杯比赛城市",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            15,
+            10,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 16时08分]"
+        },
+        {
           "title": "美国一家上诉法院预计将在周一听取部分家庭的辩论，他们敦促上诉法院恢复超过500起针对泰诺制造商Kenvue（科赴）的索赔诉讼。此前，特朗普政府公开宣传了他们的说法，即这种广泛使用的止痛药与儿童自闭症有关。",
           "url": "https://flash.jin10.com/detail/20251117234128931800",
           "source": "金十数据",
@@ -88,20 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
-        },
-        {
-          "title": "特朗普威胁更换世界杯比赛城市",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E5%9F%8E%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            15,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时06分]"
         },
         {
           "title": "美联储理事沃勒：支持FOMC在12月为了“风险管理”而再次降息。 美国劳动力市场仍然疲软，接近停滞速度。 剔除关税因素的基础通胀接近2%这一目标。 中期、长期通胀预期被锚定。 剔除（美国总统特朗普的）政府关门事件的影响之后，GDP（仍然）可能已经在2025年下半年放缓。 大部分家庭难以购房，也难以购车。 没有看到任何能够让美国通胀加速的因素。 工人需求的降速超过供应的下降速度。 许多企业裁员，或者允许人头数下降。",
@@ -453,7 +454,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -582,7 +583,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -594,8 +595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时06分 ~ 15时06分]"
+          "appearance_count": 16,
+          "time_info": "[07时06分 ~ 16时08分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -607,8 +608,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时33分 ~ 15时06分]"
+          "appearance_count": 13,
+          "time_info": "[09时33分 ~ 16时08分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -621,8 +622,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时33分 ~ 15时06分]"
+          "appearance_count": 13,
+          "time_info": "[09时33分 ~ 16时08分]"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -741,6 +742,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时19分 ~ 08时20分]"
+        },
+        {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "美股三大股指均跌超1%。",
@@ -957,8 +969,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时19分 ~ 15时06分]"
+          "appearance_count": 15,
+          "time_info": "[08时19分 ~ 16时08分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -1083,11 +1095,12 @@
             13,
             10,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 15时06分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 16时08分]"
         },
         {
           "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
