@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T16:08:04.511781+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-11-19T17:07:07.766699+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -41,21 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时35分 ~ 16时08分]"
-        },
-        {
-          "title": "特朗普：已确定下一任美联储主席人选",
-          "url": "https://www.cls.cn/detail/2204373",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时20分 ~ 14时08分]"
+          "appearance_count": 12,
+          "time_info": "[10时35分 ~ 17时07分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -69,8 +56,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 16时08分]"
+          "appearance_count": 10,
+          "time_info": "[12时07分 ~ 17时07分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -79,11 +66,25 @@
           "ranks": [
             27,
             23,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时06分 ~ 16时08分]"
+          "appearance_count": 9,
+          "time_info": "[13时06分 ~ 17时07分]"
+        },
+        {
+          "title": "特朗普：已确定下一任美联储主席人选",
+          "url": "https://www.cls.cn/detail/2204373",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时20分 ~ 14时08分]"
         },
         {
           "title": "美法院维持驳回特朗普对CNN的诽谤诉讼",
@@ -147,7 +148,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -236,6 +237,18 @@
           "time_info": "[03时05分 ~ 04时07分]"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 17时07分]"
+        },
+        {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
           "url": "https://news.ifeng.com/c/8oOUDZNFZvg",
           "source": "凤凰网",
@@ -308,15 +321,15 @@
           "time_info": "[03时05分 ~ 04时07分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
+          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -378,6 +391,17 @@
           "time_info": "[14时07分 ~ 14时08分]"
         },
         {
+          "title": "特朗普为何在爱泼斯坦案上罕见低头",
+          "url": "https://www.toutiao.com/trending/7574277845409598995/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
+        },
+        {
           "title": "马斯克和特朗普“破镜重圆”了吗",
           "url": "https://www.toutiao.com/trending/7574272284144193074/",
           "source": "今日头条",
@@ -387,6 +411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时06分 ~ 15时07分]"
+        },
+        {
+          "title": "C罗马斯克现身白宫 出席特朗普晚宴",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "美国总统特朗普：关于亚伯拉罕协议的会谈很顺利。",
@@ -670,7 +705,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -876,7 +911,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -987,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 01时07分]"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -1139,8 +1185,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时34分 ~ 16时08分]"
+          "appearance_count": 13,
+          "time_info": "[09时34分 ~ 17时07分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1168,11 +1214,12 @@
             13,
             6,
             7,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时34分 ~ 16时08分]"
+          "appearance_count": 13,
+          "time_info": "[09时34分 ~ 17时07分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1182,8 +1229,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时34分 ~ 17时07分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[09时34分 ~ 16时08分]"
+          "time_info": "[11时25分 ~ 17时07分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1200,19 +1260,6 @@
           "time_info": "[00时07分 ~ 08时20分]"
         },
         {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时25分 ~ 16时08分]"
-        },
-        {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
@@ -1225,6 +1272,19 @@
           "time_info": "[08时20分 ~ 13时06分]"
         },
         {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 17时07分]"
+        },
+        {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1974260216498500253",
           "source": "知乎",
@@ -1235,18 +1295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时34分 ~ 10时35分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时06分 ~ 16时08分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
