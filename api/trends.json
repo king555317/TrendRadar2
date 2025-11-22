@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T20:08:08.463083+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2025-11-22T21:09:55.662974+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -26,11 +26,12 @@
             9,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时05分 ~ 20时08分]"
+          "appearance_count": 11,
+          "time_info": "[15时05分 ~ 21时09分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -40,11 +41,12 @@
             16,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时33分 ~ 20时08分]"
+          "appearance_count": 18,
+          "time_info": "[09时33分 ~ 21时09分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -64,11 +66,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时07分 ~ 20时08分]"
+          "appearance_count": 12,
+          "time_info": "[14时07分 ~ 21时09分]"
         },
         {
           "title": "公开决裂后 特朗普铁杆盟友辞职",
@@ -209,6 +212,17 @@
           "time_info": "[10时33分 ~ 14时07分]"
         },
         {
+          "title": "加拿大政府：双方均对美国总统特朗普的领导及其旨在结束加沙战争的全面和平计划表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251122202749920800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
           "url": "https://flash.jin10.com/detail/20251122102554938800",
           "source": "金十数据",
@@ -291,6 +305,19 @@
           "time_info": "[00时06分 ~ 02时08分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时09分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
           "url": "https://flash.jin10.com/detail/20251121234321355800",
           "source": "金十数据",
@@ -313,18 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时05分 ~ 06时05分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
-          "url": "https://flash.jin10.com/detail/20251122182640033800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 20时08分]"
         },
         {
           "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
@@ -530,6 +545,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰正在失去土地。俄罗斯总统普京并不寻求更多冲突。",
           "url": "https://flash.jin10.com/detail/20251121233853972800",
           "source": "金十数据",
@@ -714,8 +740,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时06分 ~ 20时08分]"
+          "appearance_count": 20,
+          "time_info": "[07时06分 ~ 21时09分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -779,6 +805,18 @@
           "time_info": "[08时19分 ~ 14时07分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时06分 ~ 21时09分]"
+        },
+        {
           "title": "金十图示：2025年11月21日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251122013041840800",
           "source": "金十数据",
@@ -788,17 +826,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时06分 ~ 20时08分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
@@ -958,7 +985,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -1021,22 +1048,24 @@
           "url": "https://wallstreetcn.com/articles/3759931",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时07分 ~ 20时08分]"
+          "appearance_count": 3,
+          "time_info": "[20时07分 ~ 21时09分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
           "url": "https://wallstreetcn.com/articles/3759917",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时07分 ~ 20时08分]"
+          "appearance_count": 3,
+          "time_info": "[20时07分 ~ 21时09分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -1059,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
