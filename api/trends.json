@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T17:06:28.080030+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2025-11-22T18:06:32.604138+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时33分 ~ 17时06分]"
+          "appearance_count": 13,
+          "time_info": "[09时33分 ~ 18时06分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -41,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 17时06分]"
+          "appearance_count": 12,
+          "time_info": "[10时33分 ~ 18时06分]"
         },
         {
           "title": "公开决裂后 特朗普铁杆盟友辞职",
@@ -52,11 +52,12 @@
             27,
             15,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时05分 ~ 17时06分]"
+          "appearance_count": 9,
+          "time_info": "[13时05分 ~ 18时06分]"
         },
         {
           "title": "特朗普警告泽连斯基",
@@ -101,6 +102,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时21分 ~ 17时06分]"
+        },
+        {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时05分 ~ 18时06分]"
+        },
+        {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时07分 ~ 18时06分]"
         },
         {
           "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
@@ -167,17 +193,6 @@
           "time_info": "[10时33分 ~ 14时07分]"
         },
         {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时07分 ~ 17时06分]"
-        },
-        {
           "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
           "url": "https://flash.jin10.com/detail/20251122093844139800",
           "source": "金十数据",
@@ -193,17 +208,15 @@
           "time_info": "[10时33分 ~ 14时07分]"
         },
         {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
+          "title": "据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科根据与美国总统特朗普达成的协议，赦免了31名乌克兰公民。",
+          "url": "https://flash.jin10.com/detail/20251122170834285800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时05分 ~ 17时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -609,12 +622,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普划红线 泽连斯基会接受吗",
+          "url": "https://www.toutiao.com/trending/7575475141363109395/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -663,8 +687,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时06分 ~ 17时06分]"
+          "appearance_count": 15,
+          "time_info": "[07时06分 ~ 18时06分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -827,6 +851,17 @@
           "time_info": "[10时33分 ~ 11时21分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "美股三大股指均涨超1%，英伟达(NVDA.O)日内转涨，此前一度跌4%。",
           "url": "https://flash.jin10.com/detail/20251122005849224800",
           "source": "金十数据",
@@ -905,11 +940,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时33分 ~ 17时06分]"
+          "appearance_count": 13,
+          "time_info": "[09时33分 ~ 18时06分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -918,11 +954,24 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 17时06分]"
+          "appearance_count": 12,
+          "time_info": "[10时33分 ~ 18时06分]"
+        },
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时05分 ~ 18时06分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -938,18 +987,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时33分 ~ 15时06分]"
-        },
-        {
-          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
-          "url": "https://www.cls.cn/detail/2207169",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时05分 ~ 17时06分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
