@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T15:06:13.610168+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2025-11-22T16:07:07.621992+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 15时06分]"
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 16时07分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -25,11 +25,12 @@
           "ranks": [
             16,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时33分 ~ 15时06分]"
+          "appearance_count": 11,
+          "time_info": "[09时33分 ~ 16时07分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -40,8 +41,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时33分 ~ 15时06分]"
+          "appearance_count": 10,
+          "time_info": "[10时33分 ~ 16时07分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -55,6 +56,49 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时06分]"
+        },
+        {
+          "title": "公开决裂后 特朗普铁杆盟友辞职",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 16时07分]"
+        },
+        {
+          "title": "特朗普警告泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 16时07分]"
+        },
+        {
+          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
+          "url": "https://wallstreetcn.com/livenews/3008950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            9,
+            13,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时21分 ~ 16时07分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -99,21 +143,6 @@
           "time_info": "[10时33分 ~ 14时07分]"
         },
         {
-          "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
-          "url": "https://wallstreetcn.com/livenews/3008950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            9,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 15时06分]"
-        },
-        {
           "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
           "url": "https://flash.jin10.com/detail/20251122093844139800",
           "source": "金十数据",
@@ -127,6 +156,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时33分 ~ 14时07分]"
+        },
+        {
+          "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
+          "url": "https://news.ifeng.com/c/8oUGoYyox5f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 16时07分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -171,6 +211,17 @@
           "time_info": "[05时05分 ~ 09时33分]"
         },
         {
+          "title": "昔日盟友格林辞职，特朗普：好啊",
+          "url": "https://news.ifeng.com/c/8oUJFuvcoaX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 16时07分]"
+        },
+        {
           "title": "特朗普警告泽连斯基",
           "url": "https://www.toutiao.com/trending/7575040325853577259/",
           "source": "今日头条",
@@ -185,29 +236,15 @@
           "time_info": "[10时33分 ~ 13时06分]"
         },
         {
-          "title": "公开决裂后 特朗普铁杆盟友辞职",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%BC%80%E5%86%B3%E8%A3%82%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E9%93%81%E6%9D%86%E7%9B%9F%E5%8F%8B%E8%BE%9E%E8%81%8C",
-          "source": "百度热搜",
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
           "ranks": [
-            27,
-            15,
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时05分 ~ 15时06分]"
-        },
-        {
-          "title": "特朗普警告泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 15时06分]"
+          "time_info": "[14时07分 ~ 16时07分]"
         },
         {
           "title": "特朗普点名 马斯克马上发感谢帖",
@@ -258,6 +295,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时05分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 16时07分]"
         },
         {
           "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
@@ -323,39 +372,6 @@
           "time_info": "[12时06分 ~ 13时06分]"
         },
         {
-          "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
-          "url": "https://news.ifeng.com/c/8oUGoYyox5f",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 15时06分]"
-        },
-        {
-          "title": "昔日盟友格林辞职，特朗普：好啊",
-          "url": "https://news.ifeng.com/c/8oUJFuvcoaX",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 15时06分]"
-        },
-        {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时07分 ~ 15时06分]"
-        },
-        {
           "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
           "url": "https://flash.jin10.com/detail/20251122002520185800",
           "source": "金十数据",
@@ -366,17 +382,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 02时08分]"
-        },
-        {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
         },
         {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
@@ -655,8 +660,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时06分 ~ 15时06分]"
+          "appearance_count": 13,
+          "time_info": "[07时06分 ~ 16时07分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -896,11 +901,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时33分 ~ 15时06分]"
+          "appearance_count": 11,
+          "time_info": "[09时33分 ~ 16时07分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -911,8 +917,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时33分 ~ 15时06分]"
+          "appearance_count": 10,
+          "time_info": "[10时33分 ~ 16时07分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -938,8 +944,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 15时06分]"
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 16时07分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
