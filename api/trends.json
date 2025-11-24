@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T21:16:19.293893+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-11-24T22:06:45.120675+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时34分 ~ 21时16分]"
+          "appearance_count": 16,
+          "time_info": "[09时34分 ~ 22时06分]"
         },
         {
           "title": "泽连斯基：感谢美国，感谢特朗普",
@@ -73,18 +73,6 @@
           "time_info": "[00时06分 ~ 06时06分]"
         },
         {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时07分 ~ 21时16分]"
-        },
-        {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
           "url": "https://flash.jin10.com/detail/20251123221720269800",
           "source": "金十数据",
@@ -97,6 +85,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 06时06分]"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时07分 ~ 22时06分]"
         },
         {
           "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
@@ -320,6 +321,18 @@
           "time_info": "[19时06分 ~ 20时09分]"
         },
         {
+          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 22时06分]"
+        },
+        {
           "title": "市场消息：特朗普预计最早将于当时时间周一公布控制医疗成本的总体框架方案。",
           "url": "https://flash.jin10.com/detail/20251124061816910800",
           "source": "金十数据",
@@ -408,17 +421,6 @@
           "time_info": "09时34分"
         },
         {
-          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
           "title": "美国工会提起诉讼 要求特朗普政府为CFPB提供资金",
           "url": "https://flash.jin10.com/detail/20251124104858513800",
           "source": "金十数据",
@@ -478,8 +480,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 21时16分]"
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 22时06分]"
+        },
+        {
+          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 22时06分]"
+        },
+        {
+          "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
+          "url": "https://wallstreetcn.com/livenews/3009588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 22时06分]"
         },
         {
           "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
@@ -491,17 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
-        },
-        {
-          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
-          "url": "https://wallstreetcn.com/articles/3759998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "美股盘前：中概股、科技股普涨",
@@ -524,17 +539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
-        },
-        {
-          "title": "诺和诺德美股盘前跌近12%，公司阿尔茨海默病相关试验失败",
-          "url": "https://wallstreetcn.com/livenews/3009588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -573,7 +577,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -623,6 +627,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时08分 ~ 17时07分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
+          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
@@ -734,8 +749,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 21时16分]"
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 22时06分]"
         }
       ]
     }
