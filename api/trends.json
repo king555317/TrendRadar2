@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T19:05:28.469546+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2025-11-28T20:09:37.222825+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -45,8 +45,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时33分 ~ 19时05分]"
+          "appearance_count": 11,
+          "time_info": "[09时33分 ~ 20时09分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 19时05分]"
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 20时09分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -323,6 +323,18 @@
           "time_info": "[10时35分 ~ 11时25分]"
         },
         {
+          "title": "特朗普能否影响高市改善中日关系",
+          "url": "https://www.toutiao.com/trending/7577703090468425243/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 20时09分]"
+        },
+        {
           "title": "美国总统特朗普：将永久暂停来自所有第三世界国家的移民，以使美国体系得以全面恢复。",
           "url": "https://flash.jin10.com/detail/20251128122807470800",
           "source": "金十数据",
@@ -365,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-28）",
+          "url": "https://flash.jin10.com/detail/20251128192525355800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "特朗普：将永久暂停来自“第三世界国家”的移民",
@@ -455,17 +478,6 @@
           "time_info": "08时20分"
         },
         {
-          "title": "特朗普能否影响高市改善中日关系",
-          "url": "https://www.toutiao.com/trending/7577703090468425243/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
           "title": "美国总统特朗普：（谈及委内瑞拉表示）我们很快就会开始通过陆路打击毒品走私。",
           "url": "https://flash.jin10.com/detail/20251128074411874800",
           "source": "金十数据",
@@ -498,11 +510,12 @@
           "url": "https://www.zhihu.com/question/1977462001522450495",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时19分 ~ 19时05分]"
+          "appearance_count": 15,
+          "time_info": "[08时19分 ~ 20时09分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -512,11 +525,12 @@
             9,
             5,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时05分 ~ 19时05分]"
+          "appearance_count": 17,
+          "time_info": "[07时05分 ~ 20时09分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -529,11 +543,12 @@
             20,
             21,
             28,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时06分 ~ 15时06分]"
+          "appearance_count": 19,
+          "time_info": "[00时06分 ~ 20时09分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -560,8 +575,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 19时05分]"
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 20时09分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -592,7 +607,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         }
@@ -786,8 +801,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时19分 ~ 19时05分]"
+          "appearance_count": 15,
+          "time_info": "[08时19分 ~ 20时09分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -944,6 +959,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝商所（CME）：交易平台BrokerTec美债期货已恢复交易，其他市场目前仍暂停交易。",
+          "url": "https://flash.jin10.com/detail/20251128190714411800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         }
       ]
     }
