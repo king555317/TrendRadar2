@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:11:49.012673+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-11-30T22:05:38.509249+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时06分 ~ 21时11分]"
+          "appearance_count": 8,
+          "time_info": "[15时06分 ~ 22时05分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -140,6 +140,17 @@
           "time_info": "[00时06分 ~ 07时06分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 22时05分]"
+        },
+        {
           "title": "美国总统特朗普：美国再次受到尊重，前所未有的尊重。所有这一切都是由强有力的领导和关税带来的。向上帝祈祷，我们的九位大法官将显示出伟大的智慧，为美国做正确的事。",
           "url": "https://flash.jin10.com/detail/20251129202718380800",
           "source": "金十数据",
@@ -176,17 +187,6 @@
           "time_info": "[00时06分 ~ 08时22分]"
         },
         {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时11分]"
-        },
-        {
           "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
           "url": "https://flash.jin10.com/detail/20251129202442952800",
           "source": "金十数据",
@@ -196,6 +196,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 22时05分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -211,28 +225,16 @@
           "time_info": "[12时15分 ~ 14时08分]"
         },
         {
-          "title": "特朗普与委总统通话 直接要求其下台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时11分]"
-        },
-        {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
           "url": "https://flash.jin10.com/detail/20251130201511290800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 22时05分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -308,22 +310,24 @@
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时08分 ~ 21时11分]"
+          "appearance_count": 3,
+          "time_info": "[20时08分 ~ 22时05分]"
         },
         {
           "title": "Gemini升级了哪些地方",
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 22时05分]"
         }
       ]
     },
@@ -366,11 +370,12 @@
           "ranks": [
             2,
             14,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时11分]"
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 22时05分]"
         },
         {
           "title": "以色列媒体：伊朗在寻求恢复军力以及重新武装地区力量",
@@ -378,11 +383,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时08分 ~ 21时11分]"
+          "appearance_count": 3,
+          "time_info": "[20时08分 ~ 22时05分]"
         },
         {
           "title": "严重干旱迫使伊朗大型水电站停止发电",
@@ -390,11 +396,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时08分 ~ 21时11分]"
+          "appearance_count": 3,
+          "time_info": "[20时08分 ~ 22时05分]"
         }
       ]
     },
@@ -420,8 +427,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时06分 ~ 21时11分]"
+          "appearance_count": 28,
+          "time_info": "[00时06分 ~ 22时05分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -453,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 21时11分]"
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 22时05分]"
         }
       ]
     },
