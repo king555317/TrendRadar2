@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T09:34:28.220814+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-30T10:42:36.343310+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             12,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 09时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时42分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -38,11 +39,12 @@
           "ranks": [
             12,
             13,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 09时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时42分]"
         },
         {
           "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
@@ -192,22 +194,24 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 09时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 10时42分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 09时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 10时42分]"
         }
       ]
     },
@@ -227,8 +231,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 09时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时06分 ~ 10时42分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -291,11 +295,12 @@
           "ranks": [
             3,
             4,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 09时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时42分]"
         }
       ]
     }
