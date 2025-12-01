@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T17:09:39.793186+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-01T18:07:00.062187+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 17时09分]"
+          "appearance_count": 11,
+          "time_info": "[10时50分 ~ 18时06分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -52,11 +52,12 @@
             11,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 17时09分]"
+          "appearance_count": 11,
+          "time_info": "[10时50分 ~ 18时06分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -192,6 +193,18 @@
           "time_info": "[00时06分 ~ 04时06分]"
         },
         {
+          "title": "特朗普与委总统通话，直接要求对方下台！",
+          "url": "https://wallstreetcn.com/articles/3760404",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 18时06分]"
+        },
+        {
           "title": "特朗普：俄乌和平协议很有可能达成",
           "url": "https://www.toutiao.com/trending/7578340057447514175/",
           "source": "今日头条",
@@ -204,16 +217,15 @@
           "time_info": "[14时08分 ~ 15时08分]"
         },
         {
-          "title": "特朗普与委总统通话，直接要求对方下台！",
-          "url": "https://wallstreetcn.com/articles/3760404",
-          "source": "华尔街见闻",
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 17时09分]"
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时06分]"
         },
         {
           "title": "美乌4小时会谈细节曝光 特朗普发声",
@@ -258,17 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
-        },
-        {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
         },
         {
           "title": "美国总统特朗普：如果我有这个权力，我会剥夺某些人的国籍。",
@@ -461,7 +462,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -533,11 +534,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 17时09分]"
+          "appearance_count": 3,
+          "time_info": "[16时08分 ~ 18时06分]"
+        },
+        {
+          "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3012928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
@@ -620,9 +633,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时06分]"
         },
         {
           "title": "美股期货亚市盘初波动不大，三大股指期货基本持平。",
@@ -659,7 +672,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
