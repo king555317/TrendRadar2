@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T19:06:11.819453+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2025-12-02T20:09:46.117459+08:00",
+  "total_titles_processed": 1729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时07分 ~ 07时09分]"
+        },
+        {
+          "title": "摸着特朗普过河过河？日版效率部宣布成立丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251202195853225800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
@@ -184,6 +195,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时06分]"
+        },
+        {
+          "title": "特朗普被曝近期在电话中要求马杜罗辞职，马杜罗拒绝",
+          "url": "https://wallstreetcn.com/livenews/3013679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 20时09分]"
         },
         {
           "title": "特朗普政府将入股芯片初创公司XLIGHT，投资至多1.5亿美元。（华尔街日报）",
@@ -375,17 +398,6 @@
           "time_info": "09时34分"
         },
         {
-          "title": "特朗普被曝近期在电话中要求马杜罗辞职，马杜罗拒绝",
-          "url": "https://wallstreetcn.com/livenews/3013679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "美国参议院少数党领袖舒默：特朗普“把加勒比地区变成了一个火药桶”。",
           "url": "https://flash.jin10.com/detail/20251202043236277800",
           "source": "金十数据",
@@ -436,7 +448,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -712,8 +724,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时06分 ~ 19时06分]"
+          "appearance_count": 10,
+          "time_info": "[13时06分 ~ 20时09分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -816,8 +828,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时34分 ~ 19时06分]"
+          "appearance_count": 14,
+          "time_info": "[09时34分 ~ 20时09分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -833,8 +845,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时07分 ~ 19时06分]"
+          "appearance_count": 26,
+          "time_info": "[00时07分 ~ 20时09分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -876,8 +888,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时34分 ~ 19时06分]"
+          "appearance_count": 14,
+          "time_info": "[09时34分 ~ 20时09分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -917,11 +929,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时37分 ~ 19时06分]"
+          "appearance_count": 13,
+          "time_info": "[10时37分 ~ 20时09分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
