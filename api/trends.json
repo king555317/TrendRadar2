@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T13:06:42.216624+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2025-12-02T14:08:50.875899+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
             16,
             17,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 13时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 14时08分]"
         },
         {
           "title": "“即将宣布”，特朗普称已选定下任美联储主席",
@@ -59,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时20分 ~ 13时06分]"
+          "appearance_count": 7,
+          "time_info": "[08时20分 ~ 14时08分]"
         },
         {
           "title": "据以色列媒体报道，以色列总理与美国总统特朗普通话。",
@@ -328,6 +329,18 @@
           "time_info": "[03时08分 ~ 04时06分]"
         },
         {
+          "title": "特朗普面临支持率“大麻烦”",
+          "url": "https://www.toutiao.com/trending/7578565783584784438/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时08分]"
+        },
+        {
           "title": "美媒：民调显示特朗普正面临麻烦",
           "url": "https://www.toutiao.com/trending/7577944008061108270/",
           "source": "今日头条",
@@ -414,17 +427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "特朗普面临支持率“大麻烦”",
-          "url": "https://www.toutiao.com/trending/7578565783584784438/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         }
       ]
     },
@@ -467,8 +469,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时09分 ~ 13时06分]"
+          "appearance_count": 8,
+          "time_info": "[07时09分 ~ 14时08分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
@@ -613,8 +615,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 13时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 14时08分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -625,8 +627,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 14时08分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -677,6 +679,18 @@
           "time_info": "[10时37分 ~ 11时30分]"
         },
         {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时08分]"
+        },
+        {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
           "url": "https://flash.jin10.com/detail/20251202040715444800",
           "source": "金十数据",
@@ -697,17 +711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         }
       ]
     },
@@ -729,8 +732,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 13时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 14时08分]"
+        },
+        {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时20分 ~ 14时08分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -743,8 +757,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 13时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 14时08分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -759,17 +773,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 06时06分]"
-        },
-        {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时20分 ~ 13时06分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -796,8 +799,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 13时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 14时08分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -809,8 +812,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 13时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 14时08分]"
         }
       ]
     },
@@ -819,15 +822,15 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
-          "url": "https://flash.jin10.com/detail/20251202121909836800",
-          "source": "金十数据",
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 14时08分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -844,15 +847,16 @@
           "time_info": "[03时08分 ~ 06时06分]"
         },
         {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
+          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
+          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "source": "金十数据",
           "ranks": [
-            9
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时06分]"
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时08分]"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
