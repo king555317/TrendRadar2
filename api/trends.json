@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T13:06:33.477797+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2025-12-04T14:08:30.826032+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时21分 ~ 13时06分]"
+          "appearance_count": 9,
+          "time_info": "[08时21分 ~ 14时08分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -66,8 +66,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时08分 ~ 13时06分]"
+          "appearance_count": 19,
+          "time_info": "[01时08分 ~ 14时08分]"
         },
         {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 13时06分]"
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 14时08分]"
         },
         {
           "title": "马杜罗证实近日曾与特朗普通话",
@@ -250,6 +250,18 @@
           "time_info": "[02时09分 ~ 04时06分]"
         },
         {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 14时08分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -322,18 +334,6 @@
           "time_info": "[06时07分 ~ 07时05分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时06分]"
-        },
-        {
           "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
           "url": "https://flash.jin10.com/detail/20251204052449950800",
           "source": "金十数据",
@@ -344,6 +344,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时05分]"
+        },
+        {
+          "title": "特朗普：将很快在拉美开展地面打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时08分]"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -441,6 +452,18 @@
           "time_info": "[06时07分 ~ 07时05分]"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时08分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京想要结束战争。",
           "url": "https://flash.jin10.com/detail/20251204051440162800",
           "source": "金十数据",
@@ -477,6 +500,17 @@
           "time_info": "[08时21分 ~ 09时34分]"
         },
         {
+          "title": "马杜罗证实曾同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%AF%81%E5%AE%9E%E6%9B%BE%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 14时08分]"
+        },
+        {
           "title": "美墨加协定将到期 特朗普：要么失效 要么达成新协议",
           "url": "https://flash.jin10.com/detail/20251204055451717800",
           "source": "金十数据",
@@ -497,17 +531,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "特朗普：将很快在拉美开展地面打击",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%BE%88%E5%BF%AB%E5%9C%A8%E6%8B%89%E7%BE%8E%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9D%A2%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "美国商务部长卢特尼克：不应当将ADP就业数据（小非农）出现负值归咎于（总统特朗普挑起的）关税。 只要关税没有超过15%，价格就不会变动。 政府关门事件造成独特的10月（经济形势）。 我们将在最高法院赢得关税官司。 在应对进口问题上，我们还有其他工具。",
@@ -565,17 +588,6 @@
           "time_info": "08时21分"
         },
         {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
           "title": "委内瑞拉总统马杜罗证实10天前与特朗普通过电话。",
           "url": "https://wallstreetcn.com/livenews/3014688",
           "source": "华尔街见闻-快讯",
@@ -629,17 +641,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
-        },
-        {
-          "title": "马杜罗证实曾同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%AF%81%E5%AE%9E%E6%9B%BE%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
@@ -717,8 +718,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时05分 ~ 13时06分]"
+          "appearance_count": 10,
+          "time_info": "[07时05分 ~ 14时08分]"
         },
         {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
@@ -730,8 +731,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时21分 ~ 13时06分]"
+          "appearance_count": 9,
+          "time_info": "[08时21分 ~ 14时08分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -1037,6 +1038,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时30分 ~ 14时08分]"
+        },
+        {
           "title": "美元指数3日下跌",
           "url": "https://flash.jin10.com/detail/20251204054201862800",
           "source": "金十数据",
@@ -1059,18 +1072,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 12时12分]"
-        },
-        {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时30分 ~ 13时06分]"
         },
         {
           "title": "美元指数跌0.5%，失守50日均线",
@@ -1112,7 +1113,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -1123,7 +1124,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
