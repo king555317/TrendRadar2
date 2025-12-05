@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T08:21:11.373770+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-12-05T09:34:26.926037+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 08时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 09时34分]"
         },
         {
           "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 08时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 09时34分]"
         },
         {
           "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
@@ -72,7 +72,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
         },
@@ -251,6 +251,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
+          "url": "https://flash.jin10.com/detail/20251205085517265800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
           "title": "俄罗斯总统普京：美国总统特朗普的顾问们认为，实施关税政策最终将有利于美国经济。",
           "url": "https://flash.jin10.com/detail/20251204230725794800",
           "source": "金十数据",
@@ -361,8 +372,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 09时34分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -481,11 +492,12 @@
           "ranks": [
             8,
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 08时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 09时34分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -495,8 +507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 09时34分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -578,7 +590,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
         }
@@ -628,8 +640,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时07分 ~ 08时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 09时34分]"
         }
       ]
     },
