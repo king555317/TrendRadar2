@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T18:06:02.246206+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2025-12-07T19:05:15.786259+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -103,6 +103,18 @@
           "time_info": "[13时06分 ~ 17时06分]"
         },
         {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时05分 ~ 19时05分]"
+        },
+        {
           "title": "特朗普政府对于中日外交争端保持沉默",
           "url": "https://www.toutiao.com/trending/7580370642382602283/",
           "source": "今日头条",
@@ -114,15 +126,26 @@
           "time_info": "[18时05分 ~ 18时06分]"
         },
         {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
+          "title": "特朗普威胁封锁委领空 马杜罗咋办",
+          "url": "https://www.toutiao.com/trending/7581027611489340991/",
+          "source": "今日头条",
           "ranks": [
-            18
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
+          "url": "https://flash.jin10.com/detail/20251207175156547800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -207,6 +230,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时07分 ~ 19时05分]"
+        },
+        {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
@@ -217,19 +254,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 05时05分]"
-        },
-        {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时07分 ~ 18时06分]"
         }
       ]
     },
@@ -294,11 +318,12 @@
           "url": "https://flash.jin10.com/detail/20251207170920912800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 19时05分]"
         }
       ]
     }
