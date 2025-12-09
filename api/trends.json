@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T20:09:51.778802+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2025-12-09T21:17:19.682568+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -36,6 +36,21 @@
           "time_info": "[00时07分 ~ 11时31分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时07分 ~ 21时17分]"
+        },
+        {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
           "url": "https://news.ifeng.com/c/8owNK695xvD",
           "source": "凤凰网",
@@ -58,21 +73,6 @@
           "time_info": "[00时07分 ~ 03时05分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时07分 ~ 20时09分]"
-        },
-        {
           "title": "美议员急了：特朗普你得拉一把日本啊",
           "url": "https://news.ifeng.com/c/8owI9R84r47",
           "source": "凤凰网",
@@ -82,6 +82,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时37分 ~ 13时08分]"
+        },
+        {
+          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
+          "url": "https://flash.jin10.com/detail/20251209210853362800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
@@ -101,7 +112,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -563,7 +574,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -596,7 +607,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -618,7 +629,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -629,9 +640,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
+          "url": "https://wallstreetcn.com/livenews/3017706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
@@ -662,7 +684,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -673,7 +695,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -684,7 +706,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -709,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特表示，美国总统特朗普今日将在宾州发表利好经济的讲话。",
+          "url": "https://flash.jin10.com/detail/20251209204946258800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "特朗普：限期墨西哥释放水资源 否则加征5%关税",
@@ -739,7 +772,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -750,7 +783,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -805,7 +838,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -849,7 +882,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -860,7 +893,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -882,7 +915,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -904,7 +937,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -915,9 +948,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "路透社/益普索民意调查：美国总统特朗普在生活成本问题上的支持率从26%升至31%，其中共和党内的支持率大幅上涨10个百分点。",
@@ -926,7 +970,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         }
@@ -934,7 +978,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -1192,6 +1236,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "CoreWeave美股盘前下跌1.7%，公司将1.75%的可转换优先票据定价为22.5亿美元，高于最初计划的20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
           "url": "https://wallstreetcn.com/livenews/3017046",
           "source": "华尔街见闻-快讯",
@@ -1268,9 +1323,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时07分 ~ 21时17分]"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
@@ -1307,18 +1374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时06分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时07分 ~ 20时09分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -1581,6 +1636,60 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[08时20分 ~ 21时17分]"
+        },
+        {
+          "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
+          "url": "https://wallstreetcn.com/livenews/3017141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时06分]"
+        },
+        {
+          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3017053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 01时07分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头比例降至五周以来最低。",
+          "url": "https://flash.jin10.com/detail/20251209205624127800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -1629,49 +1738,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时20分 ~ 20时09分]"
-        },
-        {
-          "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
-          "url": "https://wallstreetcn.com/livenews/3017141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时06分]"
-        },
-        {
-          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3017053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时07分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -1685,6 +1751,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国伊朗沙特三方联合委员会第三次会议联合新闻稿",
+          "url": "https://wallstreetcn.com/livenews/3017703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         }
       ]
     }
