@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T17:08:24.624338+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2025-12-09T18:07:40.591134+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -111,6 +111,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时07分 ~ 18时07分]"
         },
         {
           "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
@@ -279,18 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时06分 ~ 08时21分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 17时08分]"
         },
         {
           "title": "特朗普女婿，“杀回来了”",
@@ -582,7 +583,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -779,17 +780,6 @@
           "time_info": "[00时07分 ~ 13时08分]"
         },
         {
-          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3017543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
           "url": "https://wallstreetcn.com/livenews/3017174",
           "source": "华尔街见闻-快讯",
@@ -824,6 +814,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时06分]"
+        },
+        {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 18时07分]"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
@@ -1004,7 +1006,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -1110,6 +1112,17 @@
           "time_info": "[06时06分 ~ 07时06分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
           "url": "https://flash.jin10.com/detail/20251209023449862800",
           "source": "金十数据",
@@ -1127,7 +1140,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1149,7 +1162,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1160,7 +1173,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1182,7 +1195,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1229,6 +1242,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
+          "url": "https://flash.jin10.com/detail/20251209110221893800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "土耳其银行业人士：土耳其央行上周的净储备预计已增加55亿美元，达到近780亿美元。土耳其央行上周购买了逾30亿美元资产，其中因金价变动带来的增值超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209144133610800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "策略师：金价2026年的涨势可能放缓",
+          "url": "https://flash.jin10.com/detail/20251209105812551800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
+          "url": "https://flash.jin10.com/detail/20251209104127597800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "金价波动不大，市场关注鲍威尔讲话揭示后续路径",
+          "url": "https://flash.jin10.com/detail/20251209170958206800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     },
@@ -1284,56 +1358,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
-          "url": "https://flash.jin10.com/detail/20251209110221893800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "土耳其银行业人士：土耳其央行上周的净储备预计已增加55亿美元，达到近780亿美元。土耳其央行上周购买了逾30亿美元资产，其中因金价变动带来的增值超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251209144133610800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "策略师：金价2026年的涨势可能放缓",
-          "url": "https://flash.jin10.com/detail/20251209105812551800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
-          "url": "https://flash.jin10.com/detail/20251209104127597800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -1374,8 +1398,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时08分 ~ 17时08分]"
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 18时07分]"
         }
       ]
     },
@@ -1393,8 +1417,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时20分 ~ 17时08分]"
+          "appearance_count": 15,
+          "time_info": "[08时20分 ~ 18时07分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
