@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T21:17:19.682568+08:00",
-  "total_titles_processed": 2027,
+  "generated_at": "2025-12-09T22:06:38.123117+08:00",
+  "total_titles_processed": 2104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -23,19 +23,6 @@
           "time_info": "[10时37分 ~ 17时08分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 11时31分]"
-        },
-        {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
           "url": "https://wallstreetcn.com/articles/3760972",
           "source": "华尔街见闻",
@@ -47,8 +34,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时07分 ~ 21时17分]"
+          "appearance_count": 10,
+          "time_info": "[15时07分 ~ 22时06分]"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 11时31分]"
         },
         {
           "title": "日媒更慌了，“特朗普还不说话，这下怎么搞”",
@@ -84,17 +84,6 @@
           "time_info": "[10时37分 ~ 13时08分]"
         },
         {
-          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
-          "url": "https://flash.jin10.com/detail/20251209210853362800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
           "url": "https://wallstreetcn.com/livenews/3017134",
           "source": "华尔街见闻-快讯",
@@ -115,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "匈牙利外长西雅尔多表示，匈牙利总理欧尔班与美国总统特朗普已同意就一种新型金融合作展开谈判，这种合作有望提供金融保障。",
+          "url": "https://flash.jin10.com/detail/20251209215314638800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
@@ -196,6 +196,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时34分 ~ 10时37分]"
+        },
+        {
+          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
+          "url": "https://flash.jin10.com/detail/20251209210853362800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时06分]"
         },
         {
           "title": "美国总统特朗普：我们将取消那些规定，并希望降低农用设备的价格。",
@@ -462,6 +474,18 @@
           "time_info": "[01时07分 ~ 02时08分]"
         },
         {
+          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
+          "url": "https://wallstreetcn.com/livenews/3017706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时06分]"
+        },
+        {
           "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
           "url": "https://flash.jin10.com/detail/20251209042439691800",
           "source": "金十数据",
@@ -546,6 +570,18 @@
           "time_info": "[05时06分 ~ 06时06分]"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时06分]"
+        },
+        {
           "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
           "url": "https://flash.jin10.com/detail/20251209154623905800",
           "source": "金十数据",
@@ -577,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "特朗普政府秘密制定计划，为马杜罗下台做准备",
+          "url": "https://flash.jin10.com/detail/20251209214613634800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美国最高法院暗示支持特朗普解雇机构领导人",
@@ -643,17 +690,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
-          "url": "https://wallstreetcn.com/livenews/3017706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
         },
         {
           "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
@@ -739,7 +775,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -764,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        },
+        {
+          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3017721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "据Politico：特朗普称乌克兰已经长时间没有举行过大选。",
@@ -953,17 +1000,6 @@
           "time_info": "20时09分"
         },
         {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
           "title": "路透社/益普索民意调查：美国总统特朗普在生活成本问题上的支持率从26%升至31%，其中共和党内的支持率大幅上涨10个百分点。",
           "url": "https://flash.jin10.com/detail/20251209190527721800",
           "source": "金十数据",
@@ -978,7 +1014,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -1192,6 +1228,17 @@
           "time_info": "[08时20分 ~ 08时21分]"
         },
         {
+          "title": "美股三大股指期货集体转跌，纳指期货跌0.14%，标普500指数期货跌0.05%，道指期货跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3017732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "英伟达美股盘前涨幅收窄至1%。",
           "url": "https://wallstreetcn.com/livenews/3017613",
           "source": "华尔街见闻-快讯",
@@ -1201,6 +1248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209213810953800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
@@ -1242,7 +1300,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1585,6 +1643,71 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[08时20分 ~ 22时06分]"
+        },
+        {
+          "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
+          "url": "https://wallstreetcn.com/livenews/3017141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时06分]"
+        },
+        {
+          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3017053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 01时07分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头比例降至五周以来最低。",
+          "url": "https://flash.jin10.com/detail/20251209205624127800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1632,60 +1755,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时20分 ~ 21时17分]"
-        },
-        {
-          "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
-          "url": "https://wallstreetcn.com/livenews/3017141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时06分]"
-        },
-        {
-          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3017053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时07分]"
-        },
-        {
-          "title": "摩根大通美债客户调查显示净多头比例降至五周以来最低。",
-          "url": "https://flash.jin10.com/detail/20251209205624127800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
         }
       ]
     },
@@ -1763,11 +1832,12 @@
           "url": "https://wallstreetcn.com/livenews/3017703",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 22时06分]"
         }
       ]
     }
