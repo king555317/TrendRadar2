@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T08:21:02.239753+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2025-12-09T09:34:41.714575+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -23,11 +23,34 @@
           "url": "https://wallstreetcn.com/articles/3760897",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 08时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 09时34分]"
+        },
+        {
+          "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
+          "url": "https://flash.jin10.com/detail/20251209092634488800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "甲骨文联合创始人埃里森向特朗普表示，华纳兄弟与奈飞的交易或将损害市场竞争。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3017264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
@@ -39,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "特朗普：允许英伟达对华出售H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -421,15 +455,48 @@
           "time_info": "04时06分"
         },
         {
+          "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
+          "url": "https://wallstreetcn.com/livenews/3017247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
+          "title": "美国法官驳回特朗普政府暂停风能许可的决定",
+          "url": "https://flash.jin10.com/detail/20251209084650898800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
+        },
+        {
           "title": "特朗普：限期墨西哥释放水资源 否则加征5%关税",
           "url": "https://flash.jin10.com/detail/20251209070613686800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
+          "url": "https://wallstreetcn.com/livenews/3017241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
@@ -460,7 +527,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
         },
@@ -482,9 +549,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
+        },
+        {
+          "title": "特朗普：允许对华出售H200芯片",
+          "url": "https://www.douyin.com/hot/2331063",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
@@ -539,8 +617,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 08时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 09时34分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -551,8 +629,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时05分 ~ 08时21分]"
+          "appearance_count": 5,
+          "time_info": "[07时05分 ~ 09时34分]"
         },
         {
           "title": "英伟达美股盘后涨1.4%。英特尔涨0.37%，AMD涨0.67%。",
@@ -601,6 +679,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时06分]"
+        },
+        {
+          "title": "美股三大指数集体收跌 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 09时34分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -673,17 +763,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时06分]"
-        },
-        {
-          "title": "美股三大指数集体收跌 特斯拉跌超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
         },
         {
           "title": "（美股）费城金银指数收跌2.34%，报311.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌2.17%，刷新日低至2235.45点；美股开盘之前维持微跌状态——持稳于2280点附近，之后转而短暂地微幅上涨。",
@@ -767,7 +846,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -775,11 +854,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 08时21分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 09时34分]"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 09时34分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -819,17 +911,6 @@
           "time_info": "[02时08分 ~ 04时06分]"
         },
         {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
-        },
-        {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
           "url": "https://wallstreetcn.com/livenews/3017156",
           "source": "华尔街见闻-快讯",
@@ -851,6 +932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时34分"
         },
         {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
@@ -929,11 +1021,12 @@
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 08时21分]"
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 09时34分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
