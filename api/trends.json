@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T10:38:58.724976+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-12-10T11:33:24.241800+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -32,8 +32,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 10时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 11时33分]"
+        },
+        {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时20分 ~ 11时33分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -60,17 +71,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时07分 ~ 08时21分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时20分 ~ 10时38分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -149,7 +149,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -296,6 +296,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
+          "url": "https://flash.jin10.com/detail/20251210111006441800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
           "url": "https://wallstreetcn.com/livenews/3017890",
           "source": "华尔街见闻-快讯",
@@ -379,7 +390,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -390,7 +401,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -404,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "美国就业数据呈现矛盾信号，特朗普称“立即降息”是美联储主席人选硬指标，支撑美联储降息预期。美联储利率决议今晚重磅来袭，黄金多空争夺激烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
+          "url": "https://flash.jin10.com/detail/20251210104414511800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
@@ -566,7 +588,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -624,6 +646,19 @@
           "time_info": "[00时07分 ~ 09时35分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时11分 ~ 11时33分]"
+        },
+        {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
@@ -633,18 +668,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 04时07分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 10时38分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
@@ -905,8 +928,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时20分 ~ 10时38分]"
+          "appearance_count": 6,
+          "time_info": "[08时20分 ~ 11时33分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -957,8 +980,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时20分 ~ 10时38分]"
+          "appearance_count": 6,
+          "time_info": "[08时20分 ~ 11时33分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -1045,6 +1068,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时07分 ~ 06时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     }
