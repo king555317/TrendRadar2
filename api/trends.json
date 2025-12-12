@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T12:15:47.230377+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-12-12T13:07:24.502758+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -55,9 +55,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时07分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -93,6 +93,17 @@
           "time_info": "08时21分"
         },
         {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "加州州长再批特朗普：最具破坏性总统",
           "url": "https://news.ifeng.com/c/8p18mDHMrQq",
           "source": "凤凰网",
@@ -113,6 +124,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
+          "url": "https://flash.jin10.com/detail/20251212124015260800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 13时07分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 13时07分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -248,28 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时07分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 12时15分]"
         },
         {
           "title": "泰国总理给特朗普“泼冷水”",
@@ -684,7 +706,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -766,11 +788,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时15分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时07分]"
         },
         {
           "title": "实测ChatGPT5.2有多强",
@@ -841,6 +864,18 @@
           "time_info": "[10时39分 ~ 11时33分]"
         },
         {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 13时07分]"
+        },
+        {
           "title": "GPT-5.2来了！OpenAI最新发布",
           "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
@@ -865,16 +900,15 @@
           "time_info": "[04时07分 ~ 05时07分]"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时33分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 13时07分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -909,17 +943,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -1004,8 +1027,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时06分 ~ 12时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时06分 ~ 13时07分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股盘中）",
@@ -1210,11 +1233,12 @@
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 13时07分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
