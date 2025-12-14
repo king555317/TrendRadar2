@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T16:07:09.924509+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2025-12-14T17:06:33.571657+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时34分 ~ 16时07分]"
+          "appearance_count": 12,
+          "time_info": "[09时34分 ~ 17时06分]"
         },
         {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时34分 ~ 16时07分]"
+          "appearance_count": 12,
+          "time_info": "[09时34分 ~ 17时06分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -143,6 +143,19 @@
           "time_info": "[10时44分 ~ 16时07分]"
         },
         {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时34分 ~ 17时06分]"
+        },
+        {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
           "url": "https://flash.jin10.com/detail/20251214100231761800",
           "source": "金十数据",
@@ -156,19 +169,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时44分 ~ 16时07分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时34分 ~ 16时07分]"
         },
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -267,6 +267,17 @@
           "time_info": "[05时05分 ~ 08时23分]"
         },
         {
+          "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
+          "url": "https://www.zhihu.com/question/1983101482518668094",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 17时06分]"
+        },
+        {
           "title": "特朗普或因说漏嘴致间谍曝光",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E8%AF%B4%E6%BC%8F%E5%98%B4%E8%87%B4%E9%97%B4%E8%B0%8D%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -312,17 +323,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时34分 ~ 10时44分]"
-        },
-        {
-          "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
-          "url": "https://www.zhihu.com/question/1983101482518668094",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -395,6 +395,68 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗外交部：伊朗外交部长阿拉奇将于下周访问俄罗斯和白俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20251214152439189800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 17时06分]"
+        },
+        {
+          "title": "美军被曝突袭从中国驶往伊朗货轮",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 16时07分]"
+        },
+        {
+          "title": "伊朗外交部：我们不愿发表任何会分散黎巴嫩注意力、使其无法专注于维护国家主权和领土完整的声明或立场。",
+          "url": "https://flash.jin10.com/detail/20251214161354390800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "伊朗外交部：有关任命伊朗新任驻黎巴嫩大使的程序正在进行中，我们希望这些程序能够正常进行。",
+          "url": "https://flash.jin10.com/detail/20251214161332352800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "伊朗外交部：我们呼吁黎巴嫩朋友们注重黎巴嫩社会各阶层之间的理解和对话。",
+          "url": "https://flash.jin10.com/detail/20251214161320478800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -456,8 +518,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时06分 ~ 16时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时06分 ~ 17时06分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -470,34 +532,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时43分 ~ 12时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗外交部：伊朗外交部长阿拉奇将于下周访问俄罗斯和白俄罗斯。",
-          "url": "https://flash.jin10.com/detail/20251214152439189800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "美军被曝突袭从中国驶往伊朗货轮",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
         }
       ]
     },
@@ -535,8 +569,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 16时07分]"
+          "appearance_count": 7,
+          "time_info": "[13时06分 ~ 17时06分]"
         }
       ]
     }
