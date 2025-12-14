@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:06:33.571657+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2025-12-14T18:06:23.975548+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -72,6 +72,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时06分 ~ 12时18分]"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时34分 ~ 18时06分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -141,19 +154,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时44分 ~ 16时07分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时34分 ~ 17时06分]"
         },
         {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
@@ -360,6 +360,17 @@
           "time_info": "13时06分"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "泰柬无视特朗普发文继续打",
           "url": "https://www.toutiao.com/trending/7582072617088548873/",
           "source": "今日头条",
@@ -411,6 +422,42 @@
           "time_info": "[16时07分 ~ 17时06分]"
         },
         {
+          "title": "伊朗外交部：我们不愿发表任何会分散黎巴嫩注意力、使其无法专注于维护国家主权和领土完整的声明或立场。",
+          "url": "https://flash.jin10.com/detail/20251214161354390800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时06分]"
+        },
+        {
+          "title": "伊朗外交部：有关任命伊朗新任驻黎巴嫩大使的程序正在进行中，我们希望这些程序能够正常进行。",
+          "url": "https://flash.jin10.com/detail/20251214161332352800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时06分]"
+        },
+        {
+          "title": "伊朗外交部：我们呼吁黎巴嫩朋友们注重黎巴嫩社会各阶层之间的理解和对话。",
+          "url": "https://flash.jin10.com/detail/20251214161320478800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时06分]"
+        },
+        {
           "title": "美军被曝突袭从中国驶往伊朗货轮",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -420,39 +467,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "伊朗外交部：我们不愿发表任何会分散黎巴嫩注意力、使其无法专注于维护国家主权和领土完整的声明或立场。",
-          "url": "https://flash.jin10.com/detail/20251214161354390800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "伊朗外交部：有关任命伊朗新任驻黎巴嫩大使的程序正在进行中，我们希望这些程序能够正常进行。",
-          "url": "https://flash.jin10.com/detail/20251214161332352800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "伊朗外交部：我们呼吁黎巴嫩朋友们注重黎巴嫩社会各阶层之间的理解和对话。",
-          "url": "https://flash.jin10.com/detail/20251214161320478800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
         }
       ]
     },
@@ -518,8 +532,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时06分 ~ 17时06分]"
+          "appearance_count": 23,
+          "time_info": "[00时06分 ~ 18时06分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -566,11 +580,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时06分 ~ 17时06分]"
+          "appearance_count": 8,
+          "time_info": "[13时06分 ~ 18时06分]"
         }
       ]
     }
