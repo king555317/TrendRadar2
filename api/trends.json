@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T07:06:14.543961+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-15T08:22:59.457892+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时22分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时06分]"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时22分"
         }
       ]
     },
@@ -148,8 +159,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时22分]"
         }
       ]
     }
