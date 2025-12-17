@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T14:08:50.278140+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2025-12-17T15:07:56.689473+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -25,8 +25,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时06分 ~ 14时08分]"
+          "appearance_count": 19,
+          "time_info": "[00时06分 ~ 15时07分]"
+        },
+        {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 15时07分]"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 15时07分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -40,17 +62,6 @@
           "time_info": "[00时06分 ~ 09时34分]"
         },
         {
-          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
-          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 14时08分]"
-        },
-        {
           "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
           "url": "https://news.ifeng.com/c/8p8hxedgU29",
           "source": "凤凰网",
@@ -60,17 +71,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时06分 ~ 09时34分]"
-        },
-        {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 14时08分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -109,11 +109,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 15时07分]"
         },
         {
           "title": "据华盛顿邮报：特朗普提名Joshua M. Rudd为国家安全局局长。",
@@ -280,6 +281,17 @@
           "time_info": "[11时31分 ~ 13时07分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 15时07分]"
+        },
+        {
           "title": "特朗普称认定委政府是“恐怖组织”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A4%E5%AE%9A%E5%A7%94%E6%94%BF%E5%BA%9C%E6%98%AF%E2%80%9C%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E2%80%9D",
           "source": "百度热搜",
@@ -351,15 +363,15 @@
           "time_info": "[00时07分 ~ 01时09分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时07分 ~ 14时08分]"
+          "time_info": "[14时08分 ~ 15时07分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
@@ -396,6 +408,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 11时31分]"
+        },
+        {
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 15时07分]"
         },
         {
           "title": "委内瑞拉政府：美国总统特朗普的封锁“完全不理性”，违反了自由贸易和航行自由。",
@@ -506,17 +530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
-        },
-        {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -662,17 +675,6 @@
           "time_info": "09时34分"
         },
         {
-          "title": "马斯克又要给特朗普花钱了",
-          "url": "https://www.toutiao.com/trending/7584667287097986610/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
           "title": "雪佛龙(CVX.N)：在特朗普发布封锁令后，公司在委内瑞拉的业务仍在正常开展，未受干扰。",
           "url": "https://flash.jin10.com/detail/20251217082048989800",
           "source": "金十数据",
@@ -704,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "特朗普长子订婚 女方是何许人",
+          "url": "https://www.toutiao.com/trending/7584611681938968083/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
@@ -778,18 +791,6 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
-          "url": "https://wallstreetcn.com/articles/3761475",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时06分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
           "url": "https://www.cls.cn/detail/2231583",
           "source": "财联社热门",
@@ -800,8 +801,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时06分 ~ 14时08分]"
+          "appearance_count": 10,
+          "time_info": "[07时06分 ~ 15时07分]"
+        },
+        {
+          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时06分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）热门中概股行情一览（美股盘中）",
