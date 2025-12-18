@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T09:34:22.364197+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-12-18T10:38:07.787964+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 09时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时07分 ~ 10时38分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -58,6 +58,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "美国总统特朗普：我们接受了世界上最糟糕的边界，但我们很快将其变成了我国历史上最强大的边界。换句话说，在短短几个月的时间里，我们从最坏变成了最好。",
+          "url": "https://flash.jin10.com/detail/20251218101146479800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普：我们拥有世界上最强大的军队。",
+          "url": "https://flash.jin10.com/detail/20251218100737532800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普：华盛顿特区的安全水平达到了前所未有的高度。",
+          "url": "https://flash.jin10.com/detail/20251218100614750800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时18分 ~ 10时38分]"
         },
         {
           "title": "预告：特朗普今日上午10点将向全美发表讲话",
@@ -133,16 +178,16 @@
           "time_info": "[00时07分 ~ 02时09分]"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            6
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时18分 ~ 09时34分]"
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 10时38分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -240,6 +285,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "美国总统特朗普：过去11个月里，我们给华盛顿带来的积极变化比历史上任何一届政府都多。",
+          "url": "https://flash.jin10.com/detail/20251218100401074800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
           "url": "https://flash.jin10.com/detail/20251218003458997800",
           "source": "金十数据",
@@ -249,6 +305,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "美国总统特朗普：11个月前我接手的是个烂摊子。",
+          "url": "https://flash.jin10.com/detail/20251218100210725800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普：将很快宣布下一任美联储主席。新任美联储主席将会主张大幅降低利率。明年将宣布住房改革大动作。",
+          "url": "https://wallstreetcn.com/livenews/3022761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普：药品价格下调将于1月开始。",
+          "url": "https://wallstreetcn.com/livenews/3022758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后发表全国讲话。",
+          "url": "https://flash.jin10.com/detail/20251218095000000800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普：工资增长速度远超通胀。 明年会看到减税的成效。",
+          "url": "https://wallstreetcn.com/livenews/3022755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "据华尔街日报：上诉法院批准美国总统特朗普在华盛顿哥伦比亚特区部署国民警卫队。",
@@ -290,7 +401,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -317,17 +428,6 @@
           "time_info": "00时07分"
         },
         {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时34分"
-        },
-        {
           "title": "美智库：特朗普重返白宫不到一年，签署行政命令已超其首任总和",
           "url": "https://flash.jin10.com/detail/20251218005333021800",
           "source": "金十数据",
@@ -345,7 +445,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -378,7 +478,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -475,8 +575,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时07分 ~ 09时34分]"
+          "appearance_count": 6,
+          "time_info": "[06时07分 ~ 10时38分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -488,8 +588,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 09时34分]"
+          "appearance_count": 5,
+          "time_info": "[07时06分 ~ 10时38分]"
         },
         {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
@@ -667,6 +767,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 10时38分]"
+        },
+        {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
           "url": "https://wallstreetcn.com/livenews/3022530",
           "source": "华尔街见闻-快讯",
@@ -715,17 +826,6 @@
           "time_info": "[01时09分 ~ 02时09分]"
         },
         {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时34分"
-        },
-        {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
           "url": "https://flash.jin10.com/detail/20251218000152068800",
           "source": "金十数据",
@@ -751,7 +851,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：我们尚未向OpenAI支付一分钱。",
@@ -760,7 +860,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -789,13 +889,24 @@
           "time_info": "[07时06分 ~ 08时18分]"
         },
         {
+          "title": "据悉OpenAI拟融资高达1000亿美元，公司估值约为7500亿美元",
+          "url": "https://flash.jin10.com/detail/20251218095821273800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "英伟达CEO黄仁勋称公司尚未向 OpenAI 提供任何资金支持。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3022705",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -806,7 +917,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -817,7 +928,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         }
@@ -825,7 +936,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗海滩暴雨后变血红色",
@@ -839,11 +950,12 @@
             8,
             14,
             17,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时07分 ~ 09时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时07分 ~ 10时38分]"
         },
         {
           "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
@@ -863,9 +975,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
+        },
+        {
+          "title": "俄伊外长会晤 伊朗强调和平利用核能权利",
+          "url": "https://wallstreetcn.com/livenews/3022728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
