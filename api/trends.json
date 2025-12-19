@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T18:06:43.013616+08:00",
-  "total_titles_processed": 1890,
+  "generated_at": "2025-12-19T19:06:35.570818+08:00",
+  "total_titles_processed": 1994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -47,36 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时34分 ~ 18时06分]"
-        },
-        {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时21分 ~ 18时06分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时39分 ~ 18时06分]"
+          "appearance_count": 14,
+          "time_info": "[09时34分 ~ 19时06分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -91,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时07分 ~ 18时06分]"
+          "appearance_count": 10,
+          "time_info": "[13时07分 ~ 19时06分]"
         },
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
@@ -104,8 +76,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 19时06分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时21分 ~ 19时06分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时39分 ~ 19时06分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -120,11 +120,12 @@
             12,
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时08分 ~ 18时06分]"
+          "appearance_count": 21,
+          "time_info": "[02时08分 ~ 19时06分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -158,8 +159,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 19时06分]"
         },
         {
           "title": "美国国防部：美国总统特朗普提名乔舒亚·鲁德（Joshua Rudd）晋升至将军级别，并任命其为国家安全局局长。",
@@ -215,6 +216,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "普京：特朗普采取措施结束乌克兰战争。 说俄罗斯拒绝任何方案是错误的。 准备好就结束乌克兰战争进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3023908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "布朗大学枪案后 特朗普下令暂停“绿卡抽签”",
+          "url": "https://wallstreetcn.com/livenews/3023907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "俄罗斯总统普京：美国总统特朗普正在为结束冲突作出真诚努力。",
+          "url": "https://flash.jin10.com/detail/20251219185310945800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "美国总统特朗普：美联储理事鲍曼很棒。",
@@ -336,6 +370,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时39分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时06分]"
         },
         {
           "title": "美国总统特朗普：将在未来几周内宣布美联储主席人选。",
@@ -795,17 +841,6 @@
           "time_info": "05时06分"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
           "title": "特朗普政府着手取消性别焦虑症的残疾认定。",
           "url": "https://flash.jin10.com/detail/20251219002114495800",
           "source": "金十数据",
@@ -905,6 +940,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "特朗普：不排除与委内瑞拉开战的可能性",
+          "url": "https://wallstreetcn.com/livenews/3023882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "特朗普媒体科技涨29%。",
           "url": "https://wallstreetcn.com/livenews/3023215",
           "source": "华尔街见闻-快讯",
@@ -988,8 +1034,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时39分 ~ 18时06分]"
+          "appearance_count": 13,
+          "time_info": "[10时39分 ~ 19时06分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
