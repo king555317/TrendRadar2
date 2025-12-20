@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T04:06:05.802990+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-12-21T05:05:05.095166+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -62,22 +62,24 @@
           "url": "https://wallstreetcn.com/livenews/3024305",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
           "url": "https://wallstreetcn.com/livenews/3024294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -87,8 +89,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
@@ -116,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -128,8 +130,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时05分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -140,20 +155,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时06分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时05分]"
         }
       ]
     },
@@ -170,8 +173,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -182,8 +185,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 04时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 05时05分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
