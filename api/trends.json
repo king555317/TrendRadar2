@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-20T14:08:02.240871+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-20T15:06:23.891316+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 43,
       "titles": [
+        {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时20分 ~ 15时06分]"
+        },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
           "url": "https://news.ifeng.com/c/8pDUNvScYT5",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时06分 ~ 07时06分]"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时20分 ~ 14时08分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -88,8 +88,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 15时06分]"
         },
         {
           "title": "金十提示：美国总统特朗普讲话结束。",
@@ -549,8 +549,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时20分 ~ 14时08分]"
+          "appearance_count": 10,
+          "time_info": "[08时20分 ~ 15时06分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -575,8 +575,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时20分 ~ 14时08分]"
+          "appearance_count": 10,
+          "time_info": "[08时20分 ~ 15时06分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -601,8 +601,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 15时06分]"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -639,6 +639,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时07分 ~ 09时33分]"
+        },
+        {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 15时06分]"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股收盘）",
@@ -678,17 +690,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时06分 ~ 09时33分]"
-        },
-        {
-          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
-          "url": "https://www.cls.cn/detail/2235373",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 14时08分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -743,8 +744,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时33分 ~ 14时08分]"
+          "appearance_count": 8,
+          "time_info": "[09时33分 ~ 15时06分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -782,11 +783,12 @@
             2,
             9,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时06分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -828,8 +830,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时07分 ~ 14时08分]"
+          "appearance_count": 12,
+          "time_info": "[06时07分 ~ 15时06分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
