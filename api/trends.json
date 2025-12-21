@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-21T12:18:59.863254+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2025-12-21T13:07:24.070878+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 13时07分]"
+        },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
           "url": "https://flash.jin10.com/detail/20251220214239757800",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时06分 ~ 11时34分]"
-        },
-        {
-          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
-          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 12时18分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -116,11 +116,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时07分]"
         },
         {
           "title": "美反对乌入约 泽连斯基疑诅咒特朗普",
@@ -134,13 +135,24 @@
           "time_info": "[01时04分 ~ 01时05分]"
         },
         {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "高市早苗着急早点见特朗普",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9D%80%E6%80%A5%E6%97%A9%E7%82%B9%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -173,8 +185,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时06分 ~ 12时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时06分 ~ 13时07分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -204,8 +216,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时06分 ~ 12时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时06分 ~ 13时07分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -225,7 +237,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -250,8 +262,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时06分 ~ 12时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时06分 ~ 13时07分]"
+        },
+        {
+          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
+          "url": "https://flash.jin10.com/detail/20251221123146651800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -287,11 +310,12 @@
           "url": "https://wallstreetcn.com/articles/3761778",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 12时18分]"
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 13时07分]"
         }
       ]
     },
@@ -310,6 +334,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 12时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美媒爆以色列准备再次打击伊朗",
+          "url": "https://news.ifeng.com/c/8pGLAZe3Fgx",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     }
