@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T12:18:56.993505+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2025-12-25T13:08:57.837869+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时05分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[07时05分 ~ 13时08分]"
         },
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时20分 ~ 12时18分]"
+          "appearance_count": 7,
+          "time_info": "[08时20分 ~ 13时08分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -180,7 +180,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -215,8 +215,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时06分 ~ 12时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 13时08分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -335,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
@@ -413,22 +424,24 @@
             30,
             27,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 13时08分]"
         },
         {
           "title": "联合国专家谴责美对委的封锁 多家国际机构预计明年金价冲击5000美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2239423",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
         },
         {
           "title": "金价又创历史新高",
