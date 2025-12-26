@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T15:07:26.110213+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2025-12-26T16:08:06.723752+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时34分 ~ 15时07分]"
+          "appearance_count": 10,
+          "time_info": "[09时34分 ~ 16时08分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 15时07分]"
+          "appearance_count": 9,
+          "time_info": "[10时39分 ~ 16时08分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -80,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -132,7 +132,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -143,7 +143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -192,6 +192,17 @@
           "time_info": "08时21分"
         },
         {
+          "title": "泽连斯基称近期将与美总统特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
           "url": "https://wallstreetcn.com/livenews/3026898",
           "source": "华尔街见闻-快讯",
@@ -206,8 +217,23 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时34分 ~ 16时08分]"
+        },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
@@ -224,20 +250,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时06分 ~ 09时34分]"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时34分 ~ 15时07分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
@@ -265,6 +277,18 @@
           "time_info": "[00时06分 ~ 04时06分]"
         },
         {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 16时08分]"
+        },
+        {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3026999",
           "source": "华尔街见闻-快讯",
@@ -290,17 +314,6 @@
           "time_info": "[12时17分 ~ 13时07分]"
         },
         {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 15时07分]"
-        },
-        {
           "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
           "url": "https://flash.jin10.com/detail/20251226074230487800",
           "source": "金十数据",
@@ -310,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
+          "url": "https://flash.jin10.com/detail/20251226150518760800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -429,8 +453,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时06分 ~ 15时07分]"
+          "appearance_count": 22,
+          "time_info": "[00时06分 ~ 16时08分]"
         }
       ]
     },
@@ -463,7 +487,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         }
