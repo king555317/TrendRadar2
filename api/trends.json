@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T14:08:18.679182+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2025-12-28T15:07:10.685996+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -74,6 +74,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 06时06分]"
+        },
+        {
+          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
+          "url": "https://flash.jin10.com/detail/20251228145227378800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
+          "url": "https://flash.jin10.com/detail/20251228144705189800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时07分"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -151,8 +173,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 15时07分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -161,7 +183,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
@@ -169,7 +191,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
@@ -181,19 +203,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 14时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 15时07分]"
         },
         {
-          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
-          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "title": "伊朗总统警告美以勿发动新的攻击",
+          "url": "https://flash.jin10.com/detail/20251228144104744800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "15时07分"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -224,15 +246,28 @@
           "time_info": "[09时35分 ~ 12时23分]"
         },
         {
+          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
+          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 15时07分]"
+        },
+        {
           "title": "伊朗总统：正与美欧打“全面战争”",
           "url": "https://www.toutiao.com/trending/7588334047006834729/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时07分]"
         }
       ]
     },
