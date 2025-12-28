@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T11:36:07.839779+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-12-28T12:23:12.852168+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -76,6 +76,34 @@
           "time_info": "[00时06分 ~ 06时06分]"
         },
         {
+          "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
+          "url": "https://flash.jin10.com/detail/20251228090239381800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时23分]"
+        },
+        {
+          "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
+          "url": "https://flash.jin10.com/detail/20251228090052065800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时23分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -88,42 +116,17 @@
           "time_info": "[00时06分 ~ 03时05分]"
         },
         {
-          "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
-          "url": "https://flash.jin10.com/detail/20251228090239381800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时36分]"
-        },
-        {
-          "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
-          "url": "https://flash.jin10.com/detail/20251228090052065800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时36分]"
-        },
-        {
           "title": "特朗普与泽连斯基会晤时间有所调整",
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时23分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
@@ -132,11 +135,12 @@
           "ranks": [
             6,
             15,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时23分]"
         }
       ]
     },
@@ -145,17 +149,30 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
+          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 12时23分]"
+        },
+        {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
           "url": "https://flash.jin10.com/detail/20251228090341310800",
           "source": "金十数据",
           "ranks": [
             1,
             10,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时23分]"
         },
         {
           "title": "伊朗专家成功实现了战略材料沸石的本地化生产，沸石可用于天然气脱硫、医疗设备和氧气发生器。",
@@ -164,22 +181,12 @@
           "ranks": [
             4,
             13,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时35分 ~ 11时36分]"
-        },
-        {
-          "title": "伊朗总统：我们正跟西方全面开战，战况比两伊战争更复杂严峻",
-          "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时35分 ~ 12时23分]"
         }
       ]
     },
@@ -193,11 +200,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时23分]"
         }
       ]
     },
