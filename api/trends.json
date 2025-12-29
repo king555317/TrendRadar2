@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T15:10:18.037632+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2025-12-29T16:08:47.237399+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时06分 ~ 07时07分]"
+        },
+        {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时36分 ~ 16时08分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -180,17 +192,6 @@
           "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时36分 ~ 15时10分]"
-        },
-        {
           "title": "与特朗普会晤，泽连斯基：20点“和平计划”有90%已完成",
           "url": "https://news.ifeng.com/c/8pT5b974Tcc",
           "source": "凤凰网",
@@ -308,6 +309,18 @@
           "time_info": "07时07分"
         },
         {
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 16时08分]"
+        },
+        {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
           "url": "https://flash.jin10.com/detail/20251229044011791800",
           "source": "金十数据",
@@ -351,6 +364,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时06分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 16时08分]"
         },
         {
           "title": "美媒：特朗普政府启动对企业多元化招聘举措的调查",
@@ -414,19 +441,6 @@
           "time_info": "[04时06分 ~ 07时07分]"
         },
         {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 15时10分]"
-        },
-        {
           "title": "特朗普见泽连斯基前后均与普京通话",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%89%8D%E5%90%8E%E5%9D%87%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -465,6 +479,18 @@
           "time_info": "[10时48分 ~ 12时25分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 16时08分]"
+        },
+        {
           "title": "特朗普称俄乌均有意结束冲突 美乌将达成安全协议",
           "url": "https://flash.jin10.com/detail/20251229040515573800",
           "source": "金十数据",
@@ -500,17 +526,6 @@
           "time_info": "[07时06分 ~ 07时07分]"
         },
         {
-          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
-          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
           "title": "特朗普再次就泰柬停火邀功说了啥",
           "url": "https://www.toutiao.com/trending/7589048685074320939/",
           "source": "今日头条",
@@ -521,17 +536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时23分 ~ 09时35分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
           "title": "特朗普与泽连斯基未谈妥领土问题",
@@ -587,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "俄乌和平信号频现！特朗普：“进度条”已至95% 不排除三方会晤",
+          "url": "https://www.cls.cn/detail/2242304",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "美国总统特朗普：我们与俄乌双方的关系可能比以往任何时候都更加密切。",
@@ -832,11 +847,12 @@
           "url": "https://flash.jin10.com/detail/20251229150239734800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时08分]"
         },
         {
           "title": "金价",
