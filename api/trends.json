@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T14:08:46.226344+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-01-08T15:09:03.564434+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时42分 ~ 14时08分]"
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 15时09分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -46,6 +46,19 @@
           "time_info": "[00时08分 ~ 07时06分]"
         },
         {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 15时09分]"
+        },
+        {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
           "source": "澎湃新闻",
@@ -56,8 +69,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时08分 ~ 14时08分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 15时09分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -78,35 +91,12 @@
           "ranks": [
             2,
             10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时08分]"
-        },
-        {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
             8,
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 14时08分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 14时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 15时09分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -118,8 +108,46 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 15时09分]"
+        },
+        {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时42分 ~ 14时08分]"
+          "time_info": "[12时19分 ~ 15时09分]"
+        },
+        {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 15时09分]"
+        },
+        {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 15时09分]"
         },
         {
           "title": "美国总统特朗普：将在达沃斯谈论美国住房计划和可负担性问题。",
@@ -144,18 +172,6 @@
           "time_info": "05时06分"
         },
         {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时08分]"
-        },
-        {
           "title": "哥伦比亚总统佩特罗要求特朗普恢复两国之间的沟通。 佩特罗称，与特朗普讨论了毒品走私和委内瑞拉问题。",
           "url": "https://wallstreetcn.com/livenews/3032784",
           "source": "华尔街见闻-快讯",
@@ -165,18 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
-        },
-        {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 14时08分]"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -285,6 +289,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 06时06分]"
+        },
+        {
+          "title": "哥伦比亚总统与特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时09分]"
         },
         {
           "title": "外媒：特朗普正固化美国全球流氓形象",
@@ -993,17 +1009,6 @@
           "time_info": "06时06分"
         },
         {
-          "title": "哥伦比亚总统与特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
           "title": "特朗普指示美国退出“不符合该国利益”的66个国际组织",
           "url": "https://wallstreetcn.com/livenews/3032717",
           "source": "华尔街见闻-快讯",
@@ -1186,7 +1191,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1201,8 +1206,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时06分 ~ 14时08分]"
+          "appearance_count": 13,
+          "time_info": "[07时06分 ~ 15时09分]"
         },
         {
           "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
@@ -1316,6 +1321,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "美股三大股指期货持续下挫，纳指期货跌超0.6%，标普500指数期货跌0.4%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3033005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "时隔七年 谷歌市值重新超越苹果",
+          "url": "https://flash.jin10.com/detail/20260108054913345800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时06分]"
+        },
+        {
+          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
+          "url": "https://www.zhihu.com/question/1992511254795870608",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时09分]"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 05时06分]"
+        },
+        {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
+          "url": "https://wallstreetcn.com/livenews/3032705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
+          "url": "https://wallstreetcn.com/livenews/3032700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         }
       ]
     },
@@ -1328,11 +1419,12 @@
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时21分 ~ 14时08分]"
+          "appearance_count": 12,
+          "time_info": "[08时21分 ~ 15时09分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -1393,72 +1485,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "金价",
       "match_count": 5,
       "titles": [
         {
-          "title": "时隔七年 谷歌市值重新超越苹果",
-          "url": "https://flash.jin10.com/detail/20260108054913345800",
+          "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
+          "url": "https://flash.jin10.com/detail/20260108150325507800",
           "source": "金十数据",
           "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 07时06分]"
-        },
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 05时06分]"
-        },
-        {
-          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
-          "url": "https://www.zhihu.com/question/1992511254795870608",
-          "source": "知乎",
-          "ranks": [
-            18
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "15时09分"
         },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
-          "url": "https://wallstreetcn.com/livenews/3032705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
-          "url": "https://wallstreetcn.com/livenews/3032700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
         {
           "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
           "url": "https://flash.jin10.com/detail/20260108135145706800",
@@ -1466,7 +1506,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -1585,6 +1625,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
+          "url": "https://wallstreetcn.com/livenews/3033026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         }
       ]
     }
