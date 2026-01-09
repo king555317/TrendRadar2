@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T16:08:32.464856+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-01-09T17:09:39.874543+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 140,
+      "match_count": 144,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -130,6 +130,34 @@
           "time_info": "[08时21分 ~ 15时09分]"
         },
         {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时43分 ~ 17时09分]"
+        },
+        {
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时43分 ~ 17时09分]"
+        },
+        {
           "title": "特朗普 ：禁止囤房",
           "url": "https://www.douyin.com/hot/2360816",
           "source": "抖音",
@@ -146,32 +174,6 @@
           "time_info": "[01时09分 ~ 07时06分]"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 16时08分]"
-        },
-        {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 16时08分]"
-        },
-        {
           "title": "特朗普放话“我不需要国际法”",
           "url": "https://news.ifeng.com/c/8plmHsoaK5L",
           "source": "凤凰网",
@@ -180,8 +182,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 16时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 17时09分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -189,11 +191,24 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 17时09分]"
+        },
+        {
+          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
+          "url": "https://www.cls.cn/detail/2252516",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时34分 ~ 16时08分]"
+          "time_info": "[11时34分 ~ 17时09分]"
         },
         {
           "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
@@ -223,6 +238,17 @@
           "time_info": "[11时34分 ~ 16时08分]"
         },
         {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
           "url": "https://wallstreetcn.com/livenews/3033492",
           "source": "华尔街见闻-快讯",
@@ -234,16 +260,27 @@
           "time_info": "02时07分"
         },
         {
-          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
-          "url": "https://www.cls.cn/detail/2252516",
-          "source": "财联社热门",
+          "title": "特朗普关税面临裁决，大棒还能挥舞多久？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260109165238024800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            9
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
+          "url": "https://news.ifeng.com/c/8pls4YBnj3I",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 16时08分]"
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时09分]"
         },
         {
           "title": "美国总统特朗普就美联储主席人选表示：我心里已经有决定了。 还没有与任何人讨论过对美联储主席的（最终）选择。（纽约时报）",
@@ -289,6 +326,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时43分 ~ 11时35分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 17时09分]"
         },
         {
           "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
@@ -351,18 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 06时06分]"
-        },
-        {
-          "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
-          "url": "https://news.ifeng.com/c/8pls4YBnj3I",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时08分]"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：特朗普称，他已指示代表购买价值2000亿美元的住房抵押贷款支持证券，以缩小抵押贷款利差并降低利率。实现这一目标的主要机制是通过房利美和房地美的自留投资组合，根据它们与美国财政部的现有协议，这两家公司（每家公司）持有的抵押贷款投资不得超过2250亿美元。截至2025年11月，两家公司在这些投资组合中各持有约1240亿美元，这意味着它们各自可以再购买1000亿美元的住房抵押贷款支持证券。",
@@ -500,20 +540,6 @@
           "time_info": "[13时09分 ~ 16时08分]"
         },
         {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 16时08分]"
-        },
-        {
           "title": "特朗普退群“弃子”都有哪些",
           "url": "https://www.toutiao.com/trending/7592986570223799834/",
           "source": "今日头条",
@@ -525,6 +551,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时09分]"
         },
         {
           "title": "特朗普：必须“拥有”整个格陵兰",
@@ -895,17 +932,6 @@
           "time_info": "[08时21分 ~ 08时22分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
           "title": "美国总统特朗普：（谈俄罗斯制裁法案）我支持这份法案。",
           "url": "https://flash.jin10.com/detail/20260109104315167800",
           "source": "金十数据",
@@ -992,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：特朗普应该专注于管理自己的国家。",
+          "url": "https://flash.jin10.com/detail/20260109164439129800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -1390,6 +1427,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "关税以及库存不足导致美国铝价飙升，较特朗普加征关税之前上涨40%",
+          "url": "https://flash.jin10.com/detail/20260109163314336800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "韩华航空股价暴涨7.3%。此前美国总统特朗普表示将2027财年美国军费提高至1.5万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3033641",
           "source": "华尔街见闻-快讯",
@@ -1462,7 +1510,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -1646,7 +1694,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "一觉醒来，伊朗采取极端措施了",
@@ -1674,6 +1722,22 @@
           "time_info": "[00时08分 ~ 12时20分]"
         },
         {
+          "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348885&amp;topic_name=%E5%9B%BD%E6%9C%8D%E7%8E%A9%E5%AE%B6%E7%88%86%E6%96%99%3A%E4%BC%8A%E6%9C%97%E6%9A%B4%E4%B9%B1%E5%A3%AB%E5%85%B5%E6%8F%AD%E7%AB%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            9,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 17时09分]"
+        },
+        {
           "title": "伊朗采取极端措施了",
           "url": "https://news.ifeng.com/c/8plZSSGoG34",
           "source": "凤凰网",
@@ -1685,30 +1749,37 @@
           "time_info": "[14时08分 ~ 16时08分]"
         },
         {
-          "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348885&amp;topic_name=%E5%9B%BD%E6%9C%8D%E7%8E%A9%E5%AE%B6%E7%88%86%E6%96%99%3A%E4%BC%8A%E6%9C%97%E6%9A%B4%E4%B9%B1%E5%A3%AB%E5%85%B5%E6%8F%AD%E7%AB%BF",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8,
-            9,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 16时08分]"
-        },
-        {
           "title": "法国外交消息人士：法国呼吁伊朗当局对示威者保持最大限度的克制。",
           "url": "https://flash.jin10.com/detail/20260109154232458800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：伊朗不会容忍外国支持的行动。",
+          "url": "https://flash.jin10.com/detail/20260109164927482800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：伊朗不会向破坏行为屈服。",
+          "url": "https://flash.jin10.com/detail/20260109164838550800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "伊朗大范围断网",
@@ -1795,6 +1866,18 @@
           "time_info": "[08时21分 ~ 08时22分]"
         },
         {
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时09分]"
+        },
+        {
           "title": "当地时间8日晚，伊朗在首都德黑兰实施网络管控。",
           "url": "https://flash.jin10.com/detail/20260109015340850800",
           "source": "金十数据",
@@ -1817,15 +1900,15 @@
           "time_info": "03时07分"
         },
         {
-          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
-          "url": "https://www.zhihu.com/question/1992897642179552544",
-          "source": "知乎",
+          "title": "据伊朗国家电视台：伊朗最高领袖哈梅内伊将在几分钟后就抗议活动发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260109163757038800",
+          "source": "金十数据",
           "ranks": [
-            14
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时08分"
+          "time_info": "17时09分"
         },
         {
           "title": "伊朗实施网络管控，大范围断网",
@@ -1896,8 +1979,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时21分 ~ 16时08分]"
+          "appearance_count": 13,
+          "time_info": "[08时21分 ~ 17时09分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -2054,6 +2137,163 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月09日（周五）上海金早盘价为1003.49元/克，较国际金价(1003.21元/克)，高0.28元/克",
+          "url": "https://flash.jin10.com/detail/20260109101722694800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 11时35分]"
+        },
+        {
+          "title": "金价飙升助瑞士央行2025年赚得330亿美元利润",
+          "url": "https://flash.jin10.com/detail/20260109142746787800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "金价随降息预期波动走高 市场高度聚焦美联储新掌门人选",
+          "url": "https://flash.jin10.com/detail/20260109164632594800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "印度12月通胀或因金价推升加速 降息预期随之强化",
+          "url": "https://flash.jin10.com/detail/20260109164036891800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "大华银行：地缘政治风险强化避险需求 上调全年金价目标",
+          "url": "https://flash.jin10.com/detail/20260109140547677800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "国家统计局：环比来看，受国际金价上行影响，12月国内金饰品价格上涨5.6%。 天气条件相对较好，鲜菜价格上涨0.8%，涨幅低于季节性水平3.3个百分点。 生猪产能较为充足，猪肉价格下降1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3033678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）上海金午盘价为1003.71元/克，较国际金价(1004.15元/克)，低0.44元/克",
+          "url": "https://flash.jin10.com/detail/20260109150307334800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
+          "url": "https://wallstreetcn.com/livenews/3033598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 08时22分]"
+        },
+        {
+          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
+          "url": "https://www.cls.cn/detail/2252286",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时06分]"
+        },
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "OpenAI发布ChatGPT健康 AI医疗市场有望加速爆发",
+          "url": "https://www.cls.cn/detail/2252487",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3033538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "OpenAI推出OpenAI for Healthcare。",
+          "url": "https://wallstreetcn.com/livenews/3033531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
@@ -2092,8 +2332,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时43分 ~ 16时08分]"
+          "appearance_count": 9,
+          "time_info": "[10时43分 ~ 17时09分]"
         },
         {
           "title": "机构：美债市场波动率降至四年最低，经济不确定性因素减弱",
@@ -2102,7 +2342,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -2115,8 +2355,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 15时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 17时09分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
@@ -2128,130 +2368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
-          "url": "https://wallstreetcn.com/livenews/3033598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 08时22分]"
-        },
-        {
-          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
-          "url": "https://www.cls.cn/detail/2252286",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时06分]"
-        },
-        {
-          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
-          "url": "https://flash.jin10.com/detail/20260109024531943800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3033538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "OpenAI推出OpenAI for Healthcare。",
-          "url": "https://wallstreetcn.com/livenews/3033531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月09日（周五）上海金早盘价为1003.49元/克，较国际金价(1003.21元/克)，高0.28元/克",
-          "url": "https://flash.jin10.com/detail/20260109101722694800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 11时35分]"
-        },
-        {
-          "title": "金价飙升助瑞士央行2025年赚得330亿美元利润",
-          "url": "https://flash.jin10.com/detail/20260109142746787800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "大华银行：地缘政治风险强化避险需求 上调全年金价目标",
-          "url": "https://flash.jin10.com/detail/20260109140547677800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "国家统计局：环比来看，受国际金价上行影响，12月国内金饰品价格上涨5.6%。 天气条件相对较好，鲜菜价格上涨0.8%，涨幅低于季节性水平3.3个百分点。 生猪产能较为充足，猪肉价格下降1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3033678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）上海金午盘价为1003.71元/克，较国际金价(1004.15元/克)，低0.44元/克",
-          "url": "https://flash.jin10.com/detail/20260109150307334800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
         }
       ]
     },
