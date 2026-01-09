@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T22:07:13.412121+08:00",
-  "total_titles_processed": 2211,
+  "generated_at": "2026-01-09T23:07:05.424523+08:00",
+  "total_titles_processed": 2311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 172,
+      "match_count": 178,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -20,6 +20,17 @@
           "time_info": "[00时08分 ~ 07时06分]"
         },
         {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时06分 ~ 23时07分]"
+        },
+        {
           "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
           "url": "https://www.cls.cn/detail/2252966",
           "source": "财联社热门",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[17时09分 ~ 22时07分]"
-        },
-        {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时06分 ~ 22时07分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -72,6 +72,19 @@
           "time_info": "[10时43分 ~ 18时06分]"
         },
         {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            13,
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时06分 ~ 23时07分]"
+        },
+        {
           "title": "特朗普放话“我不需要国际法”",
           "url": "https://news.ifeng.com/c/8plmHsoaK5L",
           "source": "凤凰网",
@@ -82,6 +95,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[11时34分 ~ 22时07分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时08分 ~ 23时07分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -99,8 +124,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时09分 ~ 22时07分]"
+          "appearance_count": 14,
+          "time_info": "[13时09分 ~ 23时07分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -112,8 +137,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时34分 ~ 22时07分]"
+          "appearance_count": 17,
+          "time_info": "[11时34分 ~ 23时07分]"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[10时43分 ~ 23时07分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
@@ -129,21 +169,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时08分 ~ 12时20分]"
-        },
-        {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时43分 ~ 22时07分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -228,17 +253,6 @@
           "time_info": "[08时21分 ~ 15时09分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时08分 ~ 22时07分]"
-        },
-        {
           "title": "特朗普 ：禁止囤房",
           "url": "https://www.douyin.com/hot/2360816",
           "source": "抖音",
@@ -253,19 +267,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时09分 ~ 07时06分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            13,
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时06分 ~ 22时07分]"
         },
         {
           "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
@@ -391,7 +392,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1218,6 +1219,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "美国最高法院可能就特朗普关税做出判决之前，通用汽车跌超3.1%刷新日低，Affirm Holdings Inc.跌0.9%，迪尔农机Deere & Co.一度跌0.9%，American Eagle Outfitters Inc.一度转跌。 黑石集团Blackstone Inc.涨幅收窄至不足0.3%，卡特彼勒Caterpillar Inc.涨幅从不足0.4%扩大至超过1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3034250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国总统特朗普：古巴正陷入困境，岌岌可危。",
           "url": "https://flash.jin10.com/detail/20260109024405848800",
           "source": "金十数据",
@@ -1493,6 +1505,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "白宫顾问哈塞特：特朗普政府在关税问题上有后备计划。 （一旦美国最高法院否决特朗普关税）白宫的那些备选工具几乎立即就会到位。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3034243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国总统特朗普就美联储主席人选表示：“我心里已经有决定了”。",
           "url": "https://flash.jin10.com/detail/20260109014507392800",
           "source": "金十数据",
@@ -1614,6 +1637,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "意大利总理：在格陵兰岛问题上与特朗普意见不同",
+          "url": "https://wallstreetcn.com/livenews/3034238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "据纽约时报：特朗普表示，拥有格陵兰岛在心理层面上具有重要意义。",
           "url": "https://flash.jin10.com/detail/20260109191404438800",
           "source": "金十数据",
@@ -1711,6 +1745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：特朗普政府已为关税制定了备选方案。几乎可立即启用替代性政策工具。",
+          "url": "https://flash.jin10.com/detail/20260109224717344800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "白宫官员：雪佛龙、埃克森美孚和哈利伯顿将出席与特朗普的会唔。 壳牌、瓦莱罗、马拉松、埃尼将出席与特朗普的会唔。",
@@ -1878,6 +1923,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：在特朗普发表关于通过地面打击遏制毒品走私的言论后，墨西哥将加强与美国的沟通。",
+          "url": "https://flash.jin10.com/detail/20260109224513213800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "特朗普炮轰加州官员",
           "url": "https://flash.jin10.com/detail/20260109100655348800",
           "source": "金十数据",
@@ -1920,6 +1976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：如有必要，将与美国总统特朗普对话。",
+          "url": "https://flash.jin10.com/detail/20260109224352118800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "美国总统特朗普与国会联手推翻美国前总统拜登时代的明尼苏达州采矿禁令，助力安托法加斯塔(Antofagasta)的双金属项目。",
@@ -2013,7 +2080,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "一觉醒来，伊朗采取极端措施了",
@@ -2039,8 +2106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时08分 ~ 22时07分]"
+          "appearance_count": 11,
+          "time_info": "[16时08分 ~ 23时07分]"
         },
         {
           "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
@@ -2102,9 +2169,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
+        },
+        {
+          "title": "伊朗指责美以策划动乱",
+          "url": "https://www.douyin.com/hot/2362541",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时17分 ~ 23时07分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：来自德黑兰的影像显示，伊朗安全部队采取了过度且强硬的应对措施。",
@@ -2198,17 +2276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时07分]"
-        },
-        {
-          "title": "伊朗指责美以策划动乱",
-          "url": "https://www.douyin.com/hot/2362541",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时17分 ~ 22时07分]"
         },
         {
           "title": "伊朗大范围断网",
@@ -2357,6 +2424,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗检察官：造成破坏的“暴徒”将面临死刑",
+          "url": "https://wallstreetcn.com/livenews/3034240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美国财长贝森特：伊朗正处于岌岌可危的时刻；经济已岌岌可危。",
           "url": "https://flash.jin10.com/detail/20260109023247231800",
           "source": "金十数据",
@@ -2454,12 +2532,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：美国总统曾声称，“若伊朗政府采取某些行动，我将站在抗议者一边。”抗议者确实将希望寄托于他。但首先，倘若他有能力的话，请先管理好自己的国家。",
+          "url": "https://flash.jin10.com/detail/20260109223747363800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -2469,8 +2558,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时21分 ~ 22时07分]"
+          "appearance_count": 22,
+          "time_info": "[08时21分 ~ 23时07分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -2517,7 +2606,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -2581,6 +2670,17 @@
           "time_info": "11时35分"
         },
         {
+          "title": "非农数据平稳着陆：美股小幅走高 市场静待关税裁决“靴子落地”",
+          "url": "https://flash.jin10.com/detail/20260109225234813800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
           "url": "https://wallstreetcn.com/livenews/3033566",
           "source": "华尔街见闻-快讯",
@@ -2620,7 +2720,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -2645,6 +2745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.88%，公用事业ETF涨1.67%，生物科技指数ETF涨0.92%，银行业ETF涨0.72%，半导体ETF、全球科技股指数ETF至多涨0.62%，网络股指数ETF则跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3034235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股盘中）",
@@ -2815,8 +2926,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时43分 ~ 22时07分]"
+          "appearance_count": 18,
+          "time_info": "[10时43分 ~ 23时07分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
