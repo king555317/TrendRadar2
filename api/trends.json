@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T11:33:16.197019+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-01-10T12:15:37.780382+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 112,
+      "match_count": 114,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -39,11 +39,12 @@
             21,
             12,
             14,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时06分 ~ 10时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 12时15分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -87,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 11时33分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 12时15分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -100,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时06分 ~ 11时33分]"
+          "appearance_count": 9,
+          "time_info": "[07时06分 ~ 12时15分]"
         },
         {
           "title": "特朗普到底退出了什么组织",
@@ -143,11 +144,12 @@
           "ranks": [
             1,
             5,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时15分]"
         },
         {
           "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。白宫正在据此审查有关经济数据发布的规程。",
@@ -170,6 +172,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
+          "url": "https://www.zhihu.com/question/1991889804833599714",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 12时15分]"
         },
         {
           "title": "特朗普：如果不能轻松获得格陵兰，那就只能走难的路",
@@ -206,6 +221,17 @@
           "time_info": "[06时06分 ~ 08时21分]"
         },
         {
+          "title": "特朗普极力拉投资声称“委美加起来有全球55%石油”",
+          "url": "https://news.ifeng.com/c/8pnVKuGn9sJ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "埃克森美孚CEO：委内瑞拉境内的业务需要（特朗普政府提供武装）保护。 本公司在委内瑞拉的业务需要双倍保护。 公司准备在委内瑞拉部署一个地面（武装）团队。 公司能在数周内于委内瑞拉启动。",
           "url": "https://wallstreetcn.com/livenews/3034395",
           "source": "华尔街见闻-快讯",
@@ -215,6 +241,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
+          "url": "https://flash.jin10.com/detail/20260110092012620800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时15分]"
         },
         {
           "title": "美国总统特朗普：期待在不久的将来与哥伦比亚总统会晤。",
@@ -240,17 +280,6 @@
           "time_info": "02时08分"
         },
         {
-          "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
-          "url": "https://flash.jin10.com/detail/20260110102018762800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "特朗普：美扣押一艘离开委内瑞拉油轮 石油将出售",
           "url": "https://wallstreetcn.com/livenews/3034394",
           "source": "华尔街见闻-快讯",
@@ -260,6 +289,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
+          "url": "https://www.zhihu.com/question/1992934891055239467",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 12时15分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗开始“杀人”，美国会介入。但这并不意味着会派地面部队。",
@@ -274,6 +315,20 @@
           "time_info": "[06时06分 ~ 08时21分]"
         },
         {
+          "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
+          "url": "https://flash.jin10.com/detail/20260110091128037800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时15分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗麻烦大了，密切关注伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260110045338102800",
           "source": "金十数据",
@@ -286,29 +341,29 @@
           "time_info": "[06时06分 ~ 08时21分]"
         },
         {
-          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
-          "url": "https://www.zhihu.com/question/1991889804833599714",
-          "source": "知乎",
+          "title": "美国财长贝森特：美国目前发现，关税以物价上涨的形式转嫁给消费者的比例“非常、非常小”。 如果最高法院做出不利于特朗普政府的裁决，财政部有充足的资金支付任何关税退款。 任何关税退款都将在数周、数月、甚至可能是一年的时间内陆续流出。",
+          "url": "https://wallstreetcn.com/livenews/3034466",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            13
+            4,
+            16,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时15分]"
+        },
+        {
+          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
+          "url": "https://wallstreetcn.com/articles/3762973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时34分 ~ 11时33分]"
-        },
-        {
-          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
-          "url": "https://flash.jin10.com/detail/20260110092012620800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 11时33分]"
+          "time_info": "[10时38分 ~ 12时15分]"
         },
         {
           "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
@@ -335,19 +390,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时06分 ~ 09时34分]"
-        },
-        {
-          "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
-          "url": "https://flash.jin10.com/detail/20260110091128037800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 11时33分]"
         },
         {
           "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
@@ -388,17 +430,16 @@
           "time_info": "[06时06分 ~ 07时06分]"
         },
         {
-          "title": "美国财长贝森特：美国目前发现，关税以物价上涨的形式转嫁给消费者的比例“非常、非常小”。 如果最高法院做出不利于特朗普政府的裁决，财政部有充足的资金支付任何关税退款。 任何关税退款都将在数周、数月、甚至可能是一年的时间内陆续流出。",
-          "url": "https://wallstreetcn.com/livenews/3034466",
-          "source": "华尔街见闻-快讯",
+          "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
+          "url": "https://flash.jin10.com/detail/20260110102018762800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            16,
-            21
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 11时33分]"
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 12时15分]"
         },
         {
           "title": "特朗普重返白宫，六大银行预计将获利1570亿美元",
@@ -423,18 +464,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 06时06分]"
-        },
-        {
-          "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
-          "url": "https://www.zhihu.com/question/1992934891055239467",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 11时33分]"
         },
         {
           "title": "白宫顾问哈塞特：在（美国最高法院判决特朗普）关税问题上有非常细致入微的后备计划。",
@@ -501,15 +530,32 @@
           "time_info": "[08时21分 ~ 11时33分]"
         },
         {
-          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
-          "url": "https://wallstreetcn.com/articles/3762973",
-          "source": "华尔街见闻",
+          "title": "特朗普：“无论难易”都要得到格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260110084951705800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8,
+            12,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时38分 ~ 11时33分]"
+          "time_info": "[09时34分 ~ 12时15分]"
+        },
+        {
+          "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
+          "url": "https://flash.jin10.com/detail/20260110083753572800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            16,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时15分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉似乎是盟友。",
@@ -548,19 +594,6 @@
           "time_info": "[06时06分 ~ 08时21分]"
         },
         {
-          "title": "特朗普：“无论难易”都要得到格陵兰岛",
-          "url": "https://flash.jin10.com/detail/20260110084951705800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 11时33分]"
-        },
-        {
           "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
           "url": "https://wallstreetcn.com/livenews/3034455",
           "source": "华尔街见闻-快讯",
@@ -584,6 +617,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时06分 ~ 08时21分]"
+        },
+        {
+          "title": "特朗普威胁美国石油巨头在委内瑞拉投资：你们不干有的是人干",
+          "url": "https://wallstreetcn.com/livenews/3034473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 12时15分]"
         },
         {
           "title": "美国总统特朗普：（对埃克森美孚说）我们要速度和质量。",
@@ -610,19 +656,6 @@
           "time_info": "[06时06分 ~ 08时21分]"
         },
         {
-          "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
-          "url": "https://flash.jin10.com/detail/20260110083753572800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 11时33分]"
-        },
-        {
           "title": "特朗普强推千亿美元委内瑞拉石油复兴计划，美能源巨头反应冷淡",
           "url": "https://wallstreetcn.com/livenews/3034440",
           "source": "华尔街见闻-快讯",
@@ -647,6 +680,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时21分 ~ 10时39分]"
+        },
+        {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://wallstreetcn.com/livenews/3034471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 12时15分]"
         },
         {
           "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
@@ -721,18 +767,6 @@
           "time_info": "[02时08分 ~ 03时07分]"
         },
         {
-          "title": "特朗普威胁美国石油巨头在委内瑞拉投资：你们不干有的是人干",
-          "url": "https://wallstreetcn.com/livenews/3034473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 11时33分]"
-        },
-        {
           "title": "美国法官：将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
           "url": "https://wallstreetcn.com/livenews/3034346",
           "source": "华尔街见闻-快讯",
@@ -745,16 +779,16 @@
           "time_info": "[03时07分 ~ 04时07分]"
         },
         {
-          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
-          "url": "https://wallstreetcn.com/livenews/3034471",
+          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
+          "url": "https://wallstreetcn.com/livenews/3034477",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            17
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 11时33分]"
+          "time_info": "[11时33分 ~ 12时15分]"
         },
         {
           "title": "特朗普：“无论难易”都要得到格陵兰岛",
@@ -890,15 +924,15 @@
           "time_info": "07时06分"
         },
         {
-          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
-          "url": "https://wallstreetcn.com/livenews/3034477",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
+          "url": "https://www.cls.cn/detail/2253739",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "12时15分"
         },
         {
           "title": "美国总统特朗普：今天的石油会议主要讨论关于委内瑞拉的（投资）问题。 能源部长Wright和Burgum下周将会见其他的石油公司。",
@@ -1351,8 +1385,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时21分 ~ 11时33分]"
+          "appearance_count": 7,
+          "time_info": "[08时21分 ~ 12时15分]"
         },
         {
           "title": "黎真主党领导人会见伊朗外长 双方讨论加强合作",
@@ -1490,8 +1524,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 11时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 12时15分]"
         },
         {
           "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
@@ -1571,11 +1605,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 12时15分]"
         },
         {
           "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
@@ -1688,8 +1723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 11时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 12时15分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
@@ -1753,8 +1788,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时06分 ~ 11时33分]"
+          "appearance_count": 13,
+          "time_info": "[04时06分 ~ 12时15分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -1765,8 +1800,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时20分 ~ 11时33分]"
+          "appearance_count": 8,
+          "time_info": "[08时20分 ~ 12时15分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -1774,11 +1809,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 11时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 12时15分]"
         },
         {
           "title": "DeepSeekV4新模型或于春节前后发布",
@@ -1795,7 +1831,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
@@ -1804,22 +1840,35 @@
           "ranks": [
             18,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时34分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时34分 ~ 12时15分]"
         },
         {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 12时15分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
