@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T22:05:42.973234+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-01-10T23:06:22.210132+08:00",
+  "total_titles_processed": 1721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 140,
+      "match_count": 142,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时07分 ~ 22时05分]"
+          "appearance_count": 9,
+          "time_info": "[16时07分 ~ 23时06分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -67,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时06分 ~ 22时05分]"
+          "appearance_count": 23,
+          "time_info": "[07时06分 ~ 23时06分]"
         },
         {
           "title": "5名共和党议员倒戈，美参议院限制对委继续动武，特朗普怒了",
@@ -97,8 +97,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时34分 ~ 22时05分]"
+          "appearance_count": 20,
+          "time_info": "[09时34分 ~ 23时06分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -134,11 +134,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时05分 ~ 22时05分]"
+          "appearance_count": 11,
+          "time_info": "[15时05分 ~ 23时06分]"
         },
         {
           "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
@@ -164,8 +165,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时15分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[12时15分 ~ 23时06分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -381,6 +382,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
+          "url": "https://wallstreetcn.com/livenews/3034570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "美国总统特朗普：（委内瑞拉反对派领导人）马查多将于周二或周三抵达华盛顿。马查多可能与委内瑞拉的政权运作有关联。",
           "url": "https://flash.jin10.com/detail/20260110045705300800",
           "source": "金十数据",
@@ -476,6 +488,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时06分 ~ 08时21分]"
+        },
+        {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时08分 ~ 23时06分]"
         },
         {
           "title": "美国总统特朗普：伊朗麻烦大了，密切关注伊朗局势。",
@@ -603,6 +629,19 @@
           "time_info": "[07时06分 ~ 09时34分]"
         },
         {
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 23时06分]"
+        },
+        {
           "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
           "url": "https://wallstreetcn.com/livenews/3034428",
           "source": "华尔街见闻-快讯",
@@ -629,19 +668,6 @@
           "time_info": "[07时06分 ~ 09时34分]"
         },
         {
-          "title": "特朗普：很快打击墨境内",
-          "url": "https://wallstreetcn.com/livenews/3034537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时08分 ~ 22时05分]"
-        },
-        {
           "title": "美国总统特朗普：将继续举办石油会议，（但后续）就没有新闻发布会了。",
           "url": "https://wallstreetcn.com/livenews/3034430",
           "source": "华尔街见闻-快讯",
@@ -654,16 +680,17 @@
           "time_info": "[06时06分 ~ 07时06分]"
         },
         {
-          "title": "意大利总理说很多问题上不同意特朗普做法",
-          "url": "https://wallstreetcn.com/livenews/3034549",
-          "source": "华尔街见闻-快讯",
+          "title": "G7峰会据悉系为特朗普而改期",
+          "url": "https://flash.jin10.com/detail/20260110203044449800",
+          "source": "金十数据",
           "ranks": [
             5,
-            7
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时05分]"
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 23时06分]"
         },
         {
           "title": "特朗普重返白宫，六大银行预计将获利1570亿美元",
@@ -742,6 +769,19 @@
           "time_info": "[08时21分 ~ 11时33分]"
         },
         {
+          "title": "信号比规模重要--高盛解读“特朗普版QE”",
+          "url": "https://wallstreetcn.com/articles/3763012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时08分 ~ 23时06分]"
+        },
+        {
           "title": "会去抓普京吗？特朗普：没必要 我们关系很好",
           "url": "https://flash.jin10.com/detail/20260110152727783800",
           "source": "金十数据",
@@ -752,18 +792,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时07分 ~ 17时06分]"
-        },
-        {
-          "title": "G7峰会据悉系为特朗普而改期",
-          "url": "https://flash.jin10.com/detail/20260110203044449800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时05分]"
         },
         {
           "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
@@ -908,18 +936,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时06分 ~ 19时05分]"
-        },
-        {
-          "title": "信号比规模重要--高盛解读“特朗普版QE”",
-          "url": "https://wallstreetcn.com/articles/3763012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时08分 ~ 22时05分]"
         },
         {
           "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
@@ -1392,6 +1408,17 @@
           "time_info": "17时06分"
         },
         {
+          "title": "俄罗斯回应特朗普释放俄船员",
+          "url": "https://www.douyin.com/hot/2362921",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "美国总统特朗普：将紧密地融合美国与委内瑞拉的经济。",
           "url": "https://wallstreetcn.com/livenews/3034379",
           "source": "华尔街见闻-快讯",
@@ -1703,7 +1730,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
@@ -1754,8 +1781,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时08分 ~ 22时05分]"
+          "appearance_count": 4,
+          "time_info": "[20时08分 ~ 23时06分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -1763,11 +1790,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时05分]"
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 23时06分]"
         },
         {
           "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
@@ -1838,6 +1866,20 @@
           "time_info": "[18时06分 ~ 21时13分]"
         },
         {
+          "title": "伊拉克方面表示，没有迹象表明伊朗的天然气供应会很快恢复。",
+          "url": "https://flash.jin10.com/detail/20260110192253430800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时08分 ~ 23时06分]"
+        },
+        {
           "title": "哈梅内伊就伊朗多地骚乱表态",
           "url": "https://www.toutiao.com/trending/7593189459336924691/",
           "source": "今日头条",
@@ -1857,24 +1899,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时05分]"
-        },
-        {
-          "title": "伊拉克方面表示，没有迹象表明伊朗的天然气供应会很快恢复。",
-          "url": "https://flash.jin10.com/detail/20260110192253430800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            18
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时08分 ~ 22时05分]"
+          "time_info": "[21时13分 ~ 23时06分]"
         },
         {
           "title": "黎真主党领导人会见伊朗外长，双方讨论加强合作",
@@ -1895,11 +1925,23 @@
           "ranks": [
             6,
             16,
-            21
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时08分 ~ 23时06分]"
+        },
+        {
+          "title": "伊朗军方：将捍卫国家利益",
+          "url": "https://news.ifeng.com/c/8po8Gjrx0kc",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时08分 ~ 22时05分]"
+          "time_info": "[21时13分 ~ 23时06分]"
         },
         {
           "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
@@ -1928,17 +1970,6 @@
           "time_info": "[18时06分 ~ 20时08分]"
         },
         {
-          "title": "伊朗军方：将捍卫国家利益",
-          "url": "https://news.ifeng.com/c/8po8Gjrx0kc",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时05分]"
-        },
-        {
           "title": "WTI原油日内涨幅达3.0%，报59.38美元/桶。 委内瑞拉危机数日后，石油交易员又迎来伊朗风险。",
           "url": "https://wallstreetcn.com/livenews/3034306",
           "source": "华尔街见闻-快讯",
@@ -1951,6 +1982,17 @@
           "time_info": "[01时08分 ~ 02时08分]"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
+          "url": "https://flash.jin10.com/detail/20260110220521103800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "法国总统府：法国、英国和德国敦促伊朗当局保持克制。",
           "url": "https://flash.jin10.com/detail/20260110030546198800",
           "source": "金十数据",
@@ -1960,6 +2002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "记者报道伊朗现状",
+          "url": "https://www.douyin.com/hot/2363807",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "法国总统办公室：法国、英国和德国强烈谴责伊朗“杀害抗议者”。法国、英国和德国对伊朗安全部队暴力行为的报道深表关切。",
@@ -2043,8 +2096,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时34分 ~ 22时05分]"
+          "appearance_count": 20,
+          "time_info": "[09时34分 ~ 23时06分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -2056,8 +2109,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时05分 ~ 22时05分]"
+          "appearance_count": 11,
+          "time_info": "[15时05分 ~ 23时06分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -2071,8 +2124,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时05分 ~ 22时05分]"
+          "appearance_count": 11,
+          "time_info": "[15时05分 ~ 23时06分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -2096,8 +2149,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时05分]"
+          "appearance_count": 3,
+          "time_info": "[21时13分 ~ 23时06分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -2163,11 +2216,12 @@
             10,
             9,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时34分 ~ 22时05分]"
+          "appearance_count": 20,
+          "time_info": "[09时34分 ~ 23时06分]"
         },
         {
           "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
@@ -2367,8 +2421,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时34分 ~ 22时05分]"
+          "appearance_count": 20,
+          "time_info": "[09时34分 ~ 23时06分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
