@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T03:06:55.508319+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-01-14T04:06:54.171625+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -61,8 +61,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
+        },
+        {
+          "title": "美国总统特朗普：援助即将抵达伊朗抗议者手中。",
+          "url": "https://flash.jin10.com/detail/20260114033835659800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普称赞汽油价格低廉。",
+          "url": "https://flash.jin10.com/detail/20260114033708246800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
@@ -76,6 +98,28 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
+          "url": "https://flash.jin10.com/detail/20260114033614703800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普声称：我们将开始通过陆路打击“毒贩”。 摧毁了两艘运载毒品的潜艇。 将冻结向非法移民发放的福利金，立即冻结支付。 2月1日开始，不再向庇护城市支付（来自联邦政府的）款项。 正大规模调查签证欺诈。",
+          "url": "https://wallstreetcn.com/livenews/3036381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
           "url": "https://flash.jin10.com/detail/20260113233652947800",
           "source": "金十数据",
@@ -87,15 +131,15 @@
           "time_info": "00时09分"
         },
         {
-          "title": "美国国会山领导人特朗普的信用卡利率上限设想表示怀疑",
-          "url": "https://wallstreetcn.com/livenews/3036352",
+          "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
+          "url": "https://wallstreetcn.com/livenews/3036380",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "04时06分"
         },
         {
           "title": "美国参议院成员重提总统特朗普支持的信用卡竞争法案草案。",
@@ -120,6 +164,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时06分]"
+        },
+        {
+          "title": "美国国会山领导人特朗普的信用卡利率上限设想表示怀疑",
+          "url": "https://wallstreetcn.com/livenews/3036352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时06分]"
+        },
+        {
+          "title": "特朗普：会乐见油价在每桶53美元",
+          "url": "https://wallstreetcn.com/livenews/3036351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时06分]"
         },
         {
           "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
@@ -188,20 +256,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
         {
-          "title": "特朗普：会乐见油价在每桶53美元",
-          "url": "https://wallstreetcn.com/livenews/3036351",
+          "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
+          "url": "https://flash.jin10.com/detail/20260114032319867800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普声称：如果我（已经）得到美联储的帮助，住房成本会更容易控制。 那“混蛋很”（Jerk）快就会走。",
+          "url": "https://wallstreetcn.com/livenews/3036379",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：（当被问及参议员Tillis认为对鲍威尔进行刑事调查是过度之举时）我想这就是Tillis未来将不会再担任参议员的原因吧。",
+          "url": "https://flash.jin10.com/detail/20260114031947476800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
+          "url": "https://wallstreetcn.com/livenews/3036378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "美国总统特朗普：将在底特律谈论经济。",
@@ -221,9 +322,53 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：提高401k退休金计划的普及率对我来说非常重要。",
+          "url": "https://flash.jin10.com/detail/20260114031811818800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普声称：并不认为会（再次迅速）发生美国政府关门事件。",
+          "url": "https://wallstreetcn.com/livenews/3036377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
+          "url": "https://flash.jin10.com/detail/20260114031448130800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普赞赏汽油价格偏低。",
+          "url": "https://wallstreetcn.com/livenews/3036375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
@@ -232,9 +377,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
+          "url": "https://flash.jin10.com/detail/20260114031246667800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：过去，经济形势好的时候利率就会下降。",
+          "url": "https://flash.jin10.com/detail/20260114031226602800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "报道：德国官员赴美探寻特朗普对格陵兰的真实意图 但会谈无果空手而归",
@@ -243,9 +410,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：当市场上涨时，美联储应该降低利率。",
+          "url": "https://flash.jin10.com/detail/20260114031220410800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：如果没能在最高法院赢得关税官司，我们会想办法的。",
+          "url": "https://wallstreetcn.com/livenews/3036371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "格陵兰岛矿产资源部长：给美国总统特朗普的信息是尊重格陵兰岛的意愿并开展合作。",
@@ -259,15 +448,37 @@
           "time_info": "01时10分"
         },
         {
+          "title": "美国总统特朗普称赞核心通胀率（下降）和GDP增长。",
+          "url": "https://flash.jin10.com/detail/20260114031045802800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
           "title": "特朗普：未来数周将公布美联储主席的人选",
           "url": "https://wallstreetcn.com/livenews/3036339",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
+          "url": "https://wallstreetcn.com/livenews/3036368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -276,9 +487,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：我们会让油价进一步下降。",
+          "url": "https://flash.jin10.com/detail/20260114030931033800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -287,7 +509,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -298,9 +520,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：我们将对委内瑞拉大有裨益，我是他们最大的粉丝。",
+          "url": "https://flash.jin10.com/detail/20260114030817126800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔做得并不好。 鲍威尔要么无能，要么腐败。",
@@ -320,7 +553,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -336,15 +569,37 @@
           "time_info": "02时09分"
         },
         {
+          "title": "美国总统特朗普：加州的情况糟透了。",
+          "url": "https://flash.jin10.com/detail/20260114030723238800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
           "title": "据AXIOS：特朗普政府国家安全委员会负责人今天就伊朗问题举行了讨论。特朗普没有参加。",
           "url": "https://flash.jin10.com/detail/20260114015201758800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：对委内瑞拉的袭击一如既往地完美无瑕，我们正在与委内瑞拉人民合作。",
+          "url": "https://flash.jin10.com/detail/20260114030503953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "美国总统特朗普：将在底特律谈论经济。",
@@ -367,12 +622,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及美国在伊朗的盟友）他们应该撤出。",
+          "url": "https://flash.jin10.com/detail/20260114025339880800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -382,8 +648,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -395,8 +661,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -407,8 +673,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -418,11 +684,12 @@
             17,
             13,
             6,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
@@ -431,11 +698,23 @@
           "ranks": [
             28,
             19,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 04时06分]"
+        },
+        {
+          "title": "市场消息：马斯克在伊朗互联网中断期间提供免费星链服务。",
+          "url": "https://flash.jin10.com/detail/20260114033400015800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "俄外交部：美国威胁对伊朗发动军事打击“绝不可接受”",
@@ -456,7 +735,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -467,9 +746,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
+          "url": "https://flash.jin10.com/detail/20260114030200145800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "德国外交部表示已召见伊朗大使。",
@@ -481,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "加拿大政府敦促其公民“立即离开伊朗”。",
+          "url": "https://flash.jin10.com/detail/20260114025939951800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "欧盟官员：欧盟外交政策机构已传唤伊朗大使。",
@@ -511,9 +812,74 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260114013126429800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 03时06分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260114013023358800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 03时06分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏美股的表现。",
+          "url": "https://wallstreetcn.com/livenews/3036366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普称赞美股走高。",
+          "url": "https://flash.jin10.com/detail/20260114030749568800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         }
       ]
     },
@@ -529,8 +895,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -541,8 +907,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -553,19 +919,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时06分]"
         }
       ]
     },
@@ -584,8 +951,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "金价",
@@ -614,49 +981,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260114013126429800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 03时06分]"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260114013023358800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 03时06分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -670,8 +994,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -682,8 +1006,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 03时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 04时06分]"
         }
       ]
     },
