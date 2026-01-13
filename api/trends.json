@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T01:10:04.529060+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-01-14T02:09:05.431838+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -37,8 +37,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
+          "url": "https://wallstreetcn.com/articles/3763124",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
+        },
+        {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
@@ -52,6 +76,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国参议院成员重提总统特朗普支持的信用卡竞争法案草案。",
+          "url": "https://wallstreetcn.com/livenews/3036331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
           "url": "https://flash.jin10.com/detail/20260113233652947800",
           "source": "金十数据",
@@ -63,27 +98,15 @@
           "time_info": "00时09分"
         },
         {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
-          "url": "https://wallstreetcn.com/articles/3763124",
-          "source": "华尔街见闻",
+          "title": "Warren敦促特朗普的财政部限制对冲基金等对储备金的利用",
+          "url": "https://wallstreetcn.com/livenews/3036329",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
-        },
-        {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
@@ -96,6 +119,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时10分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
+          "url": "https://wallstreetcn.com/livenews/3036313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 02时09分]"
         },
         {
           "title": "特朗普“信用卡利率上限”方案持续发酵，支付公司Visa跌幅扩大至5.5%，创6月18日以来最大盘中跌幅。 MasterCard跌5.8%。",
@@ -122,15 +157,16 @@
           "time_info": "[00时09分 ~ 01时10分]"
         },
         {
-          "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
-          "url": "https://wallstreetcn.com/livenews/3036313",
+          "title": "特朗普称已取消所有与伊朗官员的会谈",
+          "url": "https://wallstreetcn.com/livenews/3036306",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 02时09分]"
         },
         {
           "title": "美国总统特朗普：将在底特律谈论经济。",
@@ -144,24 +180,13 @@
           "time_info": "00时09分"
         },
         {
-          "title": "特朗普称已取消所有与伊朗官员的会谈",
-          "url": "https://wallstreetcn.com/livenews/3036306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
           "title": "格陵兰岛矿产资源部长：给美国总统特朗普的信息是尊重格陵兰岛的意愿并开展合作。",
           "url": "https://flash.jin10.com/detail/20260114002542414800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         },
@@ -175,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "美国12月CPI通胀数据要点总结：特朗普称鲍威尔有机会降息",
+          "url": "https://wallstreetcn.com/livenews/3036315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "美国总统特朗普：将在底特律谈论经济。",
@@ -202,7 +238,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -212,8 +248,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -221,11 +257,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -236,8 +273,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -245,33 +282,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
           "url": "https://www.toutiao.com/trending/7594742775778643502/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时09分]"
         },
         {
           "title": "俄外交部：美国威胁对伊朗发动军事打击“绝不可接受”",
           "url": "https://wallstreetcn.com/livenews/3036300",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 02时09分]"
         },
         {
           "title": "德国外交部表示已召见伊朗大使。",
@@ -283,6 +323,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "欧盟官员：欧盟外交政策机构已传唤伊朗大使。",
+          "url": "https://flash.jin10.com/detail/20260114005100820800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "伊朗称逮捕297名与美以有关联的骚乱分子",
+          "url": "https://flash.jin10.com/detail/20260114004904997800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         }
       ]
     },
@@ -298,19 +360,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -321,8 +384,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         }
       ]
     },
@@ -336,11 +399,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "金价",
@@ -348,11 +412,12 @@
           "source": "微博",
           "ranks": [
             30,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "金价为何持续走强",
@@ -368,6 +433,47 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260114013126429800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260114013023358800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -379,8 +485,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -391,26 +497,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 01时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 02时09分]"
         }
       ]
     },
@@ -423,11 +511,12 @@
           "url": "https://wallstreetcn.com/livenews/3036317",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 02时09分]"
         }
       ]
     }
