@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T16:08:16.032133+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-01-14T17:11:08.224594+08:00",
+  "total_titles_processed": 1718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 107,
+      "match_count": 113,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -103,8 +103,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时36分 ~ 16时08分]"
+          "appearance_count": 11,
+          "time_info": "[11时36分 ~ 17时11分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -115,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 16时08分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 17时11分]"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -131,6 +131,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时36分 ~ 15时09分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
+          "title": "中方回应“特朗普称不需要国际法”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 17时11分]"
         },
         {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
@@ -535,15 +558,15 @@
           "time_info": "[04时06分 ~ 05时07分]"
         },
         {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "特朗普演讲时突然模仿拜登",
@@ -566,6 +589,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 10时47分]"
+        },
+        {
+          "title": "七国集团盟国拟就乌问题向特朗普施压",
+          "url": "https://www.toutiao.com/trending/7594817601357348870/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "白宫特使秘密会晤伊朗前王储 特朗普政府重新评估反对派力量",
@@ -678,6 +712,17 @@
           "time_info": "09时35分"
         },
         {
+          "title": "美国特使威特科夫和特朗普女婿或在不久后前往莫斯科与普京会面",
+          "url": "https://flash.jin10.com/detail/20260114164958044800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "美国总统特朗普：过去，经济形势好的时候利率就会下降。",
           "url": "https://flash.jin10.com/detail/20260114031226602800",
           "source": "金十数据",
@@ -753,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "伊朗高级官员：在美国总统特朗普发出威胁之际，华盛顿与德黑兰之间的“直接沟通”已中断。",
+          "url": "https://flash.jin10.com/detail/20260114164141311800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "格陵兰岛矿产资源部长：给美国总统特朗普的信息是尊重格陵兰岛的意愿并开展合作。",
@@ -882,7 +938,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -995,6 +1051,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "市场消息：美国中东问题特使威特科夫和特朗普的女婿库什纳计划尽快访问莫斯科，与普京会面；目前该计划尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260114163609960800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "美国总统特朗普：将在底特律谈论经济。",
@@ -1231,7 +1298,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
@@ -1344,6 +1411,17 @@
           "time_info": "[10时46分 ~ 14时09分]"
         },
         {
+          "title": "伊朗驻荷兰大使馆遭袭，多人被捕",
+          "url": "https://news.ifeng.com/c/8puQRfizORn",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
           "title": "美政府第二次警告：立即离开伊朗！",
           "url": "https://news.ifeng.com/c/8ptnk04I4hA",
           "source": "凤凰网",
@@ -1367,6 +1445,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 04时06分]"
+        },
+        {
+          "title": "分析师：委内瑞拉恢复原油出口及伊朗局势主导原油市场",
+          "url": "https://flash.jin10.com/detail/20260114170148037800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
@@ -1494,6 +1583,28 @@
           "time_info": "15时09分"
         },
         {
+          "title": "土耳其外交部消息人士：土耳其外交部长与伊朗同行通电话，强调有必要通过谈判解决当前的地区紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260114165524487800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "伊朗司法总监敦促加快调查审理涉“恐怖分子和骚乱分子”案件",
+          "url": "https://wallstreetcn.com/livenews/3036839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "如何评价伊朗的星链干扰器？",
           "url": "https://www.zhihu.com/question/1993953352652956332",
           "source": "知乎",
@@ -1505,6 +1616,17 @@
           "time_info": "11时36分"
         },
         {
+          "title": "伊朗高级官员：已呼吁包括土耳其在内的地区领导人阻止美国采取军事升级行动。",
+          "url": "https://flash.jin10.com/detail/20260114163912320800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "据NewsNation：知情人士证实，美国副总统万斯定于今天下午（北京时间今晨）与国家安全团队举行会议，主导制定对伊朗的战略。",
           "url": "https://flash.jin10.com/detail/20260114035525348800",
           "source": "金十数据",
@@ -1514,6 +1636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "伊朗高级官员：伊朗已警告该地区国家，如果遭到美国的攻击，伊朗将打击该地区的美国基地。",
+          "url": "https://flash.jin10.com/detail/20260114163902002800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长在与伊朗外交部长的电话通话中讨论了最新事态发展。",
@@ -1536,6 +1669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "伊朗外交部：美国对伊朗的新制裁是对伊朗人民坚定捍卫祖国道路的报复。",
+          "url": "https://flash.jin10.com/detail/20260114163719120800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "伊朗称逮捕297名与美以有关联的骚乱分子",
@@ -1673,7 +1817,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1683,8 +1827,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时22分 ~ 16时08分]"
+          "appearance_count": 16,
+          "time_info": "[08时22分 ~ 17时11分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -1713,6 +1857,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时08分 ~ 06时06分]"
+        },
+        {
+          "title": "携程(TCOM.O)美股盘前下跌7.3%。",
+          "url": "https://flash.jin10.com/detail/20260114170230347800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "携程美股盘前下跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3036845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
@@ -1879,11 +2045,12 @@
           "url": "https://www.zhihu.com/question/1994425649616671736",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时07分 ~ 16时08分]"
+          "appearance_count": 4,
+          "time_info": "[16时07分 ~ 17时11分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -1949,11 +2116,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时08分 ~ 16时08分]"
+          "appearance_count": 6,
+          "time_info": "[15时08分 ~ 17时11分]"
         },
         {
           "title": "金价为何持续走强",
@@ -2048,7 +2216,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         }
