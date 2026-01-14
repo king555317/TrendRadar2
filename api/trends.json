@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T20:09:54.354858+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2026-01-14T21:19:13.123210+08:00",
+  "total_titles_processed": 2147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 122,
+      "match_count": 127,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -43,6 +43,18 @@
           "time_info": "[00时08分 ~ 13时09分]"
         },
         {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时10分 ~ 21时19分]"
+        },
+        {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时22分 ~ 14时09分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时10分 ~ 20时09分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -115,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时36分 ~ 20时09分]"
+          "appearance_count": 18,
+          "time_info": "[11时36分 ~ 21时19分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -151,11 +151,12 @@
             19,
             18,
             16,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时10分 ~ 20时09分]"
+          "appearance_count": 9,
+          "time_info": "[17时10分 ~ 21时19分]"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -178,7 +179,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -236,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "伊朗无视特朗普警告 暗示将迅速审判并处决抗议者",
+          "url": "https://flash.jin10.com/detail/20260114204912894800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "美国总统特朗普：援助即将抵达伊朗抗议者手中。",
@@ -647,9 +659,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席Kashkari表示，特朗普对美联储的举措“关乎货币政策”。其表示鲍威尔对此事“解释得很准确”。Kashkari称目前没有“一月降息的动力”。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "特朗普建议美国盟友撤离伊朗",
@@ -669,7 +692,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -724,7 +747,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -735,7 +758,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -834,7 +857,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -960,6 +983,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "富国银行首席财务官：特朗普的信用卡相关威胁构成“重大负面影响”。",
+          "url": "https://wallstreetcn.com/livenews/3037051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
           "url": "https://flash.jin10.com/detail/20260114020057806800",
           "source": "金十数据",
@@ -1057,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "金十整理：若关税被判违法，特朗普还能找到哪些“合法”替代方案？",
+          "url": "https://flash.jin10.com/detail/20260114203055700800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "美国12月CPI通胀数据要点总结：特朗普称鲍威尔有机会降息",
@@ -1224,6 +1269,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "特朗普喊话最高法院：在重大裁决前请先看我们史无前例的经济上成功",
+          "url": "https://flash.jin10.com/detail/20260114201722365800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
           "url": "https://flash.jin10.com/detail/20260114034153120800",
           "source": "金十数据",
@@ -1296,7 +1352,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1403,7 +1459,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
@@ -1440,6 +1496,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时08分 ~ 08时22分]"
+        },
+        {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时07分 ~ 21时19分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -1491,19 +1560,6 @@
           "time_info": "[09时34分 ~ 15时09分]"
         },
         {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时07分 ~ 20时09分]"
-        },
-        {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
           "url": "https://www.zhihu.com/question/1994353599640270638",
           "source": "知乎",
@@ -1525,6 +1581,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时10分 ~ 18时08分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://news.ifeng.com/c/8pufl7S6EV4",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时19分]"
         },
         {
           "title": "中方回应“是否建议公民去伊朗”",
@@ -1549,17 +1616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
-        },
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://news.ifeng.com/c/8pufl7S6EV4",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
         },
         {
           "title": "伊朗骚乱与美伊对峙推高油价 布伦特原油价格或冲击70美元",
@@ -1656,6 +1712,40 @@
           "time_info": "[04时06分 ~ 05时07分]"
         },
         {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.douyin.com/hot/2367771",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时19分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时19分]"
+        },
+        {
+          "title": "专家解读伊朗应对战争准备",
+          "url": "https://www.toutiao.com/trending/7595191318234533426/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
+        },
+        {
           "title": "俄外交部：美国威胁对伊朗发动军事打击“绝不可接受”",
           "url": "https://wallstreetcn.com/livenews/3036300",
           "source": "华尔街见闻-快讯",
@@ -1685,18 +1775,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1732,17 +1811,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
-        },
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://www.douyin.com/hot/2367771",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
         },
         {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
@@ -1899,6 +1967,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "印度驻伊朗大使馆发布声明：敦促所有印度公民离开伊朗",
+          "url": "https://wallstreetcn.com/livenews/3037042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
           "url": "https://flash.jin10.com/detail/20260114030200145800",
           "source": "金十数据",
@@ -1916,7 +1995,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1927,7 +2006,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -1938,7 +2017,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -2059,7 +2138,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -2089,7 +2168,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -2099,8 +2178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时22分 ~ 20时09分]"
+          "appearance_count": 23,
+          "time_info": "[08时22分 ~ 21时19分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -2140,6 +2219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "花旗集团：第四季度FICC销售与交易收入为34.6亿美元，市场预期为32.9亿美元。 第四季度股票销售与交易收入为10.8亿美元，市场预期为11.6亿美元。 第四季度银行业务收入为22.1亿美元，市场预期为20亿美元。 第四季度投行业务收入为12.7亿美元。 第四季度总收入为198.7亿美元；每股收益为1.19美元。 花旗美股盘前一度涨0.5%，现跌超1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
@@ -2208,7 +2298,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -2222,6 +2312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "携程(TCOM.O)美股盘前跌幅扩大至13.3%。",
+          "url": "https://flash.jin10.com/detail/20260114202836391800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -2499,11 +2600,12 @@
           "url": "https://www.zhihu.com/question/1994233409871050526",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时09分 ~ 21时19分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
@@ -2523,7 +2625,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         }
