@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T11:34:56.752733+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-01-16T12:20:40.715172+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 86,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时20分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时21分 ~ 11时34分]"
+          "appearance_count": 7,
+          "time_info": "[08时21分 ~ 12时20分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 11时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 12时20分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -69,11 +69,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时21分 ~ 11时34分]"
+          "appearance_count": 7,
+          "time_info": "[08时21分 ~ 12时20分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -82,9 +83,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时20分]"
         },
         {
           "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
@@ -109,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "特朗普关税突然熄火了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260116112201338800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
         },
         {
           "title": "市场消息：特朗普将指示美国一家关键电网运营机构举行紧急拍卖。",
@@ -227,6 +217,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普关税突然熄火了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260116112201338800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时20分]"
         },
         {
           "title": "美国总统特朗普赞赏美国股市今天创新高。",
@@ -339,6 +341,18 @@
           "time_info": "[00时12分 ~ 01时13分]"
         },
         {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时20分]"
+        },
+        {
           "title": "特朗普盟友声称冰岛将成为“第52州”，冰岛要求美方作出解释",
           "url": "https://wallstreetcn.com/livenews/3038113",
           "source": "华尔街见闻-快讯",
@@ -349,6 +363,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时13分]"
+        },
+        {
+          "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
+          "url": "https://wallstreetcn.com/livenews/3038420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时20分]"
         },
         {
           "title": "俄回应特朗普对伊朗贸易伙伴加税",
@@ -385,6 +411,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时07分]"
+        },
+        {
+          "title": "美媒爆内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3038415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 12时20分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
@@ -511,15 +549,15 @@
           "time_info": "09时35分"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
+          "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038447",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时34分"
+          "time_info": "12时20分"
         },
         {
           "title": "委内瑞拉反对派领导人马查多：向特朗普递交了诺贝尔和平奖奖章。",
@@ -544,17 +582,6 @@
           "time_info": "07时06分"
         },
         {
-          "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
-          "url": "https://wallstreetcn.com/livenews/3038420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
           "title": "美国总统特朗普：作为加沙和平委员会主席，我支持一个新任命的巴勒斯坦技术官僚政府——加沙行政全国委员会——在过渡时期治理加沙。",
           "url": "https://flash.jin10.com/detail/20260116085002026800",
           "source": "金十数据",
@@ -577,13 +604,24 @@
           "time_info": "07时06分"
         },
         {
+          "title": "研究：特朗普“言出必行”倾向上升 伊朗难再赌其退缩",
+          "url": "https://flash.jin10.com/detail/20260116113330716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "白宫称特朗普正密切关注伊朗局势 并保留所有选项",
           "url": "https://www.cls.cn/detail/2259635",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -597,17 +635,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
-        },
-        {
-          "title": "美媒爆内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫回应",
-          "url": "https://wallstreetcn.com/livenews/3038415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
         },
         {
           "title": "特朗普称加沙“和平委员会”已成立 成员名单稍后公布",
@@ -770,7 +797,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -792,7 +819,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -965,7 +992,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -985,11 +1012,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时13分 ~ 11时34分]"
+          "appearance_count": 16,
+          "time_info": "[01时13分 ~ 12时20分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -1001,8 +1029,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时20分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时20分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -1018,21 +1062,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 07时06分]"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时34分]"
         },
         {
           "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
@@ -1144,6 +1173,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
+          "url": "https://news.ifeng.com/c/8pxCx8d6NyK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 12时20分]"
+        },
+        {
           "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
           "url": "https://www.zhihu.com/question/1995083094298944420",
           "source": "知乎",
@@ -1157,15 +1197,29 @@
           "time_info": "[00时12分 ~ 03时11分]"
         },
         {
-          "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
-          "url": "https://news.ifeng.com/c/8pxCx8d6NyK",
-          "source": "凤凰网",
+          "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2259666",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 11时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 12时20分]"
+        },
+        {
+          "title": "中方呼吁美方对伊朗放下武力执念",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 12时20分]"
         },
         {
           "title": "美国财政部：制裁“支持伊朗的影子银行网络”。",
@@ -1190,30 +1244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时13分]"
-        },
-        {
-          "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2259666",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 11时34分]"
-        },
-        {
-          "title": "中方呼吁美方对伊朗放下武力执念",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 11时34分]"
         },
         {
           "title": "中方呼吁美方对伊朗放下武力执念",
@@ -1248,6 +1278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "新西兰驻伊朗大使馆因“安全形势恶化”暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3038448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "伊朗外长与联合国秘书长通话 讨论当前形势",
@@ -1344,7 +1385,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -1419,8 +1460,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时21分 ~ 11时34分]"
+          "appearance_count": 7,
+          "time_info": "[08时21分 ~ 12时20分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -1432,8 +1473,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时06分 ~ 11时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时06分 ~ 12时20分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -1598,11 +1639,12 @@
             5,
             3,
             1,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时20分]"
         },
         {
           "title": "OpenAI为既定的机器人和AI设备计划寻找美国供应商。",
@@ -1757,8 +1799,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 11时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 12时20分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）上海金早盘价为1031.13元/克，较国际金价（1030.62元/克）高0.51元/克",
