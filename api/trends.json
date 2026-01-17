@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T12:13:36.193140+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-01-17T13:07:17.127043+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -43,19 +43,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 12时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 13时07分]"
         },
         {
           "title": "特朗普：这是卡尼该做的事，签协议是好事",
           "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时20分 ~ 12时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时20分 ~ 13时07分]"
         },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -66,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时20分 ~ 12时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时20分 ~ 13时07分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -93,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 12时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 13时07分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -108,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 12时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 13时07分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -123,6 +124,20 @@
           "time_info": "[00时07分 ~ 08时21分]"
         },
         {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时07分]"
+        },
+        {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
           "url": "https://www.cls.cn/detail/2260948",
           "source": "财联社热门",
@@ -133,21 +148,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时20分 ~ 12时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时20分 ~ 13时07分]"
         },
         {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
             7,
-            5,
-            4
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时13分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时07分]"
         },
         {
           "title": "圆脸评特朗普获赠和平奖",
@@ -183,6 +199,22 @@
           "time_info": "00时08分"
         },
         {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            18,
+            21,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时21分 ~ 13时07分]"
+        },
+        {
           "title": "美国总统特朗普称赞礼来公司。",
           "url": "https://flash.jin10.com/detail/20260116233428429800",
           "source": "金十数据",
@@ -194,19 +226,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时13分]"
-        },
-        {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
           "url": "https://flash.jin10.com/detail/20260117080445022800",
           "source": "金十数据",
@@ -216,21 +235,6 @@
             21,
             26,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 12时13分]"
-        },
-        {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            18,
-            21,
-            25
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -769,6 +773,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "特朗普称明尼苏达州已完全失控",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "特朗普不愿放手哈塞特 美联储主席接班战再添变数",
           "url": "https://flash.jin10.com/detail/20260116235352410800",
           "source": "金十数据",
@@ -805,8 +820,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时07分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[03时07分 ~ 13时07分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -849,11 +864,28 @@
             10,
             18,
             23,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 12时13分]"
+          "appearance_count": 6,
+          "time_info": "[08时21分 ~ 13时07分]"
+        },
+        {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://wallstreetcn.com/livenews/3039060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            14,
+            17,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时21分 ~ 13时07分]"
         },
         {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
@@ -869,21 +901,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时06分 ~ 11时33分]"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://wallstreetcn.com/livenews/3039060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            14,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 12时13分]"
         },
         {
           "title": "欧盟航空安全局建议航空运营商避开伊朗空域",
@@ -917,8 +934,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 12时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时33分 ~ 13时07分]"
         },
         {
           "title": "欧洲航空安全局：美国可能采取军事行动已使伊朗防空部队进入高度戒备状态，目前德黑兰飞行情报区发生误判的可能性正在上升。",
@@ -1054,8 +1071,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时06分 ~ 12时13分]"
+          "appearance_count": 9,
+          "time_info": "[07时06分 ~ 13时07分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1187,7 +1204,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -1209,11 +1226,12 @@
             2,
             6,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时34分 ~ 12时13分]"
+          "appearance_count": 5,
+          "time_info": "[09时34分 ~ 13时07分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -1275,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 04时06分]"
+        },
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     },
@@ -1403,7 +1432,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
@@ -1416,6 +1445,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 01时09分]"
+        },
+        {
+          "title": "中国持续减持美债有何动因",
+          "url": "https://www.toutiao.com/trending/7595953759675485747/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "两年期美债收益率周五一度快速拉升，本周累涨超6.2个基点",
