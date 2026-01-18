@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T07:06:21.221241+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-18T08:23:56.144314+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时07分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[02时07分 ~ 08时23分]"
         },
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时07分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[02时07分 ~ 08时23分]"
         },
         {
           "title": "英媒刊文：特朗普羡慕中国",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时23分]"
         },
         {
           "title": "特朗普罕见公开“感谢伊朗”",
@@ -61,11 +61,12 @@
           "url": "https://www.cls.cn/detail/2260948",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时23分]"
         },
         {
           "title": "哈梅内伊：特朗普应被视为犯罪",
@@ -85,6 +86,18 @@
           "time_info": "[00时06分 ~ 07时06分]"
         },
         {
+          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
+          "url": "https://flash.jin10.com/detail/20260117220514244800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 08时23分]"
+        },
+        {
           "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
           "url": "https://wallstreetcn.com/articles/3763499",
           "source": "华尔街见闻",
@@ -96,15 +109,17 @@
           "time_info": "[00时06分 ~ 06时06分]"
         },
         {
-          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
-          "url": "https://flash.jin10.com/detail/20260117220514244800",
-          "source": "金十数据",
+          "title": "特朗普谈中加签协议",
+          "url": "https://www.douyin.com/hot/2370724",
+          "source": "抖音",
           "ranks": [
-            8
+            16,
+            13,
+            15
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "time_info": "[03时04分 ~ 08时23分]"
         },
         {
           "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
@@ -163,39 +178,38 @@
           "time_info": "[00时06分 ~ 07时06分]"
         },
         {
-          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://wallstreetcn.com/livenews/3039150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时05分 ~ 07时06分]"
-        },
-        {
-          "title": "特朗普谈中加签协议",
-          "url": "https://www.douyin.com/hot/2370724",
-          "source": "抖音",
-          "ranks": [
-            16,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时04分 ~ 07时06分]"
-        },
-        {
           "title": "完全错误！不可接受！欧洲多国强烈回应特朗普加税",
           "url": "https://news.ifeng.com/c/8q0J15WIf0r",
           "source": "凤凰网",
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 08时23分]"
+        },
+        {
+          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://wallstreetcn.com/livenews/3039150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时05分 ~ 08时23分]"
+        },
+        {
+          "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
+          "url": "https://flash.jin10.com/detail/20260118080920006800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "08时23分"
         },
         {
           "title": "英媒：特朗普羡慕中国",
@@ -207,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
+          "url": "https://flash.jin10.com/detail/20260118080908901800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时23分"
         },
         {
           "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
@@ -233,6 +258,18 @@
           "time_info": "[00时06分 ~ 01时05分]"
         },
         {
+          "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
+          "url": "https://wallstreetcn.com/articles/3763498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 08时23分]"
+        },
+        {
           "title": "为了格陵兰特朗普再挥关税大棒：“不支持我的话就加征关税”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32405652",
           "source": "澎湃新闻",
@@ -244,15 +281,26 @@
           "time_info": "[00时06分 ~ 01时05分]"
         },
         {
-          "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
-          "url": "https://wallstreetcn.com/articles/3763498",
-          "source": "华尔街见闻",
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "08时23分"
+        },
+        {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://flash.jin10.com/detail/20260118080603759800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时23分"
         },
         {
           "title": "得罪特朗普的福特员工获众筹80万美元",
@@ -261,26 +309,38 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普调侃朋友服用“减肥药”无效",
+          "url": "https://www.toutiao.com/trending/7596194912741081114/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
           "url": "https://flash.jin10.com/detail/20260117222342714800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 08时23分]"
         },
         {
           "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
@@ -288,11 +348,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 08时23分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -328,6 +389,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时06分]"
+        },
+        {
+          "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
+          "url": "https://wallstreetcn.com/livenews/3039167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
+          "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
+          "url": "https://wallstreetcn.com/livenews/3039164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
+          "title": "哈梅内伊：美国煽动策划伊朗骚乱",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E7%85%BD%E5%8A%A8%E7%AD%96%E5%88%92%E4%BC%8A%E6%9C%97%E9%AA%9A%E4%B9%B1",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时23分"
         }
       ]
     },
@@ -342,11 +436,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时23分]"
         }
       ]
     },
@@ -360,11 +455,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时23分]"
         }
       ]
     },
@@ -380,8 +476,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时23分]"
         }
       ]
     }
