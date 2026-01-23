@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T16:08:19.479276+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-01-23T17:10:21.574768+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 99,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时34分 ~ 16时08分]"
+          "appearance_count": 12,
+          "time_info": "[09时34分 ~ 17时10分]"
         },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -59,6 +59,30 @@
           "time_info": "[00时09分 ~ 15时09分]"
         },
         {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时35分 ~ 17时10分]"
+        },
+        {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时35分 ~ 17时10分]"
+        },
+        {
           "title": "特朗普达沃斯演讲，被群嘲了",
           "url": "https://news.ifeng.com/c/8q7oOaAst69",
           "source": "凤凰网",
@@ -70,18 +94,6 @@
           "time_info": "[00时09分 ~ 14时09分]"
         },
         {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时35分 ~ 16时08分]"
-        },
-        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -90,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时09分 ~ 16时08分]"
+          "appearance_count": 24,
+          "time_info": "[00时09分 ~ 17时10分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -103,18 +115,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时09分 ~ 09时35分]"
-        },
-        {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时35分 ~ 16时08分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -219,6 +219,28 @@
           "time_info": "[01时11分 ~ 08时22分]"
         },
         {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时10分]"
+        },
+        {
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时10分]"
+        },
+        {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
           "url": "https://www.cls.cn/detail/2267060",
           "source": "财联社热门",
@@ -243,28 +265,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时09分 ~ 02时08分]"
-        },
-        {
-          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
-          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时08分]"
-        },
-        {
-          "title": "达沃斯后，特朗普狂发80条帖子…",
-          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时08分]"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特使威特科夫和特朗普女婿库什纳展开会谈。",
@@ -311,6 +311,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
+        },
+        {
           "title": "白宫贸易顾问纳瓦罗：本周的美国GDP数据显示，特朗普推动的制造业繁荣逐渐根基稳固。",
           "url": "https://flash.jin10.com/detail/20260123042015022800",
           "source": "金十数据",
@@ -331,6 +342,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时35分"
+        },
+        {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时10分]"
         },
         {
           "title": "特朗普撤回关税威胁后，欧洲议会拟重启美欧贸易协议表决",
@@ -407,6 +430,19 @@
           "time_info": "[03时09分 ~ 05时07分]"
         },
         {
+          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
+          "url": "https://www.cls.cn/detail/2267216",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时10分]"
+        },
+        {
           "title": "摩根大通：我们尊重美国总统特朗普起诉我们的权利。 然而，公司并没有因各种政治理由而关闭某些账户。",
           "url": "https://wallstreetcn.com/livenews/3042262",
           "source": "华尔街见闻-快讯",
@@ -442,6 +478,17 @@
           "time_info": "[12时21分 ~ 12时22分]"
         },
         {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时10分]"
+        },
+        {
           "title": "特朗普：正返回华盛顿特区，达沃斯之行令人难以置信。",
           "url": "https://flash.jin10.com/detail/20260123024812573800",
           "source": "金十数据",
@@ -452,18 +499,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 04时07分]"
-        },
-        {
-          "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
-          "url": "https://www.cls.cn/detail/2267216",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时08分]"
         },
         {
           "title": "摩根大通声明：美国总统特朗普的指控“毫无根据”。",
@@ -514,6 +549,17 @@
           "time_info": "[03时09分 ~ 04时07分]"
         },
         {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时10分]"
+        },
+        {
           "title": "中方回应特朗普达沃斯言论",
           "url": "https://www.toutiao.com/trending/7598085406047453226/",
           "source": "今日头条",
@@ -523,6 +569,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时06分 ~ 07时07分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时10分]"
         },
         {
           "title": "特朗普起诉摩根大通因政治原因关闭其账户 索赔50亿美元",
@@ -560,17 +617,6 @@
           "time_info": "[01时11分 ~ 05时07分]"
         },
         {
-          "title": "特朗普称将于4月访华 中方回应",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
           "title": "特朗普索赔50亿",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A2%E8%B5%9450%E4%BA%BF%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -599,7 +645,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -613,17 +659,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "特朗普称将于4月访华 中方回应",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
         },
         {
           "title": "特朗普：和平委员会撤回对加拿大的邀请。",
@@ -753,7 +788,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -868,17 +903,6 @@
           "time_info": "02时08分"
         },
         {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
           "title": "据国际文传电讯社：美国特朗普女婿库什纳、美国总统特使威特科夫抵达莫斯科。",
           "url": "https://flash.jin10.com/detail/20260123033743999800",
           "source": "金十数据",
@@ -921,17 +945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
         },
         {
           "title": "美国总统特朗普：一些“和平委员会”成员国已经出资10亿美元，其他国家出资更多。",
@@ -1006,7 +1019,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -1042,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "如何看特朗普被曝过去1年海量捞金",
+          "url": "https://www.toutiao.com/trending/7598420122063080979/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
         },
         {
           "title": "美国总统特朗普：意大利需获得立法部门批准才能加入“和平委员会”。",
@@ -1135,7 +1159,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -1186,6 +1210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "美股盘前，英特尔跌约13%，AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色。",
+          "url": "https://wallstreetcn.com/livenews/3042776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
@@ -1347,7 +1382,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
@@ -1382,27 +1417,40 @@
           "time_info": "[08时22分 ~ 16时08分]"
         },
         {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时08分]"
-        },
-        {
           "title": "中方回应美国调重兵前往伊朗",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时10分]"
+        },
+        {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时10分]"
+        },
+        {
+          "title": "外交部回应美调重兵前往伊朗",
+          "url": "https://www.douyin.com/hot/2377210",
+          "source": "抖音",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时10分]"
         },
         {
           "title": "美军对伊朗开战进入倒计时了吗",
@@ -1416,6 +1464,17 @@
           "time_info": "[14时08分 ~ 14时09分]"
         },
         {
+          "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
+          "url": "https://www.cls.cn/detail/2267699",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
+        },
+        {
           "title": "伊朗议长称该国所有城市已恢复和平",
           "url": "https://wallstreetcn.com/livenews/3042180",
           "source": "华尔街见闻-快讯",
@@ -1427,24 +1486,13 @@
           "time_info": "00时10分"
         },
         {
-          "title": "外交部回应美调重兵前往伊朗",
-          "url": "https://www.douyin.com/hot/2377210",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
           "title": "外交部：中方希望伊朗保持国家稳定",
           "url": "https://wallstreetcn.com/livenews/3042689",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -1473,82 +1521,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "机构：5000美元的金价预测面临着哪些阻力？",
-          "url": "https://flash.jin10.com/detail/20260123101411035800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "分析师：黄金牛市由“非投机性”资金驱动，金价可能进一步大幅上行",
-          "url": "https://flash.jin10.com/detail/20260123155346150800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        },
-        {
-          "title": "国际金价银价同创历史新高",
-          "url": "https://www.toutiao.com/trending/7597224144673194010/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时22分 ~ 09时35分]"
-        },
-        {
-          "title": "金价还能涨多少",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%98%E8%83%BD%E6%B6%A8%E5%A4%9A%E5%B0%91&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 12时22分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "金价疯涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -1610,6 +1584,17 @@
           "time_info": "11时35分"
         },
         {
+          "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
+          "url": "https://wallstreetcn.com/articles/3763920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
+        },
+        {
           "title": "美国PCE通胀数据发布后，标普500指数维持大约0.3%的涨幅，持稳于日低附近。 美国10年期国债收益率回落至接近4.26%的水平，涨幅收窄至不足2个基点，北京时间22:55（美联储青睐的PCE通胀指标发布前五分钟）还曾刷新日高至4.2747%。 两年期美债收益率维持超过2.3个基点的涨幅，持稳于日高3.6143%附近。 现货黄金维持0.1%的涨幅，持稳于4840美元下方。 美元指数维持0.2%的跌幅，持稳于日低98.528点附近，处于14:55以来持续下挫的“趋势”之中。",
           "url": "https://wallstreetcn.com/livenews/3042173",
           "source": "华尔街见闻-快讯",
@@ -1619,6 +1604,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "机构：5000美元的金价预测面临着哪些阻力？",
+          "url": "https://flash.jin10.com/detail/20260123101411035800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "分析师：黄金牛市由“非投机性”资金驱动，金价可能进一步大幅上行",
+          "url": "https://flash.jin10.com/detail/20260123155346150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "国际金价银价同创历史新高",
+          "url": "https://www.toutiao.com/trending/7597224144673194010/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时22分 ~ 09时35分]"
+        },
+        {
+          "title": "金价还能涨多少",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%98%E8%83%BD%E6%B6%A8%E5%A4%9A%E5%B0%91&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 12时22分]"
+        },
+        {
+          "title": "金价疯涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 17时10分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
@@ -1763,7 +1823,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -1806,8 +1866,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时34分 ~ 16时08分]"
+          "appearance_count": 12,
+          "time_info": "[09时34分 ~ 17时10分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
