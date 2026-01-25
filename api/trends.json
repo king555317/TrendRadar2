@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T22:05:49.289209+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-01-25T23:06:27.132175+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普威胁对加拿大征收100%关税，加总理回应",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时27分 ~ 22时05分]"
+          "appearance_count": 13,
+          "time_info": "[12时27分 ~ 23时06分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -72,8 +72,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时24分 ~ 22时05分]"
+          "appearance_count": 18,
+          "time_info": "[08时24分 ~ 23时06分]"
+        },
+        {
+          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
+          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时06分 ~ 23时06分]"
         },
         {
           "title": "美国州检察官起诉特朗普政府，指控其阻碍枪击案调查",
@@ -95,19 +108,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[12时27分 ~ 22时05分]"
-        },
-        {
-          "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
-          "url": "https://news.ifeng.com/c/8qCeJxu5emm",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 22时05分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -133,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时38分 ~ 22时05分]"
+          "appearance_count": 14,
+          "time_info": "[11时38分 ~ 23时06分]"
         },
         {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
@@ -146,8 +146,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时08分 ~ 22时05分]"
+          "appearance_count": 11,
+          "time_info": "[14时08分 ~ 23时06分]"
         },
         {
           "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
@@ -205,8 +205,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时06分 ~ 22时05分]"
+          "appearance_count": 29,
+          "time_info": "[00时06分 ~ 23时06分]"
         },
         {
           "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
@@ -341,6 +341,20 @@
           "time_info": "[06时05分 ~ 09时35分]"
         },
         {
+          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3043386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时09分 ~ 23时06分]"
+        },
+        {
           "title": "特朗普承认美军在委使用秘密武器，目击者：被袭者头痛吐血",
           "url": "https://news.ifeng.com/c/8qCTUGtfKG0",
           "source": "凤凰网",
@@ -352,17 +366,15 @@
           "time_info": "[14时08分 ~ 18时06分]"
         },
         {
-          "title": "意总理：特朗普有关北约盟友“脱离前线”言论“不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3043386",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
+          "url": "https://flash.jin10.com/detail/20260125223326726800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            4,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 22时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "挪威首相批评特朗普北约言论“有失尊重”",
@@ -380,6 +392,39 @@
           "time_info": "[09时35分 ~ 13时12分]"
         },
         {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时05分 ~ 23时06分]"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时05分 ~ 23时06分]"
+        },
+        {
+          "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
+          "url": "https://flash.jin10.com/detail/20260125220223986800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-25）",
           "url": "https://flash.jin10.com/detail/20260125175340876800",
           "source": "金十数据",
@@ -394,6 +439,31 @@
           "time_info": "[18时06分 ~ 21时15分]"
         },
         {
+          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
+          "url": "https://flash.jin10.com/detail/20260125194457069800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时09分 ~ 23时06分]"
+        },
+        {
+          "title": "丹麦人提议 1 万亿美元买下加利福尼亚州，以回应特朗普收购格陵兰岛的计划，国际社会对此有何反应？",
+          "url": "https://www.zhihu.com/question/11885372606",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "特朗普称赞前ICE局长 称其揭露明尼苏达州事件“动机”",
           "url": "https://flash.jin10.com/detail/20260125150515491800",
           "source": "金十数据",
@@ -406,41 +476,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时07分 ~ 19时05分]"
-        },
-        {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 22时05分]"
-        },
-        {
-          "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
-          "url": "https://flash.jin10.com/detail/20260125194457069800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 22时05分]"
-        },
-        {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 22时05分]"
         },
         {
           "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
@@ -597,6 +632,17 @@
           "time_info": "16时07分"
         },
         {
+          "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "特朗普：要让世界记住我是伟大总统",
           "url": "https://www.toutiao.com/trending/7599076884019789878/",
           "source": "今日头条",
@@ -664,6 +710,17 @@
           "time_info": "[02时07分 ~ 07时06分]"
         },
         {
+          "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
+          "url": "https://news.ifeng.com/c/8qCssmxgCNY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时09分 ~ 23时06分]"
+        },
+        {
           "title": "伊朗国防部：伊朗的导弹防御能力得到加强",
           "url": "https://wallstreetcn.com/livenews/3043294",
           "source": "华尔街见闻-快讯",
@@ -703,59 +760,52 @@
           "time_info": "[11时38分 ~ 16时07分]"
         },
         {
-          "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
-          "url": "https://news.ifeng.com/c/8qCssmxgCNY",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 22时05分]"
-        },
-        {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
           "url": "https://wallstreetcn.com/livenews/3043393",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "伊朗官员称伊武装力量已进入全面戒备状态",
-          "url": "https://flash.jin10.com/detail/20260125213838908800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时06分]"
         },
         {
           "title": "伊朗称在多地抓获数百名与近期骚乱有关人员",
           "url": "https://wallstreetcn.com/livenews/3043392",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时06分]"
+        },
+        {
+          "title": "伊朗官员称伊武装力量已进入全面戒备状态",
+          "url": "https://flash.jin10.com/detail/20260125213838908800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时06分]"
         },
         {
           "title": "伊朗通信部门：尚未接到恢复国际互联网连接的指令",
           "url": "https://flash.jin10.com/detail/20260125212511165800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时06分]"
         },
         {
           "title": "伊朗军方称已做好迎战准备",
@@ -846,11 +896,12 @@
             15,
             22,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时08分 ~ 22时05分]"
+          "appearance_count": 11,
+          "time_info": "[14时08分 ~ 23时06分]"
         },
         {
           "title": "金价波动",
@@ -880,7 +931,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -924,6 +975,17 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时06分 ~ 19时05分]"
+        },
+        {
+          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
+          "url": "https://flash.jin10.com/detail/20260125221344220800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     },
@@ -971,11 +1033,12 @@
             12,
             17,
             18,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时07分 ~ 22时05分]"
+          "appearance_count": 8,
+          "time_info": "[16时07分 ~ 23时06分]"
         }
       ]
     },
