@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T12:22:57.955094+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-01-28T13:12:19.116287+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 13时12分]"
         },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 13时12分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -51,8 +51,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 13时12分]"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时12分]"
         },
         {
           "title": "土耳其总统办公室：埃尔多安与美国总统特朗普通了电话，强调必须在叙利亚全面落实停火和整合协议。",
@@ -165,18 +178,6 @@
           "time_info": "07时06分"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时22分]"
-        },
-        {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
           "url": "https://flash.jin10.com/detail/20260128010825738800",
           "source": "金十数据",
@@ -223,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时11分]"
+        },
+        {
+          "title": "特朗普称还有一支舰队正驶向伊朗",
+          "url": "https://www.douyin.com/hot/2381636",
+          "source": "抖音",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时12分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
@@ -285,6 +298,19 @@
           "time_info": "[03时11分 ~ 04时07分]"
         },
         {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 13时12分]"
+        },
+        {
           "title": "拜登批评特朗普政府在明州的移民执法行动",
           "url": "https://wallstreetcn.com/livenews/3044911",
           "source": "华尔街见闻-快讯",
@@ -331,18 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时07分]"
-        },
-        {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 12时22分]"
         },
         {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
@@ -471,17 +485,6 @@
           "time_info": "06时07分"
         },
         {
-          "title": "特朗普称还有一支舰队正驶向伊朗",
-          "url": "https://www.douyin.com/hot/2381636",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
           "url": "https://flash.jin10.com/detail/20260127232506292800",
           "source": "金十数据",
@@ -491,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "特朗普：如果民主党赢得中期选举，他们很可能会弹劾我。",
@@ -548,6 +562,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
+          "url": "https://wallstreetcn.com/livenews/3045261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
           "url": "https://flash.jin10.com/detail/20260128011246828800",
           "source": "金十数据",
@@ -576,7 +601,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -590,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
+          "url": "https://flash.jin10.com/detail/20260128123413943800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "美国贸易代表格里尔：（谈韩国问题）在特朗普发出威胁后，我已与首尔方面取得联系。",
@@ -784,6 +820,60 @@
           "time_info": "[00时09分 ~ 08时22分]"
         },
         {
+          "title": "沙特不允许领空领土被用于打击伊朗",
+          "url": "https://www.toutiao.com/trending/7600164253504421897/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 13时12分]"
+        },
+        {
+          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2271951",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 13时12分]"
+        },
+        {
+          "title": "伊朗将领：邻国领土不得用于攻击伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E9%A2%86%EF%BC%9A%E9%82%BB%E5%9B%BD%E9%A2%86%E5%9C%9F%E4%B8%8D%E5%BE%97%E7%94%A8%E4%BA%8E%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            18,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 13时12分]"
+        },
+        {
+          "title": "伊朗称已对霍尔木兹海峡进行实时监控",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%BF%9B%E8%A1%8C%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            20,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时35分 ~ 13时12分]"
+        },
+        {
           "title": "美国一支舰队正在向伊朗方向航行",
           "url": "https://www.toutiao.com/trending/7599555248189066815/",
           "source": "今日头条",
@@ -797,17 +887,6 @@
           "time_info": "[08时22分 ~ 12时22分]"
         },
         {
-          "title": "沙特不允许领空领土被用于打击伊朗",
-          "url": "https://www.toutiao.com/trending/7600164253504421897/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 12时22分]"
-        },
-        {
           "title": "伊朗官员称已对霍尔木兹海峡进行实时监控",
           "url": "https://flash.jin10.com/detail/20260128060624787800",
           "source": "金十数据",
@@ -819,44 +898,15 @@
           "time_info": "07时06分"
         },
         {
-          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2271951",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 12时22分]"
-        },
-        {
-          "title": "伊朗将领：邻国领土不得用于攻击伊朗",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E9%A2%86%EF%BC%9A%E9%82%BB%E5%9B%BD%E9%A2%86%E5%9C%9F%E4%B8%8D%E5%BE%97%E7%94%A8%E4%BA%8E%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "title": "沙特王储：不允许用沙特领土攻击伊朗",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%EF%BC%9A%E4%B8%8D%E5%85%81%E8%AE%B8%E7%94%A8%E6%B2%99%E7%89%B9%E9%A2%86%E5%9C%9F%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
           "ranks": [
-            7,
-            18,
-            12
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 12时22分]"
-        },
-        {
-          "title": "伊朗称已对霍尔木兹海峡进行实时监控",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%BF%9B%E8%A1%8C%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时35分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 13时12分]"
         },
         {
           "title": "美向以色列通报对伊朗军事行动准备",
@@ -880,17 +930,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时35分 ~ 10时46分]"
-        },
-        {
-          "title": "沙特王储：不允许用沙特领土攻击伊朗",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%EF%BC%9A%E4%B8%8D%E5%85%81%E8%AE%B8%E7%94%A8%E6%B2%99%E7%89%B9%E9%A2%86%E5%9C%9F%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 12时22分]"
         },
         {
           "title": "伊朗总统与沙特王储通电话 讨论地区局势",
@@ -1063,8 +1102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 13时12分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
@@ -1232,6 +1271,18 @@
           "time_info": "[10时45分 ~ 12时22分]"
         },
         {
+          "title": "美元指数跌至近4年来低点",
+          "url": "https://wallstreetcn.com/livenews/3045248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时12分]"
+        },
+        {
           "title": "美元指数跌至近4年新低",
           "url": "https://www.toutiao.com/trending/7600191006633365035/",
           "source": "今日头条",
@@ -1252,17 +1303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
-        },
-        {
-          "title": "美元指数跌至近4年来低点",
-          "url": "https://wallstreetcn.com/livenews/3045248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
@@ -1304,6 +1344,18 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 13时12分]"
+        },
+        {
           "title": "黄金价格大涨又大跌，是走还是留？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
           "source": "澎湃新闻",
@@ -1313,20 +1365,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 12时22分]"
-        },
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 12时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 13时12分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -1340,8 +1380,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时10分 ~ 12时22分]"
+          "appearance_count": 14,
+          "time_info": "[02时10分 ~ 13时12分]"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -1361,11 +1401,24 @@
           "source": "微博",
           "ranks": [
             8,
-            7
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 13时12分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时35分 ~ 12时22分]"
+          "time_info": "[12时22分 ~ 13时12分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）上海金早盘价为1168.09元/克，较国际金价(1167.41元/克)，高0.68元/克",
@@ -1388,17 +1441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
@@ -1424,11 +1466,12 @@
           "ranks": [
             9,
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时12分]"
         },
         {
           "title": "OpenAI推出面向科学家的全新工具Prism",
@@ -1525,8 +1568,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时22分 ~ 12时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时22分 ~ 13时12分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1603,8 +1646,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 12时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 13时12分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -1629,8 +1672,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 12时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时09分 ~ 13时12分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
