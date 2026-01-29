@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-01-29T07:08:56.867043+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-01-29T08:25:06.244730+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
-        },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
           "url": "https://www.cls.cn/detail/2273107",
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://news.ifeng.com/c/8qHzbNUYJ08",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -39,11 +40,28 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -67,21 +85,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 05时10分]"
-        },
-        {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            9,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -271,6 +274,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "CNN记者在X平台发帖称，特朗普考虑对伊朗发动新的重大打击。WTI现涨0.65%，报63.62美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3045919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
           "title": "美国总统特朗普感谢达利欧在康涅狄格州为“特朗普账户”进行投资。",
           "url": "https://flash.jin10.com/detail/20260129004148471800",
           "source": "金十数据",
@@ -293,6 +307,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "知情人士：特朗普考虑对伊朗发动重大打击 因核谈判未取得进展",
+          "url": "https://flash.jin10.com/detail/20260129075946786800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
           "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
           "url": "https://wallstreetcn.com/livenews/3045847",
           "source": "华尔街见闻-快讯",
@@ -310,7 +335,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -359,6 +384,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "特朗普称，全国反欺诈执法将成为司法部的新部门。",
+          "url": "https://wallstreetcn.com/livenews/3045908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
           "title": "鲍威尔：我不会针对（美国总统特朗普的司法部刑事调查）传唤在已有声明的基础上做出更多表态。",
           "url": "https://wallstreetcn.com/livenews/3045782",
           "source": "华尔街见闻-快讯",
@@ -379,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：很高兴提名科林·麦克唐纳担任首任国家欺诈执法助理司法部长。",
+          "url": "https://flash.jin10.com/detail/20260129074440429800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -436,6 +483,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "白宫宣布，特朗普的边境事务负责人汤姆·霍曼将于当地时间明日清晨在明尼阿波利斯举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260129072930021800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
           "title": "美国总统特朗普：对标普500指数涨至7000点表示欢迎。",
           "url": "https://wallstreetcn.com/livenews/3045663",
           "source": "华尔街见闻-快讯",
@@ -461,7 +519,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -486,22 +544,24 @@
             20,
             19,
             14,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
           "url": "https://news.ifeng.com/c/8qIKp97Mqn9",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时08分 ~ 07时08分]"
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 08时25分]"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -524,6 +584,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：美若动武 伊朗将打击“特拉维夫的心脏”",
+          "url": "https://wallstreetcn.com/livenews/3045923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         },
         {
           "title": "伊朗外交部长阿拉奇：德黑兰始终欢迎一项公平的核协议，该协议应确保伊朗的权利并保证不发展核武器。",
@@ -571,6 +642,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 06时08分]"
+        },
+        {
+          "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 08时25分]"
+        },
+        {
+          "title": "伊朗拒绝美国威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 08时25分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗武装部队已严阵以待，手指扣在扳机上，随时准备对任何“侵略”作出回应。",
@@ -675,7 +768,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -687,8 +780,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -709,7 +802,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -720,7 +813,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -756,6 +849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 08时25分]"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -850,7 +954,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -870,11 +974,12 @@
           "ranks": [
             30,
             12,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -885,11 +990,12 @@
             6,
             27,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -897,11 +1003,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -913,8 +1020,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 08时25分]"
+        },
+        {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 08时25分]"
         },
         {
           "title": "金价波动",
@@ -928,6 +1046,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时10分 ~ 07时08分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 08时25分]"
+        },
+        {
+          "title": "渣打：金价任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 08时25分]"
         },
         {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
@@ -1031,7 +1171,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
