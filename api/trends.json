@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:28:00.179419+08:00",
-  "total_titles_processed": 2231,
+  "generated_at": "2026-01-29T22:18:31.844310+08:00",
+  "total_titles_processed": 2322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
@@ -109,8 +109,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时35分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时35分 ~ 22时18分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -153,8 +153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时16分 ~ 21时28分]"
+          "appearance_count": 9,
+          "time_info": "[17时16分 ~ 22时18分]"
         },
         {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
@@ -190,6 +190,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "卡特彼勒：（美国总统特朗普挑起的）关税在2025年给公司造成17亿美元成本。 预计一季度关税成本8亿美元，形势可能会在二季度改善。",
+          "url": "https://wallstreetcn.com/livenews/3046531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "能源情报集团记者阿蒙娜•巴克尔：市场对美国可能对伊朗发动打击感到不安。我听到的消息是，特朗普并不想开战。他想要的是外交上的胜利，或者一场“自发的”内部变革，从而迫使伊朗从内部进行改革。",
@@ -515,6 +537,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "鲍威尔、特朗普罕见存在共识：美国经济比想象中要好",
+          "url": "https://flash.jin10.com/detail/20260129215024264800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
           "url": "https://wallstreetcn.com/livenews/3046082",
           "source": "华尔街见闻-快讯",
@@ -532,7 +565,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -568,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "白宫边境事务负责人Homan：将在明尼苏达州开展针对性行动。 特朗普不会放弃其反移民使命。",
+          "url": "https://wallstreetcn.com/livenews/3046514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
@@ -730,7 +774,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -763,7 +807,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -796,7 +840,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -818,7 +862,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -826,7 +870,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -907,6 +951,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
+        },
+        {
+          "title": "由于担心美国袭击伊朗，布伦特原油一度涨3.5%，达到每桶70.88美元的近六个月高点。",
+          "url": "https://flash.jin10.com/detail/20260129220114970800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "伊朗最高领袖顾问：美若动武 伊朗将打击“特拉维夫的心脏”",
@@ -1003,6 +1058,18 @@
           "time_info": "[00时11分 ~ 06时08分]"
         },
         {
+          "title": "伊朗：美若动武 伊将打击以色列",
+          "url": "https://www.douyin.com/hot/2382618",
+          "source": "抖音",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 22时18分]"
+        },
+        {
           "title": "以色列总理称若遭伊朗袭击必将回击",
           "url": "https://www.toutiao.com/trending/7600028353815674922/",
           "source": "今日头条",
@@ -1058,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "欧盟制裁伊朗内政部长伊斯坎达尔·莫梅尼和检察长穆罕默德·莫瓦赫迪·阿扎德。",
+          "url": "https://flash.jin10.com/detail/20260129215529239800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗武装部队已严阵以待，手指扣在扳机上，随时准备对任何“侵略”作出回应。",
@@ -1148,17 +1226,6 @@
           "time_info": "02时11分"
         },
         {
-          "title": "伊朗：美若动武 伊将打击以色列",
-          "url": "https://www.douyin.com/hot/2382618",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方接收1000架战略无人机的采购。",
           "url": "https://flash.jin10.com/detail/20260129182049979800",
           "source": "金十数据",
@@ -1231,7 +1298,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1302,6 +1369,17 @@
           "time_info": "14时18分"
         },
         {
+          "title": "俄供伊朗米-28武直是雪中送炭吗",
+          "url": "https://www.toutiao.com/trending/7600738384167833098/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗的抗议活动可能已经平息，但未来还会再次爆发。",
           "url": "https://flash.jin10.com/detail/20260129000336275800",
           "source": "金十数据",
@@ -1327,7 +1405,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1424,6 +1502,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "铜价创下历史新高后，美股上市铜矿商股价盘前上涨，必和必拓(BHP.N)涨4.1%，力拓(RIO.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260129215941423800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "（美股）费城金银指数收涨2.38%，报451.13点。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.13%，报3196.53点。 （美股）原材料指数收跌0.29%，金属与矿业指数收跌0.05%。",
           "url": "https://wallstreetcn.com/livenews/3045852",
           "source": "华尔街见闻-快讯",
@@ -1458,6 +1547,17 @@
           "time_info": "17时17分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3046527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "Alphabet(GOOG.O)美股盘前上涨1.9%，此前竞争对手Meta公司上调了年度资本支出计划。",
           "url": "https://flash.jin10.com/detail/20260129175710247800",
           "source": "金十数据",
@@ -1467,6 +1567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
@@ -1502,6 +1613,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129214609846800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "业绩增长不及预期 微软美股盘前下跌",
           "url": "https://flash.jin10.com/detail/20260129181234274800",
           "source": "金十数据",
@@ -1530,7 +1652,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1574,7 +1696,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1626,7 +1748,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
@@ -1711,8 +1833,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时11分 ~ 21时28分]"
+          "appearance_count": 30,
+          "time_info": "[00时11分 ~ 22时18分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1729,6 +1851,20 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时11分 ~ 13时22分]"
+        },
+        {
+          "title": "金价上涨的第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            15,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时18分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -1770,19 +1906,6 @@
           "time_info": "[08时24分 ~ 14时18分]"
         },
         {
-          "title": "金价上涨的第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时28分]"
-        },
-        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -1816,6 +1939,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 12时35分]"
+        },
+        {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "金十图示：2026年01月29日（周四）上海金早盘价为1240.99元/克，较国际金价(1238.18元/克)，高2.81元/克",
@@ -1918,11 +2052,12 @@
           "ranks": [
             14,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时13分 ~ 21时28分]"
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 22时18分]"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
@@ -1932,8 +2067,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时18分]"
         },
         {
           "title": "OpenAI融资前估值或达7300亿美元，吸引三大科技巨头联手投资",
@@ -2026,6 +2161,56 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
+          "url": "https://flash.jin10.com/detail/20260129030154943800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3045755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美元指数DXY短线走高十余点，现报96.36。",
+          "url": "https://flash.jin10.com/detail/20260129215004835800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3045675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -2057,8 +2242,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时16分 ~ 21时28分]"
+          "appearance_count": 9,
+          "time_info": "[17时16分 ~ 22时18分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -2110,45 +2295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数DXY日内大涨1.00%，现报96.72。",
-          "url": "https://flash.jin10.com/detail/20260129030154943800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3045755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3045675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
         }
       ]
     },
