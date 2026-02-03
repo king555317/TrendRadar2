@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T00:20:25.065073+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-04T01:22:26.157082+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
+        },
+        {
+          "title": "城堡投资创始人格里芬：特朗普政府在个人获利决策方面出现了失误。",
+          "url": "https://flash.jin10.com/detail/20260204005511944800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "01时22分"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -37,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -48,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
         },
         {
           "title": "据悉美国主要开发商将考虑推出100万套“特朗普住宅”的计划。",
@@ -109,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -120,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -131,8 +142,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
         },
         {
           "title": "美股股指跌幅扩大，纳指跌1%，标普500指数跌0.48%。",
@@ -148,37 +159,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗外交部：伊朗外长和阿曼外长通话，讨论了双边关系和地区局势，并交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260204005831676800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
@@ -187,8 +181,77 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
+        },
+        {
+          "title": "英国海事风险管理集团Vanguard：该船只未进入伊朗内陆领海，由美国军舰护航。",
+          "url": "https://flash.jin10.com/detail/20260204004813770800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "海事消息人士称，悬挂美国国旗的“Stena Imperative”号货轮在霍尔木兹海峡遭遇三对伊朗武装快艇的逼近。",
+          "url": "https://flash.jin10.com/detail/20260204004639054800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
+          "url": "https://wallstreetcn.com/articles/3764858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     }
