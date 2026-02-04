@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T08:24:40.280331+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-02-04T09:36:49.263442+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -92,7 +92,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -305,6 +305,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "特朗普公布120亿美元“金库计划”",
+          "url": "https://news.ifeng.com/c/8qSe1tjtzmx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普在白宫会见哥伦比亚总统佩特罗。",
           "url": "https://flash.jin10.com/detail/20260204014438637800",
           "source": "金十数据",
@@ -366,7 +377,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -377,9 +388,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
+        },
+        {
+          "title": "市场消息：美国纽约和新泽西州就美国总统特朗普决定扣留160亿美元隧道项目资金提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260204085800714800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "哥伦比亚总统佩特罗：已请求美国总统特朗普协助抓捕居住在海外的主要毒枭。",
@@ -443,7 +465,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -594,7 +616,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -616,7 +638,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -643,6 +665,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
+          "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社：与一架无人机在国际水域的联络中断，联络中断的原因目前尚不清楚。",
           "url": "https://flash.jin10.com/detail/20260204035046770800",
           "source": "金十数据",
@@ -652,6 +685,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美军击落伊朗无人机",
+          "url": "https://www.douyin.com/hot/2388820",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时36分]"
+        },
+        {
+          "title": "美方证实击落一架伊朗无人机",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时36分]"
         },
         {
           "title": "伊朗外长同多国外长通电话 讨论地区局势",
@@ -714,17 +770,6 @@
           "time_info": "[03时21分 ~ 04时13分]"
         },
         {
-          "title": "美方证实击落一架伊朗无人机",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
           "title": "在美国军方表示击落了一架伊朗无人机之后，伊朗媒体Fars News称，一架伊朗无人机在国际水域完成了“侦察任务”。",
           "url": "https://flash.jin10.com/detail/20260204034020124800",
           "source": "金十数据",
@@ -736,15 +781,15 @@
           "time_info": "04时13分"
         },
         {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
+          "title": "伊朗称失联无人机曾传回图片",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%A4%B1%E8%81%94%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9B%BE%E4%BC%A0%E5%9B%9E%E5%9B%BE%E7%89%87%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时24分"
+          "time_info": "09时36分"
         },
         {
           "title": "英国海事风险管理集团Vanguard：该船只未进入伊朗内陆领海，由美国军舰护航。",
@@ -830,7 +875,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -915,7 +960,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -948,8 +993,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 08时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时36分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -959,8 +1004,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 08时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 09时36分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -971,8 +1016,33 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 09时36分]"
+        },
+        {
+          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
+          "url": "https://www.cls.cn/detail/2279689",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时10分 ~ 09时36分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时10分 ~ 08时24分]"
+          "time_info": "[08时24分 ~ 09时36分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -1035,18 +1105,6 @@
           "time_info": "[04时13分 ~ 05时12分]"
         },
         {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时10分 ~ 08时24分]"
-        },
-        {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
           "url": "https://wallstreetcn.com/livenews/3049370",
           "source": "华尔街见闻-快讯",
@@ -1059,15 +1117,27 @@
           "time_info": "[07时10分 ~ 08时24分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
+          "title": "美股爆发AI恐慌性抛售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
+          "source": "百度热搜",
           "ranks": [
-            7
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时36分]"
+        },
+        {
+          "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
+          "url": "https://wallstreetcn.com/livenews/3049421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时24分"
+          "time_info": "09时36分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
@@ -1169,17 +1239,6 @@
           "time_info": "06时10分"
         },
         {
-          "title": "美股爆发AI恐慌性抛售",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
           "title": "美股延续跌势，纳指下跌2.00%。",
           "url": "https://flash.jin10.com/detail/20260204021533895800",
           "source": "金十数据",
@@ -1241,6 +1300,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 03时21分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时36分]"
         },
         {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
@@ -1305,7 +1376,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -1330,17 +1401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时24分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我确实担心美国在开源人工智能领域没有处于领先地位。",
@@ -1404,7 +1464,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -1426,7 +1486,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -1469,8 +1529,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 08时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 09时36分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -1520,11 +1580,12 @@
             5,
             4,
             7,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 08时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 09时36分]"
         },
         {
           "title": "金价波动",
