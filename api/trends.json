@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T12:35:04.837306+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-02-04T13:23:27.560180+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -30,6 +30,18 @@
           "time_info": "[00时20分 ~ 06时10分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 13时23分]"
+        },
+        {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
           "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
           "source": "凤凰网",
@@ -41,15 +53,15 @@
           "time_info": "[00时20分 ~ 06时10分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 12时35分]"
+          "appearance_count": 6,
+          "time_info": "[11时00分 ~ 13时23分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -64,6 +76,18 @@
           "time_info": "[07时10分 ~ 08时24分]"
         },
         {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时00分 ~ 13时23分]"
+        },
+        {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
           "url": "https://flash.jin10.com/detail/20260204045944147800",
           "source": "金十数据",
@@ -75,15 +99,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时00分 ~ 12时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "城堡投资创始人格里芬：特朗普政府在个人获利决策方面出现了失误。",
@@ -119,18 +143,6 @@
           "time_info": "08时24分"
         },
         {
-          "title": "特朗普称正与伊朗进行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时00分 ~ 12时35分]"
-        },
-        {
           "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
           "url": "https://flash.jin10.com/detail/20260204060246322800",
           "source": "金十数据",
@@ -153,6 +165,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时10分]"
+        },
+        {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
@@ -193,15 +217,17 @@
           "time_info": "[05时12分 ~ 08时24分]"
         },
         {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
+          "title": "特朗普称普京兑现了“能源停火”承诺",
+          "url": "https://wallstreetcn.com/livenews/3049533",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6,
+            19,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时54分 ~ 12时35分]"
+          "time_info": "[11时54分 ~ 13时23分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -213,18 +239,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时22分]"
-        },
-        {
-          "title": "特朗普称普京兑现了“能源停火”承诺",
-          "url": "https://wallstreetcn.com/livenews/3049533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时35分]"
         },
         {
           "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
@@ -383,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "特朗普公布120亿美元“金库计划”",
@@ -572,6 +597,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
           "url": "https://flash.jin10.com/detail/20260204042744936800",
           "source": "金十数据",
@@ -707,7 +743,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -723,6 +759,17 @@
           "time_info": "[00时20分 ~ 07时10分]"
         },
         {
+          "title": "美军击落伊朗无人机",
+          "url": "https://www.douyin.com/hot/2388820",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时24分 ~ 13时23分]"
+        },
+        {
           "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
           "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
           "source": "凤凰网",
@@ -733,17 +780,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时36分 ~ 12时35分]"
-        },
-        {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时24分 ~ 12时35分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -932,6 +968,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "海事消息人士称，悬挂美国国旗的“Stena Imperative”号货轮在霍尔木兹海峡遭遇三对伊朗武装快艇的逼近。",
           "url": "https://flash.jin10.com/detail/20260204004639054800",
           "source": "金十数据",
@@ -1078,8 +1125,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时10分 ~ 13时23分]"
+        },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
@@ -1103,17 +1161,6 @@
           "time_info": "[00时20分 ~ 06时10分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 12时35分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -1122,8 +1169,33 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时10分 ~ 13时23分]"
+        },
+        {
+          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
+          "url": "https://www.cls.cn/detail/2279689",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时10分 ~ 13时23分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时10分 ~ 12时35分]"
+          "time_info": "[08时24分 ~ 13时23分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1136,31 +1208,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 11时01分]"
-        },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 12时35分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时24分 ~ 12时35分]"
         },
         {
           "title": "美股爆发AI恐慌性抛售",
@@ -1245,8 +1292,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 13时23分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时54分 ~ 12时35分]"
+          "time_info": "[12时34分 ~ 13时23分]"
         },
         {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
@@ -1261,15 +1319,15 @@
           "time_info": "[07时10分 ~ 08时24分]"
         },
         {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
           "ranks": [
-            10
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 12时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
@@ -1409,8 +1467,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时24分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[08时24分 ~ 13时23分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -1459,6 +1517,30 @@
           "time_info": "[02时21分 ~ 03时21分]"
         },
         {
+          "title": "OpenAI：ChatGPT有关问题现已解决。",
+          "url": "https://flash.jin10.com/detail/20260204115251438800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时23分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
+          "url": "https://flash.jin10.com/detail/20260204115113569800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时23分]"
+        },
+        {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
@@ -1482,17 +1564,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "OpenAI：ChatGPT有关问题现已解决。",
-          "url": "https://flash.jin10.com/detail/20260204115251438800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
           "url": "https://flash.jin10.com/detail/20260204033430684800",
           "source": "金十数据",
@@ -1502,17 +1573,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
-          "url": "https://flash.jin10.com/detail/20260204115113569800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
@@ -1683,7 +1743,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -1751,6 +1811,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "金价暴力反弹重上5000美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9%E9%87%8D%E4%B8%8A5000%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     },
@@ -1770,8 +1841,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时22分 ~ 12时35分]"
+          "appearance_count": 16,
+          "time_info": "[01时22分 ~ 13时23分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
