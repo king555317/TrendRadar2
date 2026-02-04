@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:17:24.127366+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2026-02-04T19:15:31.269221+08:00",
+  "total_titles_processed": 1891,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时54分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 19时15分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时00分 ~ 18时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时00分 ~ 19时15分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 18时17分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 19时15分]"
         },
         {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
@@ -76,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 18时17分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 19时15分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -126,17 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 08时24分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
-          "url": "https://flash.jin10.com/detail/20260204181439687800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -193,6 +182,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时10分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204181439687800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时15分]"
         },
         {
           "title": "美国总统特朗普重申对医疗保险行业的批零。",
@@ -270,6 +271,19 @@
           "time_info": "[11时54分 ~ 13时23分]"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
           "source": "澎湃新闻",
@@ -303,6 +317,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时12分]"
+        },
+        {
+          "title": "据英国《金融时报》：美国参议员推动700亿美元融资协议，以支持美国总统特朗普的关键矿物议程。",
+          "url": "https://flash.jin10.com/detail/20260204180151298800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时15分]"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
@@ -350,18 +376,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时54分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦聚会视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯履行了一周内不袭击基辅的承诺。",
@@ -450,17 +464,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "据英国《金融时报》：美国参议员推动700亿美元融资协议，以支持美国总统特朗普的关键矿物议程。",
-          "url": "https://flash.jin10.com/detail/20260204180151298800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
@@ -829,7 +832,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美军击落伊朗无人机",
@@ -838,11 +841,12 @@
           "ranks": [
             8,
             2,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时24分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[08时24分 ~ 19时15分]"
         },
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -880,8 +884,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 18时17分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 19时15分]"
         },
         {
           "title": "美军击落伊朗无人机",
@@ -930,6 +934,31 @@
           "time_info": "05时12分"
         },
         {
+          "title": "伊朗古列斯坦王宫宣布暂停对外开放",
+          "url": "https://wallstreetcn.com/livenews/3049837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 19时15分]"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社：与一架无人机在国际水域的联络中断，联络中断的原因目前尚不清楚。",
           "url": "https://flash.jin10.com/detail/20260204035046770800",
           "source": "金十数据",
@@ -954,17 +983,16 @@
           "time_info": "[08时24分 ~ 11时01分]"
         },
         {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时17分]"
+          "time_info": "[17时17分 ~ 19时15分]"
         },
         {
           "title": "伊朗：一艘船非法进入伊朗领海",
@@ -989,18 +1017,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时13分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
         },
         {
           "title": "报道称伊朗炮艇逼近悬挂美国旗油轮",
@@ -1274,8 +1290,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时10分 ~ 18时17分]"
+          "appearance_count": 16,
+          "time_info": "[07时10分 ~ 19时15分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -1298,8 +1314,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时24分 ~ 18时17分]"
+          "appearance_count": 15,
+          "time_info": "[08时24分 ~ 19时15分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -1347,8 +1363,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 18时17分]"
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 19时15分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时34分 ~ 19时15分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -1361,19 +1390,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 11时01分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时34分 ~ 18时17分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
@@ -1990,11 +2006,12 @@
           "source": "微博",
           "ranks": [
             7,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时15分]"
         },
         {
           "title": "高盛：继续认为其2026年12月黄金价格预测5400美元/盎司存在显著上行风险。",
@@ -2048,8 +2065,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时22分 ~ 18时17分]"
+          "appearance_count": 23,
+          "time_info": "[01时22分 ~ 19时15分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
