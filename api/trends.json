@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:16:53.640692+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-02-05T20:15:06.498414+08:00",
+  "total_titles_processed": 1963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 19时16分]"
+          "appearance_count": 27,
+          "time_info": "[00时18分 ~ 20时15分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -77,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时19分 ~ 19时16分]"
+          "appearance_count": 25,
+          "time_info": "[01时19分 ~ 20时15分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -142,6 +142,17 @@
           "time_info": "08时27分"
         },
         {
+          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3050656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3050048",
           "source": "华尔街见闻-快讯",
@@ -189,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时12分]"
+        },
+        {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
         },
         {
           "title": "美国总统特朗普考虑签署关于“加州欺诈工作组”的命令。 副总统万斯将牵头这个工作组的工作。（CBS）",
@@ -352,7 +374,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -547,7 +569,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -583,8 +605,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时02分 ~ 20时15分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -597,8 +619,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时37分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[12时37分 ~ 20时15分]"
         },
         {
           "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
@@ -651,7 +673,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -757,9 +779,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "伊朗扣押两艘走私船 查获100万升燃油",
+          "url": "https://wallstreetcn.com/livenews/3050653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "伊朗和沙特外交部长在电话中讨论了地区局势。",
@@ -894,6 +927,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "伊朗扣押两艘燃油走私船",
+          "url": "https://wallstreetcn.com/livenews/3050623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "伊朗议员喊话对美以先发制人打击",
           "url": "https://www.toutiao.com/trending/7602104713643474982/",
           "source": "今日头条",
@@ -919,7 +963,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1007,8 +1051,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时15分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 20时15分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -1045,6 +1089,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时17分 ~ 19时16分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
         },
         {
           "title": "蔚来美股盘前涨超9%，公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元",
@@ -1239,8 +1294,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时36分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时36分 ~ 20时15分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -1257,6 +1312,17 @@
           "time_info": "[13时28分 ~ 19时16分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 20时15分]"
+        },
+        {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
           "url": "https://www.cls.cn/detail/2281032",
           "source": "财联社热门",
@@ -1269,17 +1335,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时02分 ~ 16时15分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时24分 ~ 19时16分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1512,7 +1567,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -1541,6 +1596,17 @@
           "time_info": "[17时18分 ~ 17时19分]"
         },
         {
+          "title": "瑞银：黄金和白银在2026年仍有进一步上涨空间。 银价应受益于更高的金价以及近期基本面趋紧。",
+          "url": "https://wallstreetcn.com/livenews/3050644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -1550,12 +1616,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "瑞银集团：白银应受益于更高的黄金价格和更紧张的近期基本面。",
+          "url": "https://flash.jin10.com/detail/20260205195550945800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
@@ -1590,6 +1667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "贝莱德基金刘鑫：短端境外债券相对稳健 长端美债短期内存在交易性机会",
+          "url": "https://wallstreetcn.com/livenews/3050619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         }
       ]
     },
@@ -1663,8 +1751,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时15分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 20时15分]"
         }
       ]
     }
