@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T11:02:18.750165+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-02-05T12:37:34.127624+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时37分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -62,11 +62,12 @@
             18,
             15,
             9,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时19分 ~ 11时02分]"
+          "appearance_count": 14,
+          "time_info": "[01时19分 ~ 12时37分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -101,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 12时37分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -126,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
+        },
+        {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
@@ -419,6 +431,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "特朗普降息言论难抵金银抛售潮 流动性匮乏放大波动",
+          "url": "https://flash.jin10.com/detail/20260205113340203800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
           "url": "https://wallstreetcn.com/livenews/3050036",
           "source": "华尔街见闻-快讯",
@@ -499,7 +522,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -655,6 +678,17 @@
           "time_info": "[04时10分 ~ 05时12分]"
         },
         {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时37分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：与伊朗的谈判若要取得有意义的成果，就必须包括弹道导弹议题。",
           "url": "https://flash.jin10.com/detail/20260204234146798800",
           "source": "金十数据",
@@ -710,17 +744,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
           "title": "伊朗外长：伊美谈判将于6日在阿曼举行",
           "url": "https://wallstreetcn.com/livenews/3050084",
           "source": "华尔街见闻-快讯",
@@ -730,6 +753,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "据AXIOS网站：由于伊朗方面拒绝讨论非核问题，美伊于周五的核谈判取消。",
@@ -771,7 +805,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -782,7 +816,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -800,8 +834,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 12时37分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -848,6 +882,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时07分 ~ 07时08分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时37分]"
         },
         {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
@@ -918,17 +964,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         },
         {
           "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
@@ -1109,8 +1144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时26分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时26分 ~ 12时37分]"
         },
         {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
@@ -1303,7 +1338,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -1321,11 +1356,12 @@
             12,
             10,
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时37分]"
         },
         {
           "title": "金价波动",
@@ -1334,7 +1370,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
