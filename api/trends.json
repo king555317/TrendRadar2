@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:34:38.140319+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-02-07T13:21:01.985628+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,28 @@
           "time_info": "[00时16分 ~ 07时08分]"
         },
         {
+          "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
+          "url": "https://news.ifeng.com/c/8qXgc9osPZh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时26分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普：下周将再与伊朗谈判",
+          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 13时21分]"
+        },
+        {
           "title": "美伊谈判前特朗普发李小龙视频",
           "url": "https://www.douyin.com/hot/2391580",
           "source": "抖音",
@@ -49,26 +71,42 @@
           "time_info": "[00时16分 ~ 07时08分]"
         },
         {
-          "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
-          "url": "https://news.ifeng.com/c/8qXgc9osPZh",
-          "source": "凤凰网",
+          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
+          "url": "https://www.zhihu.com/question/2001670984583902597",
+          "source": "知乎",
           "ranks": [
-            6
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时26分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时35分 ~ 13时21分]"
         },
         {
-          "title": "特朗普：下周将再与伊朗谈判",
-          "url": "https://news.ifeng.com/c/8qXmcNhCn2E",
-          "source": "凤凰网",
+          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            18,
+            17,
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时35分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
+          "url": "https://www.cls.cn/detail/2283610",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 13时21分]"
         },
         {
           "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
@@ -84,28 +122,16 @@
           "time_info": "[03时18分 ~ 08时26分]"
         },
         {
-          "title": "特朗普称美俄乌会谈“可能会有事发生”",
-          "url": "https://wallstreetcn.com/livenews/3051678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时34分]"
-        },
-        {
-          "title": "特朗普称美俄乌会谈“可能会有事发生”",
-          "url": "https://flash.jin10.com/detail/20260207104748240800",
+          "title": "舒默否认提议用特朗普命名宾州车站",
+          "url": "https://flash.jin10.com/detail/20260207113549639800",
           "source": "金十数据",
           "ranks": [
-            4,
-            5
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时34分]"
+          "time_info": "[12时34分 ~ 13时21分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -119,6 +145,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时18分 ~ 08时26分]"
+        },
+        {
+          "title": "特朗普称美俄乌会谈“可能会有事发生”",
+          "url": "https://wallstreetcn.com/livenews/3051678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时21分]"
         },
         {
           "title": "中方回应特朗普公开支持高市早苗",
@@ -143,30 +182,37 @@
           "time_info": "01时18分"
         },
         {
-          "title": "舒默否认提议用特朗普命名宾州车站",
-          "url": "https://flash.jin10.com/detail/20260207113549639800",
-          "source": "金十数据",
+          "title": "特朗普社媒账号删除与奥巴马有关视频片段，涉嫌种族歧视",
+          "url": "https://wallstreetcn.com/livenews/3051652",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
-          "url": "https://www.zhihu.com/question/2001670984583902597",
-          "source": "知乎",
-          "ranks": [
-            13
+            6,
+            11,
+            18,
+            21,
+            23,
+            25
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时35分 ~ 12时34分]"
+          "time_info": "[08时26分 ~ 13时21分]"
         },
         {
-          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
+          "title": "特朗普称美俄乌会谈“可能会有事发生”",
+          "url": "https://flash.jin10.com/detail/20260207104748240800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
           "source": "澎湃新闻",
           "ranks": [
             18,
@@ -175,7 +221,7 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时35分 ~ 12时34分]"
+          "time_info": "[10时58分 ~ 13时21分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -191,17 +237,46 @@
           "time_info": "[03时18分 ~ 07时08分]"
         },
         {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://www.cls.cn/detail/2283610",
-          "source": "财联社热门",
+          "title": "特朗普称下周将再次与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3051664",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6,
-            4
+            3,
+            10,
+            13,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普称下周将再次与伊朗谈判",
+          "url": "https://flash.jin10.com/detail/20260207085222681800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            20,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 13时21分]"
+        },
+        {
+          "title": "美伊核谈判暂时结束，伊朗外长称「氛围很好」，特朗普称「下周继续谈」，目前进展如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2003133394834432173",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 13时21分]"
         },
         {
           "title": "白宫官员回应特朗普发布针对奥巴马夫妇的种族主义视频：这是白宫工作人员误发该帖，现已删除。",
@@ -215,60 +290,18 @@
           "time_info": "01时18分"
         },
         {
-          "title": "特朗普称下周将再次与伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3051664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时34分]"
-        },
-        {
-          "title": "特朗普社媒账号删除与奥巴马有关视频片段，涉嫌种族歧视",
-          "url": "https://wallstreetcn.com/livenews/3051652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时26分 ~ 12时34分]"
-        },
-        {
-          "title": "特朗普称下周将再次与伊朗谈判",
-          "url": "https://flash.jin10.com/detail/20260207085222681800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时34分]"
-        },
-        {
           "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
           "url": "https://flash.jin10.com/detail/20260207095625549800",
           "source": "金十数据",
           "ranks": [
             3,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时21分]"
         },
         {
           "title": "特朗普：创纪录的股市得益于关税政策 道指将涨至10万点",
@@ -277,11 +310,54 @@
           "ranks": [
             4,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时21分]"
+        },
+        {
+          "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
+          "url": "https://flash.jin10.com/detail/20260207083916354800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            22,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普授权对与伊朗有贸易往来国家加征关税 但暂未实施",
+          "url": "https://flash.jin10.com/detail/20260207083533208800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            23,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 13时21分]"
         },
         {
           "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
@@ -321,18 +397,18 @@
           "time_info": "[02时17分 ~ 03时18分]"
         },
         {
-          "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
-          "url": "https://flash.jin10.com/detail/20260207083916354800",
-          "source": "金十数据",
+          "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
+          "url": "https://wallstreetcn.com/livenews/3051670",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            15,
-            22,
-            23
+            6,
+            9,
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时34分]"
+          "time_info": "[10时58分 ~ 13时21分]"
         },
         {
           "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
@@ -349,18 +425,18 @@
           "time_info": "[06时06分 ~ 09时36分]"
         },
         {
-          "title": "特朗普授权对与伊朗有贸易往来国家加征关税 但暂未实施",
-          "url": "https://flash.jin10.com/detail/20260207083533208800",
-          "source": "金十数据",
+          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
+          "url": "https://wallstreetcn.com/livenews/3051669",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            16,
-            23,
-            24
+            7,
+            10,
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时34分]"
+          "time_info": "[10时58分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：伊朗不得拥有核武器。",
@@ -458,31 +534,6 @@
           "time_info": "[09时36分 ~ 12时34分]"
         },
         {
-          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 12时34分]"
-        },
-        {
-          "title": "特朗普拒绝为种族主义视频道歉，称“未看到冒犯内容”",
-          "url": "https://wallstreetcn.com/livenews/3051670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
-        },
-        {
           "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
           "url": "https://wallstreetcn.com/livenews/3051579",
           "source": "华尔街见闻-快讯",
@@ -509,19 +560,6 @@
           "time_info": "[02时17分 ~ 04时10分]"
         },
         {
-          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
-          "url": "https://wallstreetcn.com/livenews/3051669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时34分]"
-        },
-        {
           "title": "特朗普想用自己名字命名机场遭拒",
           "url": "https://www.toutiao.com/trending/7603553257335783475/",
           "source": "今日头条",
@@ -532,18 +570,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时58分 ~ 11时51分]"
-        },
-        {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32556008",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时34分]"
         },
         {
           "title": "美国总统特朗普谈奥巴马视频：我没把整个视频看完。",
@@ -644,17 +670,6 @@
           "time_info": "[02时17分 ~ 03时18分]"
         },
         {
-          "title": "美伊核谈判暂时结束，伊朗外长称「氛围很好」，特朗普称「下周继续谈」，目前进展如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2003133394834432173",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
           "title": "特朗普起诉美政府索赔100亿",
           "url": "https://www.toutiao.com/trending/7603152177779589146/",
           "source": "今日头条",
@@ -716,7 +731,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -724,7 +739,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗就美伊核谈判发表声明",
@@ -737,8 +752,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时17分 ~ 12时34分]"
+          "appearance_count": 16,
+          "time_info": "[02时17分 ~ 13时21分]"
         },
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -787,6 +802,17 @@
           "time_info": "[00时16分 ~ 12时34分]"
         },
         {
+          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
+          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 13时21分]"
+        },
+        {
           "title": "美国宣布制裁伊朗相关实体及个人",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97%E7%9B%B8%E5%85%B3%E5%AE%9E%E4%BD%93%E5%8F%8A%E4%B8%AA%E4%BA%BA",
           "source": "百度热搜",
@@ -803,15 +829,19 @@
           "time_info": "[01时18分 ~ 07时08分]"
         },
         {
-          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
-          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
-          "source": "凤凰网",
+          "title": "伊朗陆军司令说伊朗武装部队将坚决捍卫领土完整",
+          "url": "https://flash.jin10.com/detail/20260207090255809800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3,
+            11,
+            18,
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 13时21分]"
         },
         {
           "title": "美伊核谈判“暂时”结束 伊朗外长离开阿曼首都",
@@ -836,18 +866,16 @@
           "time_info": "00时16分"
         },
         {
-          "title": "伊朗陆军司令说伊朗武装部队将坚决捍卫领土完整",
-          "url": "https://flash.jin10.com/detail/20260207090255809800",
-          "source": "金十数据",
+          "title": "伊朗亮出新型导弹和地下城有何用意",
+          "url": "https://www.toutiao.com/trending/7603891157294124585/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            11,
-            18,
-            19
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 13时21分]"
         },
         {
           "title": "伊朗在谈判中表示绝不接受“零浓缩”",
@@ -895,6 +923,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时10分]"
+        },
+        {
+          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
         },
         {
           "title": "伊朗表示绝不接受“零浓缩”",
@@ -961,17 +1000,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "伊朗亮出新型导弹和地下城有何用意",
-          "url": "https://www.toutiao.com/trending/7603891157294124585/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
         },
         {
           "title": "伊朗向地区外交官通报情况：会谈中未讨论德黑兰的导弹能力。",
@@ -1075,8 +1103,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时26分 ~ 12时34分]"
+          "appearance_count": 9,
+          "time_info": "[08时26分 ~ 13时21分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时26分 ~ 13时21分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -1089,21 +1130,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时34分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时26分 ~ 12时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 13时21分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -1217,8 +1245,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时35分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时35分 ~ 13时21分]"
         },
         {
           "title": "OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。（Semafor）",
@@ -1339,6 +1367,22 @@
           "time_info": "[05时10分 ~ 08时26分]"
         },
         {
+          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
+          "url": "https://wallstreetcn.com/livenews/3051649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            20,
+            23,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时26分 ~ 13时21分]"
+        },
+        {
           "title": "本周，标普累跌约0.2%，道指累涨约2.5%，纳指累跌1.6%，半导体指数累涨0.8%，科技七巨头指数累跌3.2%、超大市值科技股指数累跌4.6%，银行指数累涨5.2%，生物科技指数累涨2.2%，小盘股指累涨2.1%。 标普500指数初步收涨2%，科技板块涨4.2%，工业板块涨2.8%，能源板块涨1.9%。 纳斯达克100指数初步收涨2.2%，成分股中，Strategy涨25.8%，Arm控股涨11.6%，西部数据涨8.7%，英伟达涨8.1%，谷歌A跌2.4%，亚马逊跌5.3%。 卡特彼勒初步收涨7%，安进、3M、高盛涨超4%，和英伟达领跑道指成分股，亚马逊表现最差。",
           "url": "https://wallstreetcn.com/livenews/3051618",
           "source": "华尔街见闻-快讯",
@@ -1348,21 +1392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        },
-        {
-          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
-          "url": "https://wallstreetcn.com/livenews/3051649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            20,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时26分 ~ 12时34分]"
         },
         {
           "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
@@ -1467,11 +1496,12 @@
             16,
             23,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时08分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[07时08分 ~ 13时21分]"
         }
       ]
     },
