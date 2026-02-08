@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:10:42.265111+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-02-08T21:20:48.196921+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -315,11 +315,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时20分]"
         },
         {
           "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
@@ -327,11 +328,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时20分]"
         },
         {
           "title": "特朗普拒为种族主义视频道歉",
@@ -359,7 +361,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -527,6 +529,31 @@
           "time_info": "[16时09分 ~ 20时10分]"
         },
         {
+          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
+          "url": "https://wallstreetcn.com/livenews/3051828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3051814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 21时20分]"
+        },
+        {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
           "url": "https://flash.jin10.com/detail/20260208152249026800",
           "source": "金十数据",
@@ -541,17 +568,19 @@
           "time_info": "[16时09分 ~ 19时07分]"
         },
         {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://wallstreetcn.com/livenews/3051814",
+          "title": "伊朗外长：美国军事施压吓不倒伊朗",
+          "url": "https://wallstreetcn.com/livenews/3051796",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            6,
-            12
+            10,
+            15,
+            18,
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时10分]"
+          "appearance_count": 5,
+          "time_info": "[17时10分 ~ 21时20分]"
         },
         {
           "title": "伊朗外长：进行铀浓缩是伊朗的权利",
@@ -577,20 +606,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时05分 ~ 13时32分]"
-        },
-        {
-          "title": "伊朗外长：美国军事施压吓不倒伊朗",
-          "url": "https://wallstreetcn.com/livenews/3051796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时10分 ~ 20时10分]"
         },
         {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
@@ -619,13 +634,24 @@
           "time_info": "[18时07分 ~ 20时10分]"
         },
         {
+          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
+          "url": "https://flash.jin10.com/detail/20260208202122596800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
           "title": "伊朗有能力打美国航母吗",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%9C%89%E8%83%BD%E5%8A%9B%E6%89%93%E7%BE%8E%E5%9B%BD%E8%88%AA%E6%AF%8D%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
         },
@@ -665,11 +691,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时08分 ~ 20时10分]"
+          "appearance_count": 26,
+          "time_info": "[00时08分 ~ 21时20分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -693,8 +720,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时09分 ~ 20时10分]"
+          "appearance_count": 7,
+          "time_info": "[16时09分 ~ 21时20分]"
         }
       ]
     },
@@ -778,8 +805,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时09分 ~ 20时10分]"
+          "appearance_count": 7,
+          "time_info": "[16时09分 ~ 21时20分]"
         }
       ]
     },
@@ -792,11 +819,12 @@
           "url": "https://wallstreetcn.com/articles/3765244",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 21时20分]"
         }
       ]
     },
@@ -810,11 +838,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 20时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时20分]"
         }
       ]
     }
