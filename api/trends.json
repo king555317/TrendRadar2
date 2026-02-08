@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T17:10:08.723104+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-02-08T18:07:49.292669+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -106,11 +106,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时08分 ~ 17时10分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 18时07分]"
         },
         {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
@@ -334,7 +335,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
@@ -487,15 +488,28 @@
           "time_info": "[11时06分 ~ 16时09分]"
         },
         {
-          "title": "伊朗外长：进行铀浓缩是伊朗的权利",
-          "url": "https://flash.jin10.com/detail/20260208154251792800",
-          "source": "金十数据",
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3051814",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时10分"
+          "time_info": "18时07分"
+        },
+        {
+          "title": "伊朗总统：与美国会谈是向前迈出的一步",
+          "url": "https://flash.jin10.com/detail/20260208152249026800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 18时07分]"
         },
         {
           "title": "美特使登航母，与击落伊朗无人机飞行员交流",
@@ -511,27 +525,28 @@
         },
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
-          "url": "https://flash.jin10.com/detail/20260208152249026800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 17时10分]"
-        },
-        {
-          "title": "伊朗总统：与美国会谈是向前迈出的一步",
           "url": "https://wallstreetcn.com/livenews/3051783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 18时07分]"
+        },
+        {
+          "title": "伊朗外长：进行铀浓缩是伊朗的权利",
+          "url": "https://flash.jin10.com/detail/20260208154251792800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时09分 ~ 17时10分]"
+          "time_info": "[17时10分 ~ 18时07分]"
         },
         {
           "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
@@ -551,11 +566,23 @@
           "url": "https://wallstreetcn.com/livenews/3051796",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 18时07分]"
+        },
+        {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://flash.jin10.com/detail/20260208171910596800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时10分"
+          "time_info": "18时07分"
         },
         {
           "title": "伊朗想击沉美国航母 首要问题是什么",
@@ -595,8 +622,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时08分 ~ 17时10分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 18时07分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -615,11 +642,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 17时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时07分]"
         }
       ]
     },
@@ -639,8 +667,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 17时10分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 18时07分]"
         },
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -659,11 +687,12 @@
           "url": "https://www.toutiao.com/trending/7604386572770741796/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时09分 ~ 17时10分]"
+          "appearance_count": 3,
+          "time_info": "[17时09分 ~ 18时07分]"
         }
       ]
     },
@@ -696,11 +725,29 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 17时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     }
