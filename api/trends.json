@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T08:27:38.470815+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-02-09T09:37:28.367111+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
@@ -121,7 +121,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
         },
@@ -132,7 +132,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
         },
@@ -143,7 +143,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
         }
@@ -162,8 +162,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 08时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时09分 ~ 09时37分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -199,7 +199,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
         }
@@ -217,11 +217,12 @@
             15,
             14,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 08时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时09分 ~ 09时37分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -270,7 +271,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
         }
@@ -286,11 +287,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时09分 ~ 08时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时09分 ~ 09时37分]"
         }
       ]
     },
