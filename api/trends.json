@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T19:20:22.312870+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-02-11T20:19:36.396605+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时37分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时37分 ~ 20时19分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时19分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -561,6 +561,17 @@
           "time_info": "11时06分"
         },
         {
+          "title": "消息人士：特朗普私下权衡是否退出美墨加协定",
+          "url": "https://flash.jin10.com/detail/20260211194907796800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "特朗普：反对以色列推进约旦河西岸吞并举措",
           "url": "https://wallstreetcn.com/livenews/3053235",
           "source": "华尔街见闻-快讯",
@@ -570,6 +581,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普私下权衡是否退出他亲自谈判达成的美墨加贸易协定。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普私下权衡是否退出他亲自谈判达成的美墨加贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260211194456915800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "特朗普拟推动美国燃煤电厂运营 为军事行动提供电力支持",
@@ -614,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "特朗普晒白宫新宴会厅效果图遭嘲讽",
+          "url": "https://www.toutiao.com/trending/7604537855083773958/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "特朗普的商务部长卢特尼克承认：与妻子共同会见过爱泼斯坦",
@@ -715,6 +759,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
           "url": "https://flash.jin10.com/detail/20260211022551688800",
           "source": "金十数据",
@@ -729,7 +784,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗总统：不寻求核武器 愿接受核查",
@@ -738,9 +793,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时19分]"
         },
         {
           "title": "伊朗总统：我们无意制造核武器，并愿意接受任何形式的核查。",
@@ -763,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "伊朗总统致歉",
+          "url": "https://news.ifeng.com/c/8qf5xxJfwSa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
@@ -807,11 +873,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时19分]"
         },
         {
           "title": "伊朗的地缘政治包袱与以色列的阴影：美伊谈判前景难言乐观",
@@ -889,7 +956,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -911,7 +978,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -963,7 +1030,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -988,8 +1055,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时31分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[08时31分 ~ 20时19分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -1027,8 +1094,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时34分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[13时34分 ~ 20时19分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -1041,6 +1108,30 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 09时38分]"
+        },
+        {
+          "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3053732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时19分]"
         },
         {
           "title": "罗杰斯为何清空美股死守金银铜",
@@ -1090,18 +1181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 08时31分]"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时20分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
@@ -1166,7 +1245,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
@@ -1178,8 +1257,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时47分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时47分 ~ 20时19分]"
         },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -1242,6 +1321,17 @@
           "time_info": "[12时47分 ~ 13时34分]"
         },
         {
+          "title": "机构：金价站上5100美元 市场屏息静候非农关键考验",
+          "url": "https://flash.jin10.com/detail/20260211195752895800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "金十图示：2026年02月11日（周三）上海金午盘价为1125.69元/克，较国际金价(1124.61元/克)，高1.08元/克",
           "url": "https://flash.jin10.com/detail/20260211150538919800",
           "source": "金十数据",
@@ -1259,7 +1349,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
@@ -1448,6 +1538,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
+          "url": "https://wallstreetcn.com/livenews/3053713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "DeepSeek更新新模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9B%B4%E6%96%B0%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     },
