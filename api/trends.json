@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T06:10:06.994848+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-02-13T07:09:51.482716+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -94,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "特朗普希望美伊“一个月左右”达成协议",
-          "url": "https://wallstreetcn.com/livenews/3054744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
         },
         {
           "title": "美国总统特朗普：（1月非农）就业报告在特定方面是惊人的。",
@@ -182,6 +171,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时12分]"
+        },
+        {
+          "title": "特朗普希望美伊“一个月左右”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3054744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -486,7 +487,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -538,7 +539,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -557,11 +558,34 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
+        },
+        {
+          "title": "美股存储芯片指数收涨不到1.4%",
+          "url": "https://wallstreetcn.com/livenews/3054760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "AI引发的资本市场大溃逃，美股商业地产遭遇“黑色星期四”",
@@ -604,66 +628,95 @@
           "url": "https://wallstreetcn.com/livenews/3054740",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
         },
         {
           "title": "网络股指数ETF收跌超3.5%，领跌美股行业ETF，标普科技板块跌超2.6%",
           "url": "https://wallstreetcn.com/livenews/3054739",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213051126204800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
           "url": "https://wallstreetcn.com/livenews/3054738",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213050512806800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
         },
         {
           "title": "美股收盘：三大指数收跌 苹果大跌5%",
           "url": "https://flash.jin10.com/detail/20260213050029671800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3054725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌7.12%，报398.20点。 （全球时段）纽约证交所ARCA金矿开采商指数跌5.55%，报2853.94点。 （美股）原材料指数收跌3.64%，（美股）金属与矿业指数收跌3.96%。",
+          "url": "https://wallstreetcn.com/livenews/3054752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时09分"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -677,24 +730,13 @@
           "time_info": "05时12分"
         },
         {
-          "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3054725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
           "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
           "url": "https://wallstreetcn.com/livenews/3054722",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -702,7 +744,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI发布第一款采用Cerebras芯片的模型。",
@@ -716,6 +758,18 @@
           "time_info": "02时22分"
         },
         {
+          "title": "Yelp与OpenAI构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3054731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
+        },
+        {
           "title": "OpenAI推出首款采用Cerebras芯片的新模型 减少对英伟达的依赖",
           "url": "https://flash.jin10.com/detail/20260213020708327800",
           "source": "金十数据",
@@ -725,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
+          "url": "https://flash.jin10.com/detail/20260213054809093800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         },
         {
           "title": "Experian在ChatGPT上推出保险市场应用程序。",
@@ -747,17 +812,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
-        },
-        {
-          "title": "Yelp与OpenAI构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3054731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -795,8 +849,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时11分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[04时11分 ~ 07时09分]"
         },
         {
           "title": "美国能源部长赖特：俄罗斯和伊朗在委内瑞拉的影响力将会减弱。",
@@ -857,6 +911,58 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "美国CPI前夕，美股指集体高开，煤炭概念股走高，思科跌超7%，美债企稳",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "30年期美债收益率跌8个基点",
+          "url": "https://wallstreetcn.com/livenews/3054714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时10分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -870,11 +976,12 @@
             6,
             1,
             13,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -888,8 +995,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -901,11 +1008,12 @@
             20,
             17,
             19,
-            25
+            25,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
         }
       ]
     },
@@ -949,47 +1057,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
-        },
-        {
-          "title": "美国CPI前夕，美股指集体高开，煤炭概念股走高，思科跌超7%，美债企稳",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "30年期美债收益率跌8个基点",
-          "url": "https://wallstreetcn.com/livenews/3054714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1001,22 +1068,24 @@
             13,
             14,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时10分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时09分]"
         },
         {
           "title": "金价跌超3%",
           "url": "https://wallstreetcn.com/livenews/3054743",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
         }
       ]
     },
@@ -1041,11 +1110,12 @@
           "url": "https://flash.jin10.com/detail/20260213044202633800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时09分]"
         }
       ]
     }
