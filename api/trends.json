@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T12:42:07.493156+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-02-15T13:29:22.638045+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 12时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 13时29分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 13时29分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -107,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 13时29分]"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -153,8 +153,22 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 12时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 13时29分]"
+        },
+        {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时28分 ~ 13时29分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -181,19 +195,6 @@
           "time_info": "[00时08分 ~ 08时28分]"
         },
         {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时28分 ~ 12时42分]"
-        },
-        {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
@@ -203,14 +204,14 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时28分 ~ 12时42分]"
+          "appearance_count": 7,
+          "time_info": "[08时28分 ~ 13时29分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -250,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时05分 ~ 11时06分]"
+        },
+        {
+          "title": "谁在抛售美债",
+          "url": "https://www.toutiao.com/trending/7606913902068108850/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
@@ -327,8 +339,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 12时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 13时29分]"
         }
       ]
     },
