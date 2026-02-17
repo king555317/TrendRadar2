@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:23:59.218452+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-02-17T15:25:05.097191+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时37分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -426,8 +426,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 14时23分]"
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 15时25分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -441,6 +441,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 06时08分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时25分]"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -469,19 +483,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时14分 ~ 06时08分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时23分]"
         },
         {
           "title": "据伊朗官方媒体：伊朗国家石油公司表示，印度扣押的三艘船只与伊朗毫无关联。",
@@ -678,8 +679,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 14时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时37分 ~ 15时25分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -745,8 +746,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 14时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 15时25分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -756,11 +757,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 14时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 15时25分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
