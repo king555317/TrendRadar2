@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T07:10:33.533068+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-02-19T08:28:53.472803+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普施压下，日本急忙兑现投资承诺",
@@ -52,17 +52,6 @@
           "time_info": "05时15分"
         },
         {
-          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
-          "url": "https://wallstreetcn.com/livenews/3056519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
           "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
           "source": "凤凰网",
@@ -96,6 +85,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
+          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
           "url": "https://flash.jin10.com/detail/20260218233358175800",
           "source": "金十数据",
@@ -105,6 +105,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 08时28分]"
         },
         {
           "title": "美国总统特朗普：我们可以关照大西洋。",
@@ -225,6 +237,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://flash.jin10.com/detail/20260219080811370800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
           "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
           "url": "https://flash.jin10.com/detail/20260219024522146800",
           "source": "金十数据",
@@ -256,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219080556837800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。",
@@ -330,7 +364,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -392,6 +426,218 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
+          "url": "https://news.ifeng.com/c/8qr5IKOpqxr",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 07时10分]"
+        },
+        {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 08时28分]"
+        },
+        {
+          "title": "伊朗与俄罗斯将举行海上联合军演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 08时28分]"
+        },
+        {
+          "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
+          "url": "https://flash.jin10.com/detail/20260219024740741800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
+          "url": "https://wallstreetcn.com/livenews/3056448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时15分]"
+        },
+        {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时27分]"
+        },
+        {
+          "title": "美国白宫：在伊朗问题上取得了一些进展。",
+          "url": "https://flash.jin10.com/detail/20260219024728278800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗首都附近发生火灾，靠近军事设施",
+          "url": "https://flash.jin10.com/detail/20260218232706815800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
+          "url": "https://wallstreetcn.com/livenews/3056528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
+          "url": "https://flash.jin10.com/detail/20260219041353926800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "伊朗首都德黑兰附近的帕兰德发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260218230908167800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国务院称对18名伊朗人实施签证限制措施",
+          "url": "https://wallstreetcn.com/livenews/3056522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "美国高级官员：美国国务卿鲁比奥将于2月28日的周末前往以色列，与以色列总理内塔尼亚胡会晤，讨论伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260219053142625800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美军舰和战机在伊朗附近集结",
+          "url": "https://www.douyin.com/hot/2405179",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        },
+        {
+          "title": "美国高级官员：美国希望伊朗在周二日内瓦会谈后提交一份关于解决僵局的书面提案。",
+          "url": "https://flash.jin10.com/detail/20260219053101719800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国白宫：有许多理由可以对伊朗发动打击。达成协议是伊朗的明智之举。",
+          "url": "https://flash.jin10.com/detail/20260219023914570800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
+          "url": "https://flash.jin10.com/detail/20260219022406723800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "据Punchbowl：众议院或将于下周就伊朗战争权力进行投票。",
+          "url": "https://flash.jin10.com/detail/20260219072806308800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
@@ -426,11 +672,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 08时28分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -441,8 +688,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 08时28分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -454,8 +701,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 08时28分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -466,8 +713,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 08时28分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -477,8 +724,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时10分]"
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时28分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -496,11 +743,12 @@
           "url": "https://wallstreetcn.com/livenews/3056517",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 08时28分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -591,172 +839,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
-          "url": "https://news.ifeng.com/c/8qr5IKOpqxr",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时10分]"
-        },
-        {
-          "title": "伊朗将迅速落实伊俄全面战略合作计划",
-          "url": "https://www.toutiao.com/trending/7607948856885624895/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时10分]"
-        },
-        {
-          "title": "伊朗与俄罗斯将举行海上联合军演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时10分]"
-        },
-        {
-          "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
-          "url": "https://flash.jin10.com/detail/20260219024740741800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
-          "url": "https://wallstreetcn.com/livenews/3056448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时15分]"
-        },
-        {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时27分]"
-        },
-        {
-          "title": "美国白宫：在伊朗问题上取得了一些进展。",
-          "url": "https://flash.jin10.com/detail/20260219024728278800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "伊朗首都附近发生火灾，靠近军事设施",
-          "url": "https://flash.jin10.com/detail/20260218232706815800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
-          "url": "https://flash.jin10.com/detail/20260219041353926800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "伊朗首都德黑兰附近的帕兰德发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260218230908167800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国高级官员：美国国务卿鲁比奥将于2月28日的周末前往以色列，与以色列总理内塔尼亚胡会晤，讨论伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260219053142625800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国高级官员：美国希望伊朗在周二日内瓦会谈后提交一份关于解决僵局的书面提案。",
-          "url": "https://flash.jin10.com/detail/20260219053101719800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国白宫：有许多理由可以对伊朗发动打击。达成协议是伊朗的明智之举。",
-          "url": "https://flash.jin10.com/detail/20260219023914570800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
-          "url": "https://flash.jin10.com/detail/20260219022406723800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
         }
       ]
     },
@@ -932,6 +1014,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
+          "url": "https://wallstreetcn.com/livenews/3056484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时10分 ~ 08时28分]"
+        },
+        {
           "title": "美债收益率普遍涨超2个基点",
           "url": "https://wallstreetcn.com/livenews/3056469",
           "source": "华尔街见闻-快讯",
@@ -942,17 +1036,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时11分]"
-        },
-        {
-          "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
-          "url": "https://wallstreetcn.com/livenews/3056484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时10分"
         }
       ]
     },
@@ -966,11 +1049,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时10分]"
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 08时28分]"
         }
       ]
     }
