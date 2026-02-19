@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-19T08:28:53.472803+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-02-19T09:37:12.478334+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
+          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 09时37分]"
+        },
         {
           "title": "特朗普施压下，日本急忙兑现投资承诺",
           "url": "https://news.ifeng.com/c/8qr2EA8zz1w",
@@ -52,6 +63,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "美国内政部长：天然气为美国家庭和工业提供动力。当生产增加时，公用事业账单就会减少。总统特朗普正在带来真正的成果，降低家庭开支。这就是美国能源主导的实际体现。",
+          "url": "https://flash.jin10.com/detail/20260219091602708800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
           "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
           "source": "凤凰网",
@@ -83,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
-          "url": "https://news.ifeng.com/c/8qraTXTgXgI",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
         },
         {
           "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
@@ -169,6 +180,30 @@
           "time_info": "[05时15分 ~ 06时11分]"
         },
         {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://flash.jin10.com/detail/20260219080811370800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 09时37分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219080556837800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 09时37分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
           "url": "https://wallstreetcn.com/livenews/3056445",
           "source": "华尔街见闻-快讯",
@@ -237,17 +272,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://flash.jin10.com/detail/20260219080811370800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
-        },
-        {
           "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
           "url": "https://flash.jin10.com/detail/20260219024522146800",
           "source": "金十数据",
@@ -281,17 +305,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260219080556837800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
-        },
-        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
@@ -312,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "加州就终止能源中心资金起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20260219084435962800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         },
         {
           "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
@@ -358,6 +382,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
+        },
+        {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
           "url": "https://flash.jin10.com/detail/20260219061414903800",
           "source": "金十数据",
@@ -367,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         },
         {
           "title": "美国白宫：外交是美国总统特朗普的首选方案。",
@@ -427,7 +473,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -449,11 +495,12 @@
             8,
             9,
             7,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 08时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时37分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -462,11 +509,12 @@
           "ranks": [
             9,
             8,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 08时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时37分]"
         },
         {
           "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
@@ -478,6 +526,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美军舰和战机在伊朗附近集结",
+          "url": "https://www.douyin.com/hot/2405179",
+          "source": "抖音",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时28分 ~ 09时37分]"
         },
         {
           "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
@@ -504,6 +564,40 @@
           "time_info": "[00时23分 ~ 01时27分]"
         },
         {
+          "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
+          "url": "https://wallstreetcn.com/livenews/3056528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 09时37分]"
+        },
+        {
+          "title": "曝美军准备“最早本周末打伊朗”",
+          "url": "https://www.douyin.com/hot/2405473",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 09时37分]"
+        },
+        {
+          "title": "美媒：美军做好周末攻击伊朗准备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%86%9B%E5%81%9A%E5%A5%BD%E5%91%A8%E6%9C%AB%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 09时37分]"
+        },
+        {
           "title": "美国白宫：在伊朗问题上取得了一些进展。",
           "url": "https://flash.jin10.com/detail/20260219024728278800",
           "source": "金十数据",
@@ -526,17 +620,6 @@
           "time_info": "00时23分"
         },
         {
-          "title": "美国众议院可能下周就美国总统在伊朗问题上的“战争权力”进行投票。（Punchbowl）",
-          "url": "https://wallstreetcn.com/livenews/3056528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
-        },
-        {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
           "url": "https://flash.jin10.com/detail/20260219041353926800",
           "source": "金十数据",
@@ -546,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
+          "url": "https://wallstreetcn.com/livenews/3056541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         },
         {
           "title": "伊朗首都德黑兰附近的帕兰德发生火灾。",
@@ -565,7 +659,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -579,17 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "美军舰和战机在伊朗附近集结",
-          "url": "https://www.douyin.com/hot/2405179",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
         },
         {
           "title": "美国高级官员：美国希望伊朗在周二日内瓦会谈后提交一份关于解决僵局的书面提案。",
@@ -631,7 +714,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         }
@@ -676,8 +759,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 08时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时37分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -688,8 +771,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 08时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时37分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -701,8 +784,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 08时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时37分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时11分 ~ 09时37分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -713,19 +807,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 08时28分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时11分 ~ 08时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时37分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
