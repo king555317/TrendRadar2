@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T07:11:53.864733+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-02-20T08:25:01.632799+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普：诺华首席执行官告诉我，关税让他建立了新工厂。",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "特朗普称在“可负担性”问题上赢得了胜利",
-          "url": "https://flash.jin10.com/detail/20260220064356197800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         },
         {
           "title": "美国总统特朗普：石油和天然气正在增产。",
@@ -50,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
-          "url": "https://flash.jin10.com/detail/20260220064053130800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         },
         {
           "title": "白宫披露美国与印度尼西亚的协议。 白宫称，2月19日与印尼签署了协议。 美国总统特朗普在华盛顿会见印尼领导人普拉博沃·苏比安托（Prabowo Subianto）。 双方同意围绕盟友关系“采取进一步行动”。",
@@ -175,6 +153,18 @@
           "time_info": "[04时11分 ~ 05时11分]"
         },
         {
+          "title": "特朗普称在“可负担性”问题上赢得了胜利",
+          "url": "https://flash.jin10.com/detail/20260220064356197800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
+        },
+        {
           "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
           "url": "https://flash.jin10.com/detail/20260220034153793800",
           "source": "金十数据",
@@ -209,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 05时11分]"
+        },
+        {
+          "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
+          "url": "https://flash.jin10.com/detail/20260220064053130800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
         },
         {
           "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
@@ -336,6 +338,17 @@
           "time_info": "[02时21分 ~ 04时11分]"
         },
         {
+          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 08时25分]"
+        },
+        {
           "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
           "url": "https://flash.jin10.com/detail/20260220042215481800",
           "source": "金十数据",
@@ -408,6 +421,18 @@
           "time_info": "[06时10分 ~ 07时11分]"
         },
         {
+          "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
+          "url": "https://wallstreetcn.com/livenews/3056813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
+        },
+        {
           "title": "美国总统特朗普谈及最高法院对其关税政策的审判，宣称：我一直都在等待（判决结果）。",
           "url": "https://wallstreetcn.com/livenews/3056791",
           "source": "华尔街见闻-快讯",
@@ -432,6 +457,18 @@
           "time_info": "[06时10分 ~ 07时11分]"
         },
         {
+          "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
+          "url": "https://wallstreetcn.com/livenews/3056808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
+        },
+        {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3056702",
           "source": "华尔街见闻-快讯",
@@ -454,6 +491,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时21分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏商务部长卢特尼克。",
+          "url": "https://wallstreetcn.com/livenews/3056803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
         },
         {
           "title": "特朗普称对台军售要跟中国商量",
@@ -501,15 +550,15 @@
           "time_info": "06时10分"
         },
         {
-          "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
-          "url": "https://wallstreetcn.com/livenews/3056813",
+          "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
+          "url": "https://wallstreetcn.com/livenews/3056824",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "08时25分"
         },
         {
           "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
@@ -567,17 +616,6 @@
           "time_info": "06时10分"
         },
         {
-          "title": "美国总统特朗普：（建议人们）出门购买戴尔电脑。",
-          "url": "https://wallstreetcn.com/livenews/3056808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
           "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
           "url": "https://flash.jin10.com/detail/20260219233551357800",
           "source": "金十数据",
@@ -628,7 +666,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -664,17 +702,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "美国总统特朗普赞赏商务部长卢特尼克。",
-          "url": "https://wallstreetcn.com/livenews/3056803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         },
         {
           "title": "美国总统特朗普：必须与伊朗达成一份具有实质性意义的协议。 伊朗不可以拥有核武器。 我们与伊朗还需付出努力。 或许十天能了解中东和平状况。 认为哈马斯会放弃武装，否则他们将遭到严厉袭击。",
@@ -716,7 +743,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -727,7 +754,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -848,7 +875,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -881,7 +908,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -903,7 +930,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         }
@@ -911,18 +938,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
           "url": "https://wallstreetcn.com/articles/3765857",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -945,11 +973,29 @@
             21,
             22,
             5,
-            14
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
+        },
+        {
+          "title": "美国被曝最早本周末攻打伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%9C%80%E6%97%A9%E6%9C%AC%E5%91%A8%E6%9C%AB%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            22,
+            28,
+            26,
+            10,
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
+          "time_info": "[01时22分 ~ 08时25分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -960,11 +1006,12 @@
             8,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -975,8 +1022,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
         },
         {
           "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
@@ -986,11 +1033,12 @@
             9,
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
         },
         {
           "title": "美以或对伊朗发动大规模袭击",
@@ -1000,11 +1048,27 @@
             17,
             12,
             9,
-            13
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.douyin.com/hot/2405773",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24,
+            18,
+            19,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
+          "time_info": "[00时20分 ~ 08时25分]"
         },
         {
           "title": "伊朗",
@@ -1022,45 +1086,27 @@
           "time_info": "[00时20分 ~ 06时10分]"
         },
         {
-          "title": "美国被曝最早本周末攻打伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%9C%80%E6%97%A9%E6%9C%AC%E5%91%A8%E6%9C%AB%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            22,
-            28,
-            26,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 07时11分]"
-        },
-        {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.douyin.com/hot/2405773",
-          "source": "抖音",
-          "ranks": [
-            22,
-            24,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 07时11分]"
-        },
-        {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
           "url": "https://wallstreetcn.com/livenews/3056817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
+        },
+        {
+          "title": "伊朗致信联合国：若遭军事侵略将反击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%87%B4%E4%BF%A1%E8%81%94%E5%90%88%E5%9B%BD%EF%BC%9A%E8%8B%A5%E9%81%AD%E5%86%9B%E4%BA%8B%E4%BE%B5%E7%95%A5%E5%B0%86%E5%8F%8D%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 08时25分]"
         },
         {
           "title": "金十整理：美牵头注资百亿、将部署多国部队、再次警告伊朗......“和平委员会”首次会议要点一览",
@@ -1081,9 +1127,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "伊朗与俄罗斯海军联合海上演习结束",
+          "url": "https://wallstreetcn.com/livenews/3056825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "俄称若美伊达成协议 已准备好接收伊朗浓缩铀",
+          "url": "https://wallstreetcn.com/livenews/3056823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         },
         {
           "title": "伊朗致联合国秘书长的信：伊朗并不寻求紧张局势或战争，也不会率先发动战争。",
@@ -1092,7 +1160,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1125,7 +1193,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1191,19 +1259,6 @@
           "time_info": "[00时20分 ~ 06时10分]"
         },
         {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
-        },
-        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -1211,6 +1266,19 @@
             5,
             6,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1225,8 +1293,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1237,19 +1305,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 08时25分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 08时25分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
@@ -1264,26 +1344,28 @@
           "time_info": "[06时10分 ~ 07时11分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时21分]"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
+        },
+        {
+          "title": "AppLovin美股盘后涨6.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1317,17 +1399,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
-        },
-        {
-          "title": "AppLovin美股盘后涨6.6%。",
-          "url": "https://wallstreetcn.com/livenews/3056801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         },
         {
           "title": "航空业ETF收跌将近4%，领跌美股行业ETF",
@@ -1372,6 +1443,95 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 08时25分]"
+        },
+        {
+          "title": "英伟达即将敲定对OpenAI投资300亿美元，英伟达投资是OpenAI新一轮融资的一部分。OpenAI、英伟达将不会继续进行1000亿美元的多年投资。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
+          "url": "https://flash.jin10.com/detail/20260220020324756800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 04时11分]"
+        },
+        {
+          "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
+          "url": "https://wallstreetcn.com/livenews/3056737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时11分]"
+        },
+        {
+          "title": "Applovin美股盘后涨超4%。据悉OpenAI拟与Applovin展开合作，通过广告实现商业化。",
+          "url": "https://flash.jin10.com/detail/20260220074924192800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
+          "url": "https://wallstreetcn.com/livenews/3056822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "OpenAI称将“睁着一只眼睡觉” 全力确保芯片供应",
+          "url": "https://flash.jin10.com/detail/20260220071214744800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         }
       ]
     },
@@ -1421,50 +1581,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 07时11分]"
-        },
-        {
-          "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
-          "url": "https://flash.jin10.com/detail/20260220020324756800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 04时11分]"
-        },
-        {
-          "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
-          "url": "https://wallstreetcn.com/livenews/3056737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时11分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1484,11 +1600,12 @@
           "url": "https://wallstreetcn.com/livenews/3056819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时25分]"
         }
       ]
     },
