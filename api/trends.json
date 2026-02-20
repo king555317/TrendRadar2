@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:14:00.919760+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-02-20T21:28:28.331768+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 103,
+      "match_count": 105,
       "titles": [
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时24分 ~ 20时14分]"
+          "appearance_count": 18,
+          "time_info": "[08时24分 ~ 21时28分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时37分 ~ 20时14分]"
+          "appearance_count": 13,
+          "time_info": "[12时37分 ~ 21时28分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时37分 ~ 20时14分]"
+          "appearance_count": 13,
+          "time_info": "[12时37分 ~ 21时28分]"
         },
         {
           "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
@@ -221,6 +221,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 21时28分]"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -455,18 +467,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时22分]"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时14分]"
         },
         {
           "title": "美国美术委员会一致批准白宫宴会厅项目，特朗普发文感谢",
@@ -806,6 +806,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
+          "url": "https://wallstreetcn.com/livenews/3056941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "据韩联社：韩国出席特朗普设立的加沙和平委员会的首次会议。",
           "url": "https://flash.jin10.com/detail/20260220102740214800",
           "source": "金十数据",
@@ -815,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "特朗普称政府停摆冲击经济 呼吁降息并批评鲍威尔",
+          "url": "https://flash.jin10.com/detail/20260220205213424800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
@@ -1216,7 +1238,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -1239,20 +1261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时36分 ~ 20时14分]"
-        },
-        {
-          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
-          "url": "https://www.zhihu.com/question/2008093003923808772",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时01分 ~ 20时14分]"
+          "appearance_count": 16,
+          "time_info": "[09时36分 ~ 21时28分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -1267,6 +1277,19 @@
           "time_info": "[00时20分 ~ 06时10分]"
         },
         {
+          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/2008093003923808772",
+          "source": "知乎",
+          "ranks": [
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时01分 ~ 21时28分]"
+        },
+        {
           "title": "伊朗致函联合国",
           "url": "https://www.douyin.com/hot/2406601",
           "source": "抖音",
@@ -1275,11 +1298,12 @@
             4,
             5,
             9,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时21分 ~ 20时14分]"
+          "appearance_count": 11,
+          "time_info": "[14时21分 ~ 21时28分]"
         },
         {
           "title": "美国被曝最早本周末攻打伊朗",
@@ -1309,11 +1333,12 @@
             10,
             1,
             11,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时01分 ~ 20时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时01分 ~ 21时28分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -1355,11 +1380,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时20分 ~ 20时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时20分 ~ 21时28分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -1439,6 +1465,17 @@
           "time_info": "[12时37分 ~ 16时16分]"
         },
         {
+          "title": "伊朗石油部长：与美国石油合作并非不可能",
+          "url": "https://news.ifeng.com/c/8qtwXLy365G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 21时28分]"
+        },
+        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1479,17 +1516,6 @@
           "time_info": "[11时01分 ~ 14时22分]"
         },
         {
-          "title": "伊朗石油部长：与美国石油合作并非不可能",
-          "url": "https://news.ifeng.com/c/8qtwXLy365G",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时14分]"
-        },
-        {
           "title": "伊朗致信联合国：若遭军事侵略将反击",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%87%B4%E4%BF%A1%E8%81%94%E5%90%88%E5%9B%BD%EF%BC%9A%E8%8B%A5%E9%81%AD%E5%86%9B%E4%BA%8B%E4%BE%B5%E7%95%A5%E5%B0%86%E5%8F%8D%E5%87%BB",
           "source": "百度热搜",
@@ -1515,15 +1541,38 @@
           "time_info": "[09时36分 ~ 09时37分]"
         },
         {
+          "title": "伊朗外长：将在三天内确定与美方的协议草案",
+          "url": "https://wallstreetcn.com/livenews/3056946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "伊朗外长：外交是解决伊朗和平核计划问题的唯一途径",
+          "url": "https://wallstreetcn.com/livenews/3056944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：美国并未要求伊朗完全停止铀浓缩活动。 伊朗并未提出“零浓缩”选项。 会谈旨在确保伊朗核计划和平性质。",
           "url": "https://wallstreetcn.com/livenews/3056936",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 21时28分]"
         },
         {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
@@ -1619,9 +1668,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
+        },
+        {
+          "title": "伊朗外长：外交是解决伊朗和平核计划问题的唯一途径",
+          "url": "https://flash.jin10.com/detail/20260220210103263800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗并未提出“零浓缩”选项。",
@@ -1630,7 +1690,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1641,9 +1701,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
+        },
+        {
+          "title": "市场消息：伊朗计划在两到三天内准备一份潜在的核协议草案，与美国进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260220204939134800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "伊朗致联合国秘书长的信：伊朗并不寻求紧张局势或战争，也不会率先发动战争。",
@@ -1666,6 +1737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：炸弹无法摧毁伊朗的核技术。",
+          "url": "https://flash.jin10.com/detail/20260220203838036800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”",
@@ -1734,13 +1816,24 @@
           "time_info": "18时14分"
         },
         {
+          "title": "伊朗外长阿拉格齐：我们并不把美国人视为敌人。我们认为美国政府对伊朗的政策是敌对的。当这些敌对行动停止时，我们或许可以考虑建立另一种关系。",
+          "url": "https://flash.jin10.com/detail/20260220202745048800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "德国经济部发言人就伊朗冲突问题表示：德国的天然气供应在任何情况下都有保障。",
           "url": "https://flash.jin10.com/detail/20260220190554613800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -1792,7 +1885,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1804,8 +1897,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时11分 ~ 20时14分]"
+          "appearance_count": 19,
+          "time_info": "[07时11分 ~ 21时28分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -1814,11 +1907,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时01分 ~ 20时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时01分 ~ 21时28分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -1864,11 +1958,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时20分 ~ 20时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时20分 ~ 21时28分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1876,11 +1971,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时20分 ~ 20时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时20分 ~ 21时28分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1902,8 +1998,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时15分 ~ 20时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时15分 ~ 21时28分]"
         },
         {
           "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
@@ -1940,6 +2036,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 08时25分]"
+        },
+        {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -2022,7 +2129,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -2123,6 +2230,28 @@
           "time_info": "11时01分"
         },
         {
+          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
+          "url": "https://wallstreetcn.com/livenews/3056937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：今天与印度总理莫迪进行了重要会面，我们讨论了印度在人工智能领域所展现出的惊人活力。印度是我们全球范围内增长最快的市场，仅在过去两周内，其每周用户数量就增长了4倍。",
+          "url": "https://flash.jin10.com/detail/20260220204341102800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "OpenAI称将“睁着一只眼睡觉” 全力确保芯片供应",
           "url": "https://flash.jin10.com/detail/20260220071214744800",
           "source": "金十数据",
@@ -2143,6 +2272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时37分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：对儿童社交媒体的限制将是好事。",
+          "url": "https://flash.jin10.com/detail/20260220200907201800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "据英国金融时报：英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。",
@@ -2263,7 +2403,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛：央行购金叠加私人投资 金价年底前将缓慢攀升至5400美元",
@@ -2275,6 +2415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "美伊紧张局势及欧洲债券收益率走低提振金价",
+          "url": "https://flash.jin10.com/detail/20260220203811090800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美伊局势继续升级，特朗普下“最后通牒”，10到15天内是协议最后期限，更有美媒爆料其考虑有限打击以逼伊朗达成协议；今日晚些时候，美国将公布美联储青睐的12月PCE通胀数据，当前，黄金价格在5000美元附近徘徊，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
