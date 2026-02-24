@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T21:47:33.786412+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2026-02-24T22:24:52.623874+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -44,6 +44,19 @@
           "time_info": "[08时26分 ~ 15时32分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时02分 ~ 22时24分]"
+        },
+        {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
           "url": "https://wallstreetcn.com/articles/3765969",
           "source": "华尔街见闻",
@@ -57,19 +70,6 @@
           "time_info": "[01时09分 ~ 09时37分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时02分 ~ 21时47分]"
-        },
-        {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
           "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
           "source": "凤凰网",
@@ -78,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 21时47分]"
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 22时24分]"
         },
         {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
@@ -93,6 +93,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时36分 ~ 15时32分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 22时24分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -135,6 +150,18 @@
           "time_info": "[15时31分 ~ 20时17分]"
         },
         {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时02分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
           "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
           "source": "凤凰网",
@@ -146,31 +173,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时26分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 21时47分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时02分 ~ 21时47分]"
         },
         {
           "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
@@ -192,7 +194,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -217,17 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
-          "url": "https://wallstreetcn.com/livenews/3058164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-24）",
@@ -399,6 +390,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 08时26分]"
+        },
+        {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://wallstreetcn.com/livenews/3058164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 22时24分]"
         },
         {
           "title": "美媒：尽管特朗普发文 但并无美国医院船奉命前往格陵兰岛",
@@ -759,7 +762,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -792,7 +795,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -803,7 +806,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -814,7 +817,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -885,6 +888,17 @@
           "time_info": "08时26分"
         },
         {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3057636",
           "source": "华尔街见闻-快讯",
@@ -924,7 +938,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         }
@@ -932,7 +946,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -989,11 +1003,12 @@
             11,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[01时09分 ~ 21时47分]"
+          "appearance_count": 30,
+          "time_info": "[01时09分 ~ 22时24分]"
         },
         {
           "title": "与美国达成“临时协议”？伊朗：毫无根据",
@@ -1041,8 +1056,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时36分 ~ 21时47分]"
+          "appearance_count": 18,
+          "time_info": "[09时36分 ~ 22时24分]"
         },
         {
           "title": "美军重兵合围伊朗",
@@ -1071,6 +1086,21 @@
           "time_info": "[15时31分 ~ 19时19分]"
         },
         {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            9,
+            13,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 22时24分]"
+        },
+        {
           "title": "内塔尼亚胡警告伊朗",
           "url": "https://www.douyin.com/hot/2409895",
           "source": "抖音",
@@ -1085,18 +1115,26 @@
           "time_info": "[11时11分 ~ 15时32分]"
         },
         {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
+          "title": "美媒：美国务卿将向议员通报伊朗情况",
+          "url": "https://flash.jin10.com/detail/20260224221851535800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            13,
-            17,
-            15
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 21时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国国务卿卢比奥将于周二向国会高层议员汇报伊朗局势。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3058187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "以媒：以色列医疗系统为与伊朗“长期战争”做准备",
@@ -1121,6 +1159,19 @@
           "time_info": "20时17分"
         },
         {
+          "title": "中方回应“美考虑军事打击伊朗”",
+          "url": "https://www.douyin.com/hot/2410571",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 22时24分]"
+        },
+        {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
           "url": "https://wallstreetcn.com/livenews/3057617",
           "source": "华尔街见闻-快讯",
@@ -1131,18 +1182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时15分]"
-        },
-        {
-          "title": "中方回应“美考虑军事打击伊朗”",
-          "url": "https://www.douyin.com/hot/2410571",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时47分]"
         },
         {
           "title": "内塔尼亚胡警告伊朗",
@@ -1190,6 +1229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时02分 ~ 17时21分]"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.toutiao.com/trending/7609535429876056107/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 22时24分]"
         },
         {
           "title": "据阿联酋通讯社：阿联酋和伊朗外长讨论了地区发展和双边关系，并审查了影响和平、安全和共同利益的问题。",
@@ -1284,15 +1335,15 @@
           "time_info": "20时17分"
         },
         {
-          "title": "在伊朗中国人：华联会已准备撤离方案",
-          "url": "https://www.toutiao.com/trending/7609535429876056107/",
-          "source": "今日头条",
+          "title": "据Politico：美国国务卿鲁比奥将于周二向高级议员通报有关伊朗的情况。",
+          "url": "https://flash.jin10.com/detail/20260224221520116800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时47分"
+          "time_info": "22时24分"
         },
         {
           "title": "伊朗空军一直升机坠毁2人死亡",
@@ -1342,7 +1393,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1353,8 +1404,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时36分 ~ 21时47分]"
+          "appearance_count": 18,
+          "time_info": "[09时36分 ~ 22时24分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -1379,8 +1430,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时36分 ~ 21时47分]"
+          "appearance_count": 18,
+          "time_info": "[09时36分 ~ 22时24分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -1581,6 +1632,17 @@
           "time_info": "[05时31分 ~ 06时17分]"
         },
         {
+          "title": "美股盘前芯片板块拉升，AMD拿下大单暴涨15%，金银回落，基本金属拉升，离岸人民币升破6.88",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "台积电(TSM.N)美股盘前涨超2%。",
           "url": "https://flash.jin10.com/detail/20260224183649162800",
           "source": "金十数据",
@@ -1590,6 +1652,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "标普500指数收跌71.76点，跌幅1.04%，报6837.75点。 道琼斯工业平均指数收跌821.91点，跌幅1.66%，报48804.06点。 纳斯达克综合指数（纳指）收跌258.796点，跌幅1.13%，报22627.273点。 纳斯达克100指数收跌303.677点，跌幅1.21%，报24708.942点。 纳斯达克生物科技指数收涨0.58%，报6014.09点。 费城半导体指数收跌0.57%，报8213.457点。 费城证交所KBW银行指数收跌4.40%，报161.73点，美股早盘持续下跌，呈现出长尾L形走势。 道琼斯KBW地区银行指数收跌4.27%，报132.90点。",
@@ -1609,7 +1693,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -1620,7 +1704,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -1880,7 +1964,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -1899,8 +1983,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌表示，ProdureAI将加入谷歌实验室。",
+          "url": "https://flash.jin10.com/detail/20260224221205836800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
         {
           "title": "谷歌(GOOG.O)：将采用限制用水量的技术设施。",
           "url": "https://flash.jin10.com/detail/20260224211336544800",
@@ -1908,7 +2003,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         }
