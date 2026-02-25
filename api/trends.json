@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T08:28:57.970508+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-02-25T09:36:36.630624+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 08时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时36分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -42,6 +42,21 @@
           "time_info": "[00时25分 ~ 07时11分]"
         },
         {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 09时36分]"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -56,18 +71,15 @@
           "time_info": "[00时25分 ~ 08时28分]"
         },
         {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
+          "title": "特朗普，走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7,
-            6,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 08时28分]"
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 09时36分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -117,15 +129,26 @@
           "time_info": "04时12分"
         },
         {
-          "title": "特朗普，走上“关税悬崖”",
-          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我还要终结处方药价格的飞涨。其他总统也尝试过，但他们都失败了。他们只会空谈，没有实际行动。而我做到了。",
+          "url": "https://flash.jin10.com/detail/20260225092719887800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时28分"
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美国总统特朗普：展望未来，工厂、就业、投资和数万亿美元将继续涌入美国——因为我们终于有了一位把美国放在首位的总统。",
+          "url": "https://flash.jin10.com/detail/20260225092652948800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
@@ -249,6 +272,17 @@
           "time_info": "[06时16分 ~ 07时11分]"
         },
         {
+          "title": "美国总统特朗普：我们实现了前所未有的变革，实现了划时代的逆转。",
+          "url": "https://flash.jin10.com/detail/20260225092635757800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
           "url": "https://flash.jin10.com/detail/20260225062520187800",
           "source": "金十数据",
@@ -271,13 +305,24 @@
           "time_info": "02时23分"
         },
         {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
           "url": "https://wallstreetcn.com/livenews/3058394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -302,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "派拉蒙首席执行官大卫·埃里森将出席特朗普的国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20260225091354888800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
@@ -418,19 +474,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 08时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时36分]"
         },
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
           "url": "https://www.cls.cn/detail/2294131",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 09时36分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -509,7 +566,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -620,8 +677,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 08时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时36分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -635,8 +692,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 08时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时36分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -647,8 +704,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 08时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时36分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -663,6 +720,17 @@
           "time_info": "[00时25分 ~ 06时16分]"
         },
         {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 09时36分]"
+        },
+        {
           "title": "市场消息：知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加当地时间下午3点向“八人小组”进行的伊朗问题简报会。",
           "url": "https://flash.jin10.com/detail/20260225021001091800",
           "source": "金十数据",
@@ -672,17 +740,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "在伊朗中国人：华联会已准备撤离方案",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
         },
         {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
@@ -838,6 +895,18 @@
           "time_info": "04时12分"
         },
         {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时28分 ~ 09时36分]"
+        },
+        {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
           "url": "https://wallstreetcn.com/livenews/3058254",
           "source": "华尔街见闻-快讯",
@@ -859,17 +928,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
-          "url": "https://www.cls.cn/detail/2294085",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时28分"
         }
       ]
     },
@@ -895,7 +953,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
         },
@@ -906,9 +964,48 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周二（2月24日）纽约尾盘，ICE美元指数涨0.14%，报97,843点，日内交投区间为97.695-97.986点。 彭博美元指数涨0.03%，报1189.77点，日内交投区间为1188.71-1192.00点。",
+          "url": "https://wallstreetcn.com/livenews/3058322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260225043145236800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "澳大利亚CPI数据公布后，澳元兑美元小幅走高，澳洲股指ASX 200指数涨幅收窄至0.6%，澳大利亚3年期国债收益率上行4个基点。",
+          "url": "https://wallstreetcn.com/livenews/3058410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     },
@@ -934,34 +1031,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周二（2月24日）纽约尾盘，ICE美元指数涨0.14%，报97,843点，日内交投区间为97.695-97.986点。 彭博美元指数涨0.03%，报1189.77点，日内交投区间为1188.71-1192.00点。",
-          "url": "https://wallstreetcn.com/livenews/3058322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美元指数24日上涨",
-          "url": "https://flash.jin10.com/detail/20260225043145236800",
-          "source": "金十数据",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
