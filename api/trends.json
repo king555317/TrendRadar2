@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T15:34:24.324621+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-03-16T16:26:25.359442+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 107,
+      "match_count": 109,
       "titles": [
         {
           "title": "美以袭击已致伊朗至少202名儿童死亡",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 16时26分]"
         },
         {
           "title": "【早报】伊朗提出停战条件；腾讯“龙虾”全国免费安装",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时08分 ~ 07时10分]"
+        },
+        {
+          "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
+          "url": "https://news.ifeng.com/c/8rWNQ4DcbqP",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 16时26分]"
         },
         {
           "title": "伊朗高官：乌克兰向以色列提供帮助，已成伊朗合法打击目标",
@@ -55,19 +66,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时09分 ~ 15时34分]"
+          "appearance_count": 17,
+          "time_info": "[01时09分 ~ 16时26分]"
         },
         {
-          "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
-          "url": "https://news.ifeng.com/c/8rWNQ4DcbqP",
+          "title": "伊朗外长：以色列轰炸德黑兰燃料库构成生态灭绝罪",
+          "url": "https://news.ifeng.com/c/8rXHR4YfLU9",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 15时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 16时26分]"
+        },
+        {
+          "title": "监控拍到伊朗导弹命中以街道瞬间",
+          "url": "https://news.ifeng.com/c/8rXAgOdvIJb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 16时26分]"
         },
         {
           "title": "伊朗革命卫队：将追杀内塔尼亚胡",
@@ -112,19 +134,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时34分]"
-        },
-        {
-          "title": "伊朗外长：以色列轰炸德黑兰燃料库构成生态灭绝罪",
-          "url": "https://news.ifeng.com/c/8rXHR4YfLU9",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 15时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 16时26分]"
         },
         {
           "title": "伊朗导弹碎片击中美驻以色列领事官邸",
@@ -151,17 +162,6 @@
           "time_info": "[00时08分 ~ 09时37分]"
         },
         {
-          "title": "监控拍到伊朗导弹命中以街道瞬间",
-          "url": "https://news.ifeng.com/c/8rXAgOdvIJb",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 15时34分]"
-        },
-        {
           "title": "泽连斯基：乌克兰未卷入与伊朗的战争",
           "url": "https://news.ifeng.com/c/8rWD6LESPBl",
           "source": "凤凰网",
@@ -170,8 +170,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 16时26分]"
         },
         {
           "title": "伊朗袭击美国花旗银行分行；以色列再遭导弹袭击！伊朗船只迫近“林肯号”航母，美军连开数炮全打空",
@@ -199,8 +199,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 16时26分]"
         },
         {
           "title": "伊朗称将追杀内塔尼亚胡",
@@ -303,6 +303,17 @@
           "time_info": "[00时08分 ~ 07时10分]"
         },
         {
+          "title": "美以袭击伊朗进入第 17 天，当前局势怎样？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016642853556678935",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时31分 ~ 16时26分]"
+        },
+        {
           "title": "伊朗发射泥石弹道导弹",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E6%B3%A5%E7%9F%B3%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -312,17 +323,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时10分 ~ 08时31分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 17 天，当前局势怎样？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016642853556678935",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时31分 ~ 15时34分]"
         },
         {
           "title": "以总理发布视频自证仍“在世”，称将继续对伊朗行动",
@@ -351,6 +351,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 06时08分]"
+        },
+        {
+          "title": "伊朗无人机袭击迪拜、巴林花旗银行分行，美方曾打击伊银行，双方互袭金融机构，对全球金融市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2016300383673283698",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时37分 ~ 16时26分]"
         },
         {
           "title": "伊朗强调敌人别无选择只能投降",
@@ -402,6 +414,18 @@
           "time_info": "[00时09分 ~ 06时08分]"
         },
         {
+          "title": "伊朗称目前发射导弹多为10年前生产",
+          "url": "https://www.toutiao.com/trending/7616976559953723430/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 16时26分]"
+        },
+        {
           "title": "伊朗攻击美战机支援基地",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E7%BE%8E%E6%88%98%E6%9C%BA%E6%94%AF%E6%8F%B4%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -414,18 +438,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时10分 ~ 07时10分]"
-        },
-        {
-          "title": "伊朗无人机袭击迪拜、巴林花旗银行分行，美方曾打击伊银行，双方互袭金融机构，对全球金融市场有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2016300383673283698",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时37分 ~ 15时34分]"
         },
         {
           "title": "伊朗导弹碎片击中美驻以领事官邸建筑",
@@ -442,27 +454,42 @@
           "time_info": "[02时10分 ~ 07时10分]"
         },
         {
+          "title": "伊朗称440公斤60%丰度浓缩铀被埋",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0440%E5%85%AC%E6%96%A460%25%E4%B8%B0%E5%BA%A6%E6%B5%93%E7%BC%A9%E9%93%80%E8%A2%AB%E5%9F%8B%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 16时26分]"
+        },
+        {
           "title": "伊朗外长称伊朗袭击只针对美国",
           "url": "https://wallstreetcn.com/livenews/3070698",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
         {
-          "title": "伊朗称目前发射导弹多为10年前生产",
-          "url": "https://www.toutiao.com/trending/7616976559953723430/",
+          "title": "伊朗称同时打击美军4个空军基地",
+          "url": "https://www.toutiao.com/trending/7616705806347780147/",
           "source": "今日头条",
           "ranks": [
-            11,
-            12
+            17,
+            14,
+            16,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时07分 ~ 15时34分]"
+          "time_info": "[12时55分 ~ 16时26分]"
         },
         {
           "title": "伊朗称目前发射导弹多为10年前生产",
@@ -505,31 +532,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时09分 ~ 03时12分]"
-        },
-        {
-          "title": "伊朗称440公斤60%丰度浓缩铀被埋",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0440%E5%85%AC%E6%96%A460%25%E4%B8%B0%E5%BA%A6%E6%B5%93%E7%BC%A9%E9%93%80%E8%A2%AB%E5%9F%8B%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 15时34分]"
-        },
-        {
-          "title": "伊朗称同时打击美军4个空军基地",
-          "url": "https://www.toutiao.com/trending/7616705806347780147/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 15时34分]"
         },
         {
           "title": "伊朗高官称乌克兰已成合法打击目标",
@@ -582,6 +584,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时08分 ~ 06时08分]"
+        },
+        {
+          "title": "避险资产失灵了？伊朗战火不断 黄金跌破5000美元整数关",
+          "url": "https://www.cls.cn/detail/2313909",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时26分]"
         },
         {
           "title": "伊朗驻沙特阿拉伯大使：伊朗不对沙特阿拉伯拉斯坦努拉和谢拜石油设施遭袭事件负责。",
@@ -724,6 +739,30 @@
           "time_info": "[03时12分 ~ 04时08分]"
         },
         {
+          "title": "伊朗称目前发射导弹多为10年前生产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32774677",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 16时26分]"
+        },
+        {
+          "title": "伊朗称440公斤60%丰度浓缩铀被埋",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0440%E5%85%AC%E6%96%A460%25%E4%B8%B0%E5%BA%A6%E6%B5%93%E7%BC%A9%E9%93%80%E8%A2%AB%E5%9F%8B",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时26分]"
+        },
+        {
           "title": "伊朗外长：从未提出过停火及谈判请求",
           "url": "https://flash.jin10.com/detail/20260315231835819800",
           "source": "金十数据",
@@ -789,19 +828,6 @@
           "time_info": "[00时09分 ~ 02时11分]"
         },
         {
-          "title": "伊朗称目前发射导弹多为10年前生产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32774677",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 15时34分]"
-        },
-        {
           "title": "乌克兰接连遭美国和伊朗“敲打”",
           "url": "https://www.toutiao.com/trending/7617394527628886022/",
           "source": "今日头条",
@@ -814,17 +840,6 @@
           "time_info": "[03时12分 ~ 05时09分]"
         },
         {
-          "title": "伊朗称440公斤60%丰度浓缩铀被埋",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0440%E5%85%AC%E6%96%A460%25%E4%B8%B0%E5%BA%A6%E6%B5%93%E7%BC%A9%E9%93%80%E8%A2%AB%E5%9F%8B",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时34分]"
-        },
-        {
           "title": "伊朗外长称以色列轰炸德黑兰燃料库构成生态灭绝罪",
           "url": "https://wallstreetcn.com/livenews/3070550",
           "source": "华尔街见闻-快讯",
@@ -835,18 +850,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 12时56分]"
-        },
-        {
-          "title": "避险资产失灵了？伊朗战火不断 黄金跌破5000美元整数关",
-          "url": "https://www.cls.cn/detail/2313909",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时34分]"
         },
         {
           "title": "高盛警告：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
@@ -1220,6 +1223,17 @@
           "time_info": "08时31分"
         },
         {
+          "title": "以色列国防军：不久前，我们发现从伊朗发射的导弹朝以色列领土飞来。防御系统正在运作以拦截威胁。",
+          "url": "https://flash.jin10.com/detail/20260316160451397800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "伊朗称同时打击美军4个空军基地 摧毁超80%重要设施",
           "url": "https://wallstreetcn.com/livenews/3070422",
           "source": "华尔街见闻-快讯",
@@ -1303,9 +1317,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "外界分析伊朗战事持续会影响中国能源供应，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3070710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "以色列军方发言人：对伊朗的军事行动至少再持续三周",
@@ -1322,7 +1347,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
@@ -1433,6 +1458,19 @@
           "time_info": "[00时08分 ~ 08时31分]"
         },
         {
+          "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
+          "url": "https://www.cls.cn/detail/2313562",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
           "url": "https://wallstreetcn.com/articles/3767537",
           "source": "华尔街见闻",
@@ -1457,21 +1495,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时34分]"
-        },
-        {
-          "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
-          "url": "https://www.cls.cn/detail/2313562",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 15时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 16时26分]"
         },
         {
           "title": "美以伊战争丨美媒：特朗普考虑派兵攻占伊朗哈尔克岛",
@@ -1483,6 +1508,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 13时39分]"
+        },
+        {
+          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016791283864138046",
+          "source": "知乎",
+          "ranks": [
+            18,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时37分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
+          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 16时26分]"
         },
         {
           "title": "特朗普称“可能还会再炸几次，只是为了开心”，伊朗外长回应",
@@ -1498,28 +1548,15 @@
           "time_info": "[01时09分 ~ 06时08分]"
         },
         {
-          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
-          "url": "https://www.zhihu.com/question/2016791283864138046",
-          "source": "知乎",
+          "title": "中方回应特朗普涉访华言论",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E8%AE%BF%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            18,
-            11,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时37分 ~ 15时34分]"
-        },
-        {
-          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
-          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 15时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美以伊战争丨伊外长：人们被杀只因特朗普想找乐子",
@@ -1542,6 +1579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "美以伊战争丨不协助护航特朗普就不访华？外交部回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国总统特朗普：我们正在打击伊朗的无人机制造设施。",
@@ -1643,6 +1691,19 @@
           "time_info": "08时31分"
         },
         {
+          "title": "民调：特朗普正将美国盟友推向中国",
+          "url": "https://www.toutiao.com/trending/7617510305036795923/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普称正与他国商讨共同保障霍尔木兹海峡航行安全",
           "url": "https://wallstreetcn.com/livenews/3070554",
           "source": "华尔街见闻-快讯",
@@ -1693,16 +1754,15 @@
           "time_info": "[04时08分 ~ 06时08分]"
         },
         {
-          "title": "民调：特朗普正将美国盟友推向中国",
-          "url": "https://www.toutiao.com/trending/7617510305036795923/",
-          "source": "今日头条",
+          "title": "特朗普威胁将取消访华 中方回应",
+          "url": "https://www.douyin.com/hot/2432550",
+          "source": "抖音",
           "ranks": [
-            9,
-            8
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "特朗普：伊朗利用AI制作美航母着火画面 假新闻媒体应被诉叛国罪",
@@ -1749,6 +1809,17 @@
           "time_info": "11时07分"
         },
         {
+          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
+          "url": "https://www.cls.cn/detail/2314062",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美国总统特朗普：那些传播假消息的媒体机构应因散布虚假信息而被以叛国罪起诉。",
           "url": "https://flash.jin10.com/detail/20260316075114013800",
           "source": "金十数据",
@@ -1788,9 +1859,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "中方：中美就特朗普访华保持着沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "据华尔街日报：埃克森美孚、雪佛龙、康菲石油公司首席执行官警告美国总统特朗普的官员，伊朗战争扰乱霍尔木兹海峡将加剧能源危机。",
@@ -1961,7 +2043,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -1974,8 +2056,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时08分 ~ 15时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 16时26分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前涨3.8%，此前加拿大皇家银行大幅上调其目标价。",
+          "url": "https://flash.jin10.com/detail/20260316161407498800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "美光科技美股盘前涨3.8%，此前加拿大皇家银行将其目标价从425美元上调至525美元。",
+          "url": "https://wallstreetcn.com/livenews/3070742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
@@ -1988,6 +2092,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时55分 ~ 15时34分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股收涨1.1%，美股期货走高，比特币月内涨逾12%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -2026,11 +2141,12 @@
             16,
             13,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 15时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 16时26分]"
         },
         {
           "title": "中东战事进入第三周 金价持稳于5000美元上方",
