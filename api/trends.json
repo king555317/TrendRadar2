@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:09:07.307242+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-03-23T08:29:50.851788+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 76,
+      "match_count": 83,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗发射导弹后，英国外交大臣：我们和美以立场不同",
@@ -38,8 +38,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
+        },
+        {
+          "title": "高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退”",
+          "url": "https://wallstreetcn.com/articles/3768093",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "以总理：将直接打击伊朗革命卫队领导人",
@@ -49,20 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
-        },
-        {
-          "title": "高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退”",
-          "url": "https://wallstreetcn.com/articles/3768093",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "多方消息显示 美政府正为潜在的对伊朗谈判展开讨论",
@@ -74,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
@@ -85,11 +86,12 @@
             4,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗首次实战使用射程4000公里导弹，意味着啥？",
@@ -119,11 +121,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "以色列拦截伊朗导弹失败画面曝光",
@@ -133,11 +136,12 @@
             7,
             6,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗武装部队称已从防御转为进攻",
@@ -147,8 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗导弹绕过以色列拦截弹",
@@ -159,11 +163,12 @@
             25,
             13,
             7,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "俄方：暗杀伊朗领导人产生极严重后果",
@@ -172,11 +177,12 @@
           "ranks": [
             8,
             7,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗官员提出停战六项条件",
@@ -189,8 +195,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗宣布：从防御转为进攻！制造出了先进新武器，“造价低廉，破坏力更强，可快速量产”",
@@ -201,8 +207,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时09分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[02时09分 ~ 08时29分]"
         },
         {
           "title": "沙特要求伊朗武官离境",
@@ -212,19 +218,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗武装部队称已从防御转为进攻，已生产并制造了先进装备和武器，伊朗下一步反击会瞄准哪些核心目标？",
           "url": "https://www.zhihu.com/question/2019102219950117658",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "以色列拦截伊朗导弹失败瞬间画面曝光",
@@ -233,11 +240,24 @@
           "ranks": [
             18,
             15,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
+        },
+        {
+          "title": "【早报】何立峰会见跨国公司负责人；美政府正为潜在的对伊朗谈判展开讨论",
+          "url": "https://www.cls.cn/detail/2320443",
+          "source": "财联社热门",
+          "ranks": [
+            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "俄称暗杀伊朗领导人后果极其严重",
@@ -245,11 +265,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时09分]"
+          "appearance_count": 12,
+          "time_info": "[01时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗媒体：伊官员提出停战六项条件",
@@ -260,22 +281,12 @@
             13,
             24,
             20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时09分]"
-        },
-        {
-          "title": "【早报】何立峰会见跨国公司负责人；美政府正为潜在的对伊朗谈判展开讨论",
-          "url": "https://www.cls.cn/detail/2320443",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            17,
+            25
           ],
           "is_new": false,
           "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "普京称俄罗斯是伊朗艰难时刻的忠实伙伴，怎样解读？俄罗斯会介入美以伊战争吗？",
@@ -310,11 +321,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗称国产防空系统击中美军 F-35 战机，可能是用什么武器击中的？F-35 神话破灭了吗？",
@@ -324,8 +336,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "以色列驻美大使迈克尔·莱特：摧毁伊朗的基础设施并非不可行。某个时刻，必须投入必要的“成本”，以确保伊朗无法“挟持全世界”。",
@@ -361,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时07分 ~ 07时09分]"
+          "appearance_count": 4,
+          "time_info": "[06时07分 ~ 08时29分]"
         },
         {
           "title": "本轮美以伊冲突以来，伊朗已有210名儿童死亡。",
@@ -548,6 +560,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时10分 ~ 06时07分]"
+        },
+        {
+          "title": "伊朗首都德黑兰传出数声巨大爆炸声。爆炸发生后，德黑兰防空系统启动。",
+          "url": "https://flash.jin10.com/detail/20260323082131139800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
+        },
+        {
+          "title": "【早报】伊朗提出停战六项条件；宇树科技IPO获受理",
+          "url": "https://www.cls.cn/detail/2320760",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
         },
         {
           "title": "伊朗总统：霍尔木兹海峡对所有人开放，唯独不欢迎侵略者",
@@ -953,13 +987,24 @@
           "time_info": "[00时08分 ~ 01时08分]"
         },
         {
+          "title": "美以袭击伊朗进入第 24 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019175393739891014",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
+        },
+        {
           "title": "伊朗发动“真实承诺-4”第75轮军事行动",
           "url": "https://wallstreetcn.com/livenews/3074646",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -970,15 +1015,59 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "伊朗彻底豁出去了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BD%BB%E5%BA%95%E8%B1%81%E5%87%BA%E5%8E%BB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
+        },
+        {
+          "title": "CIA前局长：美国入侵伊朗无正当理由",
+          "url": "https://www.toutiao.com/trending/7619128319224872986/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
+        },
+        {
+          "title": "伊朗阐述霍尔木兹海峡通行原则",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%90%E8%BF%B0%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%80%9A%E8%A1%8C%E5%8E%9F%E5%88%99",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
+        },
+        {
+          "title": "伊朗发动“真实承诺4”第75轮行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC75%E8%BD%AE%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -988,8 +1077,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
@@ -1000,8 +1089,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
@@ -1009,11 +1098,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -1024,8 +1114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -1035,11 +1125,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
@@ -1060,8 +1151,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "美以伊战争丨特朗普威胁将伊朗抹去，伊总统回应",
@@ -1081,11 +1172,12 @@
           "ranks": [
             12,
             15,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
@@ -1095,8 +1187,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗议长回应特朗普“最后通牒”",
@@ -1105,11 +1197,12 @@
           "ranks": [
             21,
             24,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 07时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 08时29分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁：若发电站遭袭将全面关闭霍尔木兹海峡",
@@ -1146,7 +1239,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -1240,13 +1333,24 @@
           "time_info": "[00时08分 ~ 01时08分]"
         },
         {
+          "title": "特朗普团队据称正准备和谈预案，美伊强硬要价双双曝光！",
+          "url": "https://flash.jin10.com/detail/20260323080619384800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
+        },
+        {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默今晚与美国总统特朗普进行了通话。",
           "url": "https://flash.jin10.com/detail/20260323060003087800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         }
@@ -1263,7 +1367,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -1274,7 +1378,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -1285,9 +1389,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据泰晤士报：前谷歌高管马特·布里廷（Matt Brittin）确认出任英国广播公司（BBC）总干事。",
+          "url": "https://flash.jin10.com/detail/20260323081051115800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时29分"
         }
       ]
     },
