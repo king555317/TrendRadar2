@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T04:27:34.875559+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-04-28T05:25:52.461720+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
@@ -26,11 +26,12 @@
             21,
             10,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
@@ -51,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "伊朗战争丨普京会见伊朗外长，与穆杰塔巴隔空互动",
@@ -62,19 +63,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
           "url": "https://www.zhihu.com/question/2032051759590397567",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
@@ -82,11 +84,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
@@ -96,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "普京：已收到伊朗最高领袖传来的信息",
@@ -106,11 +109,12 @@
           "ranks": [
             14,
             15,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
@@ -119,11 +123,12 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "鲁比奥：伊朗对达成协议“非常认真”",
@@ -137,15 +142,39 @@
           "time_info": "00时35分"
         },
         {
-          "title": "伊朗外交部：美方扣押伊朗油轮是将“海盗行为”合法化",
-          "url": "https://wallstreetcn.com/livenews/3095209",
-          "source": "华尔街见闻-快讯",
+          "title": "默茨：美国就伊朗战事缺乏战略性退出方案",
+          "url": "https://flash.jin10.com/detail/20260428042814365800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
+          "url": "https://wallstreetcn.com/livenews/3095230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "普京会见伊朗外长阿拉格齐",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 05时25分]"
         },
         {
           "title": "伊朗外交部谴责美国扣押与伊朗有关的油轮，称此举是“公然将公海上的海盗行为和武装抢劫合法化”。",
@@ -153,11 +182,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[03时34分 ~ 05时25分]"
+        },
+        {
+          "title": "俄防长会见伊朗副防长",
+          "url": "https://flash.jin10.com/detail/20260428032557405800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时34分 ~ 05时25分]"
         },
         {
           "title": "白宫新闻秘书莱维特：我不会说美国正在考虑伊朗的提议。",
@@ -170,18 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时31分]"
-        },
-        {
-          "title": "俄防长会见伊朗副防长",
-          "url": "https://flash.jin10.com/detail/20260428032557405800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时27分]"
         },
         {
           "title": "伊朗外长：伊方正研究和评估美方的谈判请求",
@@ -206,6 +237,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时31分]"
+        },
+        {
+          "title": "伊朗外交部：美方扣押伊朗油轮是将“海盗行为”合法化",
+          "url": "https://wallstreetcn.com/livenews/3095209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
         },
         {
           "title": "伊朗外长：与普京畅谈一个半小时“富有成效”",
@@ -244,17 +287,28 @@
           "time_info": "[03时34分 ~ 04时27分]"
         },
         {
-          "title": "普京会见伊朗外长阿拉格齐",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90",
-          "source": "百度热搜",
+          "title": "美国财政部：财长贝森特上周五与欧盟委员会副主席谢夫乔维奇举行会谈。 双方强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
+          "url": "https://wallstreetcn.com/livenews/3095206",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28,
-            30,
-            23
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 04时27分]"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
+        },
+        {
+          "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
+          "url": "https://flash.jin10.com/detail/20260428033348055800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
         },
         {
           "title": "伊朗议员：坚信伊朗谈判代表团将维护国家权益",
@@ -292,17 +346,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "美国财政部：财长贝森特上周五与欧盟委员会副主席谢夫乔维奇举行会谈。 双方强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
-          "url": "https://wallstreetcn.com/livenews/3095206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
           "title": "美国驻联合国代表：伊朗威胁要征收费用或所谓的贿赂，以允许船只通过霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260428002659245800",
           "source": "金十数据",
@@ -314,15 +357,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
-          "url": "https://flash.jin10.com/detail/20260428033348055800",
-          "source": "金十数据",
+          "title": "美国财长贝森特警告那些与伊朗航空公司合作的企业。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "05时25分"
         },
         {
           "title": "伊朗外长：与普京畅谈一个半小时“富有成效”",
@@ -336,6 +379,39 @@
           "time_info": "01时33分"
         },
         {
+          "title": "美国共和党参议员格雷厄姆：若要实现成功的谈判，必须有双方的通力配合与意愿。显然，如果上述报道属实，那么伊朗无疑是在玩弄把戏。",
+          "url": "https://flash.jin10.com/detail/20260428040001211800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "俄防长会见伊朗副防长",
+          "url": "https://wallstreetcn.com/livenews/3095219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：我无法断言有关伊朗提出新提议的相关报道究竟有多准确，其内容是通过解除对伊封锁、开放海峡并留待日后解决其他问题来结束战争。",
+          "url": "https://flash.jin10.com/detail/20260428035942365800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "伊朗第一副总统：曾经拒绝向我们的飞机提供燃料的国家现在正与我们谈判以确保能源来源。",
           "url": "https://flash.jin10.com/detail/20260428001951703800",
           "source": "金十数据",
@@ -345,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：伊朗提出的所谓新提议是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260428035812262800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "伊朗暂停出口部分钢铁产品",
@@ -438,7 +525,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -448,8 +535,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
@@ -459,8 +546,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
@@ -470,8 +557,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
+        },
+        {
+          "title": "白宫遭枪击,特朗普紧急撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "美国总统特朗普：应当立即解雇Jimmy Kimmel。",
@@ -483,18 +582,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
-        },
-        {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天与团队讨论了伊朗的建议。 很快就会听到特朗普对于伊朗的态度。",
@@ -517,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3095228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "白宫：特朗普及其国安团队开会讨论伊朗新提案",
@@ -672,6 +770,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
+          "url": "https://flash.jin10.com/detail/20260428035839355800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "迪士尼股价短线下挫，从涨约0.5%转而下跌约0.4%。 美国总统特朗普声称，ABC与迪士尼应当立即解雇Jimmy Kimmel，Kimmel一点都不风趣。",
           "url": "https://wallstreetcn.com/livenews/3095163",
           "source": "华尔街见闻-快讯",
@@ -782,6 +891,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "【为刺激更多石油和天然投资，特朗普政府将终止更多海上风电租赁】",
+          "url": "https://wallstreetcn.com/livenews/3095200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普感谢特勤局。",
           "url": "https://flash.jin10.com/detail/20260428010613398800",
           "source": "金十数据",
@@ -821,17 +941,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "谷歌就专利局“既定预期”规则向美国最高法院提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3095208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
           "title": "谷歌公司员工呼吁CEO Pichai阻止美国军方使用其AI技术（产品）。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3095134",
           "source": "华尔街见闻-快讯",
@@ -853,6 +962,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时33分]"
+        },
+        {
+          "title": "谷歌就专利局“既定预期”规则向美国最高法院提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3095208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
         },
         {
           "title": "谷歌在安卓生态中的AI主导权遭欧盟“狙击”",
@@ -971,7 +1092,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -981,8 +1102,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
+        },
+        {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -994,17 +1126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
         },
         {
           "title": "金十图示：2026年04月27日（周一）热门中概股行情一览（美股盘中）",
@@ -1022,11 +1143,56 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 05时25分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3095227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美股收盘：英伟达涨4%创新高",
+          "url": "https://flash.jin10.com/detail/20260428040039049800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。 预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。 Rambus美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3095220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     },
@@ -1039,22 +1205,24 @@
           "url": "https://flash.jin10.com/detail/20260428034651678800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
         },
         {
           "title": "周一（4月27日）纽约尾盘，ICE美元指数跌0.07%，报98.461点，日内交投区间为98.644-98.214点，整体呈现出V形走势。 彭博美元指数跌0.10%，报1195.71点，日内交投区间为1198.01-1193.14点，也呈现出两波V形走势。 美元兑日元涨0.01%，报159.40日元，日内交投区间为159.68-159.10日元。",
           "url": "https://wallstreetcn.com/livenews/3095207",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
         },
         {
           "title": "英伟达涨超3%，刷新盘中历史高位至215美元上方，盘中市值5.22万亿美元。费城半导体指数目前跌超1.6%。",
@@ -1097,8 +1265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "媒体：梁文锋这一次要掀桌",
@@ -1109,22 +1277,24 @@
             8,
             5,
             7,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
           "url": "https://www.cls.cn/detail/2357012",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         }
       ]
     },
@@ -1137,11 +1307,12 @@
           "url": "https://wallstreetcn.com/livenews/3095212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 05时25分]"
         },
         {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.812%（3月24日为3.936%），投标倍数2.65（前次为2.44）。 两年期美债收益率涨2.95个基点，刷新日高至3.8078%。",
@@ -1170,8 +1341,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 05时25分]"
         }
       ]
     },
