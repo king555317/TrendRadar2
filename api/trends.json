@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:36:58.606486+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-04-29T21:37:23.364918+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
@@ -43,8 +43,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时49分 ~ 21时37分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时49分 ~ 20时36分]"
+          "time_info": "[17时45分 ~ 21时37分]"
         },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -60,17 +71,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时39分 ~ 15时46分]"
-        },
-        {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 20时36分]"
         },
         {
           "title": "特朗普：美国准备长期封锁伊朗",
@@ -181,6 +181,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时53分 ~ 18时39分]"
+        },
+        {
+          "title": "特朗普访问英国有何看点",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E8%8B%B1%E5%9B%BD%E6%9C%89%E4%BD%95%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国务院将发行印有特朗普肖像的限量版护照",
@@ -541,6 +563,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "白宫官员：特朗普与石油公司讨论了在必要时将伊朗封锁措施持续数月的计划。",
+          "url": "https://wallstreetcn.com/livenews/3096715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "路透社/益普索调查：因生活成本担忧和伊朗战争，美国总统特朗普的支持率持续下滑，降至其任期内最低水平。",
           "url": "https://flash.jin10.com/detail/20260429010805616800",
           "source": "金十数据",
@@ -651,6 +684,17 @@
           "time_info": "11时09分"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
           "url": "https://flash.jin10.com/detail/20260429024103001800",
           "source": "金十数据",
@@ -684,6 +728,17 @@
           "time_info": "11时09分"
         },
         {
+          "title": "美国参议员沃伦：特朗普正在阻碍降低利率。 特朗普正在限制美联储的行动空间。",
+          "url": "https://wallstreetcn.com/livenews/3096692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "特朗普对德国总理涉伊朗言论不满",
           "url": "https://www.toutiao.com/trending/7633736555437506611/",
           "source": "今日头条",
@@ -698,7 +753,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -706,11 +761,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时08分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时08分 ~ 21时37分]"
         },
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -722,6 +778,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时53分 ~ 21时37分]"
         },
         {
           "title": "伊朗陆军：战争尚未结束，正严阵以待",
@@ -745,18 +813,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时41分 ~ 14时53分]"
-        },
-        {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时53分 ~ 20时36分]"
         },
         {
           "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
@@ -836,6 +892,17 @@
           "time_info": "[00时39分 ~ 07时21分]"
         },
         {
+          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时49分 ~ 21时37分]"
+        },
+        {
           "title": "8岁伊朗男孩回到中国学校 全班沸腾",
           "url": "https://www.baidu.com/s?wd=8%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AD%A6%E6%A0%A1+%E5%85%A8%E7%8F%AD%E6%B2%B8%E8%85%BE",
           "source": "百度热搜",
@@ -847,17 +914,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时08分 ~ 16时49分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗出现新现象，强硬派的声音开始被压制",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时49分 ~ 20时36分]"
         },
         {
           "title": "伊朗外交部：国际红十字委员会主席埃格与伊朗外交部长阿拉格齐举行对话。",
@@ -924,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "伊朗怒批美国海上封锁行动，宣称将发动“前所未有”军事反击",
+          "url": "https://flash.jin10.com/detail/20260429211308061800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "英国首相府：英国财政大臣明确表示，政府需要对伊朗战争对经济的影响做出灵活和负责任的回应。",
@@ -1118,6 +1185,17 @@
           "time_info": "[06时22分 ~ 06时23分]"
         },
         {
+          "title": "橡树资本：受伊朗战争影响，旗下大数据中心公司暂停中东投资决策",
+          "url": "https://wallstreetcn.com/livenews/3096720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国财政部：对35个伊朗实体和个人实施制裁。",
           "url": "https://flash.jin10.com/detail/20260429021657295800",
           "source": "金十数据",
@@ -1162,6 +1240,28 @@
           "time_info": "15时46分"
         },
         {
+          "title": "随着60天期限临近，美国共和党正在讨论是否对伊朗战争进行授权。",
+          "url": "https://flash.jin10.com/detail/20260429210523649800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "伊朗：将以前所未有的军事行动回应美",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：伊朗和平协议必须包括霍尔木兹海峡自由通行。 中东冲突的影响可能会持续多年。",
           "url": "https://wallstreetcn.com/livenews/3096306",
           "source": "华尔街见闻-快讯",
@@ -1190,7 +1290,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1300,7 +1400,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1314,6 +1414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "国际原子能机构总干事格罗西：伊朗的铀库存问题必须得到解决。",
+          "url": "https://flash.jin10.com/detail/20260429205218421800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "日本首相高市早苗：日本将就船只安全通行事宜和伊朗接洽。",
@@ -1336,6 +1447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "巴基斯坦总理：伊朗将就伊美会谈前景作出回应",
+          "url": "https://wallstreetcn.com/livenews/3096687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
@@ -1351,8 +1473,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时41分 ~ 20时36分]"
+          "appearance_count": 16,
+          "time_info": "[08时41分 ~ 21时37分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -1381,6 +1503,20 @@
           "time_info": "[06时22分 ~ 14时53分]"
         },
         {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[07时21分 ~ 21时37分]"
+        },
+        {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
@@ -1394,17 +1530,17 @@
           "time_info": "[00时39分 ~ 09时39分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
           "ranks": [
-            7,
+            8,
             6,
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时21分 ~ 20时36分]"
+          "appearance_count": 10,
+          "time_info": "[14时53分 ~ 21时37分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -1416,18 +1552,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 05时26分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时53分 ~ 20时36分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -1505,11 +1629,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 21时37分]"
         },
         {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
@@ -1675,7 +1800,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美元指数短线小幅拉升，现报98.71。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至1%。美国10年期国债收益率短线拉升，现报4.361%。现货黄金短线小幅走低，现报4561.55美元/盎司。",
@@ -1684,9 +1809,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌超1%，医疗业ETF跌近1%，能源业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3096727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美股盘初：存储芯片概念股大涨，希捷科技涨约17%",
+          "url": "https://wallstreetcn.com/livenews/3096722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
@@ -1776,12 +1923,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3096698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -1809,8 +1967,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时08分 ~ 20时36分]"
+          "appearance_count": 11,
+          "time_info": "[13时08分 ~ 21时37分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -1822,8 +1980,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 20时36分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 21时37分]"
         },
         {
           "title": "DeepSeekV4Pro优惠延期",
@@ -1837,6 +1995,17 @@
           "time_info": "[09时38分 ~ 09时39分]"
         },
         {
+          "title": "DeepSeek正内测识图功能",
+          "url": "https://wallstreetcn.com/livenews/3096728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "DeepSeek上线识图模式",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
           "source": "百度热搜",
@@ -1844,8 +2013,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 21时37分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -1863,11 +2032,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeekV4%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时37分]"
         }
       ]
     },
@@ -1967,7 +2137,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.59%，暂报2633.22点，北京时间07:55刷新日高至2688.46点，随后逐步下挫。 MarketVectorTM数字资产100中盘指数跌0.65%，报2834.73点。 MarketVector数字资产100指数跌0.52%，报15047.93点，08:48刷新日高至15274.89点，之后也逐步下挫。 目前，Solana跌0.70%，狗狗币涨1.97%，XRP涨1.11%。 比特币跌0.89%，暂报76078.21美元；以太坊跌0.02%，暂报2285.45美元。",
@@ -1992,6 +2162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时21分]"
+        },
+        {
+          "title": "随着国际原油价格走高，美元指数DXY升至日内高点，最高至98.77。",
+          "url": "https://flash.jin10.com/detail/20260429205646119800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     }
