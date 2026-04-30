@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T08:41:02.496905+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-04-30T09:38:44.582399+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 08时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时38分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 08时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时38分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -43,6 +43,17 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时38分]"
+        },
+        {
           "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
           "url": "https://www.zhihu.com/question/2032828585195434245",
           "source": "知乎",
@@ -54,15 +65,38 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
           "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时38分]"
+        },
+        {
+          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
+          "url": "https://www.cls.cn/detail/2360318",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时22分 ~ 08时41分]"
+          "time_info": "[08时40分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -82,37 +116,16 @@
           "time_info": "[01时34分 ~ 07时22分]"
         },
         {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
-          "source": "凤凰网",
+          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
+          "url": "https://wallstreetcn.com/articles/3771197",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 08时41分]"
-        },
-        {
-          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
-          "url": "https://www.cls.cn/detail/2360318",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 09时38分]"
         },
         {
           "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
@@ -148,18 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
-          "url": "https://wallstreetcn.com/articles/3771197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时41分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普进行了电话交谈。",
@@ -231,6 +232,20 @@
           "time_info": "[03时34分 ~ 07时22分]"
         },
         {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时23分 ~ 09时38分]"
+        },
+        {
           "title": "特朗普：将继续对伊朗实施海上封锁",
           "url": "https://wallstreetcn.com/livenews/3096819",
           "source": "华尔街见闻-快讯",
@@ -244,50 +259,64 @@
           "time_info": "[00时36分 ~ 02时34分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
+          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
+          "url": "https://www.cls.cn/detail/2360313",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            15,
-            12
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 08时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
         },
         {
           "title": "普京与特朗普通话超一个半小时",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
-          "url": "https://www.cls.cn/detail/2360313",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
         },
         {
           "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
           "url": "https://www.zhihu.com/question/2032758360743883157",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
+        },
+        {
+          "title": "普京与特朗普通话1个半小时",
+          "url": "https://www.toutiao.com/trending/7634319454465166874/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
         },
         {
           "title": "特朗普拒绝伊朗提议，称将继续封锁霍尔木兹海峡",
@@ -336,28 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
-          "url": "https://www.cls.cn/detail/2360339",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
-          "title": "普京与特朗普通话1个半小时",
-          "url": "https://www.toutiao.com/trending/7634319454465166874/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
         },
         {
           "title": "【普京：特朗普延长对伊朗及周边地区停火的决定是正确的】俄罗斯总统助理乌沙科夫29日晚通报说，俄总统普京与美国总统特朗普当天举行电话会谈，双方就白宫记协晚宴枪击事件、伊朗局势、乌克兰问题等议题交换意见。 据乌沙科夫介绍，特朗普在通话中向普京介绍了他对中东局势的看法。普京认为，特朗普延长对伊朗及周边地区停火的决定是正确的，这将有助于稳定局势。普京还表示，针对伊朗采取地面军事行动的选项是完全不可接受且极其危险的。 乌沙科夫说，此次通话是由俄方发起，持续超过一个半小时，双方对话“坦诚且务实”。（新华社）",
@@ -417,13 +424,24 @@
           "time_info": "07时22分"
         },
         {
+          "title": "亚马逊考虑重启《学徒》真人秀 特朗普长子有望担任主持人",
+          "url": "https://flash.jin10.com/detail/20260430091757966800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "中金：美联储理论上应将2次降息，实际要看油价和特朗普配合",
           "url": "https://flash.jin10.com/detail/20260430080840199800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -511,9 +529,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "美国总统特朗普：如果由英国国王查尔斯做主，他“可能会帮助我们解决伊朗问题”。",
@@ -569,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "默茨批美国“被伊朗羞辱”，特朗普回怼：考虑从德国撤军",
+          "url": "https://flash.jin10.com/detail/20260430091008005800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "美国总统特朗普：我认为俄罗斯总统普京早就准备好达成协议，我认为“某些人”让他达成协议变得困难。",
@@ -665,7 +705,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -747,6 +787,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "据华尔街日报：消息人士透露，特朗普政府告知Anthropic，反对扩大对Mythos模型的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260430090057317800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "鲍威尔：我对美国华盛顿特区检察官上周五宣布的结果表示欢迎。 司法部说了，如果（特朗普的）联邦政府不介入，就不会重新调查美联储。 （特朗普的）联邦政府对美联储的那些行径是规模空前的。 我担心，这样的攻击正在重创美联储这个机构。 攻击让美联储实施（货币/监管）政策的能力面临风险。",
           "url": "https://wallstreetcn.com/livenews/3096872",
           "source": "华尔街见闻-快讯",
@@ -822,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "德总理淡化与特朗普分歧 称彼此关系“依然良好”",
+          "url": "https://wallstreetcn.com/livenews/3097042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
@@ -863,8 +925,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 08时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时38分]"
         },
         {
           "title": "伊朗：将以前所未有的军事行动回应美",
@@ -937,6 +999,19 @@
           "time_info": "05时26分"
         },
         {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时23分 ~ 09时38分]"
+        },
+        {
           "title": "伊朗战争丨五角大楼：伊朗战事已“烧掉”250亿美元",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -957,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时34分 ~ 06时23分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时38分]"
         },
         {
           "title": "美国防部称伊朗战事已耗资250亿美元，赫格塞思接受国会质询遭批",
@@ -983,30 +1069,6 @@
           "time_info": "[05时26分 ~ 06时23分]"
         },
         {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 08时41分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 08时41分]"
-        },
-        {
           "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032954547836907965",
           "source": "知乎",
@@ -1014,8 +1076,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
+        },
+        {
+          "title": "伊朗海军：将向敌人展示一种可怕武器",
+          "url": "https://www.toutiao.com/trending/7633278639656992810/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
+        },
+        {
+          "title": "美称伊朗战事已耗资250亿美元",
+          "url": "https://www.toutiao.com/trending/7633391016129298441/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 09时38分]"
         },
         {
           "title": "美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。",
@@ -1102,17 +1188,6 @@
           "time_info": "[01时34分 ~ 02时34分]"
         },
         {
-          "title": "美称伊朗战事已耗资250亿美元",
-          "url": "https://www.toutiao.com/trending/7633391016129298441/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
-        },
-        {
           "title": "WTI原油日内涨幅达8.0%，报107.93美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报111.47美元/桶。 伊朗表示，为遇害领袖复仇仍在议事日程上。 据伊朗电视台，伊朗军事顾问称新领袖（穆杰塔巴·哈梅内伊）身体健康。",
           "url": "https://wallstreetcn.com/livenews/3096913",
           "source": "华尔街见闻-快讯",
@@ -1123,17 +1198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时26分]"
-        },
-        {
-          "title": "伊朗海军：将向敌人展示一种可怕武器",
-          "url": "https://www.toutiao.com/trending/7633278639656992810/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时40分 ~ 08时41分]"
         },
         {
           "title": "伊朗动荡不安的东南部地区发生枪击事件，3名警察被枪杀。",
@@ -1164,7 +1228,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -1208,7 +1272,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -1296,7 +1360,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -1350,8 +1414,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时38分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 部分芯片股走强",
@@ -1687,11 +1751,12 @@
             6,
             2,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 08时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时38分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1704,8 +1769,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 08时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时38分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -1756,8 +1821,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 08时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 09时38分]"
         },
         {
           "title": "美国10年期国债收益率短线从4.39%上扬至4.40%上方。 黄金价格维持大约1.2%的跌幅，美元指数维持超过0.2%的涨幅。 标普500指数跌0.3%，道指跌360点、跌幅0.7%，纳指跌0.3%，纳斯达克100指数涨0.17%，生物科技指数跌1.83%，半导体指数涨1.45%，银行指数跌1.2%。",
@@ -1798,8 +1863,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 08时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时38分]"
         },
         {
           "title": "美联储4月决议声明发布前，美国10年期国债收益率涨4.9个基点，持稳于4.4%附近。 两年期美债收益率涨约2个基点，持稳于0.88%附近。",
