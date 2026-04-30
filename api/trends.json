@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T20:36:16.167875+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2026-04-30T21:37:35.536979+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 102,
+      "match_count": 104,
       "titles": [
         {
           "title": "特朗普，居然这都能搞错？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时10分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时10分 ~ 21时37分]"
         },
         {
           "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时22分 ~ 20时36分]"
+          "appearance_count": 17,
+          "time_info": "[07时22分 ~ 21时37分]"
         },
         {
           "title": "特朗普放话：伊朗不求饶，海峡不解封",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时10分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时10分 ~ 21时37分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时10分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[13时10分 ~ 21时37分]"
         },
         {
           "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
@@ -126,11 +126,12 @@
             7,
             6,
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时38分 ~ 20时36分]"
+          "appearance_count": 14,
+          "time_info": "[09时38分 ~ 21时37分]"
         },
         {
           "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
@@ -252,6 +253,20 @@
           "time_info": "[01时34分 ~ 09时38分]"
         },
         {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时49分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
           "url": "https://www.zhihu.com/question/2032422954055776061",
           "source": "知乎",
@@ -263,6 +278,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 07时22分]"
+        },
+        {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 21时37分]"
         },
         {
           "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
@@ -299,19 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时49分 ~ 20时36分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普进行了电话交谈。",
@@ -391,19 +406,6 @@
           "time_info": "18时37分"
         },
         {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 20时36分]"
-        },
-        {
           "title": "特朗普支持率降至任内新低",
           "url": "https://www.douyin.com/hot/2482851",
           "source": "抖音",
@@ -416,6 +418,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时34分 ~ 07时22分]"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 21时37分]"
         },
         {
           "title": "特朗普：将继续对伊朗实施海上封锁",
@@ -442,19 +458,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时40分 ~ 11时09分]"
-        },
-        {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 20时36分]"
         },
         {
           "title": "特朗普牵手梅拉尼娅再现拒绝名场面",
@@ -856,7 +859,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -881,6 +884,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普为何解散美国国家科学委员会",
+          "url": "https://www.toutiao.com/trending/7634518085713530418/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普：海底有159艘伊朗船只。",
@@ -971,6 +985,17 @@
           "time_info": "14时56分"
         },
         {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国总统特朗普：普京不想让伊朗拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260430022126556800",
           "source": "金十数据",
@@ -999,7 +1024,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1194,7 +1219,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -1234,8 +1259,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时40分 ~ 20时36分]"
+          "appearance_count": 16,
+          "time_info": "[08时40分 ~ 21时37分]"
         },
         {
           "title": "伊朗：将以前所未有军事行动回应美",
@@ -1302,6 +1327,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时48分 ~ 20时36分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：波斯湾安全无需外部势力介入",
+          "url": "https://wallstreetcn.com/livenews/3097545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "伊朗最高领袖将“很快”发表声明。（伊朗国家电视台）",
@@ -1487,6 +1523,17 @@
           "time_info": "[08时40分 ~ 11时09分]"
         },
         {
+          "title": "伊朗战争丨穆杰塔巴：伊朗将行使海峡管理权，波斯湾未来没有美国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时37分]"
+        },
+        {
           "title": "美称伊朗战事已耗资250亿美元",
           "url": "https://www.toutiao.com/trending/7633391016129298441/",
           "source": "今日头条",
@@ -1508,17 +1555,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时37分 ~ 19时33分]"
-        },
-        {
-          "title": "伊朗战争丨穆杰塔巴：伊朗将行使海峡管理权，波斯湾未来没有美国",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
         },
         {
           "title": "美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。",
@@ -1733,7 +1769,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1810,7 +1846,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1821,7 +1857,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1835,6 +1871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "欧洲央行维持利率不变 伊朗冲突对经济的冲击仍在发酵",
+          "url": "https://wallstreetcn.com/livenews/3097529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "布伦特原油站上111美元/桶，日内涨6.82%。WTI原油站上110美元/桶，日内涨8.48%。伊朗表示，为遇害领袖复仇仍在议事日程上。",
@@ -2008,7 +2055,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -2060,7 +2107,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -2183,6 +2230,17 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "四巨头财报提振美股，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "高通美股盘后涨幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3096946",
           "source": "华尔街见闻-快讯",
@@ -2192,6 +2250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3097532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
@@ -2225,6 +2294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美元指数短线波动不大，现报98.43。美股期货短线小幅拉升，纳斯达克100指数期货涨0.8%。美国10年期国债收益率短线波动不大，现报4.399%。现货黄金短线小幅拉升，现报4634.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3097524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "礼来美股盘前涨超4%，公司一季度营收高于预期，并上调全年业绩指引",
@@ -2286,8 +2366,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 21时37分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -2299,8 +2379,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时09分 ~ 20时36分]"
+          "appearance_count": 13,
+          "time_info": "[11时09分 ~ 21时37分]"
         },
         {
           "title": "电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元。",
@@ -2572,7 +2652,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -2607,8 +2687,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 20时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时36分 ~ 21时37分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -2619,8 +2699,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 20时36分]"
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 21时37分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -2628,11 +2708,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 21时37分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
@@ -2645,6 +2726,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 03时34分]"
+        },
+        {
+          "title": "DeepSeek思考过程好萌",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "DeepSeek上线识图模式",
@@ -2672,7 +2764,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价",
@@ -2716,11 +2808,12 @@
           "url": "https://www.douyin.com/hot/2482875",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时37分]"
         },
         {
           "title": "周大生：2026年金价继续大幅上涨对行业的边际影响降低",
@@ -2743,6 +2836,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "美国银行重申，未来12个月黄金价格预测为6000美元。",
+          "url": "https://flash.jin10.com/detail/20260430210605591800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "金价又起飞了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B5%B7%E9%A3%9E%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
@@ -2799,8 +2914,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时22分 ~ 20时36分]"
+          "appearance_count": 17,
+          "time_info": "[07时22分 ~ 21时37分]"
         },
         {
           "title": "美联储4月决议声明发布前，美国10年期国债收益率涨4.9个基点，持稳于4.4%附近。 两年期美债收益率涨约2个基点，持稳于0.88%附近。",
