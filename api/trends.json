@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T03:34:14.688524+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-01T04:27:56.731324+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 64,
       "titles": [
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -40,8 +40,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -55,17 +88,6 @@
           "time_info": "[00时47分 ~ 01时33分]"
         },
         {
-          "title": "美国总统特朗普：试图以某种方式拯救伊朗。",
-          "url": "https://flash.jin10.com/detail/20260501032756806800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
           "title": "美国众议院投票，批准对国土安全部（DHS）预算拨款的主要条款，草案将移交给总统特朗普（签字为法律）。",
           "url": "https://wallstreetcn.com/livenews/3097651",
           "source": "华尔街见闻-快讯",
@@ -77,90 +99,13 @@
           "time_info": "01时33分"
         },
         {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
-        },
-        {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
-        },
-        {
-          "title": "美国总统特朗普：我们要看看伊朗能撑多久。",
-          "url": "https://flash.jin10.com/detail/20260501032750451800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "美国总统特朗普：美国国务卿鲁比奥积极参与与伊朗的谈判。",
-          "url": "https://flash.jin10.com/detail/20260501032621467800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
           "title": "美国总统特朗普：伊朗渴望达成协议。",
           "url": "https://wallstreetcn.com/livenews/3097677",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "特朗普称只有他和少数几个人知道伊朗谈判的真实情况。",
-          "url": "https://flash.jin10.com/detail/20260501032430305800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "特朗普60天战争权限将于5月1日到期",
-          "url": "https://wallstreetcn.com/livenews/3097676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -176,15 +121,27 @@
           "time_info": "00时47分"
         },
         {
-          "title": "美国总统特朗普：德国总理的表现糟糕透顶。",
-          "url": "https://flash.jin10.com/detail/20260501032342467800",
+          "title": "还是不解气，特朗普又炮轰默茨",
+          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时27分]"
+        },
+        {
+          "title": "美国总统特朗普：试图以某种方式拯救伊朗。",
+          "url": "https://flash.jin10.com/detail/20260501032756806800",
           "source": "金十数据",
           "ranks": [
-            5
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
         },
         {
           "title": "美国总统特朗普向伊拉克候任总理表示祝贺。",
@@ -212,6 +169,18 @@
           "time_info": "[01时33分 ~ 03时34分]"
         },
         {
+          "title": "美国总统特朗普：我们要看看伊朗能撑多久。",
+          "url": "https://flash.jin10.com/detail/20260501032750451800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
           "title": "美国联邦通信管理局（FCC）：我们针对迪士尼采取的（提前数年审查新闻）许可行动并没有得到总统特朗普的授意。",
           "url": "https://wallstreetcn.com/livenews/3097640",
           "source": "华尔街见闻-快讯",
@@ -223,6 +192,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 02时34分]"
+        },
+        {
+          "title": "美国总统特朗普：美国国务卿鲁比奥积极参与与伊朗的谈判。",
+          "url": "https://flash.jin10.com/detail/20260501032621467800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
         },
         {
           "title": "特朗普变卦：转而提名妮科尔·萨菲尔担任卫生局局长",
@@ -237,37 +218,111 @@
           "time_info": "[02时34分 ~ 03时34分]"
         },
         {
-          "title": "还是不解气，特朗普又炮轰默茨",
-          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
-          "source": "凤凰网",
+          "title": "特朗普称只有他和少数几个人知道伊朗谈判的真实情况。",
+          "url": "https://flash.jin10.com/detail/20260501032430305800",
+          "source": "金十数据",
           "ranks": [
-            9
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 03时34分]"
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普60天战争权限将于5月1日到期",
+          "url": "https://wallstreetcn.com/livenews/3097676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
+          "title": "美国总统特朗普：德国总理的表现糟糕透顶。",
+          "url": "https://flash.jin10.com/detail/20260501032342467800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
         },
         {
           "title": "美国总统特朗普：我们不需要任何关于伊朗的帮助。",
           "url": "https://flash.jin10.com/detail/20260501032337584800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
         },
         {
           "title": "美国总统特朗普：（在被问及是否考虑从意大利和西班牙撤回美国军队时）可能会。",
           "url": "https://flash.jin10.com/detail/20260501032239917800",
           "source": "金十数据",
           "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
+          "title": "美国加州州长纽森：在特朗普与伊朗的冲突持续61天后，国家平均汽油价格已达到每加仑4.30美元，涨幅近30%。此外，食品、运输、航班等价格也在上涨。特朗普政府和共和党国会对此的反应？沉默无声。",
+          "url": "https://flash.jin10.com/detail/20260501032134400800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普决定取消某些威士忌关税",
+          "url": "https://wallstreetcn.com/livenews/3097672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
+          "title": "美国总统特朗普：一旦伊朗战争结束，汽油价格将会下降。",
+          "url": "https://flash.jin10.com/detail/20260501031709849800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
+          "title": "一位白宫官员表示，特朗普政府正与国会进行“积极磋商”，探讨是否寻求对伊朗战争的授权。",
+          "url": "https://flash.jin10.com/detail/20260501034758501800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时34分"
+          "time_info": "04时27分"
         },
         {
           "title": "市场消息：美国众议院通过法案，为美国国土安全部大部分部门提供资金，该法案将提交给特朗普。",
@@ -281,37 +336,48 @@
           "time_info": "01时33分"
         },
         {
-          "title": "美国加州州长纽森：在特朗普与伊朗的冲突持续61天后，国家平均汽油价格已达到每加仑4.30美元，涨幅近30%。此外，食品、运输、航班等价格也在上涨。特朗普政府和共和党国会对此的反应？沉默无声。",
-          "url": "https://flash.jin10.com/detail/20260501032134400800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "特朗普决定取消某些威士忌关税",
-          "url": "https://wallstreetcn.com/livenews/3097672",
+          "title": "美国总统特朗普：AI将创造大量就业机会。",
+          "url": "https://wallstreetcn.com/livenews/3097697",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时34分"
+          "time_info": "04时27分"
         },
         {
-          "title": "美国总统特朗普：一旦伊朗战争结束，汽油价格将会下降。",
-          "url": "https://flash.jin10.com/detail/20260501031709849800",
+          "title": "美国总统特朗普：美国将从伊朗获得核材料。",
+          "url": "https://flash.jin10.com/detail/20260501034714128800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普称他可能需要打破伊朗停火协议",
+          "url": "https://flash.jin10.com/detail/20260501034702107800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时34分"
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普：我们正处于一场有些人称之为战争的境地。",
@@ -320,7 +386,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -342,9 +408,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "小唐纳德·特朗普和埃里克·特朗普于去年8月入股了建筑集团Skyline Builders。",
+          "url": "https://flash.jin10.com/detail/20260501034306081800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "特朗普称参选美国总统的人应接受认知能力测试",
@@ -364,9 +441,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "美国总统特朗普：（关于华盛顿晚宴枪击事件）他们表示特勤局特工并非被“友军”误伤。",
+          "url": "https://flash.jin10.com/detail/20260501033436382800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "市场消息：美国总统特朗普今天将签署一项行政命令，以扩大没有雇主提供退休计划的美国人对退休储蓄账户的使用。",
@@ -397,9 +485,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "美国总统特朗普称美联储主席提名人沃什可能需要在白宫有个办公室。",
+          "url": "https://flash.jin10.com/detail/20260501033311250800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
@@ -419,9 +518,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "美国总统特朗普：不在乎鲍威尔是否留在美联储，不会采取行动。",
+          "url": "https://flash.jin10.com/detail/20260501033237497800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普：田纳西州重新划分选区将使共和党多出一个席位。",
@@ -441,7 +551,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -452,7 +562,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -463,7 +573,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -485,9 +595,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "美国总统特朗普：我们在发动伊朗战争方面并不曾需要（来自北约的）任何帮助。",
+          "url": "https://wallstreetcn.com/livenews/3097682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们拭目以待。",
@@ -496,9 +617,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "美国总统特朗普：“可能会”缩减在西班牙和意大利的驻军规模。",
+          "url": "https://wallstreetcn.com/livenews/3097681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -518,7 +650,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -540,7 +672,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -562,9 +694,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "特朗普：伊朗现在无法从石油中获得任何收入，除了我和另外几个人，没人懂与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3097677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普：尽管有人称之为战争，但股市仍创下新高。",
@@ -573,7 +716,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         },
@@ -584,7 +727,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
         }
@@ -592,7 +735,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "24小时接收6500吨装备 以防长称或“很快恢复”对伊朗军事行动",
@@ -606,6 +749,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
+          "url": "https://wallstreetcn.com/livenews/3097704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
           "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -613,8 +767,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时33分 ~ 03时34分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 04时27分]"
         },
         {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
@@ -650,6 +804,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "美国官员：伊朗战争成本接近500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260501034727215800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：全世界已见证了伊朗的宽容与和解。当前在‘海上封锁’幌子下所采取的行动，实则是针对一个正为自身抵抗与独立付出代价的国家所发动的军事行动的延伸。这种压迫性手段的持续是绝不可容忍的。",
           "url": "https://flash.jin10.com/detail/20260501010753117800",
           "source": "金十数据",
@@ -670,6 +835,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "阿联酋外交部：禁止公民前往伊朗、黎巴嫩和伊拉克。",
+          "url": "https://flash.jin10.com/detail/20260501034327246800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "伊朗议长嘲笑美国封锁：美国从东到西建两堵墙都没伊朗总边界长",
+          "url": "https://flash.jin10.com/detail/20260501033839708800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美国官员称伊朗战争耗资接近500亿美元，较一天前说法“翻倍”",
+          "url": "https://wallstreetcn.com/livenews/3097688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "伊朗称其40%的贸易可转向陆路运输",
@@ -730,7 +928,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -741,8 +939,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -754,8 +952,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -766,8 +964,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -793,6 +991,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 02时34分]"
+        },
+        {
+          "title": "谷歌A收涨10%，创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3097696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "谷歌：广告技术竞争对手的反垄断诉讼起诉过晚",
+          "url": "https://wallstreetcn.com/livenews/3097689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "谷歌：Gemini软件更新将首先在美国汽车中推出。",
@@ -906,8 +1126,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -915,11 +1135,24 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
+        },
+        {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -927,22 +1160,63 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
+        },
+        {
+          "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指0.89涨%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260501040155496800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "Roblox美股盘后跌28%，该公司下调全年预定预期。",
+          "url": "https://wallstreetcn.com/livenews/3097703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "美股三大股指均涨超1%，纳斯达克中国金龙指数涨幅扩大至2%。",
+          "url": "https://flash.jin10.com/detail/20260501031435034800",
+          "source": "金十数据",
+          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
-        },
-        {
-          "title": "DeepSeek多模态模型来了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     },
@@ -961,8 +1235,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "金价突涨",
@@ -972,11 +1246,12 @@
             29,
             23,
             22,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
         },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
@@ -993,35 +1268,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
-        },
-        {
-          "title": "美股三大股指均涨超1%，纳斯达克中国金龙指数涨幅扩大至2%。",
-          "url": "https://flash.jin10.com/detail/20260501031435034800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1034,8 +1280,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 04时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数周四跌约0.9%，4月份累跌约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3097685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     }
