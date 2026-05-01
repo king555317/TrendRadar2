@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T13:19:41.829618+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-05-01T14:58:43.301384+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 14时58分]"
         },
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -45,6 +45,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 05时24分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时27分 ~ 14时58分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -72,21 +87,6 @@
           "time_info": "[02时33分 ~ 11时09分]"
         },
         {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时27分 ~ 13时19分]"
-        },
-        {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
           "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
           "source": "澎湃新闻",
@@ -109,8 +109,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 14时58分]"
         },
         {
           "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
@@ -120,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 14时58分]"
         },
         {
           "title": "特朗普还是没抵住诱惑",
@@ -131,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 14时58分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -166,6 +166,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 14时58分]"
         },
         {
           "title": "美国总统特朗普：美国卫生局长提名人凯西将继续为美国的卫生事业而战。",
@@ -250,19 +263,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 02时34分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 13时19分]"
         },
         {
           "title": "美国总统特朗普：美国国务卿鲁比奥积极参与与伊朗的谈判。",
@@ -373,6 +373,17 @@
           "time_info": "[08时43分 ~ 11时09分]"
         },
         {
+          "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
+          "url": "https://news.ifeng.com/c/8sleYIiCFoz",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 14时58分]"
+        },
+        {
           "title": "美国总统特朗普：我们不需要任何关于伊朗的帮助。",
           "url": "https://flash.jin10.com/detail/20260501032337584800",
           "source": "金十数据",
@@ -433,17 +444,6 @@
           "time_info": "[04时27分 ~ 05时24分]"
         },
         {
-          "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
-          "url": "https://news.ifeng.com/c/8sleYIiCFoz",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 13时19分]"
-        },
-        {
           "title": "美国总统特朗普：一旦伊朗战争结束，汽油价格将会下降。",
           "url": "https://flash.jin10.com/detail/20260501031709849800",
           "source": "金十数据",
@@ -454,6 +454,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时27分]"
+        },
+        {
+          "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
+          "url": "https://v.ifeng.com/c/8slZgmeHYf5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时58分]"
         },
         {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
@@ -478,6 +489,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时58分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普就伊朗队赴美参加世界杯表态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "一位白宫官员表示，特朗普政府正与国会进行“积极磋商”，探讨是否寻求对伊朗战争的授权。",
@@ -530,7 +564,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -566,17 +600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
-          "url": "https://v.ifeng.com/c/8slZgmeHYf5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         },
         {
           "title": "美国总统特朗普：我们正处于一场有些人称之为战争的境地。",
@@ -953,17 +976,6 @@
           "time_info": "03时34分"
         },
         {
-          "title": "特朗普称美国结束对伊朗战争",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "美国总统特朗普：伊朗渴望达成协议。伊朗不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260501030832860800",
           "source": "金十数据",
@@ -978,8 +990,22 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
+          "url": "https://www.cls.cn/detail/2361658",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 14时58分]"
+        },
         {
           "title": "24小时接收6500吨装备 以防长称或“很快恢复”对伊朗军事行动",
           "url": "https://flash.jin10.com/detail/20260501012244092800",
@@ -1003,17 +1029,15 @@
           "time_info": "[02时33分 ~ 04时27分]"
         },
         {
-          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
-          "url": "https://www.cls.cn/detail/2361658",
-          "source": "财联社热门",
+          "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033318594176443288",
+          "source": "知乎",
           "ranks": [
-            12,
-            6,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 14时58分]"
         },
         {
           "title": "伊朗股市暂停交易至5月4日",
@@ -1025,6 +1049,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
+          "url": "https://news.ifeng.com/c/8slUlo0THc1",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 14时58分]"
         },
         {
           "title": "伊朗股市暂停交易至5月4日",
@@ -1041,15 +1077,17 @@
           "time_info": "[07时21分 ~ 11时09分]"
         },
         {
-          "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2033318594176443288",
-          "source": "知乎",
+          "title": "伊朗外长：“制止以色列侵略黎巴嫩”是伊美停火方案组成部分",
+          "url": "https://wallstreetcn.com/livenews/3097785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2,
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 14时58分]"
         },
         {
           "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
@@ -1062,30 +1100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时24分]"
-        },
-        {
-          "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
-          "url": "https://news.ifeng.com/c/8slUlo0THc1",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 13时19分]"
-        },
-        {
-          "title": "伊朗外长：“制止以色列侵略黎巴嫩”是伊美停火方案组成部分",
-          "url": "https://wallstreetcn.com/livenews/3097785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 13时19分]"
         },
         {
           "title": "霍尔木兹海峡危机发酵！美方被曝酝酿军事选项，伊朗警告“痛苦打击”",
@@ -1219,6 +1233,18 @@
           "time_info": "[04时27分 ~ 05时24分]"
         },
         {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时58分]"
+        },
+        {
           "title": "阿联酋：禁止本国公民前往伊朗、黎巴嫩和伊拉克",
           "url": "https://wallstreetcn.com/livenews/3097721",
           "source": "华尔街见闻-快讯",
@@ -1341,17 +1367,6 @@
           "time_info": "06时22分"
         },
         {
-          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "伊朗称其40%的贸易可转向陆路运输",
           "url": "https://flash.jin10.com/detail/20260501000226877800",
           "source": "金十数据",
@@ -1413,7 +1428,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -1438,6 +1453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦将继续作为与美国谈判的官方调解人。",
+          "url": "https://flash.jin10.com/detail/20260501134452240800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },
@@ -1652,8 +1678,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时21分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[06时21分 ~ 14时58分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1677,8 +1703,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 14时58分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -1694,6 +1720,19 @@
           "time_info": "[00时47分 ~ 05时24分]"
         },
         {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 14时58分]"
+        },
+        {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3097667",
           "source": "华尔街见闻-快讯",
@@ -1704,18 +1743,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时34分]"
-        },
-        {
-          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
-          "url": "https://www.zhihu.com/question/2033115543276930640",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 13时19分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -1816,8 +1843,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时47分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时47分 ~ 14时58分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -1863,11 +1890,12 @@
           "url": "https://www.douyin.com/hot/2485029",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时58分]"
         },
         {
           "title": "全面测评DeepSeek V4",
