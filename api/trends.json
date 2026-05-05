@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T07:21:49.024618+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-05-05T08:39:09.576808+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "阿联酋国防部：监测到4枚来自伊朗的巡航导弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "美计划在中东部署“暗鹰”高超音速导弹，伊朗有办法对付吗？",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
@@ -63,9 +63,9 @@
           "time_info": "[00时36分 ~ 05时27分]"
         },
         {
-          "title": "伊朗：发射两枚导弹击中美国军舰",
-          "url": "https://www.toutiao.com/trending/7635981615012793894/",
-          "source": "今日头条",
+          "title": "伊朗武装部队警告美军不要接近或进入霍尔木兹海峡，称已导弹打击美舰，美媒否认被击中，双方是否会再次开战？",
+          "url": "https://www.zhihu.com/question/2034644150029480155",
+          "source": "知乎",
           "ranks": [
             6
           ],
@@ -78,22 +78,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E8%88%B0%E9%81%AD%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
-          "title": "伊朗武装部队警告美军不要接近或进入霍尔木兹海峡，称已导弹打击美舰，美媒否认被击中，双方是否会再次开战？",
-          "url": "https://www.zhihu.com/question/2034644150029480155",
-          "source": "知乎",
+          "title": "伊朗：发射两枚导弹击中美国军舰",
+          "url": "https://www.toutiao.com/trending/7635981615012793894/",
+          "source": "今日头条",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "伊媒：美舰在霍尔木兹海峡附近遭伊朗导弹攻击，被迫返航",
@@ -102,22 +104,24 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "伊朗称2枚导弹击中美军舰",
           "url": "https://www.douyin.com/hot/2488612",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "伊朗：对美驱逐舰进行警告射击",
@@ -158,17 +162,6 @@
           "time_info": "01时35分"
         },
         {
-          "title": "美情报评估显示：本轮军事打击未进一步削弱伊朗核能力",
-          "url": "https://wallstreetcn.com/livenews/3098669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "伊朗第一副总统：管控霍尔木兹海峡是伊朗的合法权利",
           "url": "https://flash.jin10.com/detail/20260505010122729800",
           "source": "金十数据",
@@ -178,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "两月对伊战事收效甚微，美情报披露伊朗核武研发周期丝毫未变",
+          "url": "https://flash.jin10.com/detail/20260505080437680800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "据以色列媒体Kann：阿联酋国防委员会主席向其以色列对口官员表示，将对伊朗进行反击。",
@@ -237,6 +241,18 @@
           "time_info": "[02时36分 ~ 06时23分]"
         },
         {
+          "title": "美情报评估显示：本轮军事打击未进一步削弱伊朗核能力",
+          "url": "https://wallstreetcn.com/livenews/3098669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 08时39分]"
+        },
+        {
           "title": "【伊朗军事官员：阿联酋石油设施起火是美国军事冒险所致】当地时间4日，一位知情的伊朗军事官员就阿联酋富查伊拉港石油设施发生大规模火灾的消息向媒体表示，伊朗事先并无预谋袭击富查伊拉港的石油设施，该地所发生的事件是因美国军方的冒险行为所致——美军试图开辟一条非法通道，让船只通过霍尔木兹海峡的禁行航道，美军必须对此负责。 这名伊朗军事官员称，美国政治家必须停止在外交中诉诸武力的恶劣行为，并停止在这一影响全球经济的敏感产油区进行军事冒险。（央视）",
           "url": "https://wallstreetcn.com/livenews/3098614",
           "source": "华尔街见闻-快讯",
@@ -248,6 +264,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时35分 ~ 05时27分]"
+        },
+        {
+          "title": "伊朗外长：霍尔木兹海峡发生的一系列事件表明，政治危机无法通过武力行动来解决。 随着谈判在巴基斯坦的努力下取得进展，美国和阿联酋都应当“警惕别被别有用心之人拖回泥潭”。",
+          "url": "https://wallstreetcn.com/livenews/3098658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 08时39分]"
         },
         {
           "title": "阿联酋谴责伊朗袭击该国民用设施",
@@ -298,18 +327,6 @@
           "time_info": "[02时36分 ~ 03时35分]"
         },
         {
-          "title": "伊朗外长：霍尔木兹海峡发生的一系列事件表明，政治危机无法通过武力行动来解决。 随着谈判在巴基斯坦的努力下取得进展，美国和阿联酋都应当“警惕别被别有用心之人拖回泥潭”。",
-          "url": "https://wallstreetcn.com/livenews/3098658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
-        },
-        {
           "title": "伊朗外长阿拉格齐：霍尔木兹的局势清楚地表明，政治危机无法通过军事手段解决。在巴基斯坦的积极努力下，谈判正取得进展，美国应警惕被别有用心者拖回泥潭，阿联酋方面也应如此。“自由计划”就是一个“僵局计划”。",
           "url": "https://flash.jin10.com/detail/20260505055458753800",
           "source": "金十数据",
@@ -320,6 +337,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时21分]"
+        },
+        {
+          "title": "沙特通讯社：沙特王储强烈谴责伊朗袭击阿联酋",
+          "url": "https://wallstreetcn.com/livenews/3098655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 08时39分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 67 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034766994671494088",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 08时39分]"
         },
         {
           "title": "据伊朗国家电视台援引军方官员消息称，伊朗此前没有针对阿联酋富查伊拉石油设施的预谋攻击计划。WTI原油5分钟内下跌0.79美元/桶，报105.02美元/桶。",
@@ -334,16 +375,16 @@
           "time_info": "[03时35分 ~ 04时32分]"
         },
         {
-          "title": "沙特通讯社：沙特王储强烈谴责伊朗袭击阿联酋",
-          "url": "https://wallstreetcn.com/livenews/3098655",
-          "source": "华尔街见闻-快讯",
+          "title": "英国政府：英国首相表示，局势的升级必须停止；伊朗需要积极参与谈判，以确保中东停火能够持续。",
+          "url": "https://flash.jin10.com/detail/20260505065704602800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            14
+            7,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
+          "time_info": "[07时21分 ~ 08时39分]"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：我们准备在任何时候采取行动。 欧洲央行的观望状态并非迟疑不决。 （伊朗）战争存在持续更长时间的风险，这会让通胀保持在高位。",
@@ -489,17 +530,6 @@
           "time_info": "01时35分"
         },
         {
-          "title": "英国政府：英国首相表示，局势的升级必须停止；伊朗需要积极参与谈判，以确保中东停火能够持续。",
-          "url": "https://flash.jin10.com/detail/20260505065704602800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "伊朗警告阿联酋勿当以色列棋子",
           "url": "https://flash.jin10.com/detail/20260505025751256800",
           "source": "金十数据",
@@ -509,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "伊朗革命卫队政治副司令： 美国正在炫耀其力量，动用一切手段，但最终将面临失败。",
+          "url": "https://flash.jin10.com/detail/20260505073827791800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方消息人士警告阿联酋不要沦为“以色列的棋子”，称任何错误举动都将招致严厉回应。伊朗军方消息人士称未发布针对阿联酋的官方威胁，相关报道源自媒体。",
@@ -800,7 +841,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -810,8 +851,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
@@ -821,8 +862,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -833,8 +874,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -844,8 +885,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "特朗普又有新绰号：NACHO",
@@ -855,8 +896,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -878,19 +919,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
+          "appearance_count": 4,
+          "time_info": "[06时23分 ~ 08时39分]"
         },
         {
-          "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
-          "url": "https://wallstreetcn.com/livenews/3098668",
+          "title": "特朗普未明言伊朗违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3098681",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "08时39分"
         },
         {
           "title": "特朗普：若伊朗攻击美国军舰，将被“从地球上抹去”",
@@ -940,6 +981,18 @@
           "time_info": "[03时35分 ~ 05时27分]"
         },
         {
+          "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
+          "url": "https://wallstreetcn.com/livenews/3098668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 08时39分]"
+        },
+        {
           "title": "特朗普称美国与伊朗处于“迷你战争”状态",
           "url": "https://flash.jin10.com/detail/20260505050012247800",
           "source": "金十数据",
@@ -976,6 +1029,29 @@
           "time_info": "[00时36分 ~ 03时35分]"
         },
         {
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时38分 ~ 08时39分]"
+        },
+        {
+          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3098664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 08时39分]"
+        },
+        {
           "title": "美国总统特朗普谈及伊朗问题，宣称：进展非常顺利。 一旦战争结束，燃油价格就会迅速下跌。",
           "url": "https://wallstreetcn.com/livenews/3098621",
           "source": "华尔街见闻-快讯",
@@ -986,6 +1062,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
+          "url": "https://wallstreetcn.com/livenews/3098663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 08时39分]"
         },
         {
           "title": "美国总统特朗普：重申伊朗不能拥有核武器。",
@@ -1060,6 +1148,30 @@
           "time_info": "[03时35分 ~ 04时32分]"
         },
         {
+          "title": "阿联酋自美伊临时停火以来首次遇袭，特朗普拒明确停火有效性",
+          "url": "https://flash.jin10.com/detail/20260505063650538800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 08时39分]"
+        },
+        {
+          "title": "特朗普：美国与伊朗处于“迷你战争”状态",
+          "url": "https://wallstreetcn.com/livenews/3098665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 08时39分]"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗攻击美国船只，将被“从地球上抹去”。",
           "url": "https://flash.jin10.com/detail/20260505005445496800",
           "source": "金十数据",
@@ -1071,17 +1183,6 @@
           "time_info": "01时35分"
         },
         {
-          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
-          "url": "https://wallstreetcn.com/livenews/3098664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "美媒：特朗普未明确表示伊朗已违反停火协议",
           "url": "https://flash.jin10.com/detail/20260505035841476800",
           "source": "金十数据",
@@ -1091,17 +1192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
-        },
-        {
-          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
-          "url": "https://wallstreetcn.com/livenews/3098663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）一旦这件事结束，燃油价格将迅速下跌。",
@@ -1124,6 +1214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
+          "url": "https://flash.jin10.com/detail/20260505073807180800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "美国白宫：总统特朗普正在白宫参加小型企业峰会。",
@@ -1159,17 +1260,6 @@
           "time_info": "03时35分"
         },
         {
-          "title": "阿联酋自美伊临时停火以来首次遇袭，特朗普拒明确停火有效性",
-          "url": "https://flash.jin10.com/detail/20260505063650538800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "美国总统特朗普：数亿桶石油正从委内瑞拉流出。",
           "url": "https://flash.jin10.com/detail/20260505042014116800",
           "source": "金十数据",
@@ -1187,18 +1277,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普：美国与伊朗处于“迷你战争”状态",
-          "url": "https://wallstreetcn.com/livenews/3098665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -1294,8 +1373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股收盘）",
@@ -1398,11 +1477,12 @@
           "url": "https://wallstreetcn.com/livenews/3098672",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            24,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 08时39分]"
         },
         {
           "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
@@ -1545,11 +1625,12 @@
             25,
             21,
             26,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "金价跌2%，布油涨穿114美元，阿联酋称伊朗袭击Fujairah",
@@ -1576,8 +1657,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 08时39分]"
         },
         {
           "title": "2/10年期美债收益率涨约7个基点",
