@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T01:46:36.985250+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-05-06T02:42:49.135126+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗战争丨伊朗总统办公室官员否认总统辞职传闻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "美防长：与伊朗的停火尚未结束",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗成立新机构管理霍尔木兹海峡的船舶通行。",
-          "url": "https://flash.jin10.com/detail/20260506013429590800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "伊朗成立新机构，来管理霍尔木兹海峡的船只通行。（伊朗媒体Press TV）",
@@ -47,9 +36,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "伊朗联合指挥官：伊朗最近数日还不曾对阿联酋执行任何打击。",
+          "url": "https://wallstreetcn.com/livenews/3098895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "伊朗石油部长：在战争期间，伊朗的原油产量并未减少。",
@@ -63,6 +63,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "据伊朗媒体：伊朗联合军事指挥部警告称，如果阿联酋对伊朗的岛屿、港口和海岸线采取任何行动，将面临“毁灭性回应”。",
+          "url": "https://flash.jin10.com/detail/20260506021041855800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "伊朗石油部长：战争期间的石油出口情况良好且令人满意。",
           "url": "https://flash.jin10.com/detail/20260506002628845800",
           "source": "金十数据",
@@ -72,6 +83,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "伊朗联合军事指挥部：近期未对阿联酋进行任何攻击。",
+          "url": "https://flash.jin10.com/detail/20260506020807252800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗成立新机构管理霍尔木兹海峡的船舶通行。",
+          "url": "https://flash.jin10.com/detail/20260506013429590800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
         },
         {
           "title": "由于伊朗战争，永利渡假村（Wynn Resorts）正权衡是否推迟其阿联酋度假村的开业时间。（彭博）",
@@ -93,8 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
@@ -104,8 +138,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "伊朗向美舰发射导弹视频曝光",
@@ -116,8 +150,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "伊朗外长阿拉格齐将访华",
@@ -127,8 +161,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "曝美以或准备对伊朗发动新一轮打击",
@@ -139,8 +173,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "伊朗称2枚导弹击中美军舰，国际油价直线拉升",
@@ -150,8 +184,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "伊朗向美舰发射导弹画面曝光",
@@ -159,11 +193,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "伊朗外长阿拉格齐启程访华",
@@ -174,19 +209,100 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "伊朗外交部批评马斯克的社交媒体平台取消伊方账号认证",
           "url": "https://wallstreetcn.com/livenews/3098877",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "伊拉克候任总理告诉伊朗总统：伊拉克可以围绕伊朗与美国缓和关系发挥作用。",
+          "url": "https://wallstreetcn.com/livenews/3098867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "【伊朗警告霍尔木兹海峡通行船只：偏离指定航道将面临“坚决回应”】5月5日，伊朗伊斯兰革命卫队海军司令部发表声明，再次警告所有计划通过霍尔木兹海峡的船只。声明称，通过霍尔木兹海峡“唯一安全的路线是伊朗此前对外宣布的航道”，任何偏离该路线的船只行为都是“不安全的”，并将遭到伊朗伊斯兰革命卫队海军的“坚决回应”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3098866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队（IRGC）海军警告所有船只必须使用由伊朗设定的霍尔木兹海峡航道；并表示，若船只偏离航道，将面临“果断回应”。（法尔斯通讯社Fars News Agency）",
+          "url": "https://wallstreetcn.com/livenews/3098865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
+        {
+          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
+          "url": "https://flash.jin10.com/detail/20260506020359014800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
+          "url": "https://wallstreetcn.com/livenews/3098890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "伊媒：伊朗已启动霍尔木兹海峡通行管理新机制",
+          "url": "https://flash.jin10.com/detail/20260506020222119800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "巴基斯坦陆军司令穆尼尔呼吁伊朗和美国保持克制。",
+          "url": "https://flash.jin10.com/detail/20260506020155398800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "以军总参谋长：若伊朗袭击以色列 以军已做好回应准备",
@@ -200,6 +316,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "伊朗媒体援引佩泽希齐扬的话报道称：美国奉行极限施压政策，想让伊朗坐到谈判桌前，并接受其单方面的要求，这绝不可能。 尽管对话途径正在进行中，但伊朗再次看到了美国的军事集结和威胁。",
+          "url": "https://wallstreetcn.com/livenews/3098887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "IMF总裁：即使伊朗战争今天就结束，至少也还需要3-4个月来处理战争造成的后果。 AI对就业的总体影响实际上略微偏正面。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3098844",
           "source": "华尔街见闻-快讯",
@@ -209,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "伊媒：伊朗已启动霍尔木兹海峡通行管理新机制",
+          "url": "https://wallstreetcn.com/livenews/3098883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗石油部长表示，受损设施将尽快重建。",
@@ -222,37 +360,59 @@
           "time_info": "00时38分"
         },
         {
-          "title": "伊拉克候任总理告诉伊朗总统：伊拉克可以围绕伊朗与美国缓和关系发挥作用。",
-          "url": "https://wallstreetcn.com/livenews/3098867",
-          "source": "华尔街见闻-快讯",
+          "title": "霍尔木兹海峡通航锐减 伊朗测试停火",
+          "url": "https://flash.jin10.com/detail/20260506015507602800",
+          "source": "金十数据",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时42分"
         },
         {
-          "title": "【伊朗警告霍尔木兹海峡通行船只：偏离指定航道将面临“坚决回应”】5月5日，伊朗伊斯兰革命卫队海军司令部发表声明，再次警告所有计划通过霍尔木兹海峡的船只。声明称，通过霍尔木兹海峡“唯一安全的路线是伊朗此前对外宣布的航道”，任何偏离该路线的船只行为都是“不安全的”，并将遭到伊朗伊斯兰革命卫队海军的“坚决回应”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3098866",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗媒体：伊朗总统佩泽希齐扬称，美国奉行极限施压政策，并希望伊朗坐到谈判桌前屈服于其单方面要求，这是不可能的。",
+          "url": "https://flash.jin10.com/detail/20260506014724208800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时42分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队（IRGC）海军警告所有船只必须使用由伊朗设定的霍尔木兹海峡航道；并表示，若船只偏离航道，将面临“果断回应”。（法尔斯通讯社Fars News Agency）",
-          "url": "https://wallstreetcn.com/livenews/3098865",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗正式启动霍尔木兹海峡航运新规，船只须获通行许可证",
+          "url": "https://flash.jin10.com/detail/20260506014232703800",
+          "source": "金十数据",
           "ranks": [
-            17
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：准备与地区内伊斯兰国家解决争端。",
+          "url": "https://flash.jin10.com/detail/20260506014133328800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：如果以合乎逻辑的方式进行，对话是可能的。威胁和霸凌将无济于事。（法尔斯通讯社）",
+          "url": "https://flash.jin10.com/detail/20260506014053193800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "报道：白宫在执行新的霍尔木兹海峡行动前向伊朗传递了私下信息",
@@ -266,15 +426,37 @@
           "time_info": "00时38分"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：伊朗在谈判期间遭到两次攻击。我们正目睹军事集结和威胁。（法尔斯通讯社）",
+          "url": "https://flash.jin10.com/detail/20260506014002865800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
           "title": "伊朗警告霍尔木兹海峡通行船只：偏离指定航道将面临“坚决回应”",
           "url": "https://flash.jin10.com/detail/20260506005729264800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：美国对伊朗的要求是不可能且无法实现的。（法尔斯通讯社）",
+          "url": "https://flash.jin10.com/detail/20260506013926812800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "伊朗外交部：敦促美方在外交问题上“展现善意”",
@@ -294,7 +476,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -305,7 +487,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -345,8 +527,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -356,8 +538,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
@@ -367,8 +549,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -378,19 +560,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "巴西副总统Alckmin：巴西总统卢拉将在与美国总统特朗普的会晤中提及有组织犯罪议题。",
           "url": "https://flash.jin10.com/detail/20260506013150622800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
         },
         {
           "title": "特朗普关税退款引质疑，“简直令人抓狂”",
@@ -400,8 +583,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -411,8 +594,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普准备“抛弃”台湾了吗",
+          "url": "https://www.toutiao.com/trending/7636182005881356307/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2034903072279721909",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         },
         {
           "title": "美国总统特朗普：燃油价格上涨是（美国和以色列发动战争）需要付出的一点小小的代价。",
@@ -427,38 +634,16 @@
           "time_info": "[00时38分 ~ 01时46分]"
         },
         {
-          "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2034903072279721909",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
-        },
-        {
-          "title": "特朗普准备“抛弃”台湾了吗",
-          "url": "https://www.toutiao.com/trending/7636182005881356307/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
-        },
-        {
           "title": "特朗普避谈伊朗何种行为将被视为违反停火协议：你们会知道的",
           "url": "https://wallstreetcn.com/livenews/3098873",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
         },
         {
           "title": "特朗普：伊朗“知道什么不该做”",
@@ -541,8 +726,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
+          "url": "https://wallstreetcn.com/livenews/3098871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时42分]"
+        },
         {
           "title": "OpenAI更新ChatGPT默认模型 提升准确性与个性化",
           "url": "https://flash.jin10.com/detail/20260506012340306800",
@@ -550,20 +747,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
         {
-          "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
-          "url": "https://wallstreetcn.com/livenews/3098871",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：正在推出测试版自助广告管理器，允许美国境内的广告主注册并直接购买广告，使其显示在ChatGPT中。",
+          "url": "https://flash.jin10.com/detail/20260506020032402800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "OpenAI：在我们持续测试和完善体验的过程中，将逐步向更多企业开放广告管理器。",
+          "url": "https://flash.jin10.com/detail/20260506015935825800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "OpenAI：今天，我们开始逐步推出ChatGPT中的测试版自助广告管理器。",
+          "url": "https://flash.jin10.com/detail/20260506015903210800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
@@ -572,7 +791,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -583,7 +802,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -594,7 +813,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -605,68 +824,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
-          "url": "https://www.cls.cn/detail/2362725",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
-        },
-        {
-          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3771589",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
-        },
-        {
-          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
-          "url": "https://www.cls.cn/detail/2362589",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
-        },
-        {
-          "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011214821800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011205693800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
@@ -674,7 +832,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "市场消息：苹果(AAPL.O)一直在测试与谷歌和Anthropic的集成。",
@@ -683,9 +841,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
+          "url": "https://wallstreetcn.com/livenews/3098891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)也在与EQT讨论获取谷歌的人工智能模型。",
@@ -708,6 +877,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
+          "url": "https://flash.jin10.com/detail/20260506015839157800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
+          "url": "https://flash.jin10.com/detail/20260506014918064800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
+        },
+        {
+          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3771589",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
+        },
+        {
+          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
+          "url": "https://www.cls.cn/detail/2362589",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
+        },
+        {
+          "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260506011214821800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260506011205693800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
         }
       ]
     },
@@ -721,11 +973,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         }
       ]
     },
@@ -739,11 +992,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         }
       ]
     },
@@ -759,8 +1013,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时42分]"
         }
       ]
     }
