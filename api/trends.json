@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T21:03:14.852833+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2026-05-11T23:06:31.676826+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 123,
+      "match_count": 128,
       "titles": [
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 23时06分]"
         },
         {
           "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时27分]"
+        },
+        {
+          "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
+          "url": "https://news.ifeng.com/c/8t2gHVbjqdI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 23时06分]"
         },
         {
           "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
@@ -121,17 +132,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时19分]"
-        },
-        {
-          "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
-          "url": "https://news.ifeng.com/c/8t2gHVbjqdI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时03分]"
         },
         {
           "title": "伊朗最高领袖会见武装部队司令并下达新指令",
@@ -252,7 +252,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -1077,6 +1077,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
+          "url": "https://wallstreetcn.com/articles/3771985",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "伊朗外交部发言人：解冻被冻结资产是伊合法权利",
           "url": "https://wallstreetcn.com/livenews/3101497",
           "source": "华尔街见闻-快讯",
@@ -1130,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社，一艘油轮已经从沙迦触发，悬挂巴拿马旗帜。",
+          "url": "https://wallstreetcn.com/livenews/3101728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "美国能源部长对美国哥伦比亚广播公司（CBS）表示，目前对伊朗的经济压力正在急剧加大。",
@@ -1286,6 +1308,17 @@
           "time_info": "11时11分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：若与伊朗的核谈判重启，欧盟可带来数十年来在核谈判中积累的宝贵经验。",
+          "url": "https://flash.jin10.com/detail/20260511223258237800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "伊朗媒体公布伊朗回应美方要点",
           "url": "https://wallstreetcn.com/livenews/3101238",
           "source": "华尔街见闻-快讯",
@@ -1352,6 +1385,17 @@
           "time_info": "11时11分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：一艘悬挂巴拿马国旗的油轮从沙迦出发。",
+          "url": "https://flash.jin10.com/detail/20260511222947945800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "伊朗对美国方案的回应聚焦“结束战争与海上安全”",
           "url": "https://flash.jin10.com/detail/20260510230901128800",
           "source": "金十数据",
@@ -1361,6 +1405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗尚未允许载有阿联酋液化石油气的油轮通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260511222639474800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "伊朗称其谈判优先事项是结束战争、确保海上安全等问题",
@@ -1487,7 +1542,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普5月13日至15日访华",
@@ -1510,8 +1565,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 21时03分]"
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 23时06分]"
         },
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -1524,8 +1579,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 21时03分]"
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 23时06分]"
         },
         {
           "title": "伊朗知情人士：特朗普不满意反而更好",
@@ -1562,6 +1617,22 @@
           "time_info": "[11时11分 ~ 19时07分]"
         },
         {
+          "title": "美国总统特朗普将于5月13日至15日访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 23时06分]"
+        },
+        {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
           "url": "https://wallstreetcn.com/articles/3771940",
           "source": "华尔街见闻",
@@ -1573,23 +1644,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[09时39分 ~ 23时06分]"
         },
         {
-          "title": "美国总统特朗普将于5月13日至15日访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
-          "source": "澎湃新闻",
+          "title": "外交部介绍特朗普访华安排和中方期待",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            10,
-            7,
-            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 23时06分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华安排和中方期待",
+          "url": "https://www.toutiao.com/trending/7638111822163496490/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 23时06分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 23时06分]"
         },
         {
           "title": "外交部官宣特朗普访华日期",
@@ -1603,17 +1693,6 @@
           "time_info": "[09时39分 ~ 15时17分]"
         },
         {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.toutiao.com/trending/7638111822163496490/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时03分]"
-        },
-        {
           "title": "特朗普5月13日至15日访华",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
@@ -1625,15 +1704,18 @@
           "time_info": "[09时39分 ~ 15时17分]"
         },
         {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
-          "source": "百度热搜",
+          "title": "外交部介绍特朗普访华具体安排和中方期待",
+          "url": "https://www.cls.cn/detail/2367815",
+          "source": "财联社热门",
           "ranks": [
+            8,
+            3,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 23时06分]"
         },
         {
           "title": "嘴仗还没完！“是的，我特朗普，比教皇更懂圣经”",
@@ -1658,30 +1740,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时11分 ~ 17时13分]"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时03分]"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排和中方期待",
-          "url": "https://www.cls.cn/detail/2367815",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 21时03分]"
         },
         {
           "title": "中方宣布特朗普访华日期",
@@ -1714,6 +1772,17 @@
           "time_info": "[02时22分 ~ 06时19分]"
         },
         {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普表示，将暂时取消汽油税。",
+          "url": "https://flash.jin10.com/detail/20260511225217767800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "特朗普：期待访问中国",
           "url": "https://www.toutiao.com/trending/7638471676660813348/",
           "source": "今日头条",
@@ -1725,6 +1794,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普称其希望暂停联邦汽油税。",
+          "url": "https://flash.jin10.com/detail/20260511225030063800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "美国总统特朗普将对中国进行国事访问",
           "url": "https://flash.jin10.com/detail/20260511090222372800",
           "source": "金十数据",
@@ -1734,6 +1814,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，自由计划将是更大规模行动的一部分。",
+          "url": "https://flash.jin10.com/detail/20260511225013754800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "美国总统特朗普：希望暂停联邦汽油税。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3101740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "内塔尼亚胡与特朗普通电话",
@@ -1759,6 +1861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，将与伊朗进行谈判直至达成协议。",
+          "url": "https://flash.jin10.com/detail/20260511224829926800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
@@ -1865,6 +1978,18 @@
           "time_info": "[05时19分 ~ 07时21分]"
         },
         {
+          "title": "外交部介绍特朗普访华具体安排和中方期待",
+          "url": "https://wallstreetcn.com/articles/3771976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时07分 ~ 23时06分]"
+        },
+        {
           "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
           "url": "https://flash.jin10.com/detail/20260511015611933800",
           "source": "金十数据",
@@ -1947,18 +2072,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排和中方期待",
-          "url": "https://wallstreetcn.com/articles/3771976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时03分]"
         },
         {
           "title": "唐湘龙：特朗普急需来中国“冲喜”",
@@ -2056,6 +2169,39 @@
           "time_info": "07时21分"
         },
         {
+          "title": "据福克斯新闻：当被问及可能发生的政权更迭时，美国总统特朗普表示，只要现政府“愿意达成协议”，他就准备与之打交道。",
+          "url": "https://flash.jin10.com/detail/20260511224706495800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗称，美国将不得不清除核尘埃。 伊朗强硬派领导人最终将会妥协。 将继续与伊朗打交道，知道协议达成。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3101732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，伊朗强硬派领导人将会妥协。",
+          "url": "https://flash.jin10.com/detail/20260511224655772800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "特朗普隔8年多再访华 这次有何不同",
           "url": "https://www.toutiao.com/trending/7638483267564077119/",
           "source": "今日头条",
@@ -2087,6 +2233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京邀请美国总统特朗普访问莫斯科的邀请仍然有效。",
+          "url": "https://flash.jin10.com/detail/20260511224101510800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "疑似大量特朗普访华物资抵京",
@@ -2133,6 +2290,17 @@
           "time_info": "09时39分"
         },
         {
+          "title": "据福克斯新闻：美国总统特朗普表示，伊朗谈判代表告诉他，由于德黑兰缺乏清除放射性物质的技术，美国需要从伊朗被摧毁的核设施中回收“核尘埃”。",
+          "url": "https://flash.jin10.com/detail/20260511223545607800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "特朗普称伊朗最新关于和平计划的回应不可接受，伊朗方面称其拒绝了美国提出的方案，嘉盛市场情绪指数显示，美国原油维持空头占优......后市情绪如何变化？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260511105125467800",
           "source": "金十数据",
@@ -2153,6 +2321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，正在考虑重新启动自由计划。",
+          "url": "https://flash.jin10.com/detail/20260511223219750800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "【特朗普：期待访华之旅 一定会非常精彩】中国外交部5月11日宣布，美国总统特朗普将于5月13日至15日对中国进行国事访问。5月10日播出的采访中，特朗普表示很期待访问中国，相信此次访华之旅将会很精彩。 (澎湃新闻)",
@@ -2186,6 +2365,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时39分]"
+        },
+        {
+          "title": "美伊局势生变，布油再回100美元上方，美股盘前科技股微跌，现货黄金跌逾1%，铜价逼近历史新高",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 17时13分]"
+        },
+        {
+          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时06分]"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260511060044695800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时21分]"
+        },
+        {
+          "title": "巴里克矿业ADR美股盘初一度收涨9.18%，报47.09美元，创3月份以来盘中新高。 该公司第一季度黄金产量71.9万盎司，超过了64万-68万盎司的指导区间，这主要得益于内华达金矿（NGM）和Veladero矿山的强劲表现，以及Loulo-Gounkoto矿山的产能提升；铜产量为4.9万吨，符合计划。",
+          "url": "https://wallstreetcn.com/livenews/3101731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "美股盘中：百度集团涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9B%98%E4%B8%AD%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "莫德纳美股盘前涨近7%，正推进多起与汉坦病毒疫苗有关的早期研究。",
+          "url": "https://wallstreetcn.com/livenews/3101502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
@@ -2244,7 +2520,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -2273,71 +2549,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时39分]"
-        },
-        {
-          "title": "美伊局势生变，布油再回100美元上方，美股盘前科技股微跌，现货黄金跌逾1%，铜价逼近历史新高",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
-        },
-        {
-          "title": "美股三大股指期货周一开盘微跌。",
-          "url": "https://flash.jin10.com/detail/20260511060044695800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
-          "title": "莫德纳美股盘前涨近7%，正推进多起与汉坦病毒疫苗有关的早期研究。",
-          "url": "https://wallstreetcn.com/livenews/3101502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，OpenAI员工成为人工智能热潮中首批大规模套现的群体，超过600名现任及前任OpenAI员工出售了股份。",
@@ -2382,12 +2595,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "OpenAI将向欧盟开放新网络安全模型访问权限，但Anthropic仍对Mythos持保留态度",
+          "url": "https://wallstreetcn.com/livenews/3101712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年05月11日（周一）上海金早盘价为1026.93元/克，较国际金价(1021.46元/克)，高5.47元/克",
@@ -2410,6 +2634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "为何金价跌而银价涨？贵金属会出现大幅波动吗？",
+          "url": "https://flash.jin10.com/detail/20260511223117647800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     },
