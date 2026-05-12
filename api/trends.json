@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T09:39:01.467131+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-05-12T11:09:57.382567+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 80,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -67,17 +67,6 @@
           "time_info": "[00时56分 ~ 08时40分]"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 09时39分]"
-        },
-        {
           "title": "外交部介绍特朗普访华安排和中方期待",
           "url": "https://www.toutiao.com/trending/7638111822163496490/",
           "source": "今日头条",
@@ -93,6 +82,18 @@
           "time_info": "[00时56分 ~ 09时39分]"
         },
         {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 11时09分]"
+        },
+        {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
           "url": "https://wallstreetcn.com/articles/3771976",
           "source": "华尔街见闻",
@@ -101,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 09时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 11时09分]"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -120,17 +121,6 @@
           "time_info": "[00时56分 ~ 08时40分]"
         },
         {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时39分 ~ 09时39分]"
-        },
-        {
           "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
           "url": "https://www.cls.cn/detail/2368498",
           "source": "财联社热门",
@@ -138,8 +128,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时39分 ~ 09时39分]"
+          "appearance_count": 5,
+          "time_info": "[08时39分 ~ 11时09分]"
         },
         {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
@@ -147,11 +137,37 @@
           "source": "知乎",
           "ranks": [
             7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时39分 ~ 11时09分]"
+        },
+        {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时39分 ~ 11时09分]"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时39分 ~ 09时39分]"
+          "appearance_count": 5,
+          "time_info": "[08时39分 ~ 11时09分]"
         },
         {
           "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
@@ -179,6 +195,29 @@
           "time_info": "[00时56分 ~ 03时36分]"
         },
         {
+          "title": "特朗普访华 哪些信号值得关注",
+          "url": "https://www.toutiao.com/trending/7638556113241604138/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时39分 ~ 11时09分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
           "url": "https://flash.jin10.com/detail/20260512010045688800",
           "source": "金十数据",
@@ -201,18 +240,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 02时40分]"
-        },
-        {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时39分 ~ 09时39分]"
         },
         {
           "title": "白宫副新闻秘书凯利：特朗普对伊朗问题并不着急，所有选项都在考虑之中。",
@@ -251,18 +278,6 @@
           "time_info": "[02时40分 ~ 03时36分]"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时39分 ~ 09时39分]"
-        },
-        {
           "title": "媒体频频泄密如列席战情室 特朗普要求展开调查",
           "url": "https://flash.jin10.com/detail/20260512060026125800",
           "source": "金十数据",
@@ -285,6 +300,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普金卡翻车",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 11时09分]"
         },
         {
           "title": "白宫官员：美国总统特朗普将于周一签署行政命令，允许增加牛肉进口，并支持美国牛群规模的恢复。",
@@ -431,17 +458,6 @@
           "time_info": "[00时56分 ~ 01时43分]"
         },
         {
-          "title": "特朗普金卡翻车",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%BF%BB%E8%BD%A6%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 09时39分]"
-        },
-        {
           "title": "美国总统特朗普：我们需要更多关税。",
           "url": "https://flash.jin10.com/detail/20260512042137003800",
           "source": "金十数据",
@@ -498,6 +514,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "陪同特朗普来华企业曝光：新增马斯克",
+          "url": "https://www.baidu.com/s?wd=%E9%99%AA%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%9D%A5%E5%8D%8E%E4%BC%81%E4%B8%9A%E6%9B%9D%E5%85%89%EF%BC%9A%E6%96%B0%E5%A2%9E%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
           "title": "美国总统特朗普：伊朗强硬派领导人早晚会屈服，我将与他们继续“周旋”，直到他们愿意跟我达成协议。",
           "url": "https://flash.jin10.com/detail/20260512004359495800",
           "source": "金十数据",
@@ -518,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普发文称非常期待中国之行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E7%A7%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -548,7 +586,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -581,7 +619,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -614,9 +652,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "美国议员撺掇特朗普对华强硬",
+          "url": "https://www.toutiao.com/trending/7637780467634192420/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         },
         {
           "title": "美国总统特朗普批准解雇美国食品药品监督管理局（FDA） 专员马卡里。",
@@ -636,7 +685,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -650,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "马斯克库克将随特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E5%B0%86%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         },
         {
           "title": "美国总统特朗普：伊朗是一个美丽的国家，只是目前管理它的人不称职。",
@@ -746,7 +806,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -812,7 +872,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -823,7 +883,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
         },
@@ -845,9 +905,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "美媒报道称，特朗普正考虑恢复对伊军事行动，美官员质疑巴基斯坦传话效率。嘉盛市场情绪指数显示，现货黄金、现货白银多头情绪占比达到82%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260512103326913800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         },
         {
           "title": "特朗普：“停火协议已岌岌可危”，正处于“生命维持”状态",
@@ -864,7 +935,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -874,8 +945,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 09时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 11时09分]"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -897,8 +968,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 09时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 11时09分]"
+        },
+        {
+          "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         },
         {
           "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
@@ -1303,12 +1385,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "伊朗冲突持续两月有余，美国4月CPI高烧难退？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260512103725641800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -1342,8 +1435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 09时39分]"
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 11时09分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -1355,8 +1448,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 09时39分]"
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 11时09分]"
         },
         {
           "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
@@ -1365,11 +1458,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 09时39分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 11时09分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -1481,6 +1575,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 大型芯片股齐创新高",
           "url": "https://flash.jin10.com/detail/20260512040122104800",
           "source": "金十数据",
@@ -1580,7 +1685,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
@@ -1617,6 +1722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "OpenAI与微软设380亿美元分成上限",
+          "url": "https://flash.jin10.com/detail/20260512104701313800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         }
       ]
     },
@@ -1661,25 +1777,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Deepseek分析145斤怎么瘦到100斤",
-          "url": "https://s.weibo.com/weibo?q=Deepseek%E5%88%86%E6%9E%90145%E6%96%A4%E6%80%8E%E4%B9%88%E7%98%A6%E5%88%B0100%E6%96%A4&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时39分 ~ 09时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
@@ -1692,6 +1791,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时43分]"
+        },
+        {
+          "title": "金十图示：2026年05月12日（周二）上海金早盘价为1035.03元/克，较国际金价(1032.13元/克)，高2.9元/克",
+          "url": "https://flash.jin10.com/detail/20260512104137528800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek分析145斤怎么瘦到100斤",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E5%88%86%E6%9E%90145%E6%96%A4%E6%80%8E%E4%B9%88%E7%98%A6%E5%88%B0100%E6%96%A4&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时39分 ~ 11时09分]"
         }
       ]
     }
