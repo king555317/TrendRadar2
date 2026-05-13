@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T00:56:49.688514+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-14T01:45:02.290375+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普抵达北京开始访华",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "特朗普抵达北京",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "特朗普乘专机抵达中国",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "特朗普抵京",
@@ -81,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美国总统特朗普抵达北京，如何理解时隔近十年中美又一次元首会晤的特殊性？",
@@ -103,8 +103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -114,19 +114,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：特朗普已经将至少290亿美元的美国纳税人资金投入到一场完全不必要的战争中，这场战争没有结束的前景或战略目标。",
-          "url": "https://flash.jin10.com/detail/20260514004630650800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "央视现场报道特朗普抵京",
@@ -136,8 +125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
@@ -147,19 +136,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：特朗普已经将至少290亿美元的美国纳税人资金投入到一场完全不必要的战争中，这场战争没有结束的前景或战略目标。",
+          "url": "https://flash.jin10.com/detail/20260514004630650800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "市场消息：美国参议院第七次否决了民主党提出的、旨在限制特朗普对伊朗战争权力的决议。共和党议员莉萨・穆尔科夫斯基与兰德・保罗、苏珊・柯林斯一同支持这项决议。",
           "url": "https://flash.jin10.com/detail/20260514004415802800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
@@ -169,8 +171,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "美国总统特朗普抵达北京开始访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33173644",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
@@ -180,19 +194,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美国总统特朗普抵达北京开始访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33173644",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "特朗普抵京 韩正前往机场迎接",
@@ -202,8 +205,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美国总统特朗普将抵达北京",
@@ -213,8 +216,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "特朗普团队抵达下榻酒店",
@@ -224,8 +227,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "十余位商界代表随特朗普访华",
@@ -235,8 +250,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "特朗普走出机舱",
@@ -246,19 +261,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
+          "title": "特朗普访问中国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
+            14,
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "十余位商界代表随特朗普访华",
@@ -268,19 +284,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "特朗普访问中国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "外交部：欢迎特朗普访问中国",
@@ -290,19 +295,76 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美国总统特朗普抵京，韩正前往机场迎接",
           "url": "https://m.thepaper.cn/newsDetail_forward_33173795",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "随特朗普访华的商界代表有谁",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E7%9A%84%E5%95%86%E7%95%8C%E4%BB%A3%E8%A1%A8%E6%9C%89%E8%B0%81%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "特朗普公布访华团高管名单",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "特朗普政府罕见松绑 世界杯观众豁免入境保证金",
+          "url": "https://flash.jin10.com/detail/20260514010202079800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时45分"
+        },
+        {
+          "title": "据美联社：特朗普政府表示，持有世界杯门票的外国人无需支付高额保证金即可入境美国。",
+          "url": "https://flash.jin10.com/detail/20260514005431459800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "特朗普访华随行人员名单",
@@ -314,68 +376,13 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "随特朗普访华的商界代表有谁",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E7%9A%84%E5%95%86%E7%95%8C%E4%BB%A3%E8%A1%A8%E6%9C%89%E8%B0%81%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "特朗普公布访华团高管名单",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "伊朗革命卫队：绝不允许美国军火经由霍尔木兹海峡运往驻中东地区的美军基地。",
-          "url": "https://flash.jin10.com/detail/20260514005158767800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗总统府：不会永久限制互联网访问",
-          "url": "https://wallstreetcn.com/livenews/3103153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
         {
           "title": "伊朗外长：科威特非法地袭击伊朗船只。",
           "url": "https://wallstreetcn.com/livenews/3103151",
@@ -388,70 +395,144 @@
           "time_info": "00时56分"
         },
         {
-          "title": "伊朗总统府：不会永久限制互联网访问",
-          "url": "https://flash.jin10.com/detail/20260514003837483800",
+          "title": "伊朗副总统Reza Aref：伊朗对霍尔木兹海峡的权利已经确立，此事已无需进行过多讨论。",
+          "url": "https://flash.jin10.com/detail/20260514011709329800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "伊朗革命卫队：我们目前处于全面战备状态，伊朗武装部队随时准备发起行动以应对威胁。",
+          "url": "https://flash.jin10.com/detail/20260514011228427800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时45分"
         },
         {
-          "title": "据路透社：消息人士表示，沙特战机在战争期间曾袭击了伊拉克境内受伊朗支持的民兵据点。",
-          "url": "https://flash.jin10.com/detail/20260514003716267800",
-          "source": "金十数据",
+          "title": "伊朗总统府：不会永久限制互联网访问",
+          "url": "https://wallstreetcn.com/livenews/3103153",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗革命卫队：敌人现在完全不敢侵犯我们的西部边界。",
-          "url": "https://flash.jin10.com/detail/20260514003411902800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗革命卫队：我们在霍尔木兹海峡等地区的战斗人员准备状态显示，如果我们想，没有任何力量能够与我们对抗。",
-          "url": "https://flash.jin10.com/detail/20260514003403266800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：科威特明显在试图制造分裂，非法袭击了一艘伊朗船只，并在波斯湾拘留了我们4名公民。这一非法行为发生在美国用来攻击伊朗的岛屿附近。 我们要求立即释放我们的国民，并保留回应的权利。",
-          "url": "https://flash.jin10.com/detail/20260514003147399800",
-          "source": "金十数据",
-          "ranks": [
+            1,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "伊朗革命卫队：绝不允许美国军火经由霍尔木兹海峡运往驻中东地区的美军基地。",
+          "url": "https://flash.jin10.com/detail/20260514005158767800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "伊朗总统府：不会永久限制互联网访问",
+          "url": "https://flash.jin10.com/detail/20260514003837483800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
           "url": "https://www.zhihu.com/question/2037656032046838013",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "据路透社：消息人士表示，沙特战机在战争期间曾袭击了伊拉克境内受伊朗支持的民兵据点。",
+          "url": "https://flash.jin10.com/detail/20260514003716267800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "伊朗革命卫队：敌人现在完全不敢侵犯我们的西部边界。",
+          "url": "https://flash.jin10.com/detail/20260514003411902800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "伊朗革命卫队：我们在霍尔木兹海峡等地区的战斗人员准备状态显示，如果我们想，没有任何力量能够与我们对抗。",
+          "url": "https://flash.jin10.com/detail/20260514003403266800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：科威特明显在试图制造分裂，非法袭击了一艘伊朗船只，并在波斯湾拘留了我们4名公民。这一非法行为发生在美国用来攻击伊朗的岛屿附近。 我们要求立即释放我们的国民，并保留回应的权利。",
+          "url": "https://flash.jin10.com/detail/20260514003147399800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
+        },
+        {
+          "title": "伊朗议会国家安全委员会发言人：我们已准备好应对所有情景，与美国没有进行过任何核谈判。",
+          "url": "https://flash.jin10.com/detail/20260514010756806800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时45分"
+        },
+        {
+          "title": "伊朗外长指责科威特非法袭击伊朗船只",
+          "url": "https://wallstreetcn.com/livenews/3103151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "报道：北约拟邀海湾国家参加峰会，伊朗战争将成议题",
@@ -475,11 +556,12 @@
           "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
@@ -489,8 +571,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
@@ -500,30 +582,49 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260514003130584800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
         },
         {
           "title": "金十图示：2026年05月13日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260514003025162800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克100指数涨幅扩大至1%，标普500指数目前涨0.6%，道指跌幅收窄至0.3%，半导体指数涨2.7%，银行指数跌超0.8%。 谷歌母公司Alphabet股价创历史新高，报402.04美元/股，日内涨近4%。SpaceX正与谷歌就火箭发射协议进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3103161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时45分"
         }
       ]
     },
@@ -536,11 +637,29 @@
           "url": "https://flash.jin10.com/detail/20260514005028285800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2007年以来首次：30年期美债得标利率超过5%",
+          "url": "https://wallstreetcn.com/livenews/3103158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时45分"
         }
       ]
     }
