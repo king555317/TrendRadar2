@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T17:35:05.589528+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-16T18:31:55.018263+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -252,6 +252,18 @@
           "time_info": "[00时38分 ~ 04时29分]"
         },
         {
+          "title": "特朗普松口：可接受伊朗暂停核计划20年",
+          "url": "https://news.ifeng.com/c/8tAOMUPRq30",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时08分 ~ 18时31分]"
+        },
+        {
           "title": "美国总统特朗普结束访华",
           "url": "https://wallstreetcn.com/articles/3772343",
           "source": "华尔街见闻",
@@ -276,8 +288,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时37分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时37分 ~ 18时31分]"
         },
         {
           "title": "特朗普结束访华 登空军一号挥手告别",
@@ -320,8 +332,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时40分 ~ 17时35分]"
+          "appearance_count": 13,
+          "time_info": "[08时40分 ~ 18时31分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -330,23 +342,12 @@
           "ranks": [
             11,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 17时35分]"
-        },
-        {
-          "title": "特朗普松口：可接受伊朗暂停核计划20年",
-          "url": "https://news.ifeng.com/c/8tAOMUPRq30",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时08分 ~ 17时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 18时31分]"
         },
         {
           "title": "特朗普在空军一号受访，释放大量信号",
@@ -356,8 +357,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 17时35分]"
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 18时31分]"
         },
         {
           "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
@@ -379,11 +380,12 @@
           "ranks": [
             11,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时08分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时08分 ~ 18时31分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -392,11 +394,23 @@
           "ranks": [
             13,
             11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时50分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时50分 ~ 17时35分]"
+          "time_info": "[15时39分 ~ 18时31分]"
         },
         {
           "title": "特朗普结束访华，大赞中南海景致：若待得惯都不想走",
@@ -410,6 +424,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时50分 ~ 17时35分]"
+        },
+        {
+          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
+          "url": "https://wallstreetcn.com/livenews/3104753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            16,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 18时31分]"
         },
         {
           "title": "特朗普在空军一号采访，释放大量信号",
@@ -435,6 +464,17 @@
           "time_info": "[13时08分 ~ 16时38分]"
         },
         {
+          "title": "听到特朗普这句话，台湾当局该醒了",
+          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "特朗普说“伊斯兰国”二号头目被“清除”",
           "url": "https://flash.jin10.com/detail/20260516115016762800",
           "source": "金十数据",
@@ -444,20 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
-        },
-        {
-          "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
-          "url": "https://wallstreetcn.com/livenews/3104753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 17时35分]"
         },
         {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
@@ -484,17 +510,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时08分 ~ 15时39分]"
-        },
-        {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.toutiao.com/trending/7639309598792663066/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 17时35分]"
         },
         {
           "title": "特朗普称随访美国商人是自己想来的",
@@ -546,6 +561,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时23分 ~ 09时38分]"
+        },
+        {
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "默茨与特朗普通电话，似有意修补德美关系",
@@ -655,17 +681,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 08时40分]"
-        },
-        {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
           "title": "美国加州州长纽森：去年，特朗普和共和党人选择提高数百万美国人在《平价医疗法案》（ACA）医保市场上的医疗保险保费。我提出的预算方案将继续为加州低收入居民保留每月0美元保费医保计划，以帮助收拾特朗普制造的财政混乱。",
@@ -873,11 +888,12 @@
           "url": "https://news.ifeng.com/c/8tAsxndbgHu",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 17时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 18时31分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -940,15 +956,18 @@
           "time_info": "[09时37分 ~ 14时50分]"
         },
         {
-          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
-          "url": "https://wallstreetcn.com/livenews/3104774",
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3104760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3,
+            10,
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 18时31分]"
         },
         {
           "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
@@ -964,17 +983,16 @@
           "time_info": "[02时36分 ~ 04时29分]"
         },
         {
-          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
-          "url": "https://wallstreetcn.com/livenews/3104760",
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://wallstreetcn.com/livenews/3104774",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            10,
-            14
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时35分]"
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 18时31分]"
         },
         {
           "title": "消息人士：国际足联将就伊朗参加在美国举行的世界杯一事提供“保证”。国际足联秘书长将于周六在伊斯坦布尔与伊朗足协举行会谈，讨论世界杯筹备事宜。",
@@ -1029,6 +1047,17 @@
           "time_info": "[14时50分 ~ 17时35分]"
         },
         {
+          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
+          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
           "title": "据伊朗媒体报道，伊朗方面表示，霍尔木兹海峡不安定局势结束后，航运通行将恢复正常。",
           "url": "https://flash.jin10.com/detail/20260516141522192800",
           "source": "金十数据",
@@ -1042,15 +1071,17 @@
           "time_info": "[14时50分 ~ 16时38分]"
         },
         {
-          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
-          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
-          "source": "凤凰网",
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://flash.jin10.com/detail/20260516151231684800",
+          "source": "金十数据",
           "ranks": [
-            8
+            8,
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时31分]"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -1063,18 +1094,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 11时09分]"
-        },
-        {
-          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
-          "url": "https://flash.jin10.com/detail/20260516151231684800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时35分]"
         },
         {
           "title": "伊朗驻联合国大使：巴勒斯坦的未来应由巴勒斯坦人民自己决定。",
@@ -1168,8 +1187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时22分 ~ 17时35分]"
+          "appearance_count": 14,
+          "time_info": "[07时22分 ~ 18时31分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -1417,8 +1436,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时08分 ~ 17时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时08分 ~ 18时31分]"
         },
         {
           "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
@@ -1427,11 +1446,12 @@
           "ranks": [
             2,
             11,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 18时31分]"
         },
         {
           "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
@@ -1440,11 +1460,12 @@
           "ranks": [
             4,
             11,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 18时31分]"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -1520,8 +1541,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时22分 ~ 17时35分]"
+          "appearance_count": 14,
+          "time_info": "[07时22分 ~ 18时31分]"
         },
         {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
@@ -1536,8 +1557,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 17时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 18时31分]"
         },
         {
           "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
@@ -1549,8 +1570,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时40分 ~ 17时35分]"
+          "appearance_count": 13,
+          "time_info": "[08时40分 ~ 18时31分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -1715,11 +1736,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时31分]"
         }
       ]
     },
