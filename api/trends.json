@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T13:24:34.785751+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-05-19T15:17:19.209870+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -135,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 15时17分]"
         },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -149,8 +149,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 15时17分]"
         },
         {
           "title": "默克尔：不要低估特朗普",
@@ -186,6 +186,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 15时17分]"
+        },
+        {
           "title": "美国总统特朗普：（对伊朗的）袭击原定于明天进行。",
           "url": "https://flash.jin10.com/detail/20260519030339830800",
           "source": "金十数据",
@@ -203,7 +214,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -241,15 +252,17 @@
           "time_info": "11时10分"
         },
         {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 15时17分]"
         },
         {
           "title": "特朗普：取消原定明天对伊朗发动袭击的计划",
@@ -323,18 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2374803",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 13时24分]"
         },
         {
           "title": "外交部回应特朗普涉台表态",
@@ -494,6 +495,18 @@
           "time_info": "[06时24分 ~ 07时26分]"
         },
         {
+          "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时17分]"
+        },
+        {
           "title": "美国民主党：特朗普不能在IRS和解案中“既当裁判又当运动员”",
           "url": "https://wallstreetcn.com/livenews/3105514",
           "source": "华尔街见闻-快讯",
@@ -568,9 +581,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "特朗普处方药网站新增数百种仿制药",
@@ -670,17 +694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "美国总统特朗普：将要求司法部长和司法部对马里兰州的邮寄选票进行调查。",
@@ -840,7 +853,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 53,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -852,8 +865,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 15时17分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -876,8 +889,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时39分 ~ 13时24分]"
+          "appearance_count": 14,
+          "time_info": "[02时39分 ~ 15时17分]"
         },
         {
           "title": "美方被曝将暂停对伊朗的石油制裁",
@@ -911,8 +924,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 15时17分]"
         },
         {
           "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
@@ -963,6 +976,17 @@
           "time_info": "09时43分"
         },
         {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 15时17分]"
+        },
+        {
           "title": "据CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
           "url": "https://flash.jin10.com/detail/20260519003104768800",
           "source": "金十数据",
@@ -972,17 +996,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "伊朗最高领袖重申将考虑开辟新战线",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 13时24分]"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进，考虑重启军事行动",
@@ -1035,6 +1048,18 @@
           "time_info": "[01时02分 ~ 02时39分]"
         },
         {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 15时17分]"
+        },
+        {
           "title": "伊媒：又一艘伊朗船只突破美国封锁",
           "url": "https://www.toutiao.com/trending/7640952966010241060/",
           "source": "今日头条",
@@ -1045,6 +1070,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 06时24分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 15时17分]"
         },
         {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
@@ -1070,18 +1108,6 @@
           "time_info": "[01时02分 ~ 01时48分]"
         },
         {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 13时24分]"
-        },
-        {
           "title": "【美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁】一名美国官员表示，伊朗方面关于“美国已同意在谈判进行期间解除对伊朗石油制裁”的消息是“虚假的”。当天早些时候，伊朗方面援引谈判团队相关消息人士的话称，美国在最新谈判文本中，已同意在谈判期间对伊朗石油制裁实施临时豁免。（央视）",
           "url": "https://wallstreetcn.com/livenews/3105550",
           "source": "华尔街见闻-快讯",
@@ -1092,18 +1118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时36分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 13时24分]"
         },
         {
           "title": "据黎巴嫩真主党半官方网站Alahednews：伊朗国防部发言人塔拉埃伊准将表示，美国人要么接受外交方案和伊朗提出的条件，要么直面伊朗的导弹力量。",
@@ -1134,7 +1148,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1172,6 +1186,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "伊朗副外长公布伊对美协议草案提议 包括美军从周边地区撤离",
+          "url": "https://wallstreetcn.com/livenews/3105877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "惠誉评级：尽管伊朗冲突带来持续不确定性，4月美国杠杆融资市场依然表现出广泛的韧性。伊朗冲突仍对违约预期构成上行风险。",
           "url": "https://flash.jin10.com/detail/20260519043740942800",
           "source": "金十数据",
@@ -1181,6 +1206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "伊朗副外长公布伊对美协议草案提议 包括美军从周边地区撤离",
+          "url": "https://flash.jin10.com/detail/20260519150202497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "伊朗哈尔克岛连续10天未见油轮",
@@ -1326,6 +1362,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "OECD秘书长Cormann：伊朗冲突给经济和通胀带来了压力。 存在大量下行风险。存在第二轮效应的风险。",
+          "url": "https://wallstreetcn.com/livenews/3105859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "德国财长克林贝尔：将于周二与美国财长贝森特进行双边会谈，讨论伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260518235547632800",
           "source": "金十数据",
@@ -1379,6 +1426,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗延长德黑兰两座国际机场航班运行时间",
+          "url": "https://wallstreetcn.com/livenews/3105854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "伊朗老旧油轮倾巢出动，海湾囤油4200万桶创冲突以来新高",
+          "url": "https://flash.jin10.com/detail/20260519145235146800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "英国4月就业人数大幅下降 伊朗冲突令经济前景黯淡",
+          "url": "https://wallstreetcn.com/livenews/3105843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
@@ -1405,8 +1485,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时23分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[06时23分 ~ 15时17分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 15时17分]"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
@@ -1424,19 +1517,6 @@
           "time_info": "[01时02分 ~ 11时10分]"
         },
         {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 13时24分]"
-        },
-        {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
           "url": "https://www.cls.cn/detail/2374806",
           "source": "财联社热门",
@@ -1444,8 +1524,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 15时17分]"
         },
         {
           "title": "中东局势降温预期提振市场，拉美股汇两市双双走高",
@@ -1600,6 +1680,114 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美债收益率破5%有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 09时43分]"
+        },
+        {
+          "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
+          "url": "https://www.cls.cn/detail/2374855",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时17分]"
+        },
+        {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/livenews/3105612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时24分]"
+        },
+        {
+          "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
+          "url": "https://wallstreetcn.com/livenews/3105635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时26分]"
+        },
+        {
+          "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
+          "url": "https://flash.jin10.com/detail/20260519055948313800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时26分]"
+        },
+        {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 15时17分]"
+        },
+        {
+          "title": "3月外国投资者美债持仓下降 管涛：地缘冲突、能源供给冲击的自然反应，4月或回升",
+          "url": "https://www.cls.cn/detail/2374826",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "周一（5月18日）纽约尾盘，美国10年期国债收益率涨1.40个基点，报4.6073%。 两年期美债收益率涨0.46个基点，报4.0734%；30年期美债收益率涨2.50个基点，报5.1407%。 2/10年期美债收益率利差涨1.469个基点，报+53.296个基点。 10年期通胀保值国债（TIPS）收益率涨3.90个基点，至2.1085%；两年期TIPS收益率涨2.48个基点，至1.1751%；30年期TIPS收益率涨2.77个基点，至2.83%。",
+          "url": "https://wallstreetcn.com/livenews/3105577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "英国在3月增持美债 中国和日本减持",
+          "url": "https://flash.jin10.com/detail/20260519040958364800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
@@ -1697,106 +1885,21 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美债收益率破5%有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 09时43分]"
-        },
-        {
-          "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
-          "url": "https://www.cls.cn/detail/2374855",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/livenews/3105612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时24分]"
-        },
-        {
-          "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
-          "url": "https://wallstreetcn.com/livenews/3105635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时26分]"
-        },
-        {
-          "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
-          "url": "https://flash.jin10.com/detail/20260519055948313800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时26分]"
-        },
-        {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/articles/3772572",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 13时24分]"
-        },
-        {
-          "title": "周一（5月18日）纽约尾盘，美国10年期国债收益率涨1.40个基点，报4.6073%。 两年期美债收益率涨0.46个基点，报4.0734%；30年期美债收益率涨2.50个基点，报5.1407%。 2/10年期美债收益率利差涨1.469个基点，报+53.296个基点。 10年期通胀保值国债（TIPS）收益率涨3.90个基点，至2.1085%；两年期TIPS收益率涨2.48个基点，至1.1751%；30年期TIPS收益率涨2.77个基点，至2.83%。",
-          "url": "https://wallstreetcn.com/livenews/3105577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "英国在3月增持美债 中国和日本减持",
-          "url": "https://flash.jin10.com/detail/20260519040958364800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时17分]"
+        },
         {
           "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
           "url": "https://wallstreetcn.com/livenews/3105604",
@@ -1820,17 +1923,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时46分 ~ 09时43分]"
-        },
-        {
-          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
-          "url": "https://www.cls.cn/detail/2374982",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
@@ -1880,7 +1972,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价跳水 黑金首饰受追捧",
@@ -1904,8 +1996,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时46分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 15时17分]"
         },
         {
           "title": "金十图示：2026年05月19日（周二）上海金早盘价为999.72元/克，较国际金价(993.94元/克)，高5.78元/克",
@@ -1917,6 +2009,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）上海金午盘价为998.07元/克，较国际金价(994.38元/克)，高3.69元/克",
+          "url": "https://flash.jin10.com/detail/20260519150144337800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "近期金价持续回调的原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%87%91%E4%BB%B7%E6%8C%81%E7%BB%AD%E5%9B%9E%E8%B0%83%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
