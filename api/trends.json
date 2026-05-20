@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-20T15:26:27.080684+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-05-20T17:22:14.159945+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时48分 ~ 17时22分]"
+        },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
           "url": "https://www.cls.cn/detail/2375879",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 09时44分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时48分 ~ 15时26分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -58,6 +58,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时48分 ~ 13时24分]"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 17时22分]"
         },
         {
           "title": "新加坡与谷歌公司、OpenAI签署AI协议。 OpenAI承诺对狮城生态系统投资2.34亿美元（折合3亿坡元），成立海外（美国之外）第一个AI实验室。 谷歌将AI协作扩展至教育、医疗保健、科学研究。 新加坡希望在全球部署AI方面发挥更大作用。",
@@ -133,6 +146,17 @@
           "time_info": "[02时40分 ~ 03时36分]"
         },
         {
+          "title": "Gemini 3.5 Flash 正式发布，你怎么评价这款模型?",
+          "url": "https://www.zhihu.com/question/2040251136867815469",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
           "title": "谷歌公司将根据许可协议招聘AI初创公司Contextual的员工。",
           "url": "https://wallstreetcn.com/livenews/3106205",
           "source": "华尔街见闻-快讯",
@@ -167,18 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时26分]"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Omni 今天将上线 Gemini应用，面向付费用户。用户可以通过任意组合的文本、图片和视频输入来实现创意。只需打开 Gemini，从相册中附加一个视频，然后进行修改。就是这么简单。",
@@ -463,7 +475,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -537,7 +549,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -587,6 +599,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时44分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "赖清德暗怼特朗普后心虚了",
@@ -948,7 +971,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1030,6 +1053,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "据以色列媒体：特朗普与内塔尼亚胡昨晚通电话，讨论了即将对伊朗做出的决定。",
+          "url": "https://flash.jin10.com/detail/20260520165123555800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们将迅速结束战争。",
           "url": "https://flash.jin10.com/detail/20260520073414269800",
           "source": "金十数据",
@@ -1044,7 +1078,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -1100,6 +1134,17 @@
           "time_info": "[01时02分 ~ 07时28分]"
         },
         {
+          "title": "伊朗革命卫队：伊朗不会被围困，也不会被击败。",
+          "url": "https://flash.jin10.com/detail/20260520171612694800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美国公布新一轮对伊朗制裁名单",
           "url": "https://wallstreetcn.com/livenews/3106175",
           "source": "华尔街见闻-快讯",
@@ -1109,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗革命卫队：陆军正处于备战状态，我们将停火期视为战时，并利用这一机会加强了作战能力。",
+          "url": "https://flash.jin10.com/detail/20260520171600988800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
@@ -1128,7 +1184,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1167,6 +1223,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时36分]"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时22分]"
         },
         {
           "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
@@ -1216,15 +1284,15 @@
           "time_info": "[02时40分 ~ 03时36分]"
         },
         {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
+          "title": "伊朗：美国对我们的敌意始于1953年",
+          "url": "https://flash.jin10.com/detail/20260520170446225800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "17时22分"
         },
         {
           "title": "据华尔街日报：三名美国官员称，美方在印度洋扣押了一艘与伊朗有关的油轮。",
@@ -1357,12 +1425,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "欧洲央行管委Wunsch：债券抛售未影响对伊朗问题的考量。 欧洲央行迟早会做出反应的。 我们正处于通货膨胀问题的开端阶段。 在部分经济领域，应对通货膨胀的措施可能会更为迅速。 如果到六月情况仍未得到改善，那将会是个糟糕的消息。 欧元区经济正在放缓，而非陷入衰退。 我原本就对4月份加息有所期待。",
+          "url": "https://wallstreetcn.com/livenews/3106601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -1377,19 +1456,6 @@
           "time_info": "[01时02分 ~ 07时28分]"
         },
         {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时34分 ~ 15时26分]"
-        },
-        {
           "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
           "url": "https://www.cls.cn/detail/2376079",
           "source": "财联社热门",
@@ -1402,6 +1468,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时29分 ~ 13时24分]"
+        },
+        {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[05时34分 ~ 17时22分]"
         },
         {
           "title": "美股收盘：三大股指收跌 高通跌近4%",
@@ -1499,6 +1579,17 @@
           "time_info": "[11时10分 ~ 13时24分]"
         },
         {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（5月19日），美国科技股七巨头（Magnificent 7）指数跌1.16%，报223.24点。 “超大”市值科技股指数跌1.50%，报440.54点。",
           "url": "https://wallstreetcn.com/livenews/3106269",
           "source": "华尔街见闻-快讯",
@@ -1546,6 +1637,17 @@
           "time_info": "[08时48分 ~ 09时44分]"
         },
         {
+          "title": "美股盘前，半导体股普涨，英特尔涨超4%，美光科技涨近4%，高通涨近3%，阿斯麦、AMD涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3106616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260520040952291800",
           "source": "金十数据",
@@ -1588,12 +1690,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "英伟达美股盘前波动不大，现涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3106599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -1627,8 +1740,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时10分 ~ 17时22分]"
+        },
+        {
+          "title": "美债收益率破5%意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "汇丰：10年期美债收益率在危险区，但尚未发出买入信号",
@@ -1643,13 +1778,35 @@
           "time_info": "[03时36分 ~ 04时37分]"
         },
         {
+          "title": "抛盘狂砸1小时！美债惊现“投降式”交易：30年期收益率创19年新高",
+          "url": "https://www.cls.cn/detail/2376210",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "美债上演“投降式大抛售”",
+          "url": "https://www.toutiao.com/trending/7641784327507824191/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
           "title": "WTI多头仍占优，黄金高位拉扯，美债警报突然变响｜市场赔率数据表",
           "url": "https://flash.jin10.com/detail/20260520151055539800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -1685,6 +1842,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "软银创始人孙正义对OpenAI的集中押注日益引发担忧",
+          "url": "https://wallstreetcn.com/livenews/3106553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "OpenAI担保给予开支水平的算力。",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "知情人士：软银CEO孙正义曾表示相信OpenAI创始人Sam Altman正引领着本世纪最重要的技术变革。",
+          "url": "https://flash.jin10.com/detail/20260520165930678800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         }
       ]
     },
@@ -1748,56 +1966,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "软银创始人孙正义对OpenAI的集中押注日益引发担忧",
-          "url": "https://wallstreetcn.com/livenews/3106553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "OpenAI担保给予开支水平的算力。",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3106163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
         }
       ]
     },
@@ -1879,7 +2047,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
