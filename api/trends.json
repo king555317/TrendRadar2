@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T13:28:28.709531+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-05-21T15:21:05.529322+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -30,6 +30,18 @@
           "time_info": "[01时06分 ~ 07时31分]"
         },
         {
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 15时21分]"
+        },
+        {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
           "url": "https://news.ifeng.com/c/8tHcSaikz2t",
           "source": "凤凰网",
@@ -41,18 +53,6 @@
           "time_info": "[01时06分 ~ 13时28分]"
         },
         {
-          "title": "特朗普，“退了一万亿”",
-          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 13时28分]"
-        },
-        {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 15时21分]"
         },
         {
           "title": "特朗普回应中俄元首会晤",
@@ -73,8 +73,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普声称将会与赖清德通电话",
+          "url": "https://news.ifeng.com/c/8tIqnPf6rAB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时11分 ~ 13时28分]"
+          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "特朗普：我们还记着古巴，起诉前古巴总统卡斯特罗是一个非常重要的时刻。古巴是一个失败的国家，无法预测他们的未来。",
@@ -105,9 +116,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时47分 ~ 15时21分]"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 15时21分]"
         },
         {
           "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
@@ -134,26 +168,27 @@
           "time_info": "[09时43分 ~ 13时28分]"
         },
         {
-          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2377369",
-          "source": "财联社热门",
+          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时47分 ~ 11时11分]"
+          "time_info": "[09时43分 ~ 15时21分]"
         },
         {
-          "title": "特朗普：不要中国学生，那可太冒犯了",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
-          "source": "凤凰网",
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时11分 ~ 13时28分]"
+          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
@@ -345,17 +380,6 @@
           "time_info": "03时46分"
         },
         {
-          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
           "title": "特朗普：土耳其总统埃尔多安一直是盟友。",
           "url": "https://flash.jin10.com/detail/20260521024751852800",
           "source": "金十数据",
@@ -535,7 +559,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
@@ -646,6 +670,29 @@
           "time_info": "[04时46分 ~ 05时36分]"
         },
         {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 15时21分]"
+        },
+        {
+          "title": "伊朗公布霍尔木兹海峡管辖范围",
+          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 15时21分]"
+        },
+        {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
           "url": "https://wallstreetcn.com/livenews/3106881",
           "source": "华尔街见闻-快讯",
@@ -656,17 +703,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时46分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2040565738411221984",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 13时28分]"
         },
         {
           "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
@@ -734,9 +770,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "据CNN：美国情报显示，伊朗重建军工基础的速度快于预期，且已开始生产无人机。",
+          "url": "https://flash.jin10.com/detail/20260521151357464800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "伊朗确认收到美方提案 尚未作出回复",
@@ -783,6 +830,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "巴基斯坦陆军参谋长将赴伊朗磋商推动美伊谈判",
+          "url": "https://wallstreetcn.com/livenews/3107222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
           "url": "https://flash.jin10.com/detail/20260521061556986800",
           "source": "金十数据",
@@ -827,6 +885,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "巴基斯坦陆军参谋长将于周四前往德黑兰进行谈判，巴基斯坦陆军参谋长德黑兰之行是美国与伊朗之间调解努力的一部分。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3107206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
           "url": "https://wallstreetcn.com/livenews/3106829",
           "source": "华尔街见闻-快讯",
@@ -836,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据伊朗官方媒体报道，巴基斯坦内政部长莫赫辛·纳克维周四在德黑兰和伊朗外长阿拉格齐进行了会面。",
+          "url": "https://flash.jin10.com/detail/20260521150314352800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "伊朗外交部发言人：美国必须对伊朗船只表现出良好意愿，结束其海盗行径。（伊朗国家电视台）",
@@ -863,8 +943,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时33分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[06时33分 ~ 15时21分]"
         },
         {
           "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
@@ -875,8 +955,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 13时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时30分 ~ 15时21分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -923,7 +1003,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -1406,8 +1486,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 13时28分]"
+          "appearance_count": 7,
+          "time_info": "[08时47分 ~ 15时21分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
