@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T07:31:20.533131+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-05-21T08:48:19.282948+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -37,8 +37,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 08时48分]"
+        },
+        {
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
         },
         {
           "title": "特朗普：我们还记着古巴，起诉前古巴总统卡斯特罗是一个非常重要的时刻。古巴是一个失败的国家，无法预测他们的未来。",
@@ -73,6 +84,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时46分]"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
         },
         {
           "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
@@ -420,8 +453,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时33分 ~ 08时48分]"
+        },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
           "url": "https://wallstreetcn.com/articles/3772698",
@@ -461,27 +506,16 @@
           "time_info": "[01时06分 ~ 05时36分]"
         },
         {
-          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
-          "url": "https://www.cls.cn/detail/2377305",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时33分 ~ 07时31分]"
-        },
-        {
           "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
           "url": "https://www.cls.cn/detail/2377339",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 08时48分]"
         },
         {
           "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股盘中）",
@@ -578,6 +612,28 @@
           "time_info": "[06时34分 ~ 07时31分]"
         },
         {
+          "title": "美股三大指数均涨超1% 特斯拉涨3.25%",
+          "url": "https://www.toutiao.com/trending/7642114363104431662/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
+        },
+        {
+          "title": "美股三大指数收涨超1% CPU概念股强势",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8%E8%B6%851%25+CPU%E6%A6%82%E5%BF%B5%E8%82%A1%E5%BC%BA%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
+        },
+        {
           "title": "金十图示：2026年05月20日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260521003049343800",
           "source": "金十数据",
@@ -672,7 +728,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -701,8 +757,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时45分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[04时45分 ~ 08时48分]"
         },
         {
           "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
@@ -890,7 +946,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -912,7 +968,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -923,7 +979,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -975,11 +1031,12 @@
             15,
             16,
             14,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 08时48分]"
         },
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -1178,7 +1235,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -1189,8 +1246,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[01时06分 ~ 08时48分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -1203,6 +1260,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
         },
         {
           "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
