@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T17:09:27.701309+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-05-22T19:04:29.212318+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -136,11 +136,12 @@
           "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 19时04分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时43分 ~ 17时09分]"
+        },
+        {
+          "title": "特朗普声称要与赖清德通话，美媒分析后果",
+          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "美国总统特朗普：今天在能源和商务委员会就一项包括《阳光保护法案》在内的法案进行了重大投票（48票赞成，1票反对）！该法案将使夏令时永久化！",
@@ -470,7 +482,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -547,7 +559,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -580,7 +592,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -605,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普宣布“暂缓执行”拜登政府的制冷剂环保规定",
+          "url": "https://wallstreetcn.com/livenews/3107975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "美国总统特朗普：伊朗不能保留浓缩铀。一旦获得这些浓缩铀，可能会予以销毁。我们不想要它。",
@@ -646,7 +669,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -723,7 +746,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -753,7 +776,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -767,8 +790,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时41分 ~ 17时09分]"
+          "appearance_count": 16,
+          "time_info": "[02时41分 ~ 19时04分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -780,8 +803,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 17时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 19时04分]"
         },
         {
           "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
@@ -811,6 +834,17 @@
           "time_info": "[00时56分 ~ 07时25分]"
         },
         {
+          "title": "伊朗外交部发言人：我们地区和世界目前所面临的危机直接源于美国2018年5月非法且任性地退出《联合全面行动计划》。",
+          "url": "https://flash.jin10.com/detail/20260522185158464800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
           "url": "https://flash.jin10.com/detail/20260522013314516800",
           "source": "金十数据",
@@ -831,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "鲁比奥：伊朗问题确实有一些进展",
+          "url": "https://news.ifeng.com/c/8tKwzchzUFC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
@@ -1002,6 +1047,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "伊朗外长会见巴基斯坦内政部长",
+          "url": "https://wallstreetcn.com/livenews/3107971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "伊朗战争引发的化肥价格上涨威胁巴西农业经济",
           "url": "https://wallstreetcn.com/livenews/3107560",
           "source": "华尔街见闻-快讯",
@@ -1013,13 +1069,24 @@
           "time_info": "01时43分"
         },
         {
+          "title": "伊朗革命卫队称过去24小时有35艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3107969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "“是偶然还是趋势？” 伊朗冲突颠覆50万亿美元主权债市场中的通胀观点",
           "url": "https://wallstreetcn.com/livenews/3107906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1030,7 +1097,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1046,13 +1113,24 @@
           "time_info": "13时24分"
         },
         {
+          "title": "欧盟扩大对伊朗制裁 将“威胁中东航行自由”行为纳入制裁范围",
+          "url": "https://wallstreetcn.com/livenews/3107962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗正试图在霍尔木兹海峡建立收费系统，任何国家都不应接受这一做法。",
           "url": "https://flash.jin10.com/detail/20260522162046116800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
@@ -1060,7 +1138,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -1094,7 +1172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1105,7 +1183,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1116,7 +1194,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1159,6 +1237,19 @@
           "time_info": "[05时34分 ~ 07时25分]"
         },
         {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 19时04分]"
+        },
+        {
           "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
           "url": "https://wallstreetcn.com/livenews/3107625",
           "source": "华尔街见闻-快讯",
@@ -1182,18 +1273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时25分]"
-        },
-        {
-          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
-          "url": "https://www.cls.cn/detail/2378668",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 17时09分]"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
@@ -1226,7 +1305,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1237,7 +1316,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1248,7 +1327,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1259,7 +1338,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1281,7 +1360,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -1295,6 +1374,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "美股盘前，美股存储芯片概念股走低，美光跌约1.8%，闪迪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3107953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "财报季过后，更多分析师转向看好美股",
+          "url": "https://flash.jin10.com/detail/20260522180957528800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
@@ -1391,8 +1492,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时45分 ~ 17时09分]"
+          "appearance_count": 9,
+          "time_info": "[08时45分 ~ 19时04分]"
         },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -1539,8 +1640,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时09分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 19时04分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）上海金午盘价为992.31元/克，较国际金价(989.25元/克)，高3.06元/克",
