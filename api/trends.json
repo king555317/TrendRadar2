@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T11:10:40.883636+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-05-24T13:22:47.915096+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 11时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时22分]"
         },
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 11时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时22分]"
         },
         {
           "title": "一名外交官表示：美国总统特朗普与中东领袖们的对话“是积极的”。（福克斯新闻）",
@@ -76,11 +76,12 @@
             5,
             8,
             14,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时20分 ~ 11时10分]"
+          "appearance_count": 8,
+          "time_info": "[04时20分 ~ 13时22分]"
         },
         {
           "title": "特朗普称可能于24日决定是否恢复对伊军事行动",
@@ -109,11 +110,12 @@
             9,
             12,
             18,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时20分 ~ 11时10分]"
+          "appearance_count": 8,
+          "time_info": "[04时20分 ~ 13时22分]"
         },
         {
           "title": "特朗普：美伊协议基本谈成，内容包括开放霍尔木兹海峡",
@@ -123,11 +125,24 @@
             3,
             6,
             12,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 11时10分]"
+          "appearance_count": 6,
+          "time_info": "[06时20分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 13时22分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成",
@@ -214,17 +229,6 @@
           "time_info": "[05时20分 ~ 09时43分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3108428",
           "source": "华尔街见闻-快讯",
@@ -262,6 +266,31 @@
           "time_info": "[06时20分 ~ 09时43分]"
         },
         {
+          "title": "枪击发生时特朗普正在白宫",
+          "url": "https://wallstreetcn.com/livenews/3108435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时46分 ~ 13时22分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安：土耳其欢迎伊美外交进程提升至特朗普所提到的层级。",
+          "url": "https://flash.jin10.com/detail/20260524124724318800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "美国总统特朗普：伊朗协议的最终细节目前正在讨论中，预计将很快公布。",
           "url": "https://flash.jin10.com/detail/20260524043328074800",
           "source": "金十数据",
@@ -288,19 +317,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时20分 ~ 09时43分]"
-        },
-        {
-          "title": "枪击发生时特朗普正在白宫",
-          "url": "https://wallstreetcn.com/livenews/3108435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时46分 ~ 11时10分]"
         },
         {
           "title": "枪击发生时特朗普正在白宫",
@@ -388,6 +404,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 11时10分]"
+        },
+        {
+          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
+          "url": "https://www.cls.cn/detail/2379936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 13时22分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普称，我只会签署一个能让我们从伊朗获得所有想要的东西的协议。",
@@ -552,6 +580,18 @@
           "time_info": "[02时24分 ~ 04时20分]"
         },
         {
+          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
+          "url": "https://wallstreetcn.com/articles/3772979",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 13时22分]"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普称，最终协议将阻止伊朗获得核武器。",
           "url": "https://flash.jin10.com/detail/20260524000221273800",
           "source": "金十数据",
@@ -622,6 +662,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 11时10分]"
+        },
+        {
+          "title": "枪击发生时特朗普正在白宫",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%87%BB%E5%8F%91%E7%94%9F%E6%97%B6%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%9C%A8%E7%99%BD%E5%AE%AB%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 13时22分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普已查看与伊朗的协议草案。",
@@ -695,26 +747,26 @@
           "time_info": "[02时24分 ~ 03时29分]"
         },
         {
-          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
-          "url": "https://www.cls.cn/detail/2379936",
-          "source": "财联社热门",
+          "title": "特朗普回应白宫附近枪击案 呼吁加强白宫安保",
+          "url": "https://flash.jin10.com/detail/20260524122944346800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "13时22分"
         },
         {
-          "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
-          "url": "https://wallstreetcn.com/articles/3772979",
+          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
+          "url": "https://wallstreetcn.com/articles/3772984",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "13时22分"
         },
         {
           "title": "据News Nation白宫记者：周六晚上9:30（北京时间早上9:30），特朗普总统仍在椭圆形办公室办公。",
@@ -723,7 +775,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -750,21 +802,21 @@
           "time_info": "00时23分"
         },
         {
-          "title": "枪击发生时特朗普正在白宫",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%87%BB%E5%8F%91%E7%94%9F%E6%97%B6%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%9C%A8%E7%99%BD%E5%AE%AB%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "【美媒曝光美伊协议内容：海峡重开、美国解除港口封锁、涉核问题等】金十数据5月24日讯，据AXIOS报道，一名美国官员透露美伊即将签署的协议的主要内容。但目前尚不清楚该协议是否能促成一项持久的和平协议，同时还能满足特朗普提出的核要求。美国官员表示，白宫希望在接下来的几个小时内解决最后的分歧，并在周日宣布协议。但这尚未最终确定。该官员提供了当前草案的详细概要，其中大部分内容得到其他接近谈判的消息人士的证实。而伊朗方面尚未确认这些细节，但伊方也表示协议已接近达成。 ①主要内容：双方将签署一份谅解备忘录，有效期60天，经双方同意可延长。在60天期限内，霍尔木兹海峡将开放且不收取通行费，伊朗同意清除其在海峡中部署的水雷，以允许船只自由通行。作为交换，美国将解除对伊朗港口的封锁，并发布一些制裁豁免，允许伊朗自由出售石油。伊朗方面希望立即解冻资金并永久解除制裁，但美方表示只有在做出切实让步后才会实现。 ②核问题仍待谈判：该美国官员称，谅解备忘录草案包括伊朗承诺永不寻求核武器，并就暂停其铀浓缩计划及清除其高浓缩铀库存进行谈判。两位知情人士称，伊朗通过调解人向美国口头承诺了其在暂停铀浓缩和放弃核材料方面愿意做出的让步范围。近几个月动员的美军将在60天内留在该地区，只有达成最终协议才会撤军。 ③黎巴嫩停火：谅解备忘录草案还明确，以黎之间的战争将结束。美国官员表示，这不会是“单方面停火”，如果真主党试图重新武装或煽动袭击，以色列将被允许采取行动阻止。",
+          "url": "https://flash.jin10.com/detail/20260524112705766800",
+          "source": "金十数据",
           "ranks": [
-            23
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "13时22分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗：可能在30天或60天后的下一个阶段再进入核问题的谈判",
@@ -940,15 +992,15 @@
           "time_info": "[06时20分 ~ 11时10分]"
         },
         {
-          "title": "据半岛电视台：伊朗副外长表示，我们追求与武力相结合的和平，追求与尊严相结合的外交，并捍卫我们的领土。",
-          "url": "https://flash.jin10.com/detail/20260524105928732800",
-          "source": "金十数据",
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://wallstreetcn.com/livenews/3108452",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "13时22分"
         },
         {
           "title": "伊朗总统：伊朗在美方谈判中寻求自身合法权利，但过往经历要求我们保持谨慎。",
@@ -999,6 +1051,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时24分 ~ 07时21分]"
+        },
+        {
+          "title": "据半岛电视台：伊朗副外长表示，我们追求与武力相结合的和平，追求与尊严相结合的外交，并捍卫我们的领土。",
+          "url": "https://flash.jin10.com/detail/20260524105928732800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 13时22分]"
         },
         {
           "title": "以方认为伊朗误导美国 核协议难达成",
@@ -1133,6 +1197,17 @@
           "time_info": "[00时23分 ~ 02时24分]"
         },
         {
+          "title": "伊朗战争距离真正结束，就差临门一脚了",
+          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 13时22分]"
+        },
+        {
           "title": "卡塔尔外交大臣与沙特外交大臣通电话，讨论了巴基斯坦在美国与伊朗之间进行的调解努力。",
           "url": "https://flash.jin10.com/detail/20260524004225513800",
           "source": "金十数据",
@@ -1193,15 +1268,26 @@
           "time_info": "[02时24分 ~ 03时29分]"
         },
         {
-          "title": "伊朗战争距离真正结束，就差临门一脚了",
-          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
-          "source": "凤凰网",
+          "title": "伊朗队将世界杯驻地从美国改至墨西哥",
+          "url": "https://flash.jin10.com/detail/20260524120425817800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "13时22分"
+        },
+        {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://flash.jin10.com/detail/20260524120141644800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：巴基斯坦陆军司令会晤伊朗革命卫队领导人，对其立场感到震惊。",
@@ -1215,6 +1301,28 @@
           "time_info": "01时25分"
         },
         {
+          "title": "伊朗否认有关暂停铀浓缩10年的报道 称谈判重点只有“结束战争”",
+          "url": "https://flash.jin10.com/detail/20260524115756370800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://www.douyin.com/hot/2510293",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "伊朗：谈判重点是结束战争 正努力敲定谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260523231641818800",
           "source": "金十数据",
@@ -1224,6 +1332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：知情人士表示，沙特阿拉伯电视台关于伊朗提议暂停丰度3.6%以上的铀浓缩活动为期10年的报道从根本上说是错误的。",
+          "url": "https://flash.jin10.com/detail/20260524113121959800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "伊朗与阿曼强调恢复自由安全航行的重要性",
@@ -1246,6 +1365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://www.toutiao.com/trending/7643303787972529670/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "沙特媒体：伊朗将在谅解备忘录中承诺不发展核武，但要求保留有限铀浓缩权利",
@@ -1284,8 +1414,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 11时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时22分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -1299,8 +1429,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时24分 ~ 11时10分]"
+          "appearance_count": 15,
+          "time_info": "[01时24分 ~ 13时22分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -1337,22 +1467,24 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 13时22分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
           "url": "https://wallstreetcn.com/articles/3772969",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 13时22分]"
         }
       ]
     },
@@ -1367,11 +1499,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 11时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时22分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -1380,11 +1513,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 11时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时22分]"
         },
         {
           "title": "下周一港股、美股休市",
@@ -1437,8 +1571,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 13时22分]"
         }
       ]
     },
