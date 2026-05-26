@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T11:10:47.596136+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-05-26T13:24:43.756021+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
@@ -40,11 +40,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时10分]"
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 13时24分]"
         },
         {
           "title": "伊朗最高领袖就医情况曝光",
@@ -54,8 +55,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 13时24分]"
+        },
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 13时24分]"
         },
         {
           "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
@@ -71,15 +83,15 @@
           "time_info": "[00时45分 ~ 07时27分]"
         },
         {
-          "title": "美军发动“自卫性”空袭伊朗，细节披露",
-          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时10分]"
+          "time_info": "[11时10分 ~ 13时24分]"
         },
         {
           "title": "伊朗议会国家安全委员会主席易卜拉欣·阿齐兹在与哈塔姆安比亚中央总部指挥官举行的会议中表示，“毫无疑问，如果伊朗民族的敌人犯错，我们处于最高战备状态的武装部队将会作出回应。”",
@@ -91,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "击落敌方无人机，伊朗：使用了新武器",
-          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥与俄罗斯外长拉夫罗夫就俄罗斯-乌克兰冲突、双边关系及伊朗局势进行了交流。",
@@ -153,6 +154,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时34分 ~ 06时26分]"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：6月需要加息；对通胀激增视而不见已不再是选项。 越来越多迹象显示，通胀冲击正在向消费的其他部分蔓延。 即便伊朗战争今天结束，鉴于能源基础设施受损，仍需采取政策行动。 此次冲击对经济增长的负面影响将更为显著。 最新数据意味着通胀存在上行风险，经济增长存在下行风险。",
+          "url": "https://wallstreetcn.com/livenews/3109209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美媒：美国和伊朗正努力解决在核问题及制裁方面的措辞分歧",
@@ -239,6 +251,20 @@
           "time_info": "[02时36分 ~ 05时28分]"
         },
         {
+          "title": "伊朗最高领袖就医情况披露",
+          "url": "https://www.toutiao.com/trending/7643846680622022719/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 13时24分]"
+        },
+        {
           "title": "据阿拉伯电视台：伊朗议会国家安全委员会主席易卜拉欣·阿齐兹表示，伊朗与美国之间的任何协议都不会标志着伊朗与美国对抗的结束，并称这场冲突对德黑兰而言是“根本性和生存性的”。",
           "url": "https://flash.jin10.com/detail/20260526042214498800",
           "source": "金十数据",
@@ -250,6 +276,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 06时26分]"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 13时24分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：伊方“不会投降或后退”",
@@ -365,19 +404,6 @@
           "time_info": "[02时36分 ~ 05时28分]"
         },
         {
-          "title": "伊朗最高领袖就医情况披露",
-          "url": "https://www.toutiao.com/trending/7643846680622022719/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时10分]"
-        },
-        {
           "title": "美军称在伊朗南部实施自卫打击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%8D%97%E9%83%A8%E5%AE%9E%E6%96%BD%E8%87%AA%E5%8D%AB%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -478,18 +504,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时45分 ~ 09时41分]"
-        },
-        {
-          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
-          "url": "https://wallstreetcn.com/articles/3773097",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时10分]"
         },
         {
           "title": "伊朗官员：武装力量处于最高戒备 若敌人犯错必将回应",
@@ -660,6 +674,28 @@
           "time_info": "[04时33分 ~ 07时27分]"
         },
         {
+          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
+          "url": "https://wallstreetcn.com/articles/3773045",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 88 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2042404325343893398",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：美国宣称不希望举办与伊朗有关的足球赛事之后，墨西哥政府同意让伊朗足球国家队在世界杯期间滞留墨西哥。",
           "url": "https://wallstreetcn.com/livenews/3108954",
           "source": "华尔街见闻-快讯",
@@ -693,13 +729,24 @@
           "time_info": "00时46分"
         },
         {
+          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
+          "url": "https://www.zhihu.com/question/2042527297291431958",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美军称在霍尔木兹海峡击沉两艘伊朗布雷船",
           "url": "https://wallstreetcn.com/livenews/3109117",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -721,7 +768,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -748,13 +795,24 @@
           "time_info": "00时46分"
         },
         {
+          "title": "欧洲央行执委施纳贝尔：即使伊朗战争今天结束，基于能源基础设施的受损程度，仍需要采取政策行动。",
+          "url": "https://flash.jin10.com/detail/20260526130201322800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美解密文件：UFO编队曾现伊朗上空",
           "url": "https://www.toutiao.com/trending/7643015961462194226/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         }
@@ -796,8 +854,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时10分]"
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 13时24分]"
         },
         {
           "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
@@ -835,6 +893,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时35分 ~ 05时28分]"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：重申伊朗永远都不会拥有核武器。",
@@ -875,18 +946,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时10分]"
         },
         {
           "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
@@ -941,6 +1000,18 @@
           "time_info": "[02时36分 ~ 05时28分]"
         },
         {
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 13时24分]"
+        },
+        {
           "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
           "url": "https://flash.jin10.com/detail/20260526051929396800",
           "source": "金十数据",
@@ -963,18 +1034,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时27分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
-          "url": "https://www.cls.cn/detail/2381211",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时10分]"
         },
         {
           "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
@@ -1029,7 +1088,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -1051,7 +1110,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         }
@@ -1180,7 +1239,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         }
@@ -1196,11 +1255,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 13时24分]"
         }
       ]
     },
