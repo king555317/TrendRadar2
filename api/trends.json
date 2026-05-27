@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-27T07:28:11.202321+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-05-27T08:48:04.670158+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "伊朗外交部：美国公然违反停火协议",
-          "url": "https://www.cls.cn/detail/2382022",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时28分]"
-        },
         {
           "title": "伊朗愿将高浓缩铀移交至中国？中方回应",
           "url": "https://news.ifeng.com/c/8tRUm9hPRif",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 08时48分]"
         },
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -38,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 08时48分]"
+        },
+        {
+          "title": "伊朗外交部：美国公然违反停火协议",
+          "url": "https://www.cls.cn/detail/2382022",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 08时48分]"
         },
         {
           "title": "伊朗任命谈判团队发言人，专家：展现外交灵活性",
@@ -70,11 +71,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 08时48分]"
         },
         {
           "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
@@ -87,8 +89,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 08时48分]"
         },
         {
           "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
@@ -123,7 +125,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -247,6 +249,17 @@
           "time_info": "[02时51分 ~ 03时41分]"
         },
         {
+          "title": "伊朗公布击落美MQ-9死神无人机画面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8EMQ-9%E6%AD%BB%E7%A5%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
+        },
+        {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
           "url": "https://flash.jin10.com/detail/20260527002129253800",
           "source": "金十数据",
@@ -295,15 +308,48 @@
           "time_info": "[04时43分 ~ 05时34分]"
         },
         {
+          "title": "世界杯伊朗男足仅比赛日跨境赴美",
+          "url": "https://www.toutiao.com/trending/7643344386417115142/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
+        },
+        {
+          "title": "伊朗：美国处于请求达成协议的地位",
+          "url": "https://www.toutiao.com/trending/7644345095453543945/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
+        },
+        {
           "title": "伊朗民众：美方言行不可信 必须保持高度警惕",
           "url": "https://flash.jin10.com/detail/20260527070124074800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://wallstreetcn.com/livenews/3109707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：过去24小时25艘船只获准通过霍尔木兹海峡",
@@ -408,7 +454,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -417,11 +463,34 @@
           "ranks": [
             18,
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 08时48分]"
+        },
+        {
+          "title": "特朗普任命美国前司法部长邦迪进入白宫AI小组。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3109712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "特朗普任命前司法部长邦迪加入白宫人工智能委员会",
+          "url": "https://flash.jin10.com/detail/20260527082835708800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
@@ -471,6 +540,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时34分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时47分 ~ 08时48分]"
         },
         {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
@@ -627,6 +707,17 @@
           "time_info": "05时34分"
         },
         {
+          "title": "据AXIOS网站：美国总统特朗普任命邦迪加入白宫人工智能委员会。",
+          "url": "https://flash.jin10.com/detail/20260527082141011800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
           "title": "巴西联邦参议院议员博索纳罗（Flávio Bolsonaro）在美国白宫会见总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3109655",
           "source": "华尔街见闻-快讯",
@@ -696,7 +787,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -705,22 +796,36 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 08时48分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
           "url": "https://www.cls.cn/detail/2382288",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 08时48分]"
+        },
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 08时48分]"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -761,6 +866,17 @@
           "time_info": "[01时09分 ~ 02时51分]"
         },
         {
+          "title": "美股收盘：标普500和纳指再创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E5%92%8C%E7%BA%B3%E6%8C%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 08时48分]"
+        },
+        {
           "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
           "url": "https://wallstreetcn.com/livenews/3109642",
           "source": "华尔街见闻-快讯",
@@ -772,17 +888,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 06时32分]"
-        },
-        {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
@@ -797,15 +902,15 @@
           "time_info": "[01时09分 ~ 02时51分]"
         },
         {
-          "title": "美股收盘：标普500和纳指再创新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E5%92%8C%E7%BA%B3%E6%8C%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "美股芯片半导体爆发多只龙头股创新高",
+          "url": "https://www.toutiao.com/trending/7644347938017119763/",
+          "source": "今日头条",
           "ranks": [
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
+          "time_info": "[08时47分 ~ 08时48分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股收盘）",
@@ -844,7 +949,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -881,6 +986,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时43分]"
+        },
+        {
+          "title": "中信证券：维持美股好于美债、美元指数有支撑的观点",
+          "url": "https://flash.jin10.com/detail/20260527081804133800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     },
@@ -956,8 +1072,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 08时48分]"
         }
       ]
     }
