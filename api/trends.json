@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-30T01:12:57.313825+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-30T02:55:34.689946+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "伊朗外交部发言人巴加埃：目前，我们专注于结束战争，并未就伊朗核计划进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260530011040138800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
           "url": "https://news.ifeng.com/c/8tWwzy1f6k3",
@@ -26,19 +15,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
         },
         {
-          "title": "伊朗高级消息人士：伊朗与美国之间已达成政治共识，但尚未最终确定。",
-          "url": "https://flash.jin10.com/detail/20260530003256956800",
+          "title": "伊朗：击落了美国-以色列一架无人机。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3111597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗防空系统在格什姆岛附近击落了美以的微型无人机。",
+          "url": "https://flash.jin10.com/detail/20260530023741907800",
           "source": "金十数据",
           "ranks": [
-            17
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：目前，我们专注于结束战争，并未就伊朗核计划进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260530011040138800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
         },
         {
           "title": "美称敲定“谅解备忘录”遭伊朗否认",
@@ -46,6 +58,61 @@
           "source": "今日头条",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
+        },
+        {
+          "title": "伊朗Qeshm Island周边发生防空活动。（伊朗媒体Mehr）",
+          "url": "https://wallstreetcn.com/livenews/3111590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛附近启动空中防御。",
+          "url": "https://flash.jin10.com/detail/20260530021207111800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "【伊朗外交部：伊美交流仍在继续 尚未达成最终共识】伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。巴加埃还表示，西方任何一方在谈论伊朗时，都不能使用“必须”这种语言。伊朗只会根据伊朗人民的利益和权利自行做决定。 在涉及霍尔木兹海峡通航的问题上，巴加埃表示，霍尔木兹海峡位于伊朗和阿曼的领海范围内，伊朗和阿曼必须采取机制，既保护作为沿海国家的自身利益和国家安全，也向国际社会保证该航道的航运安全。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3111587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
+          "url": "https://flash.jin10.com/detail/20260530015929992800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "伊朗高级消息人士：伊朗与美国之间已达成政治共识，但尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260530003256956800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -72,74 +139,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
         },
         {
-          "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773437",
-          "source": "华尔街见闻",
+          "title": "伊朗外交部：尚未与美国达成最终协议",
+          "url": "https://wallstreetcn.com/livenews/3111574",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时55分"
         },
         {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260530003733854800",
+          "title": "伊朗外交部发言人巴加埃：霍尔木兹海峡的管理必须由伊朗和阿曼决定。至今尚未与美国达成任何协议。",
+          "url": "https://flash.jin10.com/detail/20260530011326548800",
           "source": "金十数据",
           "ranks": [
-            13
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260530003722971800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时55分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "据华盛顿邮报：美国官员称，特朗普在战情室关于伊朗谅解备忘录的会议已经结束。",
+          "url": "https://flash.jin10.com/detail/20260530024136648800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
           "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
@@ -148,8 +187,41 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
+        },
+        {
+          "title": "美国内政部长Burgum：即将会见总统特朗普。 此次会面可能将有重大消息。 石油市场可以相信，特朗普会达成一份很棒的协议。",
+          "url": "https://wallstreetcn.com/livenews/3111592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国内政部长伯格姆：油市可以相信总统特朗普将达成一项很棒的交易。",
+          "url": "https://flash.jin10.com/detail/20260530022846408800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "美国内政部长伯格姆：即将与特朗普会面，此次会面或会带来重大消息。",
+          "url": "https://flash.jin10.com/detail/20260530022128158800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
           "title": "【伊朗知情人士：特朗普言论“真假参半”】据伊朗法尔斯通讯社29日报道，伊朗知情人士驳斥了美国总统特朗普关于可能与伊朗达成协议的言论，称其“真假参半”，试图描绘一场捏造的胜利。“几乎所有人都已清楚，这些说法缺乏可信度。”（新华社）",
@@ -198,6 +270,68 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
+        },
+        {
+          "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773437",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
+        },
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260530003733854800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260530003722971800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -209,8 +343,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
         }
       ]
     },
@@ -223,11 +357,12 @@
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
         }
       ]
     },
@@ -240,11 +375,12 @@
           "url": "https://wallstreetcn.com/livenews/3111567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时55分]"
         }
       ]
     }
