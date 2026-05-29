@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T13:32:13.530358+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-05-29T15:24:17.012344+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[08时50分 ~ 15时24分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -26,11 +27,12 @@
             15,
             16,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时18分 ~ 13时32分]"
+          "appearance_count": 14,
+          "time_info": "[01时18分 ~ 15时24分]"
         },
         {
           "title": "美称敲定“谅解备忘录”遭伊朗否认",
@@ -39,11 +41,12 @@
           "ranks": [
             16,
             4,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 15时24分]"
         },
         {
           "title": "伊朗对美国空军基地实施打击",
@@ -464,7 +467,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -519,7 +522,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -640,17 +643,6 @@
       "match_count": 23,
       "titles": [
         {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 06时35分]"
-        },
-        {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
@@ -658,8 +650,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[08时50分 ~ 15时24分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -669,8 +661,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[08时50分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
@@ -679,11 +671,23 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 15时24分]"
+        },
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时31分 ~ 13时32分]"
+          "time_info": "[01时18分 ~ 06时35分]"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
@@ -718,11 +722,12 @@
             13,
             12,
             10,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时50分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[08时50分 ~ 15时24分]"
         },
         {
           "title": "Gap一季度净销售35亿美元，分析师预期35.2亿美元。 预计全年净销售将增长1%-2%，公司原本预计会增长2%-3%。 预计全年调整后每股收益（EPS）大约为2.30-2.40美元，公司原本预计大约2.20-2.35美元。 盖普（GPS）美股盘后跌9.8。",
@@ -933,8 +938,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时18分 ~ 13时32分]"
+          "appearance_count": 15,
+          "time_info": "[01时18分 ~ 15时24分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -971,6 +976,17 @@
           "time_info": "[02时55分 ~ 03时51分]"
         },
         {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时24分]"
+        },
+        {
           "title": "美国财长贝森特：美国财政部正着手筹备一款印有特朗普总统头像的250美元新版纸币。",
           "url": "https://flash.jin10.com/detail/20260529023847021800",
           "source": "金十数据",
@@ -993,17 +1009,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时51分]"
-        },
-        {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "无人机制造商Unusual Machines Inc.（UMAC）维持超过68%的涨幅，持稳于盘中历史新高32美元附近，媒体报道称，美国总统特朗普的政府考虑注资该公司，从而提高美国的产量、降低成本。",
@@ -1087,6 +1092,69 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3110889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 03时51分]"
+        },
+        {
+          "title": "Anthropic新一轮融资后估值达9650亿美元 超过OpenAI",
+          "url": "https://flash.jin10.com/detail/20260529023507958800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 03时51分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
+          "url": "https://wallstreetcn.com/livenews/3111141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "OpenAI发布 OpenAI 的前沿治理框架。",
+          "url": "https://flash.jin10.com/detail/20260529002616429800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
@@ -1150,58 +1218,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3110889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时51分]"
-        },
-        {
-          "title": "Anthropic新一轮融资后估值达9650亿美元 超过OpenAI",
-          "url": "https://flash.jin10.com/detail/20260529023507958800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 03时51分]"
-        },
-        {
-          "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
-          "url": "https://wallstreetcn.com/livenews/3111141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "OpenAI发布 OpenAI 的前沿治理框架。",
-          "url": "https://flash.jin10.com/detail/20260529002616429800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1244,7 +1260,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
@@ -1270,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时50分 ~ 13时32分]"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）上海金午盘价为985.98元/克，较国际金价(983.39元/克)，高2.59元/克",
+          "url": "https://flash.jin10.com/detail/20260529151051635800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
