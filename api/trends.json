@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T09:40:24.571664+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-05-30T11:09:24.509817+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 09时40分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 11时09分]"
         },
         {
           "title": "美称敲定“谅解备忘录”遭伊朗否认",
@@ -29,17 +29,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时12分 ~ 07时32分]"
-        },
-        {
-          "title": "美国国防部长赫格塞思：与伊朗达成的任何协议都将是一份好协议。",
-          "url": "https://flash.jin10.com/detail/20260530092605791800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗防空系统在格什姆岛附近击落了美以的微型无人机。",
@@ -62,28 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：我们仍有全球义务，比如确保伊朗无法获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260530091240513800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "美国财政部对伊朗实施新制裁",
-          "url": "https://wallstreetcn.com/livenews/3111680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         },
         {
           "title": "美国财长贝森特：如果需要，我们在伊朗问题上还有更多可以做的。",
@@ -156,6 +123,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时49分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思：与伊朗达成的任何协议都将是一份好协议。",
+          "url": "https://flash.jin10.com/detail/20260530092605791800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时09分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思：我们仍有全球义务，比如确保伊朗无法获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260530091240513800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时09分]"
+        },
+        {
+          "title": "美国财政部对伊朗实施新制裁",
+          "url": "https://wallstreetcn.com/livenews/3111680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时09分]"
         },
         {
           "title": "美国尚未证实伊朗在霍尔木兹海峡布雷。（NBC）",
@@ -238,7 +241,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -252,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "伊朗指责美方说法与协议文本不符",
+          "url": "https://wallstreetcn.com/livenews/3111693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         },
         {
           "title": "伊朗高级消息人士：伊朗与美国之间已达成政治共识，但尚未最终确定。",
@@ -334,7 +348,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -355,11 +369,12 @@
             10,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时33分 ~ 09时40分]"
+          "appearance_count": 7,
+          "time_info": "[06时33分 ~ 11时09分]"
         },
         {
           "title": "据华盛顿邮报：美国官员称，特朗普在战情室关于伊朗谅解备忘录的会议已经结束。",
@@ -382,17 +397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
-        },
-        {
-          "title": "特朗普肖像纪念钞能流通吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         },
         {
           "title": "特朗普签署法令，放宽美国联邦土地准入限制",
@@ -419,6 +423,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时49分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普肖像纪念钞能流通吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时09分]"
         },
         {
           "title": "美国将对法官要求广泛退还特朗普关税的裁决提出上诉",
@@ -483,6 +499,18 @@
           "time_info": "[03时49分 ~ 04时50分]"
         },
         {
+          "title": "美国国防部长赫格塞思：美国总统特朗普今年将在国防上进行1.5万亿美元的代际投资。",
+          "url": "https://flash.jin10.com/detail/20260530085921874800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 11时09分]"
+        },
+        {
           "title": "美媒：特朗普推迟就伊朗相关协议作最终决定",
           "url": "https://wallstreetcn.com/livenews/3111616",
           "source": "华尔街见闻-快讯",
@@ -517,6 +545,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
           "title": "美国财长贝森特：特朗普应该出现在250美元纸币上。",
           "url": "https://flash.jin10.com/detail/20260530032414026800",
           "source": "金十数据",
@@ -537,17 +576,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：美国总统特朗普今年将在国防上进行1.5万亿美元的代际投资。",
-          "url": "https://flash.jin10.com/detail/20260530085921874800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
         },
         {
           "title": "美国法官裁定，特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭。",
@@ -650,11 +678,25 @@
           "ranks": [
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 09时40分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 11时09分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 11时09分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -693,19 +735,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 05时37分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 09时40分]"
         },
         {
           "title": "停火预期压制油价，AI热潮推涨美股，标普九周连涨，戴尔暴涨33%，黄金冲高回落",
