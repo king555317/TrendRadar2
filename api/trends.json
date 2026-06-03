@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T08:58:18.891792+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-06-03T10:01:59.192747+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -39,9 +39,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "伊朗战争最新动态｜美军基地遇袭，伊朗军方强硬声明",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "科威特称拦截来袭导弹 伊朗格什姆岛传爆炸声",
@@ -76,7 +87,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -87,7 +98,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -109,9 +120,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时01分]"
+        },
+        {
+          "title": "美军否认第五舰队总部遭伊朗击中",
+          "url": "https://wallstreetcn.com/livenews/3113363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时01分]"
         },
         {
           "title": "伊朗袭击位于科威特的美军基地",
@@ -125,15 +148,15 @@
           "time_info": "06时44分"
         },
         {
-          "title": "美军否认第五舰队总部遭伊朗击中",
-          "url": "https://wallstreetcn.com/livenews/3113363",
+          "title": "美国称，击落多架袭击科威特境内部队的伊朗无人机。",
+          "url": "https://wallstreetcn.com/livenews/3113399",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "10时01分"
         },
         {
           "title": "美军称“林肯”号航母继续参与对伊朗封锁行动",
@@ -167,6 +190,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "美军战机袭击伊朗相关油轮，独家录音曝光",
+          "url": "https://wallstreetcn.com/livenews/3113391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "伊朗称袭击美军第五舰队总部",
+          "url": "https://www.toutiao.com/trending/7646223479754489897/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美国国务卿鲁比奥：（关于世界杯）美国决心不让与伊朗革命卫队有关的人士“混进他们的代表团”。",
@@ -208,7 +253,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -263,7 +308,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -299,6 +344,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美战机袭击一艘伊朗相关油轮",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%88%98%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%B8%80%E8%89%98%E4%BC%8A%E6%9C%97%E7%9B%B8%E5%85%B3%E6%B2%B9%E8%BD%AE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "伊朗南部格什姆岛传出爆炸声",
@@ -340,7 +407,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -362,7 +429,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -373,7 +440,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -395,7 +462,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -425,8 +492,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时36分 ~ 08时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 10时01分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -437,8 +504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 08时58分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 10时01分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -449,8 +516,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 08时58分]"
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 10时01分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -665,7 +732,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -712,8 +779,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时36分 ~ 08时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 10时01分]"
         },
         {
           "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
@@ -755,7 +822,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -771,6 +838,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
           "url": "https://www.cls.cn/detail/2388943",
           "source": "财联社热门",
@@ -783,13 +861,24 @@
           "time_info": "[07时36分 ~ 08时58分]"
         },
         {
+          "title": "特朗普被曝同以总理通话爆粗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时01分]"
+        },
+        {
           "title": "市场消息：美国东部时间明天下午3点（北京时间明天凌晨3点），美国总统特朗普将签署一项行政命令。",
           "url": "https://flash.jin10.com/detail/20260603082930631800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -825,17 +914,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "特朗普被曝同以总理通话爆粗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
         },
         {
           "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
@@ -915,11 +993,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 08时58分]"
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 10时01分]"
         },
         {
           "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
@@ -968,9 +1047,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时01分]"
         },
         {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
@@ -1008,8 +1087,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 10时01分]"
         },
         {
           "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
@@ -1083,11 +1162,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时01分]"
         }
       ]
     }
