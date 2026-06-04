@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T17:23:01.193014+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-06-04T19:07:08.772778+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时34分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 19时07分]"
         },
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时43分 ~ 17时23分]"
+          "appearance_count": 18,
+          "time_info": "[01时43分 ~ 19时07分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -63,11 +63,12 @@
           "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 19时07分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -215,6 +216,17 @@
           "time_info": "[08时58分 ~ 09时59分]"
         },
         {
+          "title": "AI“狂吞”存储芯片！美国九大行业联合上书 敦促特朗普政府扩产",
+          "url": "https://www.cls.cn/detail/2390381",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        },
+        {
           "title": "特朗普淡化霍尔木兹海峡水雷威胁，并鼓吹替代航线",
           "url": "https://wallstreetcn.com/livenews/3114042",
           "source": "华尔街见闻-快讯",
@@ -312,7 +324,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -436,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "美媒：内塔尼亚胡在特朗普和国内大选之间左右为难",
+          "url": "https://flash.jin10.com/detail/20260604183057599800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "市场消息：特朗普政府计划投入7亿美元推动煤电厂建设及出口设施。",
@@ -573,7 +596,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗突然变了，美国突然客气了",
@@ -598,6 +621,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时35分]"
+        },
+        {
+          "title": "中国往返伊朗航线恢复运营",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BE%80%E8%BF%94%E4%BC%8A%E6%9C%97%E8%88%AA%E7%BA%BF%E6%81%A2%E5%A4%8D%E8%BF%90%E8%90%A5%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
@@ -861,7 +895,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -921,6 +955,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "美三部门就美对伊朗军事行动展开审查",
+          "url": "https://wallstreetcn.com/livenews/3114364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队表示，机场航站楼的损毁是由于美国“爱国者”防空系统未能拦截伊朗导弹，随后系统出现故障所致。",
           "url": "https://flash.jin10.com/detail/20260604020652069800",
           "source": "金十数据",
@@ -960,9 +1005,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗圣城军指挥官卡尼表示，黎巴嫩方面的最低要求是以色列恢复到战争前的边界。",
+          "url": "https://flash.jin10.com/detail/20260604182137336800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "胡塞武装发表声明，重申支持伊朗维护自身权利",
@@ -990,7 +1046,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -1002,8 +1058,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时45分 ~ 17时23分]"
+          "appearance_count": 14,
+          "time_info": "[06时45分 ~ 19时07分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -1074,11 +1130,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 19时07分]"
+        },
+        {
+          "title": "富途控股美股盘前跌超5%，老虎证券跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3114398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "美股芯片巨头暴跌",
@@ -1086,11 +1154,23 @@
           "source": "微博",
           "ranks": [
             29,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 19时07分]"
+        },
+        {
+          "title": "如何看待美股窄牛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "博通美股盘后跌幅扩大至12%。",
@@ -1125,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3114383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
@@ -1221,7 +1312,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         }
@@ -1229,7 +1320,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -1241,8 +1332,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 19时07分]"
         },
         {
           "title": "英国监管机构给谷歌AI搜索“立新规”",
@@ -1257,6 +1348,18 @@
           "time_info": "[11时24分 ~ 13时40分]"
         },
         {
+          "title": "谷歌计划释放3200万只蚊子",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时07分]"
+        },
+        {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
           "url": "https://wallstreetcn.com/livenews/3114037",
           "source": "华尔街见闻-快讯",
@@ -1269,15 +1372,15 @@
           "time_info": "[06时46分 ~ 07时35分]"
         },
         {
-          "title": "谷歌计划释放3200万只蚊子",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
-          "source": "百度热搜",
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "欧洲软件和IT股票上涨，Nemetschek、Capgemini、思爱普、Temenos、Wolters Kluwer、Relx上涨3%至5%。",
@@ -1286,7 +1389,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -1308,7 +1411,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -1322,6 +1425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
+          "url": "https://wallstreetcn.com/livenews/3114361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "谷歌：推出新品“DreamBeans”",
@@ -1440,6 +1554,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
+          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        },
+        {
+          "title": "2/10年期美债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3113992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1484,23 +1626,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时22分 ~ 08时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2/10年期美债收益率涨约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3113992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
         }
       ]
     }
