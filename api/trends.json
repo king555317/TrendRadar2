@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-05T02:50:09.796661+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-05T03:44:36.123770+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "伊朗外长：地区国家不应让美国利用其领土攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3114602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
         {
           "title": "美国财长贝森特：（在美国和以色列发动伊朗战争期间，临时实施的）俄罗斯石油制裁豁免已经让能源价格下降。",
           "url": "https://wallstreetcn.com/livenews/3114553",
@@ -26,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 03时44分]"
         },
         {
           "title": "数据显示：伊朗石油出口降至六年来的最低水平",
@@ -36,7 +47,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -80,9 +91,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
+          "url": "https://flash.jin10.com/detail/20260605024637794800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260605024523661800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
+          "url": "https://flash.jin10.com/detail/20260605024510184800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "据半岛电视台：美国官员表示，与伊朗的停火协议依然有效，但我们将继续保护我方部队并对伊朗港口实施封锁。",
@@ -91,7 +135,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -102,7 +146,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -113,7 +157,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -124,7 +168,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -143,8 +187,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国总统特朗普就煤炭问题发表声明。",
+          "url": "https://flash.jin10.com/detail/20260605032432338800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
           "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
@@ -157,15 +212,27 @@
           "time_info": "01时06分"
         },
         {
+          "title": "美国总统特朗普宣称：对众多煤炭工厂投资7亿美元。 正采取历史性行动来降低能源价格。",
+          "url": "https://wallstreetcn.com/livenews/3114600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
           "url": "https://wallstreetcn.com/livenews/3114582",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 03时44分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -176,8 +243,42 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时44分]"
+        },
+        {
+          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
+          "url": "https://wallstreetcn.com/livenews/3114570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 03时44分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：特朗普想施压迫使我们接受他的条件，同时将我们的条件置于模糊状态。当前草案存在模糊之处，必须予以澄清。",
+          "url": "https://flash.jin10.com/detail/20260605025734076800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普：我相信我们拥有全球任何国家中最不诚实的选举！",
+          "url": "https://flash.jin10.com/detail/20260605025523299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "俄罗斯总统普京：美国总统特朗普的和平提议可以作为与乌克兰达成和平协议的基础。他仍需说服乌克兰。",
@@ -186,18 +287,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
-          "url": "https://wallstreetcn.com/livenews/3114570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -219,7 +309,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -230,7 +320,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         }
@@ -248,19 +338,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时44分]"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
           "url": "https://wallstreetcn.com/articles/3773846",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时44分]"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -310,8 +401,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 03时44分]"
         },
         {
           "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
@@ -331,7 +422,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
