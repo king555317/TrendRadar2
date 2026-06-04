@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T19:07:08.772778+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-06-04T21:08:19.522723+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时43分 ~ 19时07分]"
+          "appearance_count": 19,
+          "time_info": "[01时43分 ~ 21时08分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -46,6 +46,19 @@
           "time_info": "[01时43分 ~ 09时59分]"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时24分 ~ 21时08分]"
+        },
+        {
           "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
           "url": "https://news.ifeng.com/c/8tfYHflwBeK",
           "source": "凤凰网",
@@ -57,18 +70,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时45分 ~ 09时59分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时24分 ~ 19时07分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -456,7 +457,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -481,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "特朗普：以色列总理内塔尼亚胡一直是重要的伙伴。",
@@ -596,7 +608,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗突然变了，美国突然客气了",
@@ -700,6 +712,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "伊朗“圣城旅”：以色列须撤退至冲突爆发前的位置",
+          "url": "https://wallstreetcn.com/livenews/3114459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队成员的话称，如果最终达成一致，美伊之间的谅解备忘录将通过四个阶段的机制进行。",
           "url": "https://flash.jin10.com/detail/20260604011926525800",
           "source": "金十数据",
@@ -709,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "伊朗“圣城旅”：以色列须撤退至冲突爆发前的位置",
+          "url": "https://flash.jin10.com/detail/20260604205007988800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "伊朗称“爱国者”导弹致科威特机场受损，美军否认",
@@ -961,7 +995,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1016,7 +1050,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1046,7 +1080,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -1055,11 +1089,12 @@
           "ranks": [
             4,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时45分 ~ 19时07分]"
+          "appearance_count": 15,
+          "time_info": "[06时45分 ~ 21时08分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -1131,11 +1166,12 @@
           "ranks": [
             10,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时41分 ~ 19时07分]"
+          "appearance_count": 6,
+          "time_info": "[15时41分 ~ 21时08分]"
         },
         {
           "title": "富途控股美股盘前跌超5%，老虎证券跌超3%。",
@@ -1144,7 +1180,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1166,11 +1202,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时08分]"
         },
         {
           "title": "博通美股盘后跌幅扩大至12%。",
@@ -1213,9 +1250,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
@@ -1260,6 +1308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "黑石美股盘前涨近2%。报道称黑石私募信贷基金将投资者赎回上限设定为5%。",
+          "url": "https://wallstreetcn.com/livenews/3114431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
@@ -1315,6 +1374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳指期货、标普500指数期货均触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3114421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
@@ -1332,8 +1402,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 19时07分]"
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 21时08分]"
         },
         {
           "title": "英国监管机构给谷歌AI搜索“立新规”",
@@ -1360,6 +1430,18 @@
           "time_info": "[17时22分 ~ 19时07分]"
         },
         {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时08分]"
+        },
+        {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
           "url": "https://wallstreetcn.com/livenews/3114037",
           "source": "华尔街见闻-快讯",
@@ -1370,17 +1452,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时35分]"
-        },
-        {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "欧洲软件和IT股票上涨，Nemetschek、Capgemini、思爱普、Temenos、Wolters Kluwer、Relx上涨3%至5%。",
@@ -1433,7 +1504,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1452,7 +1523,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
@@ -1506,6 +1577,17 @@
           "time_info": "[06时46分 ~ 07时35分]"
         },
         {
+          "title": "软银重押OpenAI的代价开始显现了吗",
+          "url": "https://www.toutiao.com/trending/7647451380692553262/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3113923",
           "source": "华尔街见闻-快讯",
@@ -1515,6 +1597,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
+          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
+        },
+        {
+          "title": "DeepTalk：国际现货黄金压倒美债，铜矿的机会来了？",
+          "url": "https://flash.jin10.com/detail/20260604203354569800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美国国债收益率在初请失业金数据公布后维持下跌，10年期美债收益率最新下跌3.8个基点，报4.453%。",
+          "url": "https://flash.jin10.com/detail/20260604203112907800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "2/10年期美债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3113992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         }
       ]
     },
@@ -1550,34 +1682,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时43分 ~ 09时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
-          "url": "https://www.zhihu.com/question/2045468542531851848",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
-          "title": "2/10年期美债收益率涨约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3113992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
         }
       ]
     },
