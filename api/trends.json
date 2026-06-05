@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T06:29:01.746100+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-06-06T07:31:32.308753+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -29,11 +29,12 @@
             11,
             10,
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -49,6 +50,39 @@
           "time_info": "[00时51分 ~ 05时33分]"
         },
         {
+          "title": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
+          "url": "https://flash.jin10.com/detail/20260606060416092800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260606060340835800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
+          "url": "https://flash.jin10.com/detail/20260606060257951800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "据Politico：特朗普最早将于下周与人工智能公司会面，商讨政府利润分成计划。",
           "url": "https://flash.jin10.com/detail/20260606031919745800",
           "source": "金十数据",
@@ -58,50 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
-        },
-        {
-          "title": "美国白宫幕僚长Wiles：总统特朗普提名Blanche为司法部长，对其表示祝贺。",
-          "url": "https://wallstreetcn.com/livenews/3115371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
-          "url": "https://flash.jin10.com/detail/20260606060416092800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
-          "url": "https://flash.jin10.com/detail/20260606060340835800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
-          "url": "https://flash.jin10.com/detail/20260606060257951800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "美国总统特朗普的阿拉斯加石油租赁许可拍卖仅仅招揽到两个竞标人。",
@@ -114,6 +104,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时36分]"
+        },
+        {
+          "title": "美国白宫幕僚长Wiles：总统特朗普提名Blanche为司法部长，对其表示祝贺。",
+          "url": "https://wallstreetcn.com/livenews/3115371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：加拿大苛刻地对待美国农民。",
@@ -140,6 +142,17 @@
           "time_info": "[00时51分 ~ 01时38分]"
         },
         {
+          "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
+          "url": "https://flash.jin10.com/detail/20260606060212679800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国总统特朗普：我要求情报主管Bill Pulte解雇该部门的员工。 美国最大的情报办公室“太庞大了”。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3115259",
           "source": "华尔街见闻-快讯",
@@ -150,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时38分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗保有21%至22%的导弹。",
+          "url": "https://flash.jin10.com/detail/20260606054357490800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：房利美和房地美IPO并非不可能，但也不着急。",
@@ -176,6 +200,29 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
+          "title": "美国总统特朗普：伊朗还剩下21%-22%的导弹。 伊朗还剩下一些导弹，还剩下一些无人机，我们知道在哪里。 （谈伊朗为何不达成协议）这对他们来说非常艰难。 （除了达成协议）伊朗别无选择，这需要一些时间。",
+          "url": "https://wallstreetcn.com/livenews/3115363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：埃隆之前犯了个错，但现在他又是我的朋友了。",
+          "url": "https://flash.jin10.com/detail/20260606053901777800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
           "url": "https://wallstreetcn.com/livenews/3115289",
           "source": "华尔街见闻-快讯",
@@ -200,6 +247,17 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
+          "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
+          "url": "https://flash.jin10.com/detail/20260606053856908800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国总统特朗普：夸赞5月非农就业报告。 为之前两个月的数据得到上修点赞。 当数据好的时候，市场就应该上涨。 （经济）增长实际上遏制通胀",
           "url": "https://wallstreetcn.com/livenews/3115342",
           "source": "华尔街见闻-快讯",
@@ -210,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时29分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及能源与化肥领域）正在筹划相关举措。",
+          "url": "https://flash.jin10.com/detail/20260606053834497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：对于汽油价格，我们有很多替代方案。 人们认为，油桶会变得更昂贵。 在美国的介入下，大量石油流出霍尔木兹海峡。",
@@ -224,6 +293,29 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
+          "title": "美国总统特朗普：我并不是西班牙的死忠（big fan）。",
+          "url": "https://wallstreetcn.com/livenews/3115360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：（经济）增长实际上会遏制通胀。",
+          "url": "https://flash.jin10.com/detail/20260606053657743800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国总统特朗普：如果情报主管Pulte裁员，我并不会介意。",
           "url": "https://wallstreetcn.com/livenews/3115286",
           "source": "华尔街见闻-快讯",
@@ -234,6 +326,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时36分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗冲突结束之后，我们“准备开干（古巴）”。",
+          "url": "https://wallstreetcn.com/livenews/3115359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：当数据好的时候，市场就应该上涨。",
+          "url": "https://flash.jin10.com/detail/20260606053637196800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "美国特使Witkoff和特朗普女婿库什纳在田纳西州召集核专家。（Axios）",
@@ -248,6 +363,29 @@
           "time_info": "[03时36分 ~ 04时39分]"
         },
         {
+          "title": "美国总统特朗普夸赞就业数据。",
+          "url": "https://flash.jin10.com/detail/20260606053520855800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：马斯克曾有一个糟糕的时刻，但现在他是我的一个好朋友。 在马斯克身上，有80%的聪明、也有20%的糟糕时刻",
+          "url": "https://wallstreetcn.com/livenews/3115357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "特朗普：将把利率决策交由沃什负责",
           "url": "https://wallstreetcn.com/livenews/3115282",
           "source": "华尔街见闻-快讯",
@@ -258,17 +396,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 03时36分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
-          "url": "https://flash.jin10.com/detail/20260606060212679800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "消息人士：特朗普在铀浓缩处理时间及冻结资金问题上与伊朗存在分歧",
@@ -282,50 +409,6 @@
           "time_info": "03时36分"
         },
         {
-          "title": "美国总统特朗普：伊朗保有21%至22%的导弹。",
-          "url": "https://flash.jin10.com/detail/20260606054357490800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗还剩下21%-22%的导弹。 伊朗还剩下一些导弹，还剩下一些无人机，我们知道在哪里。 （谈伊朗为何不达成协议）这对他们来说非常艰难。 （除了达成协议）伊朗别无选择，这需要一些时间。",
-          "url": "https://wallstreetcn.com/livenews/3115363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：埃隆之前犯了个错，但现在他又是我的朋友了。",
-          "url": "https://flash.jin10.com/detail/20260606053901777800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：马斯克80%的时候很聪明，20%的时候很糟糕。",
-          "url": "https://flash.jin10.com/detail/20260606053856908800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "金十提示：美国总统特朗普结束在空军一号上的讲话。",
           "url": "https://flash.jin10.com/detail/20260606020344188800",
           "source": "金十数据",
@@ -335,28 +418,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及能源与化肥领域）正在筹划相关举措。",
-          "url": "https://flash.jin10.com/detail/20260606053834497800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：我并不是西班牙的死忠（big fan）。",
-          "url": "https://wallstreetcn.com/livenews/3115360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局 否认最高领袖与特朗普可能的会晤",
@@ -381,17 +442,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "美国总统特朗普：（经济）增长实际上会遏制通胀。",
-          "url": "https://flash.jin10.com/detail/20260606053657743800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "美国总统特朗普：当美国离开伊朗，石油、汽油价格都将下跌。 化肥价格也将下跌。",
           "url": "https://wallstreetcn.com/livenews/3115340",
           "source": "华尔街见闻-快讯",
@@ -403,17 +453,6 @@
           "time_info": "05时33分"
         },
         {
-          "title": "美国总统特朗普：伊朗冲突结束之后，我们“准备开干（古巴）”。",
-          "url": "https://wallstreetcn.com/livenews/3115359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "美媒：特朗普特使前往田纳西州密会核专家 以待在伊朗核谈判中发挥作用",
           "url": "https://flash.jin10.com/detail/20260606030001354800",
           "source": "金十数据",
@@ -423,17 +462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
-        },
-        {
-          "title": "美国总统特朗普：当数据好的时候，市场就应该上涨。",
-          "url": "https://flash.jin10.com/detail/20260606053637196800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "美国总统特朗普：我们已经在极大程度上完成了（伊朗协议的磋商），你们会看到（结果）的。 要么用书面（协议）方式结束伊朗问题，要么换一种方式。 相比书面方式，强硬地对待伊朗要容易得多。 美国封锁霍尔木兹海峡取得成果。 很快就会结束伊朗问题。",
@@ -456,28 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "美国总统特朗普夸赞就业数据。",
-          "url": "https://flash.jin10.com/detail/20260606053520855800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：马斯克曾有一个糟糕的时刻，但现在他是我的一个好朋友。 在马斯克身上，有80%的聪明、也有20%的糟糕时刻",
-          "url": "https://wallstreetcn.com/livenews/3115357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进行得相当不错。",
@@ -604,7 +610,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -615,8 +621,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 07时31分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -628,6 +657,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
+          "url": "https://wallstreetcn.com/livenews/3115381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
+          "url": "https://wallstreetcn.com/livenews/3115378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
@@ -690,17 +741,6 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 06时29分]"
-        },
-        {
           "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
           "url": "https://flash.jin10.com/detail/20260606040542544800",
           "source": "金十数据",
@@ -711,6 +751,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时33分]"
+        },
+        {
+          "title": "迈威尔科技（美满电子）美股盘后涨6%，该公司将被纳入标普500指数。 伟创力盘后上涨3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3115352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "费城半导体指数在美股午后盘中下跌近9%。",
@@ -755,23 +807,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "迈威尔科技（美满电子）美股盘后涨6%，该公司将被纳入标普500指数。 伟创力盘后上涨3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3115352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -792,9 +833,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
@@ -808,15 +849,50 @@
           "time_info": "01时38分"
         },
         {
-          "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3115369",
+          "title": "美军：击落4架伊朗无人机，空袭沿海雷达站",
+          "url": "https://wallstreetcn.com/livenews/3115379",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3115369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
+          "url": "https://flash.jin10.com/detail/20260606052830749800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国能源部长Wright：若想让足够数量的石油顺利通过霍尔木兹海峡以降低汽油和柴油价格，最终将取决于与伊朗问题的解决。",
+          "url": "https://wallstreetcn.com/livenews/3115370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
@@ -853,17 +929,6 @@
           "time_info": "01时38分"
         },
         {
-          "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
-          "url": "https://flash.jin10.com/detail/20260606052830749800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "据CNN：美国与伊朗潜在的协议取决于美国是否同意释放240亿美元被冻结的伊朗资产。",
           "url": "https://flash.jin10.com/detail/20260606000418792800",
           "source": "金十数据",
@@ -873,17 +938,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "美国能源部长Wright：若想让足够数量的石油顺利通过霍尔木兹海峡以降低汽油和柴油价格，最终将取决于与伊朗问题的解决。",
-          "url": "https://wallstreetcn.com/livenews/3115370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "俄罗斯总统普京：（关于伊朗战争对俄罗斯的好处）我们希望油价保持平衡和稳定。",
@@ -900,7 +954,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
@@ -910,11 +964,24 @@
             2,
             3,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
+          "url": "https://flash.jin10.com/detail/20260606042427126800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时31分]"
         },
         {
           "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
@@ -928,18 +995,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
-          "url": "https://flash.jin10.com/detail/20260606042427126800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时29分]"
-        },
-        {
           "title": "SpaceX与谷歌签署300亿美元算力协议",
           "url": "https://wallstreetcn.com/livenews/3115327",
           "source": "华尔街见闻-快讯",
@@ -950,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时33分]"
+        },
+        {
+          "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
+          "url": "https://wallstreetcn.com/livenews/3115375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "SpaceX表示，谷歌将保留其人工智能模型及相关数据的所有权。",
@@ -1012,8 +1078,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时31分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -1086,9 +1152,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "美元指数DXY突破100，日内涨0.56%。",
@@ -1156,8 +1222,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 07时31分]"
         }
       ]
     }
