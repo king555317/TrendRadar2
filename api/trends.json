@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T19:39:21.225532+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-06-08T21:32:20.231298+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 154,
+      "match_count": 161,
       "titles": [
         {
           "title": "英媒：伊朗收取的海峡通行费用大幅下降",
@@ -136,6 +136,18 @@
           "time_info": "[06时25分 ~ 07时26分]"
         },
         {
+          "title": "伊朗与以色列再次爆发冲突，中方：深表关切",
+          "url": "https://news.ifeng.com/c/8tn47brENEH",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时32分]"
+        },
+        {
           "title": "伊朗时隔两个月再袭以色列",
           "url": "https://www.douyin.com/hot/2526750",
           "source": "抖音",
@@ -184,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
-        },
-        {
-          "title": "伊朗与以色列再次爆发冲突，中方：深表关切",
-          "url": "https://news.ifeng.com/c/8tn47brENEH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "伊朗革命卫队表示，以色列军队必须停止对黎巴嫩的攻击；如果以方扩大攻击范围或对伊朗的行动作出回应，将面临“更具毁灭性和更令人懊悔的打击”。",
@@ -247,7 +248,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -790,6 +791,17 @@
           "time_info": "[04时29分 ~ 05时29分]"
         },
         {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.toutiao.com/trending/7648982898397154858/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "伊朗外长与埃及外长通电话，讨论地区局势加剧。（MEHR）",
           "url": "https://wallstreetcn.com/livenews/3115632",
           "source": "华尔街见闻-快讯",
@@ -812,6 +824,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时33分]"
+        },
+        {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "伊朗外长与法国外长、卡塔尔外长通电话，讨论伊朗对以色列行动的呼应、和地区局势。 伊朗外长还与巴基斯坦陆军元帅（阿西姆·穆尼尔/Munir）通电话。",
@@ -892,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "伊朗和以色列先后宣布停止袭击对方",
+          "url": "https://wallstreetcn.com/livenews/3116203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "伊朗外交部：袭击发生在以色列对黎巴嫩的行动和多次违反停火协议之后。",
@@ -1092,6 +1126,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "伊朗最高领袖军事顾问雷扎伊：霍尔木兹海峡属于伊朗和阿曼，我们将不允许任何其他国家干涉该海峡。",
+          "url": "https://flash.jin10.com/detail/20260608212257997800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "塔斯尼姆通讯社：伊朗拥有足够数量的导弹 随时可发射",
           "url": "https://wallstreetcn.com/livenews/3115663",
           "source": "华尔街见闻-快讯",
@@ -1112,6 +1157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "伊朗总统：伊朗没有离开谈判桌",
+          "url": "https://wallstreetcn.com/livenews/3116199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "以色列政府领土活动协调处：在伊朗对以色列发动导弹袭击后，关闭进入加沙地带的过境点。",
@@ -1252,7 +1308,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1296,7 +1352,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1310,6 +1366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社，伊朗境内所有航班取消，直至另行通知。",
+          "url": "https://wallstreetcn.com/livenews/3116192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "英国外交大臣：伊朗和以色列必须立即表现克制，降级局势。",
@@ -1450,7 +1517,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1730,6 +1797,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "以媒称以色列暂停对伊朗的袭击",
+          "url": "https://wallstreetcn.com/livenews/3116175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "伊朗世界杯代表团多人遭美拒签",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%A4%9A%E4%BA%BA%E9%81%AD%E7%BE%8E%E6%8B%92%E7%AD%BE",
           "source": "bilibili 热搜",
@@ -1747,7 +1825,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1758,7 +1836,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1777,7 +1855,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
@@ -1801,8 +1879,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 19时39分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 21时32分]"
         },
         {
           "title": "学者：特朗普外交抑制了两极化阵营化",
@@ -1818,6 +1896,33 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 21时32分]"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 21时32分]"
         },
         {
           "title": "【特朗普对伊朗喊话：行了，回来谈判吧】美国总统特朗普7日接受美媒采访时称, 伊朗当天稍早时向以色列实施导弹打击“无助于谈判”。他催促伊朗重返谈判桌。特朗普对美国福克斯新闻频道说：“我对伊朗的建议是：你们已经发射了导弹，就行了。回到谈判桌前，达成协议吧。”（新华社）",
@@ -1864,6 +1969,19 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 21时32分]"
+        },
+        {
           "title": "美国总统特朗普：如果内塔尼亚胡反击，那么冲突就会像过去47年，甚至过去3000年那样持续下去。",
           "url": "https://flash.jin10.com/detail/20260608042023270800",
           "source": "金十数据",
@@ -1873,18 +1991,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
-          "url": "https://wallstreetcn.com/articles/3774055",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 19时39分]"
         },
         {
           "title": "美国总统特朗普对AXIOS表示：伊朗的袭击没有造成任何伤害。希望以色列不会进行报复。",
@@ -1912,18 +2018,15 @@
           "time_info": "[01时32分 ~ 04时29分]"
         },
         {
-          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
-          "source": "澎湃新闻",
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            13,
-            12,
-            11
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 21时32分]"
         },
         {
           "title": "特朗普告诉以色列不要反击",
@@ -2037,29 +2140,6 @@
           "time_info": "[00时33分 ~ 03时33分]"
         },
         {
-          "title": "特朗普：伊朗最高领袖伤得很重",
-          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 19时39分]"
-        },
-        {
-          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
-          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 19时39分]"
-        },
-        {
           "title": "特朗普建议伊朗发射了导弹就够了",
           "url": "https://wallstreetcn.com/livenews/3115617",
           "source": "华尔街见闻-快讯",
@@ -2082,6 +2162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时26分]"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
@@ -2191,6 +2282,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "特朗普正在失去伊朗战争的主导权",
+          "url": "https://flash.jin10.com/detail/20260608212612794800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "据AXIOS：特朗普表示他马上要给内塔尼亚胡打电话，告诉他不要进行反击。",
           "url": "https://flash.jin10.com/detail/20260608040738850800",
           "source": "金十数据",
@@ -2230,7 +2332,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2312,6 +2414,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美媒爆料：伊朗宣布停止对以色列军事行动前，特朗普和内塔尼亚胡进行通话",
+          "url": "https://wallstreetcn.com/livenews/3116188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "特朗普：伊朗该“闹够了”，现在该谈判了",
           "url": "https://flash.jin10.com/detail/20260608035431901800",
           "source": "金十数据",
@@ -2351,7 +2464,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2384,7 +2497,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2444,6 +2557,17 @@
           "time_info": "17时39分"
         },
         {
+          "title": "民调预警：特朗普经济支持率跌至执政以来谷底",
+          "url": "https://flash.jin10.com/detail/20260608210120032800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "特朗普宣布将前往现场看NBA总决赛",
           "url": "https://wallstreetcn.com/livenews/3115551",
           "source": "华尔街见闻-快讯",
@@ -2453,12 +2577,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "据以色列媒体，以色列应特朗普要求，暂停对伊朗的袭击。",
+          "url": "https://wallstreetcn.com/livenews/3116173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -2521,6 +2656,17 @@
           "time_info": "[00时33分 ~ 19时39分]"
         },
         {
+          "title": "以伊战事缓和，美股期指走高，科技股盘前反弹，英特尔涨超9%，油价涨幅收窄，黄金重回4320美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "A股氟化工板块短线拉升，昊华科技触及涨停，金石资源、多氟多、巨化股份、三美股份、永太科技等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260608094840551800",
           "source": "金十数据",
@@ -2538,9 +2684,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "美股盘前特朗普快速摁灭战火，伊朗借黎巴嫩议题撬动美以矛盾",
+          "url": "https://flash.jin10.com/detail/20260608212906749800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美股盘前科技股多数反弹，韩股收跌跌超8%，油价飙升5%、黄金跌破4300",
@@ -2560,7 +2717,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -2589,15 +2746,37 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "美股光通信概念股Ciena拟发行20亿美元的可转换优先票据。",
           "url": "https://wallstreetcn.com/livenews/3116120",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3116200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美股股指期货周一低开，纳指期货跌0.6%，标普500指数期货跌0.4%。",
@@ -2622,6 +2801,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "康宁美股盘前涨近10%，亚马逊宣布与康宁达成协议，以提升美国光纤制造能力，将创造1000个就业岗位。",
+          "url": "https://wallstreetcn.com/livenews/3116181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
           "url": "https://flash.jin10.com/detail/20260607222627146800",
           "source": "金十数据",
@@ -2642,6 +2832,113 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 15时46分]"
+        },
+        {
+          "title": "美股开盘，道指涨0.26%，标普500指数涨0.79%，纳指涨1.39%。英特尔(INTC.O)涨11.5%，谷歌向其下单逾300万颗TPU。美国电池技术公司(ABAT.O)涨25.5%，此前公司赢得上诉、美国能源部为其项目恢复拨款。迈威尔科技(MRVL.O)涨9.6%。纳斯达克中国金龙指数涨0.53%。",
+          "url": "https://flash.jin10.com/detail/20260608213033883800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "【美股三大股指集体高开，英特尔大涨超11%】以伊战事缓和，美股三大股指走高，纳指盘初涨1.39%，标普500指数涨0.85%，道指涨0.36%。科技股集体反弹，英伟达涨超2%，美光科技涨超8%；英特尔涨超11%，谷歌向英特尔下单采购超过300万枚TPU；康宁涨超8%，亚马逊与康宁签署数十亿美元光纤协议；Wolfspeed上涨超9%，公司与GE Aerospace合作，加速高压碳化硅（SiC）的应用。",
+          "url": "https://wallstreetcn.com/livenews/3116209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "Gemini 美国大豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E5%8C%85&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "英特尔美股盘前涨超9%，报道称，谷歌和英伟达考虑将英特尔列为备用芯片制造合作伙伴，谷歌向英特尔下单采购超过300万枚TPU芯片。",
+          "url": "https://wallstreetcn.com/livenews/3116197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "英特尔据悉正成为谷歌和英伟达的备用芯片制造商",
+          "url": "https://flash.jin10.com/detail/20260608211345598800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "谷歌向英特尔订购逾300万颗TPU",
+          "url": "https://flash.jin10.com/detail/20260608210436248800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "据The Information：谷歌和英伟达(NVDA.O)考虑将英特尔(INTC.O)列为备用芯片制造合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260608210431253800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "据The Information：谷歌向英特尔(INTC.O)下了超过300万片TPU的订单。",
+          "url": "https://flash.jin10.com/detail/20260608210408352800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -2777,41 +3074,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E9%A6%96%E8%BD%AE%E5%A4%96%E9%83%A8%E8%9E%8D%E8%B5%84&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 15时46分]"
-        },
-        {
-          "title": "Gemini 美国大豆包",
-          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E5%8C%85&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时32分]"
         }
       ]
     },
