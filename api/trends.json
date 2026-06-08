@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T21:32:20.231298+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2026-06-08T23:11:31.312266+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 161,
+      "match_count": 165,
       "titles": [
         {
           "title": "英媒：伊朗收取的海峡通行费用大幅下降",
@@ -114,6 +114,18 @@
           "time_info": "[00时33分 ~ 11时13分]"
         },
         {
+          "title": "伊朗与以色列再次爆发冲突，中方：深表关切",
+          "url": "https://news.ifeng.com/c/8tn47brENEH",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时11分]"
+        },
+        {
           "title": "伊朗4波导弹袭击以空军基地，发出强硬警告",
           "url": "https://news.ifeng.com/c/8tmavL6b7jm",
           "source": "凤凰网",
@@ -134,18 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 07时26分]"
-        },
-        {
-          "title": "伊朗与以色列再次爆发冲突，中方：深表关切",
-          "url": "https://news.ifeng.com/c/8tn47brENEH",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时32分]"
         },
         {
           "title": "伊朗时隔两个月再袭以色列",
@@ -229,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：我们已经粉碎了那种“纸面上的停火以及实际中屡次违反”的模式。除非有真正的建立信任的意愿，否则伊朗的回应将保持不变。",
+          "url": "https://flash.jin10.com/detail/20260608225119195800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "一名美国官员告诉Axios：我不认为以色列（对伊朗）的袭击有任何迫在眉睫的迹象。",
@@ -635,6 +646,29 @@
           "time_info": "[02时31分 ~ 04时29分]"
         },
         {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时11分]"
+        },
+        {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.toutiao.com/trending/7648982898397154858/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时11分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 101 天，当前局势如何？有哪些值得关注的信息？",
           "url": "https://www.zhihu.com/question/2047221146982904856",
           "source": "知乎",
@@ -791,17 +825,6 @@
           "time_info": "[04时29分 ~ 05时29分]"
         },
         {
-          "title": "伊朗宣布停止对以色列的军事行动",
-          "url": "https://www.toutiao.com/trending/7648982898397154858/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
-        },
-        {
           "title": "伊朗外长与埃及外长通电话，讨论地区局势加剧。（MEHR）",
           "url": "https://wallstreetcn.com/livenews/3115632",
           "source": "华尔街见闻-快讯",
@@ -824,17 +847,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时33分]"
-        },
-        {
-          "title": "伊朗宣布停止对以色列的军事行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "伊朗外长与法国外长、卡塔尔外长通电话，讨论伊朗对以色列行动的呼应、和地区局势。 伊朗外长还与巴基斯坦陆军元帅（阿西姆·穆尼尔/Munir）通电话。",
@@ -906,6 +918,17 @@
           "time_info": "17时39分"
         },
         {
+          "title": "以色列防长：拒绝伊朗的威胁 将继续对抗真主党",
+          "url": "https://flash.jin10.com/detail/20260608223955757800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "伊朗革命卫队启动“纳斯尔”军事行动打击以色列",
           "url": "https://wallstreetcn.com/livenews/3115953",
           "source": "华尔街见闻-快讯",
@@ -923,7 +946,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1132,7 +1155,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1165,7 +1188,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1212,6 +1235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：如果犹太复国主义-美国邪恶联盟再次犯错，该地区将成为他们的地狱！",
+          "url": "https://flash.jin10.com/detail/20260608223257002800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "伊朗副外长：伊朗海外资产不是华盛顿的战利品",
@@ -1374,7 +1408,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1803,7 +1837,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1850,6 +1884,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "以色列暂停对伊朗袭击",
+          "url": "https://www.toutiao.com/trending/7648939445655211583/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         }
       ]
     },
@@ -1857,6 +1902,20 @@
       "keyword_group": "特朗普",
       "match_count": 63,
       "titles": [
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时50分 ~ 23时11分]"
+        },
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
           "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
@@ -1868,19 +1927,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时26分 ~ 17时39分]"
-        },
-        {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时50分 ~ 21时32分]"
         },
         {
           "title": "学者：特朗普外交抑制了两极化阵营化",
@@ -1906,8 +1952,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时38分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时38分 ~ 23时11分]"
         },
         {
           "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
@@ -1918,11 +1964,12 @@
             13,
             12,
             11,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时38分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时38分 ~ 23时11分]"
         },
         {
           "title": "【特朗普对伊朗喊话：行了，回来谈判吧】美国总统特朗普7日接受美媒采访时称, 伊朗当天稍早时向以色列实施导弹打击“无助于谈判”。他催促伊朗重返谈判桌。特朗普对美国福克斯新闻频道说：“我对伊朗的建议是：你们已经发射了导弹，就行了。回到谈判桌前，达成协议吧。”（新华社）",
@@ -1945,6 +1992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 23时11分]"
         },
         {
           "title": "英媒：特朗普考虑购买查戈斯群岛 拟绕过英国直接与毛里求斯交易",
@@ -2016,17 +2074,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时32分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普：伊朗最高领袖伤得很重",
-          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 21时32分]"
         },
         {
           "title": "特朗普告诉以色列不要反击",
@@ -2140,6 +2187,18 @@
           "time_info": "[00时33分 ~ 03时33分]"
         },
         {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时11分]"
+        },
+        {
           "title": "特朗普建议伊朗发射了导弹就够了",
           "url": "https://wallstreetcn.com/livenews/3115617",
           "source": "华尔街见闻-快讯",
@@ -2162,17 +2221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时26分]"
-        },
-        {
-          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
-          "url": "https://wallstreetcn.com/articles/3774115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
@@ -2288,7 +2336,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2420,7 +2468,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2563,7 +2611,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2585,7 +2633,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -2593,7 +2641,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -2667,6 +2715,17 @@
           "time_info": "[21时31分 ~ 21时32分]"
         },
         {
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "A股氟化工板块短线拉升，昊华科技触及涨停，金石资源、多氟多、巨化股份、三美股份、永太科技等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260608094840551800",
           "source": "金十数据",
@@ -2695,7 +2754,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2753,8 +2812,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时11分]"
         },
         {
           "title": "美股光通信概念股Ciena拟发行20亿美元的可转换优先票据。",
@@ -2774,7 +2833,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2790,6 +2849,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "美股科技大跌对A股影响有多大",
           "url": "https://www.toutiao.com/trending/7648866478107659803/",
           "source": "今日头条",
@@ -2801,13 +2871,35 @@
           "time_info": "15时46分"
         },
         {
+          "title": "美国10年期国债收益率转涨，重新逼近4.54%，亚太尾盘刷新日高至4.5801%之后持续走低，美股盘初曾刷新日低至4.5145%。",
+          "url": "https://wallstreetcn.com/livenews/3116223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "非农夜大跌只是小插曲？华尔街研判美股牛市未改",
+          "url": "https://flash.jin10.com/detail/20260608221401837800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "康宁美股盘前涨近10%，亚马逊宣布与康宁达成协议，以提升美国光纤制造能力，将创造1000个就业岗位。",
           "url": "https://wallstreetcn.com/livenews/3116181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2821,6 +2913,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美股上市的秘鲁企业股价下跌，秘鲁保守派候选人在激烈的总统选举中领先。Buenaventura跌2.4%, Intercorp Financial跌2.6%，Credicorp跌5.1%。",
+          "url": "https://flash.jin10.com/detail/20260608221021255800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美股三大股指集体高开，英特尔大涨超11%",
+          "url": "https://wallstreetcn.com/livenews/3116209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "大摩：美股抛售是健康的调整",
@@ -2859,7 +2973,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2870,7 +2984,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2892,7 +3006,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2903,7 +3017,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2914,7 +3028,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2925,7 +3039,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2936,9 +3050,73 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价下跌后郑州金店被挤爆",
+          "url": "https://www.toutiao.com/trending/7648415475306889252/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "金价跌回2025年，有金店每克跌近400元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329823",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时39分]"
+        },
+        {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 17时39分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时39分]"
+        },
+        {
+          "title": "金价跌回2025年，有金店每克跌近400元",
+          "url": "https://wallstreetcn.com/livenews/3115552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     },
@@ -3000,59 +3178,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价跌回2025年，有金店每克跌近400元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329823",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 19时39分]"
-        },
-        {
-          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
-          "url": "https://www.zhihu.com/question/2046542725336584487",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 17时39分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时39分]"
-        },
-        {
-          "title": "金价跌回2025年，有金店每克跌近400元",
-          "url": "https://wallstreetcn.com/livenews/3115552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -3075,11 +3200,12 @@
           "source": "微博",
           "ranks": [
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时11分]"
         }
       ]
     },
