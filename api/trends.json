@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T15:18:31.345946+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-06-09T17:11:57.498084+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
@@ -48,6 +48,19 @@
           "time_info": "[01时09分 ~ 09时40分]"
         },
         {
+          "title": "特朗普：内塔尼亚胡，你最好小心点！",
+          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 17时11分]"
+        },
+        {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
           "url": "https://wallstreetcn.com/articles/3774115",
           "source": "华尔街见闻",
@@ -57,20 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时09分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普：内塔尼亚胡，你最好小心点！",
-          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 15时18分]"
+          "appearance_count": 15,
+          "time_info": "[01时09分 ~ 17时11分]"
         },
         {
           "title": "特朗普：伊朗最高领袖伤得很重",
@@ -101,11 +102,27 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时10分 ~ 17时11分]"
+        },
+        {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 17时11分]"
         },
         {
           "title": "特朗普提名前私人律师，任司法部长",
@@ -119,20 +136,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时40分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
-          "url": "https://wallstreetcn.com/articles/3774122",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 15时18分]"
         },
         {
           "title": "特朗普：未来两周将对伊朗全面胜利",
@@ -152,7 +155,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -273,6 +276,17 @@
           "time_info": "[02时53分 ~ 03时46分]"
         },
         {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "美国总统特朗普：非常接近达成一个非常好、强大、有力的协议。",
           "url": "https://flash.jin10.com/detail/20260609130532741800",
           "source": "金十数据",
@@ -295,6 +309,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "特朗普称美伊和平协议相关工作进入收尾阶段",
+          "url": "https://news.ifeng.com/c/8tohseatV8c",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "FTX联合创始人SBF正式申请特朗普特赦",
           "url": "https://wallstreetcn.com/livenews/3116274",
           "source": "华尔街见闻-快讯",
@@ -306,15 +331,37 @@
           "time_info": "01时09分"
         },
         {
+          "title": "特朗普称美伊谈判进入“最后关头”，将在“两到三天内”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3116681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "特朗普拟推动政府持股AI企业，本周或开启关键谈判",
           "url": "https://flash.jin10.com/detail/20260609144536111800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
+          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "美国总统特朗普谈伊朗：我们正在进行谈判。",
@@ -389,7 +436,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -477,7 +524,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -532,7 +579,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -595,7 +642,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗和以色列先后宣布停止袭击对方",
@@ -663,6 +710,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "黎巴嫩真主党：伊朗为捍卫黎巴嫩人民而发动的导弹回应，是伊斯向黎巴嫩发出的道义、政治和军事层面的坚定承诺。",
+          "url": "https://flash.jin10.com/detail/20260609170726962800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "安全消息人士称，无人机袭击了位于伊拉克埃尔比勒以北的伊朗库尔德反对派营地。",
           "url": "https://flash.jin10.com/detail/20260609031936052800",
           "source": "金十数据",
@@ -672,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗足协世界杯配额门票被收回",
+          "url": "https://wallstreetcn.com/livenews/3116683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "伊朗宣布停止对以色列的军事行动",
@@ -804,6 +873,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "伊朗开启世界杯史上最特殊参赛模式",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
           "title": "据CNN：伊朗官员表示，德黑兰与美国对话“没有问题”，但美方必须改变其行为。",
           "url": "https://flash.jin10.com/detail/20260609030313384800",
           "source": "金十数据",
@@ -843,7 +923,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -857,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "万斯：无论以色列是否喜欢 达成伊朗协议于美国人民都是“大成功”",
+          "url": "https://flash.jin10.com/detail/20260609165445216800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "以色列回绝伊朗关于不要攻击黎巴嫩的警告",
@@ -923,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "伊朗足协世界杯配额门票被收回",
+          "url": "https://flash.jin10.com/detail/20260609164630064800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "欧盟以“威胁航行自由”名义制裁伊朗",
@@ -993,8 +1095,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时34分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[06时34分 ~ 17时11分]"
         },
         {
           "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
@@ -1063,6 +1165,18 @@
           "time_info": "[01时09分 ~ 08时46分]"
         },
         {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 17时11分]"
+        },
+        {
           "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260609003906930800",
           "source": "金十数据",
@@ -1074,16 +1188,17 @@
           "time_info": "01时09分"
         },
         {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
+          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
+          "url": "https://www.cls.cn/detail/2394381",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            9,
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 17时11分]"
         },
         {
           "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
@@ -1110,18 +1225,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时55分 ~ 06时34分]"
-        },
-        {
-          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
-          "url": "https://www.cls.cn/detail/2394381",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时18分]"
         },
         {
           "title": "金十图示：2026年06月08日（周一）美股热门股票行情一览（美股收盘）",
@@ -1283,6 +1386,18 @@
           "time_info": "[05时36分 ~ 06时34分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 17时11分]"
+        },
+        {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
           "source": "澎湃新闻",
@@ -1304,18 +1419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时34分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时18分]"
         },
         {
           "title": "OpenAI已提交IPO申请",
@@ -1440,6 +1543,19 @@
           "time_info": "[08时46分 ~ 15时18分]"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 17时11分]"
+        },
+        {
           "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
           "url": "https://flash.jin10.com/detail/20260609032235869800",
           "source": "金十数据",
@@ -1460,19 +1576,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 15时18分]"
         },
         {
           "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
@@ -1637,6 +1740,18 @@
           "time_info": "[06时34分 ~ 07时29分]"
         },
         {
+          "title": "消费者盼金价降至500元每克",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 17时11分]"
+        },
+        {
           "title": "金价下跌后郑州金店被挤爆",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%90%8E%E9%83%91%E5%B7%9E%E9%87%91%E5%BA%97%E8%A2%AB%E6%8C%A4%E7%88%86%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1646,17 +1761,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 11时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "30年期美债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3116333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时34分]"
         },
         {
-          "title": "消费者盼金价降至500元每克",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%BC%E9%87%91%E4%BB%B7%E9%99%8D%E8%87%B3500%E5%85%83%E6%AF%8F%E5%85%8B",
-          "source": "百度热搜",
+          "title": "伊以交火“点到为止”！美债却遗憾未能“止血”……",
+          "url": "https://www.cls.cn/detail/2394275",
+          "source": "财联社热门",
           "ranks": [
-            29
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "17时11分"
+        },
+        {
+          "title": "美债市场向美联储主席沃什发出明确信号：利率不够高",
+          "url": "https://wallstreetcn.com/livenews/3116675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        },
+        {
+          "title": "世界杯或分散交易员注意力 花旗称赛期欧美债市波动通常减弱",
+          "url": "https://wallstreetcn.com/livenews/3116529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
@@ -1723,39 +1879,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "30年期美债收益率涨约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3116333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时34分]"
-        },
-        {
-          "title": "世界杯或分散交易员注意力 花旗称赛期欧美债市波动通常减弱",
-          "url": "https://wallstreetcn.com/livenews/3116529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
         }
       ]
     }
