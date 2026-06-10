@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T15:33:40.058620+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-06-10T17:18:34.096604+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 106,
+      "match_count": 114,
       "titles": [
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
@@ -45,8 +45,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时51分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 17时18分]"
+        },
+        {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 17时18分]"
         },
         {
           "title": "伊朗战争最新动态丨美国和伊朗又动手了，情况如何？",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 11时11分]"
-        },
-        {
-          "title": "伊朗称摧毁约旦美军基地F-35机库",
-          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 15时33分]"
         },
         {
           "title": "美军：对伊朗发起自卫打击 以回应此前直升机被击落",
@@ -133,7 +134,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -199,7 +200,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -228,6 +229,19 @@
           "time_info": "07时31分"
         },
         {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.toutiao.com/trending/7649563798306557482/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时18分]"
+        },
+        {
           "title": "伊朗外交部谴责美国对伊军事行动",
           "url": "https://flash.jin10.com/detail/20260610125258381800",
           "source": "金十数据",
@@ -250,6 +264,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "伊朗披露打击美MQ9无人机视频",
+          "url": "https://wallstreetcn.com/livenews/3117365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "伊朗袭击美军第五舰队",
           "url": "https://www.douyin.com/hot/2529144",
           "source": "抖音",
@@ -260,18 +285,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 13时35分]"
-        },
-        {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://www.toutiao.com/trending/7649563798306557482/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 15时33分]"
         },
         {
           "title": "伊朗外交部长：武装部队已针对领空遭侵犯进入戒备状态。",
@@ -489,8 +502,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 17时18分]"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时11分 ~ 15时33分]"
+          "time_info": "[13时35分 ~ 17时18分]"
         },
         {
           "title": "伊朗称对美军第五舰队发动袭击",
@@ -504,17 +528,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 13时35分]"
-        },
-        {
-          "title": "伊朗袭击美军第五舰队",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 15时33分]"
         },
         {
           "title": "伊朗议会官员：武装部队已做好应对任何侵略的准备",
@@ -671,6 +684,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "伊朗外交部发言人称需重新评估局势",
+          "url": "https://wallstreetcn.com/livenews/3117363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "伊朗称过去24小时未在海峡发起进攻性空中行动",
           "url": "https://flash.jin10.com/detail/20260610044159022800",
           "source": "金十数据",
@@ -691,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "伊朗将根据最新袭击事件重新评估与美国的谈判。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3117361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们更愿意通过外交解决问题，但并不代表我们不会用别的方式。要是你们不遵守承诺，我们就会用自己最擅长的方式回应。",
@@ -935,6 +970,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "伊朗外交部发言人表示，美国持续违反停火协议，破坏了外交进程。",
+          "url": "https://wallstreetcn.com/livenews/3117352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "据半岛电视台：伊朗副外长表示，德黑兰不是霍尔木兹海峡上空针对美军“阿帕奇”直升机袭击事件的幕后主使。",
           "url": "https://flash.jin10.com/detail/20260610035350321800",
           "source": "金十数据",
@@ -1144,6 +1190,17 @@
           "time_info": "06时34分"
         },
         {
+          "title": "据伊朗国家媒体：伊朗一名省长表示，格什姆岛并未发生爆炸，传出的爆炸声与该地区无关。",
+          "url": "https://flash.jin10.com/detail/20260610165702156800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "美国完成就阿帕奇直升机被击落事件对伊朗实施的打击",
           "url": "https://wallstreetcn.com/livenews/3117113",
           "source": "华尔街见闻-快讯",
@@ -1188,6 +1245,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗表示，将根据最新的袭击事件评估与美国的核谈判。",
+          "url": "https://flash.jin10.com/detail/20260610165444169800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "据伊朗媒体10日报道，当天凌晨，伊朗西部城市阿瓦士听到疑似爆炸声。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3117110",
           "source": "华尔街见闻-快讯",
@@ -1197,6 +1265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "伊朗外交部发言人称需重新评估局势",
+          "url": "https://flash.jin10.com/detail/20260610165405492800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "据纽约邮报：美国针对伊朗的报复性打击大约在30分钟前开始。美军声明中提到行动保持“对等性”，这可能暗示此次打击并非要重回全面战争状态。",
@@ -1210,13 +1289,24 @@
           "time_info": "06时34分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗方面表示，外交不是在真空中进行的。",
+          "url": "https://flash.jin10.com/detail/20260610165306101800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "伊朗击落美军“阿帕奇”直升机",
           "url": "https://www.douyin.com/hot/2529103",
           "source": "抖音",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -1224,8 +1314,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普证实美军打击伊朗",
+          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 17时18分]"
+        },
         {
           "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
           "url": "https://www.cls.cn/detail/2395258",
@@ -1242,18 +1345,6 @@
           "time_info": "[00时57分 ~ 11时11分]"
         },
         {
-          "title": "特朗普证实美军打击伊朗",
-          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 15时33分]"
-        },
-        {
           "title": "特朗普：美伊谈判进入“最后关头”",
           "url": "https://news.ifeng.com/c/8tooQUA09O3",
           "source": "凤凰网",
@@ -1264,6 +1355,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时57分 ~ 13时35分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 17时18分]"
         },
         {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
@@ -1277,20 +1382,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时43分 ~ 09时46分]"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时51分 ~ 15时33分]"
         },
         {
           "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
@@ -1465,6 +1556,17 @@
           "time_info": "[01时43分 ~ 02时47分]"
         },
         {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
           "url": "https://flash.jin10.com/detail/20260610025206405800",
           "source": "金十数据",
@@ -1578,7 +1680,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -1667,6 +1769,18 @@
           "time_info": "[04时43分 ~ 05时36分]"
         },
         {
+          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
+          "url": "https://www.cls.cn/detail/2395711",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 17时18分]"
+        },
+        {
           "title": "高盛和巴克莱警示：上周五美股的急挫不应被轻易视作一次性的异常波动",
           "url": "https://wallstreetcn.com/livenews/3116955",
           "source": "华尔街见闻-快讯",
@@ -1716,6 +1830,19 @@
           "time_info": "[06时34分 ~ 07时31分]"
         },
         {
+          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
+          "url": "https://www.cls.cn/detail/2395632",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 17时18分]"
+        },
+        {
           "title": "美股费城半导体指数狂泄超千点，纳斯达克100指数跌超3.5%，标普跌1.8%，道指跌0.8%，纳指跌3%。 现货白银日内跌幅达4.5%，报64.98美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3116953",
           "source": "华尔街见闻-快讯",
@@ -1742,18 +1869,6 @@
           "time_info": "[00时57分 ~ 02时47分]"
         },
         {
-          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
-          "url": "https://www.cls.cn/detail/2395632",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 15时33分]"
-        },
-        {
           "title": "美股三大股指期货开盘小幅下跌，其中纳指期货跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260610060116201800",
           "source": "金十数据",
@@ -1776,17 +1891,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 07时31分]"
-        },
-        {
-          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
-          "url": "https://www.cls.cn/detail/2395711",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "超微电脑计划通过股权和股权相关方式融资70亿美元。 最近数周，该公司围绕AI服务器的融资获得390亿美元认购。 超微电脑美股盘后跌10%。",
@@ -1855,6 +1959,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美股芯片股盘前走低。美光科技跌近4%，迈威尔科技跌超3%，阿斯麦、英特尔跌超2%，英伟达跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3117347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "WTI原油抹去盘初1%的涨幅，现货黄金和美股股指期货目前小幅下跌约0.1%。",
           "url": "https://flash.jin10.com/detail/20260610062436419800",
           "source": "金十数据",
@@ -1872,7 +1987,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -1990,11 +2105,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 17时18分]"
         },
         {
           "title": "金价大跌女子狂卖2斤金条",
@@ -2014,7 +2130,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
