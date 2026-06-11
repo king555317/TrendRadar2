@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T06:37:58.033435+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-06-12T07:34:20.536039+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 49,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时34分]"
         },
         {
           "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
@@ -26,11 +27,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时34分]"
         },
         {
           "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
@@ -40,8 +42,75 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普称取消打击伊朗行动",
+          "url": "https://news.ifeng.com/c/8tsig3GUtRk",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普欲“抹除”两次弹劾记录 专家指此程序仅有象征意义",
+          "url": "https://flash.jin10.com/detail/20260612070859759800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普：今天结束了与伊朗的战争。",
+          "url": "https://wallstreetcn.com/livenews/3118447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
+          "url": "https://news.ifeng.com/c/8tso5G96e80",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "据华尔街日报：特朗普与盟友正制定计划以“抹除”弹劾记录。",
+          "url": "https://flash.jin10.com/detail/20260612070155257800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普称取消打击伊朗行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 07时34分]"
         },
         {
           "title": "以方称特朗普承诺美伊协议将包括移除伊朗浓缩铀等内容",
@@ -54,18 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时47分]"
-        },
-        {
-          "title": "特朗普称取消打击伊朗行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时51分 ~ 06时37分]"
         },
         {
           "title": "【特朗普称伊朗各方均已批准美伊协议】美国总统特朗普谈及美伊协议称，据他了解，伊朗最高领袖已同意该协议，伊朗各方均已批准该协议。他还表示，这是一份非常有力、非常详尽的谅解备忘录。特朗普还称，伊朗将不会拥有核武器。特朗普表示，一旦签署谅解备忘录，霍尔木兹海峡将立即开放。他还称，哈尔克岛行动不在考虑之列。 此前，一名接近伊朗谈判团队的知情人士称，伊朗“尚未批准任何与美国达成的初步谅解备忘录文本”。（央视）",
@@ -152,6 +209,18 @@
           "time_info": "[04时52分 ~ 05时47分]"
         },
         {
+          "title": "特朗普暗示协议即将达成，新兴市场货币与股票ETF集体大涨",
+          "url": "https://wallstreetcn.com/livenews/3118418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
+        },
+        {
           "title": "特朗普说今晚将重创伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%8A%E6%99%9A%E5%B0%86%E9%87%8D%E5%88%9B%E4%BC%8A%E6%9C%97%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -163,6 +232,17 @@
           "time_info": "[01时17分 ~ 01时18分]"
         },
         {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "分析人士：称特朗普声明并未改变局势",
           "url": "https://flash.jin10.com/detail/20260612023118594800",
           "source": "金十数据",
@@ -172,6 +252,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3118442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
+          "url": "https://www.cls.cn/detail/2397775",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
@@ -196,6 +298,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "特朗普叫停对伊朗打击！称“未来几天”签和平协议，伊朗回应：还没结论！",
+          "url": "https://flash.jin10.com/detail/20260612064649190800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "特朗普提名原SEC主席为美国国家情报总监",
           "url": "https://wallstreetcn.com/livenews/3118350",
           "source": "华尔街见闻-快讯",
@@ -216,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
+          "url": "https://flash.jin10.com/detail/20260612064451567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "据以色列i24News：以色列决策层今晚曾明确表示，以方正在为局势升级做准备。然而仅半小时后，特朗普的声明便令这一表态大打折扣。",
@@ -315,17 +439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普暗示协议即将达成，新兴市场货币与股票ETF集体大涨",
-          "url": "https://wallstreetcn.com/livenews/3118418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "特朗普称协议接近完成，遭以伊双方降温",
@@ -452,18 +565,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时34分]"
         },
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
@@ -475,8 +589,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时34分]"
         },
         {
           "title": "伊朗：使用12枚导弹摧毁美军大量战机",
@@ -487,8 +601,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时34分]"
         },
         {
           "title": "美军称再次对伊朗目标实施“自卫性”打击",
@@ -517,26 +631,28 @@
           "time_info": "[01时17分 ~ 06时37分]"
         },
         {
-          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
-          "url": "https://flash.jin10.com/detail/20260612063056623800",
-          "source": "金十数据",
+          "title": "伊朗阿巴斯港传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tt1H0RgCkY",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "07时34分"
         },
         {
-          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
-          "url": "https://wallstreetcn.com/livenews/3118436",
-          "source": "华尔街见闻-快讯",
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
+          "source": "财联社热门",
           "ranks": [
-            2
+            12,
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 07时34分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗锡里克地区海岸附近传出爆炸声，原因及来源尚不明确。（路透）",
@@ -572,19 +688,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
-          "url": "https://www.cls.cn/detail/2397642",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 06时37分]"
-        },
-        {
           "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
           "url": "https://flash.jin10.com/detail/20260612043923940800",
           "source": "金十数据",
@@ -609,6 +712,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时52分 ~ 06时37分]"
+        },
+        {
+          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
+          "url": "https://flash.jin10.com/detail/20260612063056623800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
+          "url": "https://wallstreetcn.com/livenews/3118436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
         },
         {
           "title": "伊朗外交部发言人：由于美国的行动，霍尔木兹海峡的局势变得不那么安全。",
@@ -695,6 +822,18 @@
           "time_info": "[05时47分 ~ 06时37分]"
         },
         {
+          "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260612060451925800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
+        },
+        {
           "title": "伊朗外交部发言人： 谈判的形势从一开始对我们就是明确的，大部分文本已经敲定，但美国人不断改变自己的立场。 伊朗已经证明，在划定的红线问题上绝不容忍迁就。",
           "url": "https://flash.jin10.com/detail/20260612042915962800",
           "source": "金十数据",
@@ -705,6 +844,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时47分]"
+        },
+        {
+          "title": "伊朗外交部：美方行径致使斡旋进程受影响",
+          "url": "https://wallstreetcn.com/livenews/3118430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
         },
         {
           "title": "伊朗外交部发言人：卡塔尔和巴基斯坦作为调解方正在积极行动，但美国的行为影响了外交进程。",
@@ -743,6 +894,53 @@
           "time_info": "[05时47分 ~ 06时37分]"
         },
         {
+          "title": "据伊朗媒体：伊朗阿巴斯港传出两次爆炸声，来源不明。",
+          "url": "https://flash.jin10.com/detail/20260612055615032800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：截至目前，锡里克地区未发生任何炮弹击中事件或冲突。听到的声音来自海上，与霍尔木兹海峡有关。",
+          "url": "https://flash.jin10.com/detail/20260612054908025800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
+        },
+        {
+          "title": "Deltec资产管理公司专注于新兴市场股票的投资组合经理Greg Lesko：市场感觉到我们终于接近这场（与伊朗相关的）冲突的尾声了，无论是如目前预期的那样达成协议，还是继续轰炸。 魔鬼藏在细节中，而我们目前还没看到这些细节。",
+          "url": "https://wallstreetcn.com/livenews/3118416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
+        },
+        {
+          "title": "伊朗革命卫队：我们将继续监视霍尔木兹海峡，并将对任何试图通过的船只采取严厉措施。",
+          "url": "https://flash.jin10.com/detail/20260612065400194800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "消息人士称，伊朗外长阿拉格齐可能于本周六（6月13日）前往巴基斯坦。（沙特阿拉伯阿拉比亚电视台）",
           "url": "https://wallstreetcn.com/livenews/3118354",
           "source": "华尔街见闻-快讯",
@@ -754,15 +952,26 @@
           "time_info": "03时02分"
         },
         {
-          "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260612060451925800",
+          "title": "伊朗国家媒体援引军方消息报道称：一艘油轮得到伊斯兰革命卫队海军警告，被迫遵守“霍尔木兹海峡禁航法”。",
+          "url": "https://wallstreetcn.com/livenews/3118443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗军方消息人士称，违规船只为一艘油轮，在伊朗革命卫队海军发出警告后，被迫遵守霍尔木兹海峡的“航行禁令”。",
+          "url": "https://flash.jin10.com/detail/20260612065131632800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "07时34分"
         },
         {
           "title": "伊朗武装部队：若美再度袭击，将遭受更猛烈回击",
@@ -776,15 +985,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "伊朗外交部：美方行径致使斡旋进程受影响",
-          "url": "https://wallstreetcn.com/livenews/3118430",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗媒体：军方消息人士称，锡里克地区的爆炸声与对抗试图通过霍尔木兹海峡的“违规船只”有关。",
+          "url": "https://flash.jin10.com/detail/20260612064850285800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "07时34分"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐可能于本周六（6月13日）前往巴基斯坦。",
@@ -809,17 +1018,6 @@
           "time_info": "01时18分"
         },
         {
-          "title": "据伊朗媒体：伊朗阿巴斯港传出两次爆炸声，来源不明。",
-          "url": "https://flash.jin10.com/detail/20260612055615032800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
           "title": "伊朗外交部“辟谣”：尚未就伊美协议达成最终结论，霍尔木兹海峡目前仍关闭",
           "url": "https://wallstreetcn.com/livenews/3118401",
           "source": "华尔街见闻-快讯",
@@ -831,17 +1029,6 @@
           "time_info": "05时47分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：截至目前，锡里克地区未发生任何炮弹击中事件或冲突。听到的声音来自海上，与霍尔木兹海峡有关。",
-          "url": "https://flash.jin10.com/detail/20260612054908025800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
           "title": "据沙特阿拉比亚电视台报道，消息人士称，根据美国与伊朗之间的框架协议草案，各方将承诺立即停止进攻性军事行动。协议规定，在实施期间不得进行军事打击。违规行为应通过调解人协调机制解决。",
           "url": "https://flash.jin10.com/detail/20260612041624500800",
           "source": "金十数据",
@@ -851,17 +1038,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        },
-        {
-          "title": "Deltec资产管理公司专注于新兴市场股票的投资组合经理Greg Lesko：市场感觉到我们终于接近这场（与伊朗相关的）冲突的尾声了，无论是如目前预期的那样达成协议，还是继续轰炸。 魔鬼藏在细节中，而我们目前还没看到这些细节。",
-          "url": "https://wallstreetcn.com/livenews/3118416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "联合国秘书长古特雷斯敦促各方恢复全面停火的实施，避免进一步恶化局势。呼吁美国和伊朗加倍努力达成和平、全面和持久的协议。",
@@ -892,7 +1068,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -911,7 +1087,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -942,11 +1118,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
@@ -955,9 +1143,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨约4.4%，黄金ETF涨超3.1%",
@@ -1018,17 +1218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时47分]"
-        },
-        {
-          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
-          "url": "https://www.cls.cn/detail/2397755",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "金十图示：2026年06月11日（周四）美股热门股票行情一览（美股盘中）",
@@ -1136,11 +1325,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时34分]"
         },
         {
           "title": "OpenAI将收购Ona 强化Codex代理能力",
@@ -1182,6 +1372,18 @@
           "time_info": "05时47分"
         },
         {
+          "title": "美债价格于纽约中午短线飙涨，特朗普宣称取消对伊朗的后续袭击计划",
+          "url": "https://wallstreetcn.com/livenews/3118414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
+        },
+        {
           "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
           "url": "https://wallstreetcn.com/livenews/3118346",
           "source": "华尔街见闻-快讯",
@@ -1191,17 +1393,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "美债价格于纽约中午短线飙涨，特朗普宣称取消对伊朗的后续袭击计划",
-          "url": "https://wallstreetcn.com/livenews/3118414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         }
       ]
     },
@@ -1209,6 +1400,18 @@
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数周四跌超0.2%，纽约中午跳水，南非兰特涨1.9%，巴西雷亚尔涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3118421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时34分]"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.22%，暂报2238.79点，北京时间01:00-12:00走出一波V形反转行情——06:18刷新日低至2159.74点，12:00以来大致持平。 MarketVectorTM数字资产100中盘指数涨0.50%，报2554.94点。 MarketVector数字资产100指数涨0.42%，报12343.45点。 目前，Solana涨2.78%，狗狗币涨1.62%，XRP涨0.71%。 比特币涨1.09%，暂报62524.99美元；以太坊涨0.62%，暂报1637.85美元。",
           "url": "https://wallstreetcn.com/livenews/3118326",
@@ -1230,17 +1433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
-        },
-        {
-          "title": "美元指数周四跌超0.2%，纽约中午跳水，南非兰特涨1.9%，巴西雷亚尔涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3118421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         }
       ]
     },
@@ -1255,7 +1447,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         }
