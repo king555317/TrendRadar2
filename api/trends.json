@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-13T05:36:10.540189+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-06-13T06:34:44.823762+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2048669431962625669",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时34分]"
+        },
         {
           "title": "伊朗发布“头骨世界杯”海报",
           "url": "https://www.toutiao.com/trending/7650111233802731539/",
@@ -44,20 +58,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2048669431962625669",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时36分]"
-        },
-        {
           "title": "美官员：伊朗承诺永久放弃核武器，但美方需建立核查机制",
           "url": "https://flash.jin10.com/detail/20260613022602060800",
           "source": "金十数据",
@@ -80,6 +80,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3119092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐将出席今晚的《特别新闻对话》节目，具体时间未知。",
           "url": "https://flash.jin10.com/detail/20260613021802157800",
           "source": "金十数据",
@@ -100,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "伊朗南部爆炸声因警告性射击",
+          "url": "https://wallstreetcn.com/livenews/3119090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "伊朗外长阿拉格齐：美国对伊朗的威胁应停止，德黑兰绝不会屈服于压力。",
@@ -162,6 +184,142 @@
           "time_info": "[03时41分 ~ 05时36分]"
         },
         {
+          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+          "url": "https://wallstreetcn.com/livenews/3119069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+          "url": "https://flash.jin10.com/detail/20260613040333383800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://wallstreetcn.com/livenews/3119061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
+          "url": "https://flash.jin10.com/detail/20260613035630897800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
+          "url": "https://flash.jin10.com/detail/20260613035052032800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
+          "url": "https://flash.jin10.com/detail/20260613034446617800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
+          "url": "https://flash.jin10.com/detail/20260613034424534800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：对德黑兰而言，处置高浓缩铀库存的唯一优选方案是将相关材料降纯稀释。",
+          "url": "https://flash.jin10.com/detail/20260613034201146800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
+          "url": "https://flash.jin10.com/detail/20260613033925939800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗被冻结资金将被释放。",
+          "url": "https://flash.jin10.com/detail/20260613033747065800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗将确保船只安全通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260613033658913800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+          "url": "https://flash.jin10.com/detail/20260613033606513800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
           "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
           "url": "https://wallstreetcn.com/livenews/3119035",
           "source": "华尔街见闻-快讯",
@@ -186,146 +344,12 @@
           "time_info": "[02时43分 ~ 03时41分]"
         },
         {
-          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
-          "url": "https://wallstreetcn.com/livenews/3119069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
-          "url": "https://flash.jin10.com/detail/20260613040333383800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://wallstreetcn.com/livenews/3119061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
-          "url": "https://flash.jin10.com/detail/20260613035630897800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
-          "url": "https://flash.jin10.com/detail/20260613035052032800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
-          "url": "https://flash.jin10.com/detail/20260613034446617800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
           "url": "https://wallstreetcn.com/livenews/3119056",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
-          "url": "https://flash.jin10.com/detail/20260613034424534800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：对德黑兰而言，处置高浓缩铀库存的唯一优选方案是将相关材料降纯稀释。",
-          "url": "https://flash.jin10.com/detail/20260613034201146800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
-          "url": "https://flash.jin10.com/detail/20260613033925939800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊朗被冻结资金将被释放。",
-          "url": "https://flash.jin10.com/detail/20260613033747065800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：伊朗将确保船只安全通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260613033658913800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
-          "url": "https://flash.jin10.com/detail/20260613033606513800",
-          "source": "金十数据",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -352,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3119085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "伊朗外交部：伊方正在审议谅解备忘录草案",
@@ -599,7 +634,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -609,8 +644,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时34分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -625,16 +660,28 @@
           "time_info": "[01时02分 ~ 05时36分]"
         },
         {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
           "url": "https://wallstreetcn.com/livenews/3119078",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
@@ -642,11 +689,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
@@ -654,11 +702,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
@@ -666,23 +715,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，可转债ETF涨约1.2%，布油基金跌约2.7%",
-          "url": "https://wallstreetcn.com/livenews/3119073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
@@ -692,8 +730,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，可转债ETF涨约1.2%，布油基金跌约2.7%",
+          "url": "https://wallstreetcn.com/livenews/3119073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "周五（6月12日），美股行业ETF多数收涨，全球航空业ETF涨1.93%，半导体ETF、区域银行ETF、银行业ETF、金融业ETF、公用事业ETF至多涨1.72%，科技行业ETF、能源业ETF、全球科技股指数ETF至多涨0.87%，网络股指数ETF跌0.26%。",
@@ -701,11 +752,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
@@ -715,8 +767,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "美股收盘，SpaceX上市首日收涨19%",
@@ -726,8 +778,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "据《华尔街日报》援引消息人士报道称，为向SpaceX致敬，纽约时代广场的水晶球将在美股收盘时升起。",
@@ -739,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股盘中）",
@@ -791,17 +854,6 @@
           "time_info": "[01时02分 ~ 03时41分]"
         },
         {
-          "title": "市场消息：美国法官驳回特朗普政府提出的请求，不同意暂缓执行肯尼迪中心案件中的永久禁令。",
-          "url": "https://flash.jin10.com/detail/20260613005817795800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
           "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
           "source": "凤凰网",
@@ -809,8 +861,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时34分]"
         },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -821,8 +873,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 06时34分]"
+        },
+        {
+          "title": "市场消息：美国法官驳回特朗普政府提出的请求，不同意暂缓执行肯尼迪中心案件中的永久禁令。",
+          "url": "https://flash.jin10.com/detail/20260613005817795800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "据Axios记者：特朗普称，他仍然认为与伊朗达成的协议有可能在本周末或下周一签署。",
@@ -854,8 +917,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "据CNN记者：知情人士透露，美国联合参谋部主席凯恩上月底秘密前往位于佛罗里达州的美国中央司令部总部，当面听取有关美军派遣地面部队进入伊朗、强行夺取高浓缩铀计划的简报。凯恩随后就此类行动方案向特朗普进行了汇报。",
@@ -924,11 +987,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时34分]"
         },
         {
           "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
@@ -971,11 +1035,29 @@
           "ranks": [
             8,
             29,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 05时36分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 06时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2/10年期美债收益率周五涨约2个基点，本周两年期实际收益率涨超11个基点",
+          "url": "https://wallstreetcn.com/livenews/3119088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     }
