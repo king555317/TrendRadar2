@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T21:35:27.602274+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-06-14T22:49:25.436929+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 93,
       "titles": [
         {
           "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
@@ -23,6 +23,29 @@
           "time_info": "[04时31分 ~ 19时47分]"
         },
         {
+          "title": "美被曝同意伊朗稀释浓缩铀库存",
+          "url": "https://wallstreetcn.com/articles/3774614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时02分 ~ 22时49分]"
+        },
+        {
+          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
+          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时02分 ~ 22时49分]"
+        },
+        {
           "title": "伊朗宣布7月为哈梅内伊举行葬礼，预计有超1500万人参加",
           "url": "https://m.thepaper.cn/newsDetail_forward_33375256",
           "source": "澎湃新闻",
@@ -36,15 +59,16 @@
           "time_info": "[17时08分 ~ 21时35分]"
         },
         {
-          "title": "美被曝同意伊朗稀释浓缩铀库存",
-          "url": "https://wallstreetcn.com/articles/3774614",
-          "source": "华尔街见闻",
+          "title": "伊朗披露美伊谈判备忘录细节",
+          "url": "https://news.ifeng.com/c/8txGeQ5OLJm",
+          "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时02分 ~ 21时35分]"
+          "time_info": "[19时46分 ~ 22时49分]"
         },
         {
           "title": "伊朗民众集会反对达成协议，“改革派等于投降派”",
@@ -106,28 +130,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时33分 ~ 19时02分]"
-        },
-        {
-          "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
-          "url": "https://news.ifeng.com/c/8twsuCs6tU9",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时02分 ~ 21时35分]"
-        },
-        {
-          "title": "伊朗披露美伊谈判备忘录细节",
-          "url": "https://news.ifeng.com/c/8txGeQ5OLJm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时46分 ~ 21时35分]"
         },
         {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
@@ -402,15 +404,26 @@
           "time_info": "[17时09分 ~ 21时35分]"
         },
         {
-          "title": "伊朗革命卫队将领：已做好准备应对任何敌对行动",
-          "url": "https://wallstreetcn.com/livenews/3119241",
+          "title": "美国国防部长赫格塞思： 伊朗核材料将被销毁。",
+          "url": "https://flash.jin10.com/detail/20260614224155092800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。",
+          "url": "https://wallstreetcn.com/livenews/3119255",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时49分"
         },
         {
           "title": "卡塔尔代表团与伊朗官员举行会谈",
@@ -428,48 +441,48 @@
           "time_info": "[17时09分 ~ 21时35分]"
         },
         {
-          "title": "伊朗武装部队说以色列袭击黎巴嫩“不会没有回应”",
-          "url": "https://wallstreetcn.com/livenews/3119240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "世界杯首战前夕，伊朗国足代表团多人再遭美拒签",
-          "url": "https://wallstreetcn.com/livenews/3119239",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国防部长赫格塞思：文件显示，伊朗永远都不会拥有、寻求、购买核武器。",
+          "url": "https://flash.jin10.com/detail/20260614224111744800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时49分"
         },
         {
-          "title": "伊朗称将就贝鲁特遭袭报复以色列",
-          "url": "https://wallstreetcn.com/livenews/3119237",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗革命卫队将领：已做好准备应对任何敌对行动",
+          "url": "https://news.ifeng.com/c/8txQQxzoWIX",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时49分"
         },
         {
-          "title": "伊朗：以色列袭击黎巴嫩使得伊美对话“变得不可能”",
-          "url": "https://wallstreetcn.com/livenews/3119236",
+          "title": "美国国防部长赫格塞思：美国有望在（当地时间）周日签署伊朗核协议。",
+          "url": "https://flash.jin10.com/detail/20260614223509479800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "伊朗方面称，与美国的协议尚未最终敲定。 伊朗通过卡塔尔团队向美国传达其希望达成的条款。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3119251",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时49分"
         },
         {
           "title": "伊朗驻墨西哥大使表示，伊朗人民期待美国的善意和相互尊重。",
@@ -519,11 +532,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时49分]"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）援引消息人士报道，伊朗的干预导致以黎停火机会受阻。",
@@ -589,6 +603,18 @@
           "time_info": "[15时39分 ~ 17时09分]"
         },
         {
+          "title": "伊朗革命卫队将领：已做好准备应对任何敌对行动",
+          "url": "https://wallstreetcn.com/livenews/3119241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时49分]"
+        },
+        {
           "title": "据沙特阿拉比亚电视台：以色列军方准备应对黎巴嫩南部可能停止地面行动的情况。以军不会根据与伊朗的协议从安全区撤出。",
           "url": "https://flash.jin10.com/detail/20260614013106836800",
           "source": "金十数据",
@@ -612,6 +638,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 13时38分]"
+        },
+        {
+          "title": "伊朗武装部队说以色列袭击黎巴嫩“不会没有回应”",
+          "url": "https://wallstreetcn.com/livenews/3119240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时49分]"
+        },
+        {
+          "title": "世界杯首战前夕，伊朗国足代表团多人再遭美拒签",
+          "url": "https://wallstreetcn.com/livenews/3119239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时49分]"
         },
         {
           "title": "市场消息：以色列安全内阁将于周日召开会议，审议美国与伊朗达成的协议。",
@@ -648,6 +698,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时43分 ~ 21时35分]"
+        },
+        {
+          "title": "伊朗称将就贝鲁特遭袭报复以色列",
+          "url": "https://wallstreetcn.com/livenews/3119237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时49分]"
+        },
+        {
+          "title": "伊朗：以色列袭击黎巴嫩使得伊美对话“变得不可能”",
+          "url": "https://wallstreetcn.com/livenews/3119236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时49分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗将必须对在霍尔木兹海峡提供的服务收取费用。",
@@ -746,6 +820,18 @@
           "time_info": "[11时13分 ~ 13时38分]"
         },
         {
+          "title": "伊朗男足佩戴徽章纪念168名遇难儿童",
+          "url": "https://wallstreetcn.com/livenews/3119238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时49分]"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗为保障霍尔木兹海峡安全通航所采取的举措，符合维护国家安全与国际社会共同利益的原则。",
           "url": "https://flash.jin10.com/detail/20260613234732044800",
           "source": "金十数据",
@@ -812,7 +898,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -823,18 +909,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "伊朗男足佩戴徽章纪念168名遇难儿童",
-          "url": "https://wallstreetcn.com/livenews/3119238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -845,9 +920,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美国驻联合国大使Waltz声称：“有信心”在周日达成伊朗协议。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3119245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "知情人士：伊朗尚未就谅解备忘录作出最终决定",
@@ -872,6 +958,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：接近谈判的消息人士称，伊朗正在通过卡塔尔团队向美国传达其希望的条款，目前尚未达成任何最终协议。",
+          "url": "https://flash.jin10.com/detail/20260614221134543800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "伊朗官员称以色列政权为“疯狗”，必须加以控制",
           "url": "https://flash.jin10.com/detail/20260614192959541800",
           "source": "金十数据",
@@ -881,6 +978,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：接近谈判的消息人士称，在以色列空袭黎巴嫩贝鲁特南郊之前，伊朗正通过卡塔尔调解人向美国传达信息。",
+          "url": "https://flash.jin10.com/detail/20260614221053716800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "卡塔尔代表团与伊朗官员举行会谈",
@@ -900,7 +1008,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -922,7 +1030,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -944,7 +1052,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -966,7 +1074,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -977,7 +1085,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -988,7 +1096,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -999,9 +1107,42 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "以色列斥责伊朗“撒谎”：真主党无端开火，以方绝不姑息",
+          "url": "https://flash.jin10.com/detail/20260614214046283800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "据ABC新闻：美国驻联合国大使沃尔茨称“有信心”在周日达成伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20260614213903055800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "伊朗外长：孤立或忽视伊朗无法塑造真正的地区安全",
+          "url": "https://flash.jin10.com/detail/20260614213705193800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美国高级政府官员：该协议要求伊朗将霍尔木兹海峡开放作为基本条件，且有可能在不收取任何费用的情况下开放。",
@@ -1032,19 +1173,6 @@
       "match_count": 31,
       "titles": [
         {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时53分 ~ 21时35分]"
-        },
-        {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
           "url": "https://wallstreetcn.com/articles/3774599",
           "source": "华尔街见闻",
@@ -1056,8 +1184,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时12分 ~ 21时35分]"
+          "appearance_count": 14,
+          "time_info": "[11时12分 ~ 22时49分]"
+        },
+        {
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[08时53分 ~ 22时49分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -1069,6 +1211,21 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时33分 ~ 13时38分]"
+        },
+        {
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时37分 ~ 22时49分]"
         },
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
@@ -1086,20 +1243,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时33分 ~ 17时09分]"
-        },
-        {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时37分 ~ 21时35分]"
         },
         {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -1157,8 +1300,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时08分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[17时08分 ~ 22时49分]"
         },
         {
           "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
@@ -1383,6 +1526,18 @@
           "time_info": "[00时33分 ~ 01时32分]"
         },
         {
+          "title": "特朗普称美伊协议计划14日签署",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时49分]"
+        },
+        {
           "title": "特朗普称14日签署美伊协议 伊朗否认",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B014%E6%97%A5%E7%AD%BE%E7%BD%B2%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE+%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4",
           "source": "百度热搜",
@@ -1416,17 +1571,6 @@
           "time_info": "19时02分"
         },
         {
-          "title": "特朗普称美伊协议计划14日签署",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376146",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
           "title": "特朗普称美伊协议14日签署",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE14%E6%97%A5%E7%AD%BE%E7%BD%B2%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -1441,7 +1585,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价跌至900元关口 大妈又来抄底了",
@@ -1454,8 +1598,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时39分 ~ 21时35分]"
+          "appearance_count": 10,
+          "time_info": "[15时39分 ~ 22时49分]"
         },
         {
           "title": "金价跌至900元关口 大妈又来抄底了",
@@ -1490,6 +1634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "金价大跌 小克重金条几乎卖光",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E5%B0%8F%E5%85%8B%E9%87%8D%E9%87%91%E6%9D%A1%E5%87%A0%E4%B9%8E%E5%8D%96%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
@@ -1508,8 +1663,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时53分 ~ 21时35分]"
+          "appearance_count": 16,
+          "time_info": "[08时53分 ~ 22时49分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -1595,11 +1750,12 @@
           "url": "https://wallstreetcn.com/articles/3774610",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时49分]"
         }
       ]
     }
