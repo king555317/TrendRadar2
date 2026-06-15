@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T11:14:07.509463+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-06-15T13:51:38.825336+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 109,
+      "match_count": 114,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 11时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 13时51分]"
         },
         {
           "title": "伊朗披露美伊谈判备忘录细节",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 11时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 13时51分]"
         },
         {
           "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
@@ -53,6 +53,18 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
+          "title": "伊朗军方称羞辱了美国和以色列",
+          "url": "https://news.ifeng.com/c/8tyC3sQn3RO",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 13时51分]"
+        },
+        {
           "title": "伊朗男足佩戴徽章纪念168名遇难儿童",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%B7%E8%B6%B3%E4%BD%A9%E6%88%B4%E5%BE%BD%E7%AB%A0%E7%BA%AA%E5%BF%B5168%E5%90%8D%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5",
           "source": "百度热搜",
@@ -62,18 +74,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时31分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗军方称羞辱了美国和以色列",
-          "url": "https://news.ifeng.com/c/8tyC3sQn3RO",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 11时14分]"
         },
         {
           "title": "伊朗消息人士称美伊将举行视频会议并签署协议，可能达成哪些共识？选择视频会议的形式有什么考虑？",
@@ -154,6 +154,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：我近日与伊朗及海湾国家的对应官员进行了交谈，今天欧盟外长们将讨论欧盟如何密切参与下一阶段。",
+          "url": "https://flash.jin10.com/detail/20260615134835610800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。 伊朗核材料将被销毁。 “文件”显示，伊朗永远都不会拥有、寻求、购买核武器。 “自由计划”（project Freedom）从未停止。 可能会在30天内清除霍尔木兹海峡的水雷。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3119255",
           "source": "华尔街见闻-快讯",
@@ -167,6 +178,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时31分]"
+        },
+        {
+          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 13时51分]"
         },
         {
           "title": "伊朗方面称，与美国的协议尚未最终敲定。 伊朗通过卡塔尔团队向美国传达其希望达成的条款。（法尔斯通讯社）",
@@ -193,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：美伊达成协议标志着一个潜在的突破。它将为就伊朗核计划及其他关键问题开展更深层次的谈判提供亟需的空间。一旦实施，该协议还应缓解全球能源危机。",
+          "url": "https://flash.jin10.com/detail/20260615134830147800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "伊朗副外长：将在60天的谈判中讨论核问题。",
@@ -224,18 +258,6 @@
             7,
             24,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 11时14分]"
-        },
-        {
-          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -433,6 +455,30 @@
           "time_info": "[00时34分 ~ 03时34分]"
         },
         {
+          "title": "美国须提出3000亿美元伊朗重建计划",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A1%BB%E6%8F%90%E5%87%BA3000%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%8A%E6%9C%97%E9%87%8D%E5%BB%BA%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时51分]"
+        },
+        {
+          "title": "伊朗确认伊美达成谅解备忘录",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E4%BC%8A%E7%BE%8E%E8%BE%BE%E6%88%90%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时51分]"
+        },
+        {
           "title": "英法德意四国称将解除对伊朗制裁",
           "url": "https://www.toutiao.com/trending/7651404431217016895/",
           "source": "今日头条",
@@ -443,17 +489,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时55分 ~ 09时54分]"
-        },
-        {
-          "title": "美国须提出3000亿美元伊朗重建计划",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A1%BB%E6%8F%90%E5%87%BA3000%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%8A%E6%9C%97%E9%87%8D%E5%BB%BA%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
         },
         {
           "title": "据以色列第12频道报道，美国正向伊朗提供经济利益，以换取对方不对以色列在贝鲁特的袭击作出回应。",
@@ -550,17 +585,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时32分]"
-        },
-        {
-          "title": "伊朗确认伊美达成谅解备忘录",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E4%BC%8A%E7%BE%8E%E8%BE%BE%E6%88%90%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
         },
         {
           "title": "伊朗最高领袖顾问就以色列袭击贝鲁特南郊在社交媒体上发帖：“我们将给袭击者一个令其后悔终身的教训。”",
@@ -1046,6 +1070,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "伊朗总统：我们致力于为当前国家局势寻找突破口。",
           "url": "https://flash.jin10.com/detail/20260614234927054800",
           "source": "金十数据",
@@ -1088,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "伊朗国家安全委员会发言人雷扎伊：团结与共识是伊朗应对挑战最重要的资本。伊朗已做好充分准备应对任何威胁，武装部队正在日夜提升国家防御能力。",
+          "url": "https://flash.jin10.com/detail/20260615132444323800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "日本首相高市早苗：欢迎美伊和平协议，这是重要一步。 希望霍尔木兹海峡通行自由、安全。 希望就伊朗核问题达成最终协议。",
@@ -1233,6 +1279,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美防长：伊朗履行承诺后才会解冻资金",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%98%B2%E9%95%BF%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%B1%A5%E8%A1%8C%E6%89%BF%E8%AF%BA%E5%90%8E%E6%89%8D%E4%BC%9A%E8%A7%A3%E5%86%BB%E8%B5%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "伊朗副外长：伊朗不报复以色列袭击贝鲁特南郊的条件之一是以色列撤出黎巴嫩南部。",
           "url": "https://flash.jin10.com/detail/20260615063645314800",
           "source": "金十数据",
@@ -1280,7 +1337,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -1329,6 +1386,19 @@
           "time_info": "[00时34分 ~ 08时55分]"
         },
         {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 13时51分]"
+        },
+        {
           "title": "美伊谈判丨特朗普：和平协议达成，开放霍尔木兹海峡",
           "url": "https://ishare.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -1355,18 +1425,6 @@
           "time_info": "[01时32分 ~ 06时28分]"
         },
         {
-          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
-          "url": "https://wallstreetcn.com/articles/3774634",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 11时14分]"
-        },
-        {
           "title": "特朗普宣布美伊达成和平协议",
           "url": "https://www.toutiao.com/trending/7651023832815255590/",
           "source": "今日头条",
@@ -1391,6 +1449,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时32分 ~ 06时28分]"
+        },
+        {
+          "title": "80大寿，特朗普被气炸了",
+          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 13时51分]"
         },
         {
           "title": "俄总统助理：特朗普与普京通话，美伊谈判结果将公布",
@@ -1434,15 +1503,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "80大寿，特朗普被气炸了",
-          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
-          "source": "凤凰网",
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 11时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 13时51分]"
         },
         {
           "title": "特朗普称计划立即宣布美伊协议达成",
@@ -1467,6 +1536,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "普京与特朗普通话",
+          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 13时51分]"
+        },
+        {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
           "url": "https://flash.jin10.com/detail/20260615043754149800",
           "source": "金十数据",
@@ -1489,6 +1569,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普就欧洲数字税一事威胁对法国征收100%的葡萄酒关税。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3119465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，霍尔木兹海峡很快将重新开放商业活动！",
           "url": "https://flash.jin10.com/detail/20260615043701037800",
           "source": "金十数据",
@@ -1509,17 +1600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 11时14分]"
         },
         {
           "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
@@ -1558,17 +1638,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时31分]"
-        },
-        {
-          "title": "普京与特朗普通话",
-          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 11时14分]"
         },
         {
           "title": "据以色列第12频道：美国总统特朗普称，我与内塔尼亚胡通话时告诉他：“你到底在干什么？？？”",
@@ -1667,6 +1736,18 @@
           "time_info": "[09时53分 ~ 11时14分]"
         },
         {
+          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
+          "url": "https://www.cls.cn/detail/2399494",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时51分]"
+        },
+        {
           "title": "A股航运板块开盘大涨，招商南油、招商轮船、中远海能竞价涨停，国航远洋涨超10%，宁波海运、宁波远洋、南京港等多股高开，消息上，美国总统特朗普当地时间14日宣布，美国与伊朗达成和平协议，霍尔木兹海峡将“免通行费开放”。",
           "url": "https://wallstreetcn.com/livenews/3119361",
           "source": "华尔街见闻-快讯",
@@ -1713,17 +1794,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
-        },
-        {
-          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
-          "url": "https://www.cls.cn/detail/2399494",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
         },
         {
           "title": "美伊协议文本浮现多个版本 特朗普坚称周日签署",
@@ -1817,6 +1887,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "铁杆票仓松动！特朗普农村支持率暴跌至任期新低",
+          "url": "https://flash.jin10.com/detail/20260615134335484800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "媒体：以袭击黎巴嫩加速特朗普同意解除对伊海上封锁",
           "url": "https://flash.jin10.com/detail/20260615082059131800",
           "source": "金十数据",
@@ -1903,6 +1984,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普对俄罗斯总统普京表示，结束乌克兰战争至关重要，并表示他准备提供帮助。",
@@ -2004,6 +2096,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "以色列政坛“炸锅”！内塔尼亚胡硬刚特朗普：以军不受协议约束，不会从黎撤军",
+          "url": "https://flash.jin10.com/detail/20260615132354431800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "据第12频道援引以方评估，特朗普将很快宣布“给予”伊朗某些东西，以换取对方不对以色列在贝鲁特的袭击作出回应。",
           "url": "https://flash.jin10.com/detail/20260615012828040800",
           "source": "金十数据",
@@ -2013,6 +2116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "特朗普威胁对法国征收葡萄酒税 以回应科技税问题",
+          "url": "https://flash.jin10.com/detail/20260615132219026800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "泽连斯基与特朗普通话",
@@ -2029,8 +2143,20 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时51分]"
+        },
         {
           "title": "央行狂买黄金金价却暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
@@ -2044,15 +2170,15 @@
           "time_info": "[08时55分 ~ 09时54分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "金价跌破900老板5个手机都忙不过来",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4900%E8%80%81%E6%9D%BF5%E4%B8%AA%E6%89%8B%E6%9C%BA%E9%83%BD%E5%BF%99%E4%B8%8D%E8%BF%87%E6%9D%A5",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "金十图示：2026年06月15日（周一）上海金早盘价为941.45元/克，较国际金价(940.92元/克)，高0.53元/克",
@@ -2061,7 +2187,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -2087,11 +2213,12 @@
           "url": "https://wallstreetcn.com/articles/3774610",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 11时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 13时51分]"
         }
       ]
     },
@@ -2125,8 +2252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 11时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时55分 ~ 13时51分]"
         }
       ]
     },
