@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-16T09:01:25.689457+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-06-16T10:02:27.162317+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "录音显示美军仍在执行对伊朗海上封锁",
           "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时02分]"
         },
         {
           "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
@@ -29,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时02分]"
         },
         {
           "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
@@ -42,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时02分]"
         },
         {
           "title": "伊朗媒体披露伊美谅解备忘录14个条款",
@@ -65,11 +66,12 @@
           "ranks": [
             7,
             12,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时02分]"
         },
         {
           "title": "伊方披露谅解备忘录草案内容，包括美豁免石油制裁、提供 3000 亿美元助伊朗重建等，怎样解读这一草案？",
@@ -156,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "世界杯：伊朗vs新西兰",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗政权曾接近获得核武器的边缘，而我们成功摧毁了其导弹和核计划。",
@@ -282,6 +295,18 @@
           "time_info": "[00时39分 ~ 06时43分]"
         },
         {
+          "title": "伊朗vs新西兰",
+          "url": "https://www.douyin.com/hot/2535961",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 10时02分]"
+        },
+        {
           "title": "现货黄金涨超2%，重拾4300美元关口，美国和伊朗达成协议以恢复霍尔木兹海峡通行",
           "url": "https://wallstreetcn.com/livenews/3119877",
           "source": "华尔街见闻-快讯",
@@ -305,17 +330,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 04时13分]"
-        },
-        {
-          "title": "伊朗vs新西兰",
-          "url": "https://www.douyin.com/hot/2535961",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时01分]"
         },
         {
           "title": "多艘伊朗船只顺利通过美方海上封锁区",
@@ -412,6 +426,17 @@
           "time_info": "[04时12分 ~ 04时13分]"
         },
         {
+          "title": "万斯：伊朗可能获得3000亿重建资金，海湾国家出钱",
+          "url": "https://news.ifeng.com/c/8tzCGDrMLoe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：最终，我们实现了在伊朗设定的各项目标。",
           "url": "https://flash.jin10.com/detail/20260616021735095800",
           "source": "金十数据",
@@ -421,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "媒体陪看世界杯：伊朗VS新西兰",
+          "url": "https://www.toutiao.com/trending/7651793092747513353/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "以色列总理内塔尼亚胡：没有人能断言伊朗政权何时会垮台，但在类似情况下，其他专制政权此前也曾倒台。",
@@ -489,6 +525,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "伊朗vs新西兰",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "伊朗外长与黎巴嫩官员通话 通报伊美谅解备忘录细节",
           "url": "https://flash.jin10.com/detail/20260616022953523800",
           "source": "金十数据",
@@ -542,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗永远也别想从美国纳税人那里得到一分钱。 如果伊朗遵守规定，会邀请其他国家投资伊朗。 免收霍尔木兹海峡通行费已明确写入协议中。",
+          "url": "https://wallstreetcn.com/livenews/3119943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "美国高级官员：制裁减免不与任何特定行为挂钩，而是取决于伊朗采取适当行动。",
@@ -745,7 +803,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：将允许伊朗进行低水平铀浓缩",
@@ -765,11 +823,12 @@
           "url": "https://news.ifeng.com/c/8tytt5KRDcq",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时02分]"
         },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -910,6 +969,19 @@
           "time_info": "[02时36分 ~ 04时13分]"
         },
         {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 10时02分]"
+        },
+        {
           "title": "美国总统特朗普的官员们周一会见了来自Anthropic的人员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3119898",
           "source": "华尔街见闻-快讯",
@@ -921,18 +993,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时43分 ~ 09时01分]"
-        },
-        {
-          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 09时01分]"
         },
         {
           "title": "谁为特朗普白宫格斗赛买单",
@@ -1105,6 +1165,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260616000928379800",
           "source": "金十数据",
@@ -1133,7 +1204,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -1210,7 +1281,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -1232,7 +1303,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -1243,7 +1314,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
@@ -1274,8 +1345,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 09时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时02分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -1286,8 +1357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 09时01分]"
+          "appearance_count": 5,
+          "time_info": "[06时43分 ~ 10时02分]"
         },
         {
           "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
@@ -1298,8 +1369,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 10时02分]"
         },
         {
           "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
@@ -1307,11 +1378,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 10时02分]"
         },
         {
           "title": "美伊协议落地，拉美股汇走势分化",
@@ -1460,8 +1532,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 09时01分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 10时02分]"
         },
         {
           "title": "两年期美债收益率跌幅收窄至2.5个基点",
