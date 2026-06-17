@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-06-17T09:53:59.286928+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-06-17T11:12:27.564478+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "翻脸不认球,美国驱赶伊朗队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 09时53分]"
-        },
         {
           "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
           "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
@@ -31,8 +18,36 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 09时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 11时12分]"
+        },
+        {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 11时12分]"
+        },
+        {
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 11时12分]"
         },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
@@ -60,30 +75,18 @@
           "time_info": "[01时45分 ~ 08时54分]"
         },
         {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 09时53分]"
-        },
-        {
           "title": "两度扳平!伊朗2-2新西兰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
           "source": "贴吧",
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 09时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 11时12分]"
         },
         {
           "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
@@ -93,11 +96,12 @@
             17,
             16,
             14,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 09时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 11时12分]"
         },
         {
           "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
@@ -107,22 +111,24 @@
             20,
             18,
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时16分 ~ 09时53分]"
+          "appearance_count": 8,
+          "time_info": "[03时16分 ~ 11时12分]"
         },
         {
           "title": "伊朗副外长披露美伊谅解备忘录细节",
           "url": "https://news.ifeng.com/c/8u1TiMA0imn",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 09时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时12分]"
         },
         {
           "title": "伊朗队突然被勒令离开美国",
@@ -138,6 +144,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时45分 ~ 07时33分]"
+        },
+        {
+          "title": "“伊朗永远不会得到美国纳税人的一分钱”",
+          "url": "https://news.ifeng.com/c/8u1ZY3ZubFf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "海事情报公司称伊朗近两月来首次出口原油",
@@ -187,6 +204,17 @@
           "time_info": "[01时45分 ~ 03时17分]"
         },
         {
+          "title": "国际足联主席探望伊朗球员：我知道你们经历了什么",
+          "url": "https://news.ifeng.com/c/8u1bgpKuIuK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
           "title": "美国情报部门：伊朗仍有能力再次关闭霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260617005924233800",
           "source": "金十数据",
@@ -196,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "据船舶追踪网站Tanker Trackers：第三艘伊朗国家油轮公司（NITC）油轮离开封锁线，船上装载了100万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260617103733651800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "沙特外交大臣：沙特阿拉伯欢迎美国和伊朗之间的协议，并希望该协议为恢复稳定铺平道路。",
@@ -380,9 +419,269 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "特朗普：感谢中俄帮忙",
+          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 09时53分]"
+        },
+        {
+          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
+          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 09时53分]"
+        },
+        {
+          "title": "特朗普和马克龙为何为一瓶红酒较劲",
+          "url": "https://www.toutiao.com/trending/7651982793936735807/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 11时12分]"
+        },
+        {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://flash.jin10.com/detail/20260617072322613800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "特朗普：美方或恢复对俄石油制裁",
+          "url": "https://www.toutiao.com/trending/7652117439001477139/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普称美伊协议已签署",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 11时12分]"
+        },
+        {
+          "title": "特朗普政府再次推动转移教育部职能",
+          "url": "https://wallstreetcn.com/livenews/3120550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 08时54分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时12分]"
+        },
+        {
+          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
+          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时12分]"
+        },
+        {
+          "title": "特朗普称美伊协议谈判进入第二阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33390393",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时12分]"
+        },
+        {
+          "title": "特朗普称没有美国以色列早不存在了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%97%A9%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时33分]"
+        },
+        {
+          "title": "沃什的“首秀”尴尬了，特朗普选他来降息，如今美联储却在谈加息",
+          "url": "https://flash.jin10.com/detail/20260617104212999800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
+          "url": "https://wallstreetcn.com/livenews/3120506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
+          "url": "https://wallstreetcn.com/livenews/3120438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "欧媒为何乐此不疲用TACO嘲讽特朗普",
+          "url": "https://www.toutiao.com/trending/7651429118063673407/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
+          "url": "https://wallstreetcn.com/livenews/3120427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "德国总理默茨：我告诉美国总统特朗普，这是一个表明军事力量可以促成外交解决的例子，这可以作为乌克兰问题的范例。",
+          "url": "https://flash.jin10.com/detail/20260617004222610800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "【特朗普：美方可能近期恢复对俄罗斯石油制裁】美国总统特朗普16日称，美国可能很快重新实施对俄罗斯石油的制裁。特朗普当天在法国埃维昂莱班出席七国集团峰会期间对媒体称：“（恢复制裁）很快就能落实，因为目前石油已在正常流通……我们此前之所以暂缓制裁，显然是不希望影响石油供应。目前条件已经具备，可以尽快采取行动。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3120426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "莫迪与特朗普将在G7峰会上讨论双边贸易协定。（印度《经济时报》）",
+          "url": "https://wallstreetcn.com/livenews/3120644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "以媒：应特朗普要求，以色列在“最后一刻”取消8日大规模空袭伊朗的计划",
+          "url": "https://wallstreetcn.com/livenews/3120422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     },
@@ -411,8 +710,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 09时53分]"
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 11时12分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -424,8 +723,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 09时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时45分 ~ 11时12分]"
+        },
+        {
+          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
+          "url": "https://www.cls.cn/detail/2401731",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 11时12分]"
         },
         {
           "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
@@ -439,18 +750,6 @@
           "time_info": "[01时45分 ~ 05时06分]"
         },
         {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时53分]"
-        },
-        {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
           "url": "https://www.cls.cn/detail/2401752",
           "source": "财联社热门",
@@ -460,8 +759,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 11时12分]"
         },
         {
           "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
@@ -540,7 +839,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -613,233 +912,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "特朗普：感谢中俄帮忙",
-          "url": "https://news.ifeng.com/c/8tzsMW2n662",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 09时53分]"
-        },
-        {
-          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
-          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时45分 ~ 09时53分]"
-        },
-        {
-          "title": "特朗普和马克龙为何为一瓶红酒较劲",
-          "url": "https://www.toutiao.com/trending/7651982793936735807/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://flash.jin10.com/detail/20260617072322613800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "特朗普：美方或恢复对俄石油制裁",
-          "url": "https://www.toutiao.com/trending/7652117439001477139/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "特朗普称美伊协议已签署",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://wallstreetcn.com/livenews/3120550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 08时54分]"
-        },
-        {
-          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
-          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 09时53分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 09时53分]"
-        },
-        {
-          "title": "特朗普称美伊协议谈判进入第二阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33390393",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 09时53分]"
-        },
-        {
-          "title": "特朗普称没有美国以色列早不存在了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%97%A9%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时33分]"
-        },
-        {
-          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
-          "url": "https://wallstreetcn.com/livenews/3120506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
-          "url": "https://wallstreetcn.com/livenews/3120438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
-          "url": "https://wallstreetcn.com/livenews/3120427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "德国总理默茨：我告诉美国总统特朗普，这是一个表明军事力量可以促成外交解决的例子，这可以作为乌克兰问题的范例。",
-          "url": "https://flash.jin10.com/detail/20260617004222610800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "【特朗普：美方可能近期恢复对俄罗斯石油制裁】美国总统特朗普16日称，美国可能很快重新实施对俄罗斯石油的制裁。特朗普当天在法国埃维昂莱班出席七国集团峰会期间对媒体称：“（恢复制裁）很快就能落实，因为目前石油已在正常流通……我们此前之所以暂缓制裁，显然是不希望影响石油供应。目前条件已经具备，可以尽快采取行动。”（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3120426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "以媒：应特朗普要求，以色列在“最后一刻”取消8日大规模空袭伊朗的计划",
-          "url": "https://wallstreetcn.com/livenews/3120422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -887,22 +961,35 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 09时53分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时12分]"
         },
         {
           "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2050261467174101567",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时53分 ~ 11时12分]"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时53分"
+          "time_info": "11时12分"
         }
       ]
     },
@@ -928,7 +1015,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
