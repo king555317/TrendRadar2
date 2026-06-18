@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T08:55:06.785418+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-06-18T09:54:38.715326+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 09时54分]"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
@@ -36,11 +36,12 @@
           "ranks": [
             13,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 09时54分]"
         },
         {
           "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
@@ -52,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 09时54分]"
         },
         {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
@@ -85,8 +86,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时54分]"
         },
         {
           "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
@@ -228,11 +229,12 @@
           "url": "https://wallstreetcn.com/articles/3774946",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时54分]"
         },
         {
           "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
@@ -242,8 +244,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时54分]"
         },
         {
           "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
@@ -324,6 +326,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "特朗普在G7记者会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "美国总统特朗普：（关于黎巴嫩和平）我们将与以色列合作，完成这项工作。",
           "url": "https://flash.jin10.com/detail/20260618004953411800",
           "source": "金十数据",
@@ -333,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "特朗普G7峰会迟到，还宣布“我是老大”",
+          "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "美国总统特朗普：由于伊朗协议，对以色列拥有筹码。",
@@ -550,7 +574,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -720,6 +744,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "巴基斯坦总理：特朗普总统坚定的外交承诺和对和平解决方案的偏好帮助结束了冲突。",
+          "url": "https://flash.jin10.com/detail/20260618090843906800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "美国总统特朗普重申与伊朗的协议将让霍尔木兹海峡重新开放。",
           "url": "https://wallstreetcn.com/livenews/3121135",
           "source": "华尔街见闻-快讯",
@@ -745,7 +780,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -778,11 +813,12 @@
           "ranks": [
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 09时54分]"
         },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
@@ -791,11 +827,12 @@
           "ranks": [
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 09时54分]"
         },
         {
           "title": "两度扳平!伊朗2-2新西兰",
@@ -804,11 +841,12 @@
           "ranks": [
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 09时54分]"
         },
         {
           "title": "美国公布与伊朗达成的谅解备忘录正式文本",
@@ -818,8 +856,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 09时54分]"
         },
         {
           "title": "勒令伊朗队离境 美方辩称本应如此",
@@ -829,11 +867,12 @@
             15,
             9,
             18,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 07时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 09时54分]"
         },
         {
           "title": "伊朗方面披露美伊谅解备忘录文本内容",
@@ -843,8 +882,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 09时54分]"
         },
         {
           "title": "伊朗学者：霍尔木兹海峡不会再回到从前",
@@ -854,8 +893,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时54分]"
         },
         {
           "title": "据AXIOS：两名美国官员表示，美国和伊朗已于周三签署了结束战争的谅解备忘录，现已生效。",
@@ -935,6 +974,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：伊朗在战场上的胜利得到了敌人和朋友的共同承认。",
+          "url": "https://flash.jin10.com/detail/20260618092450288800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社：商船通行将立即启动，并在30天内恢复正常运营，同时需考虑排雷和消除技术障碍的需要。",
           "url": "https://flash.jin10.com/detail/20260618032515818800",
           "source": "金十数据",
@@ -968,6 +1018,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：将伊朗的军事成果转化为符合国家利益的持久解决方案至关重要。",
+          "url": "https://flash.jin10.com/detail/20260618092341224800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社：美国承诺与地区伙伴合作，制定一项双方同意的伊朗经济重建计划，并提供至少3000亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260618032355540800",
           "source": "金十数据",
@@ -988,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗的“战场胜利”为谈判提供了背景支撑。",
+          "url": "https://flash.jin10.com/detail/20260618092331201800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们在谅解备忘录中接受的每一项承诺都是基于“行动换行动”原则。如果美国未能履行其承诺，我们就不可能履行承诺。",
@@ -1075,6 +1147,17 @@
           "time_info": "[06时36分 ~ 07时44分]"
         },
         {
+          "title": "伊朗披露美伊谅解备忘录文本内容",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E6%96%87%E6%9C%AC%E5%86%85%E5%AE%B9",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时54分]"
+        },
+        {
           "title": "据伊朗国家媒体报道，伊朗议会议长卡利巴夫表示，霍尔木兹海峡不会恢复到战前状态，但这并不意味着会违反国际法或海上航行规则。",
           "url": "https://flash.jin10.com/detail/20260618041916074800",
           "source": "金十数据",
@@ -1099,6 +1182,18 @@
           "time_info": "[06时36分 ~ 07时44分]"
         },
         {
+          "title": "巴基斯坦总理说伊朗将立即重开霍尔木兹海峡，美国将立即解除海上封锁。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3121318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时54分]"
+        },
+        {
           "title": "伊朗国家电视台确认伊美总统已线上签署MoU，已经生效",
           "url": "https://wallstreetcn.com/livenews/3121269",
           "source": "华尔街见闻-快讯",
@@ -1111,15 +1206,16 @@
           "time_info": "[06时36分 ~ 07时44分]"
         },
         {
-          "title": "伊朗披露美伊谅解备忘录文本内容",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E6%96%87%E6%9C%AC%E5%86%85%E5%AE%B9",
-          "source": "百度热搜",
+          "title": "伊朗外交部：伊美本周五日内瓦会谈待定",
+          "url": "https://wallstreetcn.com/livenews/3121314",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "time_info": "[08时55分 ~ 09时54分]"
         },
         {
           "title": "伊朗方面披露美伊谅解备忘录文本内容",
@@ -1156,6 +1252,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：伊朗正以“强势”姿态与美国接触。",
+          "url": "https://flash.jin10.com/detail/20260618092321004800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "伊朗外交部发言人：将立即开始谈判，以建立执行该协议的机制。",
           "url": "https://flash.jin10.com/detail/20260618060604762800",
           "source": "金十数据",
@@ -1173,7 +1280,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1200,15 +1307,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "巴基斯坦总理说伊朗将立即重开霍尔木兹海峡，美国将立即解除海上封锁。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3121318",
+          "title": "伊朗总统签署伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3121335",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "09时54分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：美国在签署备忘录后将立即开始解除对伊朗的海上封锁，并在30天内完全解除封锁。在此期间，船舶交通将恢复到战前水平。",
@@ -1220,17 +1327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "伊朗外交部：伊美本周五日内瓦会谈待定",
-          "url": "https://wallstreetcn.com/livenews/3121314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
         },
         {
           "title": "伊朗外交部：与阿曼基本敲定霍尔木兹海峡管理机制",
@@ -1365,6 +1461,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "巴总理：伊朗将立即重开霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7652523262680763954/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗核材料不会被运送出境。",
           "url": "https://flash.jin10.com/detail/20260618055250777800",
           "source": "金十数据",
@@ -1449,6 +1556,18 @@
           "time_info": "[01时06分 ~ 08时55分]"
         },
         {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时40分 ~ 09时54分]"
+        },
+        {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
@@ -1461,16 +1580,30 @@
           "time_info": "[01时06分 ~ 06时36分]"
         },
         {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            1
+            5,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时40分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 09时54分]"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 09时54分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
@@ -1483,30 +1616,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 05时06分]"
-        },
-        {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 08时55分]"
-        },
-        {
-          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
-          "url": "https://www.cls.cn/detail/2403010",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 08时55分]"
         },
         {
           "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
@@ -1561,6 +1670,29 @@
           "time_info": "[05时06分 ~ 06时36分]"
         },
         {
+          "title": "美伊签了！美股期货直线拉升",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%8A%E7%AD%BE%E4%BA%86%EF%BC%81%E7%BE%8E%E8%82%A1%E6%9C%9F%E8%B4%A7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时54分]"
+        },
+        {
+          "title": "美联储称年内100%加息 美股跳水",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E7%A7%B0%E5%B9%B4%E5%86%85100%25%E5%8A%A0%E6%81%AF+%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时54分]"
+        },
+        {
           "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
           "url": "https://wallstreetcn.com/livenews/3121260",
           "source": "华尔街见闻-快讯",
@@ -1597,6 +1729,18 @@
           "time_info": "[05时06分 ~ 05时41分]"
         },
         {
+          "title": "日韩股市齐创新高，美股期货扩大涨幅",
+          "url": "https://wallstreetcn.com/livenews/3121315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时54分]"
+        },
+        {
           "title": "美股收盘：沃什美联储首秀 三大股指集体收跌",
           "url": "https://flash.jin10.com/detail/20260618040054736800",
           "source": "金十数据",
@@ -1607,28 +1751,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 05时41分]"
-        },
-        {
-          "title": "美伊签了！美股期货直线拉升",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%8A%E7%AD%BE%E4%BA%86%EF%BC%81%E7%BE%8E%E8%82%A1%E6%9C%9F%E8%B4%A7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "美联储称年内100%加息 美股跳水",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E7%A7%B0%E5%B9%B4%E5%86%85100%25%E5%8A%A0%E6%81%AF+%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后小幅拉升，现涨0.7%。",
@@ -1651,17 +1773,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "日韩股市齐创新高，美股期货扩大涨幅",
-          "url": "https://wallstreetcn.com/livenews/3121315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
         },
         {
           "title": "美股费城银行指数转跌，此前一度涨1.6%。",
@@ -1705,24 +1816,25 @@
           "time_info": "01时06分"
         },
         {
+          "title": "谷歌AI研究员Noam Shazeer加入OpenAI。（Information）",
+          "url": "https://wallstreetcn.com/livenews/3121316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 09时54分]"
+        },
+        {
           "title": "据The Information：谷歌DeepMind研究员诺姆·沙泽尔将加入OpenAI。",
           "url": "https://flash.jin10.com/detail/20260618081223346800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "谷歌AI研究员Noam Shazeer加入OpenAI。（Information）",
-          "url": "https://wallstreetcn.com/livenews/3121316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -1781,6 +1893,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek获510亿融资 投资方公布",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%8E%B7510%E4%BA%BF%E8%9E%8D%E8%B5%84+%E6%8A%95%E8%B5%84%E6%96%B9%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 09时54分]"
+        },
+        {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1810,19 +1951,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek获510亿融资 投资方公布",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%8E%B7510%E4%BA%BF%E8%9E%8D%E8%B5%84+%E6%8A%95%E8%B5%84%E6%96%B9%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
+          "title": "星展：短期内金价将在区间震荡",
+          "url": "https://flash.jin10.com/detail/20260618091933892800",
+          "source": "金十数据",
           "ranks": [
-            26
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     }
