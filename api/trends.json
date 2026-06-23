@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T19:06:09.630260+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-06-23T21:02:41.086790+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 83,
+      "match_count": 87,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -97,11 +97,12 @@
             18,
             14,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时34分 ~ 19时06分]"
+          "appearance_count": 17,
+          "time_info": "[01时34分 ~ 21时02分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -192,6 +193,17 @@
           "time_info": "[06时36分 ~ 11时10分]"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗总统佩泽希齐扬与巴基斯坦陆军参谋长商讨了防务合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260623204401811800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "伊朗称导弹和国防不会成为谈判议题",
           "url": "https://wallstreetcn.com/livenews/3123321",
           "source": "华尔街见闻-快讯",
@@ -231,7 +243,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -535,13 +547,24 @@
           "time_info": "15时19分"
         },
         {
+          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
+          "url": "https://wallstreetcn.com/articles/3775244",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "伊朗代表称美伊技术层级会谈“非常顺利”",
           "url": "https://wallstreetcn.com/livenews/3123377",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -563,7 +586,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -607,7 +630,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -662,7 +685,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -728,7 +751,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -794,7 +817,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -808,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "阿曼和伊朗将协调霍尔木兹海峡未来航行管理",
+          "url": "https://wallstreetcn.com/livenews/3123426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
@@ -893,7 +927,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -915,7 +949,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -937,7 +971,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -959,15 +993,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
+        },
+        {
+          "title": "阿曼和伊朗将就霍尔木兹海峡航行服务以及相关费用进行磋商",
+          "url": "https://wallstreetcn.com/livenews/3123412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -1051,6 +1096,31 @@
           "time_info": "01时35分"
         },
         {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 21时02分]"
+        },
+        {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 21时02分]"
+        },
+        {
           "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
           "url": "https://wallstreetcn.com/livenews/3122971",
           "source": "华尔街见闻-快讯",
@@ -1085,30 +1155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 19时06分]"
-        },
-        {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 19时06分]"
         },
         {
           "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
@@ -1275,7 +1321,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -1357,6 +1403,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美国加州起诉特朗普政府，因后者将州级车辆排放规则提交国会以寻求废除。",
           "url": "https://wallstreetcn.com/livenews/3122953",
           "source": "华尔街见闻-快讯",
@@ -1377,6 +1434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出",
+          "url": "https://wallstreetcn.com/livenews/3123432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "伊朗驻日内瓦联合国大使：美国总统特朗普的言论使瑞士谈判面临非常严重的风险。",
@@ -1434,6 +1502,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "特朗普发帖：伊朗已经完全、彻底同意最高级别的核核查",
+          "url": "https://wallstreetcn.com/livenews/3123424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美国法官阻止特朗普政府使用改版后的移民数据库进行选民登记核查。",
           "url": "https://flash.jin10.com/detail/20260623014137013800",
           "source": "金十数据",
@@ -1459,7 +1538,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -1525,6 +1604,28 @@
           "time_info": "[08时48分 ~ 09时43分]"
         },
         {
+          "title": "受美股存储概念板块走低影响，铠侠美股ADR盘前一度跌近20%。",
+          "url": "https://flash.jin10.com/detail/20260623204602594800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超3%，标普500指数期货跌1.5%，道指期货跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3123022",
           "source": "华尔街见闻-快讯",
@@ -1583,6 +1684,28 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美联储前主席格林斯潘传奇人生谢幕，他亲手为美股拉起的“安全网”也正失效？",
+          "url": "https://flash.jin10.com/detail/20260623202139651800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "SpaceX美股盘前涨幅扩大至2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美股盘前：半导体股大跌，半导体相关ETF大跌，SpaceX跌近5%",
           "url": "https://wallstreetcn.com/livenews/3123298",
           "source": "华尔街见闻-快讯",
@@ -1603,6 +1726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "SpaceX美股盘前转涨，此前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3123430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌2%，标普500指数期货跌1.1%，道指期货跌0.4%。",
@@ -1817,7 +1951,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -1847,8 +1981,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 19时06分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 21时02分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -1867,11 +2001,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 19时06分]"
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 21时02分]"
         },
         {
           "title": "长周末归来，美债收益率普遍涨超5个基点",
@@ -1949,11 +2084,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 19时06分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 21时02分]"
         }
       ]
     },
