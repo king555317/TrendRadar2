@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T07:32:58.568573+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-06-23T08:48:28.507598+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
-        },
-        {
-          "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
         },
         {
           "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
@@ -38,6 +27,17 @@
             5,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
+        },
+        {
+          "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -76,11 +76,12 @@
             20,
             12,
             10,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
         },
         {
           "title": "伊朗队在洛杉矶更衣室留下感谢信",
@@ -90,11 +91,12 @@
             14,
             13,
             12,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
         },
         {
           "title": "比利时0-0伊朗",
@@ -103,11 +105,12 @@
           "ranks": [
             20,
             17,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -117,8 +120,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 08时48分]"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -190,6 +193,19 @@
           "time_info": "[03时09分 ~ 06时36分]"
         },
         {
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 08时48分]"
+        },
+        {
           "title": "据伊朗媒体报道，伊朗议会议长卡利巴夫、外长阿拉格齐、美国副总统万斯、卡塔尔首相阿尔萨尼及巴基斯坦总理谢里夫将监督未来的谈判。",
           "url": "https://flash.jin10.com/detail/20260623060715832800",
           "source": "金十数据",
@@ -226,24 +242,24 @@
           "time_info": "[06时36分 ~ 07时32分]"
         },
         {
+          "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
+          "url": "https://wallstreetcn.com/livenews/3123064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 08时48分]"
+        },
+        {
           "title": "阿曼外长：今晚在马斯喀特欢迎了伊朗议会议长卡利巴夫和外长阿拉格齐。双方就近期伊朗与美国的谅解备忘录进行了建设性讨论，特别是霍尔木兹海峡的相关内容。",
           "url": "https://flash.jin10.com/detail/20260623050922347800",
           "source": "金十数据",
           "ranks": [
             14,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时32分]"
-        },
-        {
-          "title": "日企掏钱,伊朗白捡三千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -267,7 +283,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -300,18 +316,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
-          "url": "https://wallstreetcn.com/livenews/3123064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -333,7 +338,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -459,6 +464,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "伊朗：伊美瑞士谈判未涉及核问题",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BC%8A%E7%BE%8E%E7%91%9E%E5%A3%AB%E8%B0%88%E5%88%A4%E6%9C%AA%E6%B6%89%E5%8F%8A%E6%A0%B8%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
           "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
           "url": "https://flash.jin10.com/detail/20260623044656583800",
           "source": "金十数据",
@@ -468,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美国暂时放松对伊朗石油制裁措施",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9A%82%E6%97%B6%E6%94%BE%E6%9D%BE%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%81%E6%8E%AA%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "伊朗首席谈判代表：美国和伊朗都将保证黎巴嫩的领土完整。",
@@ -528,7 +555,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -538,8 +565,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
         },
         {
           "title": "美国总统特朗普签署量子领域行政令。",
@@ -638,11 +665,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 08时48分]"
         },
         {
           "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
@@ -767,6 +795,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "围绕倒影池报道争议升温 特朗普威胁起诉ABC",
+          "url": "https://flash.jin10.com/detail/20260623081729157800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
@@ -915,7 +954,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -938,8 +977,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
+        },
+        {
+          "title": "美股：纳指跌1.32% SpaceX跌超16%",
+          "url": "https://www.toutiao.com/trending/7654363973835296302/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -950,8 +1000,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 08时48分]"
         },
         {
           "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
@@ -999,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "金十图示：2026年06月22日（周一）热门中概股行情一览（美股收盘）",
@@ -1059,7 +1120,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -1086,6 +1147,17 @@
           "time_info": "[05时03分 ~ 06时36分]"
         },
         {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
           "title": "市场消息：谷歌DeepMind与A24宣布达成研究合作关系。",
           "url": "https://flash.jin10.com/detail/20260623010954351800",
           "source": "金十数据",
@@ -1095,6 +1167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "郭明錤：联发科赢得谷歌升级版TPU芯片订单",
+          "url": "https://wallstreetcn.com/livenews/3123077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     },
@@ -1109,9 +1192,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 08时48分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -1206,6 +1289,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "金价暴跌黄金该买还是该卖",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1219,8 +1330,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时34分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 08时48分]"
         }
       ]
     }
