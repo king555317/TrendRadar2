@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T09:43:02.020693+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-06-23T11:10:22.940697+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 56,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -26,11 +26,12 @@
             12,
             5,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 11时10分]"
         },
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -39,11 +40,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 11时10分]"
         },
         {
           "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
@@ -55,6 +57,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时34分 ~ 07时32分]"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
+          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时36分 ~ 11时10分]"
         },
         {
           "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
@@ -69,8 +82,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 11时10分]"
         },
         {
           "title": "比利时0-0伊朗",
@@ -83,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 11时10分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -98,17 +111,6 @@
           "time_info": "[01时34分 ~ 05时03分]"
         },
         {
-          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
-          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时36分 ~ 09时43分]"
-        },
-        {
           "title": "伊朗队在洛杉矶更衣室留下感谢信",
           "url": "https://www.toutiao.com/trending/7654111669110669353/",
           "source": "今日头条",
@@ -117,11 +119,12 @@
             13,
             12,
             28,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 08时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 11时10分]"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -146,6 +149,21 @@
           "time_info": "01时35分"
         },
         {
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时36分 ~ 11时10分]"
+        },
+        {
           "title": "伊朗将在已故最高领袖葬礼期间实施航班管制",
           "url": "https://wallstreetcn.com/livenews/3122988",
           "source": "华尔街见闻-快讯",
@@ -155,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗央行行长：没有义务从美国购买农产品",
+          "url": "https://wallstreetcn.com/livenews/3123147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判代表团团长在阿曼外长的欢迎下抵达马斯喀特。",
@@ -168,18 +197,27 @@
           "time_info": "03时09分"
         },
         {
-          "title": "日企掏钱,伊朗白捡三千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
+          "title": "美国放松对伊朗石油制裁，数十年来首允伊朗以美元卖油；美日财长紧急开会，外汇干预警报拉响；全球最大衍生品交易所又故障......后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260623110313753800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            21,
-            22,
-            23
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "伊朗总统致敬伊朗国家队",
+          "url": "https://www.toutiao.com/trending/7654016350054613011/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时36分 ~ 09时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时10分]"
         },
         {
           "title": "120亿美元？伊朗否认将用解冻资金买美农产品",
@@ -205,6 +243,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时09分 ~ 06时36分]"
+        },
+        {
+          "title": "当足球穿过战争阴霾：伊朗队的世界杯坎坷之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33421321",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时10分]"
         },
         {
           "title": "伊朗：伊美瑞士谈判未涉及核问题",
@@ -289,28 +339,6 @@
           "time_info": "[06时36分 ~ 07时32分]"
         },
         {
-          "title": "伊朗总统致敬伊朗国家队",
-          "url": "https://www.toutiao.com/trending/7654016350054613011/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 09时43分]"
-        },
-        {
-          "title": "当足球穿过战争阴霾：伊朗队的世界杯坎坷之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33421321",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 09时43分]"
-        },
-        {
           "title": "土耳其总统与伊朗总统通话 聚焦双边合作及伊美谈判",
           "url": "https://flash.jin10.com/detail/20260623023848203800",
           "source": "金十数据",
@@ -331,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "伊朗球员：感谢墨西哥球迷的支持",
+          "url": "https://www.toutiao.com/trending/7653933991330054180/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "瑞士外交部：瑞士欢迎美国、伊朗、巴基斯坦和卡塔尔在比尔根斯托克举行的密集外交交流所取得的建设性进展。",
@@ -366,6 +405,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "伊朗央行行长：没有义务从美国购买农产品",
+          "url": "https://flash.jin10.com/detail/20260623105833242800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：在德黑兰和华盛顿根据最近签署的谅解备忘录继续进行谈判之际，伊朗绝不会屈服于过分的要求，也不会容忍对其人民权利的压制。",
           "url": "https://flash.jin10.com/detail/20260623010707201800",
           "source": "金十数据",
@@ -397,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国将放宽对伊朗能源相关交易限制 SpaceX连续三个交易日下跌 | 环球市场",
+          "url": "https://www.cls.cn/detail/2406208",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "伊朗将在已故最高领袖葬礼期间实施航班管制",
@@ -438,7 +499,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -463,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美总统称若伊朗不遵守协议将采取必要行动",
+          "url": "https://wallstreetcn.com/livenews/3123124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社援引知情人士：动用冻结资金购买粮食的说法并不属实。",
@@ -589,7 +661,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -601,6 +673,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时34分 ~ 08时48分]"
+        },
+        {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时36分 ~ 11时10分]"
         },
         {
           "title": "美国总统特朗普签署量子领域行政令。",
@@ -645,20 +732,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时36分 ~ 09时43分]"
         },
         {
           "title": "美国总统特朗普：伊朗将同意接受大型武器核查。 对伊朗进行核查是为了确保“核诚信”。",
@@ -775,6 +848,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：哥伦比亚总统致电感谢我。",
@@ -931,6 +1015,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "特朗普政府加码量子战略",
+          "url": "https://www.toutiao.com/trending/7654323639415799814/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "据Politico：美国国防部长赫格塞思计划于周三在共和党研究委员会（RSC）午餐会上，向一大群共和党众议员就特朗普政府的军事拨款目标和另一项党派法案进行机密简报。",
           "url": "https://flash.jin10.com/detail/20260623020035987800",
           "source": "金十数据",
@@ -1002,8 +1097,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 09时43分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 11时10分]"
         },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -1017,6 +1112,19 @@
           "time_info": "[01时34分 ~ 05时03分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时36分 ~ 11时10分]"
+        },
+        {
           "title": "美股：纳指跌1.32% SpaceX跌超16%",
           "url": "https://www.toutiao.com/trending/7654363973835296302/",
           "source": "今日头条",
@@ -1028,28 +1136,17 @@
           "time_info": "[08时48分 ~ 09时43分]"
         },
         {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时36分 ~ 09时43分]"
-        },
-        {
           "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
           "url": "https://www.cls.cn/detail/2406236",
           "source": "财联社热门",
           "ranks": [
             13,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 11时10分]"
         },
         {
           "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
@@ -1177,11 +1274,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 11时10分]"
         },
         {
           "title": "郭明錤：联发科赢得谷歌升级版TPU芯片订单",
@@ -1232,8 +1330,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 09时43分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 11时10分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -1339,8 +1437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 11时10分]"
         },
         {
           "title": "金价暴跌黄金该买还是该卖",
@@ -1351,8 +1449,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 09时43分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 11时10分]"
         }
       ]
     },
