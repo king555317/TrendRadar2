@@ -1,11 +1,206 @@
 {
-  "generated_at": "2026-06-25T02:38:53.529093+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-06-25T03:35:05.153122+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时35分]"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时35分]"
+        },
+        {
+          "title": "美国总统特朗普：进展非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260625011107493800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正在做出非常大的让步。",
+          "url": "https://flash.jin10.com/detail/20260625011013918800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3124209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普目前正前​​往国会山，与参议院共和党人共进午餐。",
+          "url": "https://flash.jin10.com/detail/20260625010228720800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3124195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时35分]"
+        },
+        {
+          "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3124166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时38分]"
+        },
+        {
+          "title": "鲁比奥：要么伊朗履行承诺，要么特朗普采取行动",
+          "url": "https://flash.jin10.com/detail/20260625003348617800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普：伊朗同意我提出的所有要求",
+          "url": "https://flash.jin10.com/detail/20260625030201081800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
+          "url": "https://wallstreetcn.com/livenews/3124142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "美国驻意大使紧急灭火，称：特朗普与梅洛尼的冲突未破坏两国关系",
+          "url": "https://wallstreetcn.com/livenews/3124159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "据美联社：一位联邦法官禁止美国总统特朗普实施投票时需提供公民身份证明的要求。",
+          "url": "https://flash.jin10.com/detail/20260625004900979800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。",
+          "url": "https://flash.jin10.com/detail/20260625013708420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
+        {
+          "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
+          "url": "https://flash.jin10.com/detail/20260625022804523800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
+          "url": "https://flash.jin10.com/detail/20260625022715934800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
+          "url": "https://wallstreetcn.com/livenews/3124117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -15,8 +210,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时35分]"
+        },
+        {
+          "title": "伊朗：签谅解备忘录表明“美国战败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时35分]"
         },
         {
           "title": "巴西石油监管机构ANP负责人表示，在美国与伊朗达成初步协议后，国内燃料价格正逐渐回落。",
@@ -42,18 +250,6 @@
           "time_info": "[00时47分 ~ 01时40分]"
         },
         {
-          "title": "伊朗：签谅解备忘录表明“美国战败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
-        },
-        {
           "title": "伊朗外交部发言人巴加埃：只有结束美国的干涉与占领，西亚地区才能实现真正的和平。",
           "url": "https://flash.jin10.com/detail/20260625002731667800",
           "source": "金十数据",
@@ -63,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "天然气出口国论坛秘书长菲利普：随着伊朗战争结束，天然气需求将在第三季度开始回升。",
+          "url": "https://flash.jin10.com/detail/20260625025346023800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "鲁比奥重申，伊朗不能对霍尔木兹过境收取费用",
@@ -166,152 +373,76 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 13,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
-        },
-        {
-          "title": "美国总统特朗普：进展非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260625011107493800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
-          "url": "https://wallstreetcn.com/livenews/3124195",
+          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3124193",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗正在做出非常大的让步。",
-          "url": "https://flash.jin10.com/detail/20260625011013918800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时35分]"
         },
         {
-          "title": "据CNN：美国总统特朗普目前正前​​往国会山，与参议院共和党人共进午餐。",
-          "url": "https://flash.jin10.com/detail/20260625010228720800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
-        },
-        {
-          "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
-          "url": "https://wallstreetcn.com/livenews/3124166",
+          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
+          "url": "https://wallstreetcn.com/livenews/3124168",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            27
+            6,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时38分]"
         },
         {
-          "title": "鲁比奥：要么伊朗履行承诺，要么特朗普采取行动",
-          "url": "https://flash.jin10.com/detail/20260625003348617800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
-          "url": "https://wallstreetcn.com/livenews/3124142",
+          "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3124199",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美国驻意大使紧急灭火，称：特朗普与梅洛尼的冲突未破坏两国关系",
-          "url": "https://wallstreetcn.com/livenews/3124159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "据美联社：一位联邦法官禁止美国总统特朗普实施投票时需提供公民身份证明的要求。",
-          "url": "https://flash.jin10.com/detail/20260625004900979800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。",
-          "url": "https://flash.jin10.com/detail/20260625013708420800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时38分"
+          "time_info": "03时35分"
         },
         {
-          "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
-          "url": "https://wallstreetcn.com/livenews/3124117",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：在 Gemini 3.5 Flash 中引入“计算机使用”功能。",
+          "url": "https://flash.jin10.com/detail/20260625002330921800",
+          "source": "金十数据",
           "ranks": [
-            30
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "谷歌(GOOG.O)跌幅扩大至0.8%，消息称谷歌将Gemini 3.5 Pro大模型发布时间推迟至7月，因为他们还在花更多时间收集早期测试者的反馈并调整模型。",
+          "url": "https://flash.jin10.com/detail/20260625024331473800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
+          "url": "https://flash.jin10.com/detail/20260625022949974800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         }
       ]
     },
@@ -327,8 +458,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时35分]"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时35分]"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时35分]"
         },
         {
           "title": "金十图示：2026年06月24日（周三）美股热门股票行情一览（美股盘中）",
@@ -340,29 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
         },
         {
           "title": "金十图示：2026年06月24日（周三）热门中概股行情一览（美股盘中）",
@@ -389,46 +521,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3124193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
-          "url": "https://wallstreetcn.com/livenews/3124168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时38分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在 Gemini 3.5 Flash 中引入“计算机使用”功能。",
-          "url": "https://flash.jin10.com/detail/20260625002330921800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -439,7 +531,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -458,7 +550,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -472,6 +564,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 02时38分]"
+        },
+        {
+          "title": "受美元走强及加息预期影响，金价收于4000美元下方",
+          "url": "https://flash.jin10.com/detail/20260625023404741800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         }
       ]
     },
@@ -487,8 +590,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
+          "url": "https://wallstreetcn.com/livenews/3124210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         }
       ]
     }
