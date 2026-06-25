@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T07:28:31.810123+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-06-25T08:48:47.713726+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -251,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普称可能永远无法查明是谁袭击了伊朗小学",
+          "url": "https://flash.jin10.com/detail/20260625082645457800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "特朗普：伊朗同意我提出的所有要求",
@@ -674,7 +685,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -688,8 +699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 08时48分]"
         },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -719,11 +730,12 @@
           "url": "https://www.cls.cn/detail/2408510",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 08时48分]"
         },
         {
           "title": "重磅通胀数据前美股继续承压，标普纳指三连跌但跌势缓和，绩优美光盘后大涨，商品重挫",
@@ -732,7 +744,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -757,6 +769,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 08时48分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
@@ -795,17 +819,6 @@
           "time_info": "[04时37分 ~ 05时34分]"
         },
         {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "金十图示：2026年06月24日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260625003209642800",
           "source": "金十数据",
@@ -826,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "中信证券美股策略：下半年关注科技、军工、能源基础设施及金融",
+          "url": "https://flash.jin10.com/detail/20260625082126227800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "美光科技(MU.O)美股盘后涨超2%。",
@@ -949,6 +973,58 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时38分]"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "受美元走强及加息预期影响，金价收于4000美元下方",
+          "url": "https://flash.jin10.com/detail/20260625023404741800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1013,36 +1089,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时38分]"
-        },
-        {
-          "title": "受美元走强及加息预期影响，金价收于4000美元下方",
-          "url": "https://flash.jin10.com/detail/20260625023404741800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
         }
       ]
     },
