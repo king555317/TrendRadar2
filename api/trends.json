@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T15:22:19.430756+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-06-26T17:09:39.674383+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -338,7 +338,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -365,8 +365,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时09分]"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "美国与海湾合作委员会发表声明，谴责伊朗代理人在伊拉克发动的袭击。",
@@ -401,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时43分]"
+        },
+        {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 17时09分]"
         },
         {
           "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
@@ -439,6 +461,17 @@
           "time_info": "[00时49分 ~ 01时51分]"
         },
         {
+          "title": "伊朗民众：战争让人们重新理解了“拒绝屈辱”",
+          "url": "https://news.ifeng.com/c/8uH0HxuqiJE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "伊朗攻击货船、考验美伊停火协议：不走我们指定的路，不可接受且极其危险",
           "url": "https://flash.jin10.com/detail/20260626065429633800",
           "source": "金十数据",
@@ -450,15 +483,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "在伊华商：战争改变伊朗民众对中国的看法",
-          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
-          "source": "凤凰网",
+          "title": "【WTI原油日内跌幅达4.0%，伊朗：霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理】WTI原油日内跌幅达4.0%，报69.04美元/桶；布伦特原油跌近4%。伊朗表示，霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理。",
+          "url": "https://wallstreetcn.com/livenews/3125164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时22分"
+          "time_info": "17时09分"
         },
         {
           "title": "伊朗“波斯湾海峡管理部门”：使用未经授权航线的船只将无法获得保险或相关责任承保。",
@@ -492,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "伊朗称将霍尔木兹海峡航行管理将以与美国的谅解备忘录为准",
+          "url": "https://wallstreetcn.com/livenews/3125148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "伊朗“波斯湾海峡管理部门”：因通过未经授权航线而引发的后果，将由船主、运营商及船长承担责任。",
@@ -577,7 +621,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -588,7 +632,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -596,7 +640,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -610,6 +654,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时33分 ~ 15时22分]"
+        },
+        {
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 17时09分]"
         },
         {
           "title": "美股",
@@ -626,19 +683,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时48分 ~ 07时31分]"
-        },
-        {
-          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
-          "url": "https://www.cls.cn/detail/2409666",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 15时22分]"
         },
         {
           "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
@@ -729,6 +773,17 @@
           "time_info": "[04时43分 ~ 05时34分]"
         },
         {
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
           "url": "https://wallstreetcn.com/livenews/3124852",
           "source": "华尔街见闻-快讯",
@@ -771,12 +826,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美股盘前，半导体股普跌，美光科技跌约4%，AMD跌约2%，英特尔跌约3%，希捷科技跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3125141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
@@ -874,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
@@ -983,8 +1060,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时09分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
@@ -994,11 +1071,12 @@
             21,
             5,
             8,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时09分]"
         },
         {
           "title": "金价持续下跌",
@@ -1007,11 +1085,12 @@
           "ranks": [
             5,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 17时09分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
@@ -1023,8 +1102,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时50分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[08时50分 ~ 17时09分]"
         },
         {
           "title": "金价回落至900元以下",
@@ -1061,11 +1140,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时50分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[08时50分 ~ 17时09分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -1077,8 +1157,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 17时09分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -1174,7 +1254,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美债收益率于美国PCE通胀数据发布时跳水，随后逐步收复失地",
@@ -1188,6 +1268,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 06时33分]"
+        },
+        {
+          "title": "消费走弱拖累美债收益率，机构预计美联储年内利率不变 | 每日市场观察06.26",
+          "url": "https://flash.jin10.com/detail/20260626164109128800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     }
