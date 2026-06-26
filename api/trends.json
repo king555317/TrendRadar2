@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T09:46:51.802849+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-06-26T11:11:22.254264+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时46分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 11时11分]"
         },
         {
           "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
@@ -177,6 +178,17 @@
           "time_info": "[08时50分 ~ 09时46分]"
         },
         {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时11分]"
+        },
+        {
           "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
           "url": "https://flash.jin10.com/detail/20260626043110139800",
           "source": "金十数据",
@@ -229,18 +241,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -376,6 +377,18 @@
           "time_info": "03时37分"
         },
         {
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时11分]"
+        },
+        {
           "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
           "url": "https://wallstreetcn.com/livenews/3124821",
           "source": "华尔街见闻-快讯",
@@ -433,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
-          "url": "https://www.cls.cn/detail/2409704",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
         },
         {
           "title": "伊朗“波斯湾海峡管理部门”：使用未经授权航线的船只将无法获得保险或相关责任承保。",
@@ -543,8 +545,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时33分 ~ 09时46分]"
+          "appearance_count": 5,
+          "time_info": "[06时33分 ~ 11时11分]"
         },
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -556,8 +558,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时46分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 11时11分]"
         },
         {
           "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
@@ -850,6 +852,19 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 11时11分]"
+        },
+        {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
           "url": "https://wallstreetcn.com/livenews/3124775",
           "source": "华尔街见闻-快讯",
@@ -860,18 +875,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时51分]"
-        },
-        {
-          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
-          "url": "https://www.zhihu.com/question/2052444159282082405",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 09时46分]"
         },
         {
           "title": "谷歌(GOOG.O)：今天，我们还面向安卓平台推出了全新的Google财务应用。从本周起，我们将在全新的Google Finance中向全球推出“投资组合”功能。今年晚些时候还将推出iOS版应用。",
@@ -888,18 +891,42 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
         {
           "title": "金价跌回3字头半年回撤30%",
           "url": "https://www.toutiao.com/trending/7655352007544278564/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时11分]"
+        },
+        {
+          "title": "金价跌回3字头 半年回撤30%",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时11分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
@@ -926,24 +953,13 @@
           "time_info": "[08时50分 ~ 09时46分]"
         },
         {
-          "title": "金价跌回3字头 半年回撤30%",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -951,7 +967,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
@@ -962,8 +978,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 11时11分]"
         },
         {
           "title": "DeepSeek大规模招聘：至少扩大一倍",
@@ -971,22 +987,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 09时46分]"
-        },
-        {
-          "title": "DeepSeek发英雄帖：扩大所有部门规模",
-          "url": "https://www.toutiao.com/trending/7654952957498195994/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 11时11分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -995,9 +1001,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时11分]"
+        },
+        {
+          "title": "DeepSeek发英雄帖：扩大所有部门规模",
+          "url": "https://www.toutiao.com/trending/7654952957498195994/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         }
       ]
     },
