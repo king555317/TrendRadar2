@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T11:11:22.254264+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-06-26T13:29:25.801854+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 11时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时29分]"
         },
         {
           "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
@@ -154,6 +154,17 @@
           "time_info": "[05时34分 ~ 07时31分]"
         },
         {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 13时29分]"
+        },
+        {
           "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
           "url": "https://flash.jin10.com/detail/20260626055515833800",
           "source": "金十数据",
@@ -176,17 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时50分 ~ 09时46分]"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时11分]"
         },
         {
           "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
@@ -337,7 +337,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -385,8 +385,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 13时29分]"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
@@ -492,6 +492,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "国际原子能机构总干事格罗西：伊朗可以选择降低核材料浓度或将其运输出境，但必须同意这样做。",
+          "url": "https://flash.jin10.com/detail/20260626123214554800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "伊朗“波斯湾海峡管理部门”：对于未按本部门指定航线航行的船只，将无法保证其安全通行。",
           "url": "https://flash.jin10.com/detail/20260626024849477800",
           "source": "金十数据",
@@ -503,6 +514,28 @@
           "time_info": "03时37分"
         },
         {
+          "title": "国际原子能机构总干事格罗西：相信伊朗的核材料自2025年上次检查以来未发生转移，但仍需确认。",
+          "url": "https://flash.jin10.com/detail/20260626122852327800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "国际原子能机构总干事格罗西：国际原子能机构已与伊朗当局进行了初步交流。",
+          "url": "https://flash.jin10.com/detail/20260626122456559800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "一位接近谈判团队的伊朗消息人士表示，以色列从黎巴嫩撤军是伊朗与美国达成最终协议的条件，也是伊朗的“红线”。",
           "url": "https://flash.jin10.com/detail/20260626000157341800",
           "source": "金十数据",
@@ -512,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "国际原子能机构总干事格罗西：我们希望尽快前往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260626122218826800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
@@ -545,8 +589,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时33分 ~ 11时11分]"
+          "appearance_count": 6,
+          "time_info": "[06时33分 ~ 13时29分]"
         },
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -558,8 +602,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 11时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时29分]"
         },
         {
           "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
@@ -809,11 +853,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 06时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 13时29分]"
         },
         {
           "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
@@ -858,11 +903,12 @@
           "ranks": [
             12,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时50分 ~ 11时11分]"
+          "appearance_count": 4,
+          "time_info": "[08时50分 ~ 13时29分]"
         },
         {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
@@ -894,17 +940,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
           "title": "金价跌回3字头半年回撤30%",
           "url": "https://www.toutiao.com/trending/7655352007544278564/",
           "source": "今日头条",
@@ -913,8 +948,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 13时29分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
@@ -922,11 +957,24 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            5
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 13时29分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            5,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时11分]"
+          "time_info": "[11时11分 ~ 13时29分]"
         },
         {
           "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
@@ -934,11 +982,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[08时50分 ~ 13时29分]"
         },
         {
           "title": "金价回落至900元以下",
@@ -978,8 +1027,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时50分 ~ 13时29分]"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时50分 ~ 11时11分]"
+          "time_info": "[09时46分 ~ 13时29分]"
         },
         {
           "title": "DeepSeek大规模招聘：至少扩大一倍",
@@ -995,15 +1056,16 @@
           "time_info": "[08时50分 ~ 11时11分]"
         },
         {
-          "title": "DeepSeek大规模招聘",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            14,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时11分]"
+          "time_info": "[11时11分 ~ 13时29分]"
         },
         {
           "title": "DeepSeek发英雄帖：扩大所有部门规模",
@@ -1015,17 +1077,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
         }
       ]
     },
