@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T19:33:15.215598+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-06-27T20:32:24.945679+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时47分 ~ 19时33分]"
+          "appearance_count": 13,
+          "time_info": "[08时47分 ~ 20时32分]"
         },
         {
           "title": "伊朗战事将如何影响美军中东布局？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 20时32分]"
         },
         {
           "title": "美伊签署谅解备忘录后，美军首次发动袭击，伊朗回应",
@@ -41,6 +41,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时20分 ~ 18时42分]"
+        },
+        {
+          "title": "伊朗补刀,韩国队命悬一线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时58分 ~ 20时32分]"
         },
         {
           "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
@@ -65,21 +78,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 19时33分]"
-        },
-        {
-          "title": "伊朗补刀,韩国队命悬一线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 19时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 20时32分]"
         },
         {
           "title": "美军深夜空袭伊朗",
@@ -98,6 +98,22 @@
           "time_info": "[09时42分 ~ 18时42分]"
         },
         {
+          "title": "伊朗绝杀越位：超了半只球鞋",
+          "url": "https://www.toutiao.com/trending/7655910922537566218/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            8,
+            14,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 20时32分]"
+        },
+        {
           "title": "消息人士称伊朗南部港口城市码头传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260627045710710800",
           "source": "金十数据",
@@ -111,19 +127,20 @@
           "time_info": "[05时32分 ~ 09时42分]"
         },
         {
-          "title": "伊朗绝杀越位：超了半只球鞋",
-          "url": "https://www.toutiao.com/trending/7655910922537566218/",
-          "source": "今日头条",
+          "title": "埃及1-1伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E5%8F%8A1-1%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            2,
-            8,
+            16,
+            9,
+            20,
             14,
-            27
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 20时32分]"
         },
         {
           "title": "新加坡籍货船在阿曼湾遭袭，美方称伊朗无人机干的，伊方称不走指定航线的船没安全保障，如何看待此事？",
@@ -178,52 +195,26 @@
           "time_info": "[05时32分 ~ 09时42分]"
         },
         {
-          "title": "据伊朗国家电视台报道，在未经授权的船只遭到警告射击后，更多船舶正寻求伊朗方面的许可，以通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260627190304740800",
-          "source": "金十数据",
+          "title": "伊朗绝杀越位：只超了半只球鞋",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%BB%9D%E6%9D%80%E8%B6%8A%E4%BD%8D%EF%BC%9A%E5%8F%AA%E8%B6%85%E4%BA%86%E5%8D%8A%E5%8F%AA%E7%90%83%E9%9E%8B",
+          "source": "百度热搜",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "埃及1-1伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E5%8F%8A1-1%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            9,
-            20,
-            14,
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时33分]"
+          "time_info": "[16时58分 ~ 20时32分]"
         },
         {
-          "title": "伊朗指责美方在霍尔木兹海峡制造紧张局势",
-          "url": "https://wallstreetcn.com/livenews/3125590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "科威特谴责伊朗对巴林领土的袭击，认为这严重破坏了和平与稳定的努力，并对地区安全构成威胁。",
-          "url": "https://flash.jin10.com/detail/20260627185147978800",
+          "title": "据伊朗国家电视台：伊朗关于霍尔木兹海峡的通行指令仍在执行中。所有船只进出海峡必须与革命卫队海军进行联络和协调。",
+          "url": "https://flash.jin10.com/detail/20260627192753647800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗称受袭锡里克港运营正常",
@@ -251,6 +242,20 @@
           "time_info": "00时43分"
         },
         {
+          "title": "伊朗约三成民众将参加已故最高领袖葬礼",
+          "url": "https://flash.jin10.com/detail/20260627173141273800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 20时32分]"
+        },
+        {
           "title": "伊朗革命卫队：打击美军多个目标以回应美空袭伊朗",
           "url": "https://wallstreetcn.com/livenews/3125536",
           "source": "华尔街见闻-快讯",
@@ -263,6 +268,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时10分 ~ 16时58分]"
+        },
+        {
+          "title": "巴林谴责伊朗无人机攻击其领土",
+          "url": "https://wallstreetcn.com/livenews/3125577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 20时32分]"
         },
         {
           "title": "IMF首席经济学家古兰沙：由于各国释放了战略储备且炼油厂调整了生产，伊朗相关冲突并未导致油价进一步飙升。",
@@ -372,17 +391,6 @@
           "time_info": "[05时32分 ~ 09时42分]"
         },
         {
-          "title": "伊朗绝杀越位：只超了半只球鞋",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%BB%9D%E6%9D%80%E8%B6%8A%E4%BD%8D%EF%BC%9A%E5%8F%AA%E8%B6%85%E4%BA%86%E5%8D%8A%E5%8F%AA%E7%90%83%E9%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时58分 ~ 19时33分]"
-        },
-        {
           "title": "伊朗门将裆下漏球",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%97%A8%E5%B0%86%E8%A3%86%E4%B8%8B%E6%BC%8F%E7%90%83",
           "source": "百度热搜",
@@ -393,6 +401,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时20分 ~ 17时48分]"
+        },
+        {
+          "title": "据伊朗国家电视台报道，在未经授权的船只遭到警告射击后，更多船舶正寻求伊朗方面的许可，以通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260627190304740800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时32分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：伊朗外长明天将前往巴格达。",
+          "url": "https://flash.jin10.com/detail/20260627182652480800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时32分]"
         },
         {
           "title": "伊朗迈赫通讯社援引当地官员的话称，美国的攻击并未对西里克港造成损害。",
@@ -408,19 +441,6 @@
           "time_info": "[11时10分 ~ 15时08分]"
         },
         {
-          "title": "伊朗约三成民众将参加已故最高领袖葬礼",
-          "url": "https://flash.jin10.com/detail/20260627173141273800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时33分]"
-        },
-        {
           "title": "巴基斯坦、伊朗两国外长通话讨论地区形势",
           "url": "https://wallstreetcn.com/livenews/3125552",
           "source": "华尔街见闻-快讯",
@@ -432,31 +452,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时08分 ~ 17时48分]"
-        },
-        {
-          "title": "巴林谴责伊朗无人机攻击其领土",
-          "url": "https://wallstreetcn.com/livenews/3125577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时33分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（alhadath）：伊朗外长明天将前往巴格达。",
-          "url": "https://flash.jin10.com/detail/20260627182652480800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时33分]"
         },
         {
           "title": "美副总统威胁：若伊朗诉诸暴力，将遭武力回击",
@@ -498,6 +493,31 @@
           "time_info": "[09时42分 ~ 13时21分]"
         },
         {
+          "title": "伊朗民航局：德黑兰-迪拜航班将于7月1日恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260627182022050800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时32分]"
+        },
+        {
+          "title": "科威特谴责伊朗对巴林领土的袭击，认为这严重破坏了和平与稳定的努力，并对地区安全构成威胁。",
+          "url": "https://flash.jin10.com/detail/20260627185147978800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时32分]"
+        },
+        {
           "title": "美军称对伊朗发动打击以回应商船遭袭事件",
           "url": "https://wallstreetcn.com/livenews/3125461",
           "source": "华尔街见闻-快讯",
@@ -511,16 +531,16 @@
           "time_info": "[05时32分 ~ 07时29分]"
         },
         {
-          "title": "伊朗民航局：德黑兰-迪拜航班将于7月1日恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260627182022050800",
-          "source": "金十数据",
+          "title": "伊朗指责美方在霍尔木兹海峡制造紧张局势",
+          "url": "https://wallstreetcn.com/livenews/3125590",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            8
+            2,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时33分]"
+          "time_info": "[19时33分 ~ 20时32分]"
         },
         {
           "title": "美军对伊朗目标的袭击“正在发生”。（福克斯新闻）",
@@ -572,6 +592,18 @@
           "time_info": "[16时58分 ~ 17时48分]"
         },
         {
+          "title": "伊朗队自认已创造历史",
+          "url": "https://www.toutiao.com/trending/7655820057267814442/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时32分]"
+        },
+        {
           "title": "伊朗革命卫队：多份与美冲突相关声明为伪造内容",
           "url": "https://flash.jin10.com/detail/20260627080638466800",
           "source": "金十数据",
@@ -607,6 +639,19 @@
           "time_info": "[00时42分 ~ 02时39分]"
         },
         {
+          "title": "伊朗队赛后再次在更衣室留言",
+          "url": "https://www.toutiao.com/trending/7656000601263869467/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 20时32分]"
+        },
+        {
           "title": "美国高级官员：美军在霍尔木兹海峡地区袭击了伊朗目标。",
           "url": "https://flash.jin10.com/detail/20260627043220071800",
           "source": "金十数据",
@@ -630,18 +675,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时34分 ~ 05时32分]"
-        },
-        {
-          "title": "伊朗队自认已创造历史",
-          "url": "https://www.toutiao.com/trending/7655820057267814442/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时33分]"
         },
         {
           "title": "一周热榜精选：黄金4000关口能否顺利守住？原油打回伊朗冲突前原形",
@@ -668,6 +701,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时48分 ~ 19时33分]"
+        },
+        {
+          "title": "伊朗议会国家安全和外交政策委员会发言人雷扎伊表示，美国通过在霍尔木兹海峡制造紧张局势，违反了结束战争的备忘录。针对任何违反备忘录的行为，将遭到迅速且果断的回应。",
+          "url": "https://flash.jin10.com/detail/20260627181139499800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时32分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队发言人：驳斥有关“与美国建立霍尔木兹海峡‘热线’”的说法，海峡是伊朗的领海，与美国没有任何关系。（NourNews）",
@@ -735,6 +781,19 @@
           "time_info": "[15时08分 ~ 17时48分]"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社：阿曼与埃及外长通话，讨论了双边关系、地区局势及霍尔木兹海峡的航行安全。",
+          "url": "https://flash.jin10.com/detail/20260627175952001800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时32分]"
+        },
+        {
           "title": "伊朗革命卫队：多份与美冲突相关声明为伪造内容",
           "url": "https://wallstreetcn.com/livenews/3125483",
           "source": "华尔街见闻-快讯",
@@ -759,6 +818,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时29分 ~ 08时47分]"
+        },
+        {
+          "title": "伊朗约三成民众将参加已故最高领袖葬礼",
+          "url": "https://wallstreetcn.com/livenews/3125579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时32分]"
         },
         {
           "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
@@ -787,18 +859,6 @@
           "time_info": "[07时29分 ~ 09时42分]"
         },
         {
-          "title": "伊朗队赛后再次在更衣室留言",
-          "url": "https://www.toutiao.com/trending/7656000601263869467/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 19时33分]"
-        },
-        {
           "title": "雷扎扬破门伊朗扳平比分",
           "url": "https://search.bilibili.com/all?keyword=%E9%9B%B7%E6%89%8E%E6%89%AC%E7%A0%B4%E9%97%A8%E4%BC%8A%E6%9C%97%E6%89%B3%E5%B9%B3%E6%AF%94%E5%88%86",
           "source": "bilibili 热搜",
@@ -808,18 +868,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 13时21分]"
-        },
-        {
-          "title": "伊朗议会国家安全和外交政策委员会发言人雷扎伊表示，美国通过在霍尔木兹海峡制造紧张局势，违反了结束战争的备忘录。针对任何违反备忘录的行为，将遭到迅速且果断的回应。",
-          "url": "https://flash.jin10.com/detail/20260627181139499800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时33分]"
         },
         {
           "title": "埃及vs伊朗",
@@ -833,18 +881,6 @@
           "time_info": "[13时20分 ~ 13时21分]"
         },
         {
-          "title": "据伊朗伊斯兰共和国通讯社：阿曼与埃及外长通话，讨论了双边关系、地区局势及霍尔木兹海峡的航行安全。",
-          "url": "https://flash.jin10.com/detail/20260627175952001800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时33分]"
-        },
-        {
           "title": "世界杯小组赛 G 组，埃及 1-1 伊朗，哈利勒扎德绝杀无效，伊朗小组第 3，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2053876403502674506",
           "source": "知乎",
@@ -855,18 +891,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时08分 ~ 16时58分]"
-        },
-        {
-          "title": "伊朗约三成民众将参加已故最高领袖葬礼",
-          "url": "https://wallstreetcn.com/livenews/3125579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时33分]"
         },
         {
           "title": "伊朗方面表示，美军空袭其南部海岸多处目标，违反停战备忘录；伊朗武装力量已对与美国军方有关联的目标实施了防御性打击。伊朗警告海湾南岸国家，禁止允许其领土被用于对伊朗的攻击。",
@@ -946,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "伊朗媒体称有更多船只申请通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3125594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗绝杀球被吹 1-1战平埃及",
@@ -1094,7 +1129,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -1118,8 +1153,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时28分 ~ 19时33分]"
+          "appearance_count": 15,
+          "time_info": "[07时28分 ~ 20时32分]"
         },
         {
           "title": "美国总统特朗普：许多欧洲国家一直在讨论即将对美国公司征收数字服务税。其中一些国家已接近付诸实施。特此声明，任何征收此类税项的国家，其所有销往美国的商品都将立即被征收100%的关税。",
@@ -1177,6 +1212,31 @@
           "time_info": "03时35分"
         },
         {
+          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
+          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
+          "url": "https://flash.jin10.com/detail/20260627172958574800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 20时32分]"
+        },
+        {
           "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
           "url": "https://wallstreetcn.com/livenews/3125565",
           "source": "华尔街见闻-快讯",
@@ -1189,19 +1249,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时58分 ~ 19时33分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
-          "url": "https://flash.jin10.com/detail/20260627172958574800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时33分]"
         },
         {
           "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
@@ -1243,6 +1290,17 @@
           "time_info": "[06时29分 ~ 08时47分]"
         },
         {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 20时32分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
           "url": "https://wallstreetcn.com/livenews/3125432",
           "source": "华尔街见闻-快讯",
@@ -1279,17 +1337,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 15时08分]"
-        },
-        {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
@@ -1485,8 +1532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时47分 ~ 19时33分]"
+          "appearance_count": 13,
+          "time_info": "[08时47分 ~ 20时32分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -1509,8 +1556,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时47分 ~ 19时33分]"
+          "appearance_count": 13,
+          "time_info": "[08时47分 ~ 20时32分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -1522,8 +1569,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时28分 ~ 19时33分]"
+          "appearance_count": 17,
+          "time_info": "[06时28分 ~ 20时32分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -1538,17 +1585,6 @@
           "time_info": "[00时42分 ~ 11时10分]"
         },
         {
-          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
-          "url": "https://wallstreetcn.com/articles/3775625",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时09分 ~ 19时33分]"
-        },
-        {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
@@ -1559,8 +1595,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 20时32分]"
+        },
+        {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时09分 ~ 19时33分]"
         },
         {
           "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
@@ -1684,6 +1731,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 20时32分]"
+        },
+        {
           "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
           "url": "https://wallstreetcn.com/livenews/3125428",
           "source": "华尔街见闻-快讯",
@@ -1696,17 +1754,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时39分 ~ 05时32分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时33分]"
         },
         {
           "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
@@ -1847,8 +1894,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 19时33分]"
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 20时32分]"
         },
         {
           "title": "DeepSeek发布DSpark",
@@ -1891,17 +1938,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "金价大跌 有商家称跌没一辆迈巴赫",
-          "url": "https://www.toutiao.com/trending/7655931453586849835/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 19时33分]"
-        },
-        {
           "title": "国际金价银价上涨",
           "url": "https://www.douyin.com/hot/2549494",
           "source": "抖音",
@@ -1913,6 +1949,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时58分 ~ 19时33分]"
+        },
+        {
+          "title": "金价大跌 有商家称跌没一辆迈巴赫",
+          "url": "https://www.toutiao.com/trending/7655931453586849835/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 20时32分]"
         },
         {
           "title": "金价大跌 有商家称跌没一辆迈巴赫",
