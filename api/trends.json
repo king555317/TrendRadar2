@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T06:30:10.124555+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-07-01T07:31:59.799202+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：国会应立即着手推动终止出生公民权。",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -63,6 +63,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身",
+          "url": "https://flash.jin10.com/detail/20260701065240508800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美国总统特朗普：出生公民权对我们的国家不利。",
           "url": "https://flash.jin10.com/detail/20260701002525969800",
           "source": "金十数据",
@@ -72,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
-          "url": "https://flash.jin10.com/detail/20260701054713686800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -132,16 +132,16 @@
           "time_info": "[05时34分 ~ 06时30分]"
         },
         {
-          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045159164800",
+          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
+          "url": "https://flash.jin10.com/detail/20260701054713686800",
           "source": "金十数据",
           "ranks": [
-            7,
-            22
+            5,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时30分]"
+          "time_info": "[06时30分 ~ 07时31分]"
         },
         {
           "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
@@ -149,7 +149,32 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
+          "url": "https://flash.jin10.com/detail/20260701054226191800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
+          "url": "https://flash.jin10.com/detail/20260701045159164800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -191,17 +216,6 @@
           "time_info": "00时46分"
         },
         {
-          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
-          "url": "https://flash.jin10.com/detail/20260701054226191800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：承认与特朗普之间有时会存在一些分歧。",
           "url": "https://flash.jin10.com/detail/20260701032453750800",
           "source": "金十数据",
@@ -241,7 +255,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -263,7 +277,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -277,6 +291,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
+          "url": "https://wallstreetcn.com/livenews/3127002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美国总统特朗普：皮埃尔·亚雷德（Pierre Yared）将离开经济顾问委员会。",
+          "url": "https://flash.jin10.com/detail/20260701061209980800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国总统特朗普：共和党在美国最高法院得到了非常公平的对待。",
@@ -336,8 +372,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
@@ -347,8 +383,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "美国副总统万斯：伊朗一方面公开否认和平谈判正在进行，但另一方面，美伊之间关于协议的技术性讨论仍在持续。这种做法是伊朗在谈判与话语上的一种“策略性手法”。",
@@ -634,7 +670,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -644,8 +680,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -659,6 +695,17 @@
           "time_info": "[00时46分 ~ 05时34分]"
         },
         {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
           "url": "https://wallstreetcn.com/livenews/3126991",
           "source": "华尔街见闻-快讯",
@@ -668,17 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        },
-        {
-          "title": "周二（6月30日），美股存储芯片与硬件供应链指数收涨3.83%，报268.03点，6月份累涨27.26%，二季度累涨159.01%，上半年持续上扬——从69.59点涨至277.74点。 二季度，成分股闪迪累涨257.88%，美光科技涨241.67%，希捷科技涨146.55%，西部数据涨136.19%，应用材料涨111.78%，拉姆研究涨103.01%，泰瑞达涨63.28%，Rambus反弹54.30%。",
-          "url": "https://wallstreetcn.com/livenews/3127000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -720,6 +756,18 @@
           "time_info": "[04时41分 ~ 06时30分]"
         },
         {
+          "title": "周二（6月30日），美股存储芯片与硬件供应链指数收涨3.83%，报268.03点，6月份累涨27.26%，二季度累涨159.01%，上半年持续上扬——从69.59点涨至277.74点。 二季度，成分股闪迪累涨257.88%，美光科技涨241.67%，希捷科技涨146.55%，西部数据涨136.19%，应用材料涨111.78%，拉姆研究涨103.01%，泰瑞达涨63.28%，Rambus反弹54.30%。",
+          "url": "https://wallstreetcn.com/livenews/3127000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时31分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
           "url": "https://wallstreetcn.com/livenews/3126975",
           "source": "华尔街见闻-快讯",
@@ -730,6 +778,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时34分]"
+        },
+        {
+          "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
+          "url": "https://wallstreetcn.com/livenews/3126998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时31分]"
         },
         {
           "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
@@ -756,15 +816,16 @@
           "time_info": "[00时46分 ~ 01时37分]"
         },
         {
-          "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
-          "url": "https://wallstreetcn.com/livenews/3126998",
+          "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
+          "url": "https://wallstreetcn.com/livenews/3126991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时31分]"
         },
         {
           "title": "大摩警告：美股半导体或迎顶点",
@@ -776,17 +837,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
-          "url": "https://wallstreetcn.com/livenews/3126991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
         },
         {
           "title": "美股“七巨头”指数6月下跌8.9%，创2025年3月以来最差单月表现。",
@@ -861,7 +911,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -883,7 +933,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
@@ -898,11 +948,12 @@
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -923,7 +974,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -959,6 +1010,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
+          "url": "https://wallstreetcn.com/livenews/3126968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
         }
       ]
     },
@@ -1002,11 +1082,12 @@
           "ranks": [
             1,
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时31分]"
         }
       ]
     },
@@ -1025,24 +1106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
-          "url": "https://wallstreetcn.com/livenews/3126968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时34分]"
         }
       ]
     }
