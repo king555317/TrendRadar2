@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T21:53:02.712992+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2026-07-01T23:02:57.465510+08:00",
+  "total_titles_processed": 2012,
   "failed_sources": [],
   "trends": [
     {
@@ -205,6 +205,18 @@
           "time_info": "[05时34分 ~ 07时31分]"
         },
         {
+          "title": "美最高法院驳回特朗普的限制「出生公民权」行政令，维持在美出生即美国公民，这项政策利弊该怎么权衡？",
+          "url": "https://www.zhihu.com/question/2055584524273185650",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时02分]"
+        },
+        {
           "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
           "url": "https://flash.jin10.com/detail/20260701054226191800",
           "source": "金十数据",
@@ -262,17 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时40分]"
-        },
-        {
-          "title": "美最高法院驳回特朗普的限制「出生公民权」行政令，维持在美出生即美国公民，这项政策利弊该怎么权衡？",
-          "url": "https://www.zhihu.com/question/2055584524273185650",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "美国总统特朗普：最高法院维持了出生公民权，这对我们国家来说非常遗憾。",
@@ -490,7 +491,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -589,7 +590,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -684,11 +685,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时11分 ~ 21时53分]"
+          "appearance_count": 11,
+          "time_info": "[11时11分 ~ 23时02分]"
         },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
@@ -733,11 +735,12 @@
           "url": "https://wallstreetcn.com/articles/3775932",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时02分]"
         },
         {
           "title": "美股三大股指集体低开，道指跌0.2%，标普500指数跌0.3%，纳指跌0.6%。Meta股票开盘上涨7.9%，创4月8日以来最大涨幅；闪迪股价下跌8.6%；美光科技开盘下跌7%。",
@@ -746,7 +749,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -760,6 +763,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "美股盘前三大股指期货下跌",
+          "url": "https://www.douyin.com/hot/2554626",
+          "source": "抖音",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 23时02分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -813,17 +830,16 @@
           "time_info": "[06时30分 ~ 07时31分]"
         },
         {
-          "title": "美股盘前三大股指期货下跌",
-          "url": "https://www.douyin.com/hot/2554626",
-          "source": "抖音",
+          "title": "美股狂飙黄金暴跌为何会这样",
+          "url": "https://www.toutiao.com/trending/7657495000493592070/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12,
-            11
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
@@ -848,17 +864,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时31分]"
-        },
-        {
-          "title": "美股狂飙黄金暴跌为何会这样",
-          "url": "https://www.toutiao.com/trending/7657495000493592070/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
@@ -991,7 +996,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1068,7 +1073,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1098,7 +1103,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -1121,6 +1126,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 07时31分]"
+        },
+        {
+          "title": "欧洲央行管委Kaasik：“再加息一次”是合理的预期。 （美国+以色列对伊朗发动的）战争可能会造成长期性的影响。 可能会在秋季围绕薪资问题获得更多透明度。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3127503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长会见卡塔尔首相。",
@@ -1524,33 +1540,36 @@
           "source": "微博",
           "ranks": [
             12,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 21时53分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时02分]"
         },
         {
           "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
           "url": "https://www.zhihu.com/question/2053257491765581754",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时02分]"
         },
         {
           "title": "金价创13年来最大季度跌幅",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%88%9B13%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%AD%A3%E5%BA%A6%E8%B7%8C%E5%B9%85",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时02分]"
         },
         {
           "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
@@ -1662,6 +1681,60 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时31分 ~ 23时02分]"
+        },
+        {
+          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
+          "url": "https://wallstreetcn.com/livenews/3126968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时34分]"
+        },
+        {
+          "title": "美国国债收益率在美联储主席沃什发言时回落，10年期美债收益率最新上涨5.91个基点，报4.481%。",
+          "url": "https://flash.jin10.com/detail/20260701212242025800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "美国两年期国债收益率跌超4个基点，刷新日低至4.1311%，此前发布了ISM制造业数据、美联储主席沃什正在讲话，美股开盘之前还曾涨至4.1971%刷新日高。 10年期美债收益率跌1个基点，暂时交投于4.4550%附近，北京时间21:08还曾涨至4.4970%刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3127485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1702,48 +1775,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 21时53分]"
-        },
-        {
-          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
-          "url": "https://wallstreetcn.com/livenews/3126968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时34分]"
-        },
-        {
-          "title": "美国国债收益率在美联储主席沃什发言时回落，10年期美债收益率最新上涨5.91个基点，报4.481%。",
-          "url": "https://flash.jin10.com/detail/20260701212242025800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1754,7 +1785,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1809,11 +1840,12 @@
           "ranks": [
             19,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 21时53分]"
+          "appearance_count": 5,
+          "time_info": "[19时08分 ~ 23时02分]"
         }
       ]
     }
