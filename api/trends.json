@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:31:59.799202+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-07-01T08:51:06.756255+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 07时31分]"
+        },
+        {
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 08时51分]"
         },
         {
           "title": "美国总统特朗普：国会应立即着手推动终止出生公民权。",
@@ -69,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -157,6 +168,17 @@
           "time_info": "[05时34分 ~ 07时31分]"
         },
         {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 08时51分]"
+        },
+        {
           "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
           "url": "https://flash.jin10.com/detail/20260701054226191800",
           "source": "金十数据",
@@ -179,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时30分]"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 08时51分]"
         },
         {
           "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
@@ -282,6 +315,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "打破百年惯例！特朗普将在达拉斯举行史上首个中期选举大会",
+          "url": "https://flash.jin10.com/detail/20260701083248698800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
           "title": "美国政府伦理办公室发布经认证的特朗普年度财务披露报告。",
           "url": "https://flash.jin10.com/detail/20260701043754582800",
           "source": "金十数据",
@@ -299,7 +343,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -310,9 +354,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普听取对伊朗全面开战方案汇报，但暂选择继续谈判",
+          "url": "https://flash.jin10.com/detail/20260701082918642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "特朗普已听取关于对伊朗战争方案的简报，但选择继续进行谈判。 特朗普目前将坚持对伊朗进行外交谈判。 特朗普告诉助手，如果谈判超过8月18日的截止日期，他也觉得可以接受。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3127028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "美国总统特朗普：共和党在美国最高法院得到了非常公平的对待。",
@@ -670,18 +736,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 08时51分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -701,9 +768,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 08时51分]"
+        },
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时50分 ~ 08时51分]"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
@@ -1022,11 +1100,12 @@
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 08时51分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
@@ -1083,11 +1162,12 @@
             1,
             2,
             6,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 08时51分]"
         }
       ]
     },
