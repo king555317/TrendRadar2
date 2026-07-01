@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T02:42:35.378939+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-07-02T03:35:49.526800+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时35分]"
         },
         {
           "title": "美方试图劝说伊朗放弃征收通行费，称解除制裁后收益将高出“百倍”。（Axios）",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时35分]"
         },
         {
           "title": "美国：超1000万桶原油经霍尔木兹海峡运出，伊朗石油筹码被削弱",
@@ -55,6 +57,18 @@
           "time_info": "[00时49分 ~ 01时38分]"
         },
         {
+          "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3127565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
+        },
+        {
           "title": "美国副总统万斯重申，伊朗海军和军队已被摧毁。 伊朗向船只开火后，我们几天前投下了一些炸弹。 过去三天商业通航自由。 如果伊朗试图重建核计划，美国有多种选项。 我们不能为了投掷炸弹而投掷炸弹。",
           "url": "https://wallstreetcn.com/livenews/3127529",
           "source": "华尔街见闻-快讯",
@@ -65,6 +79,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时38分]"
+        },
+        {
+          "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3127562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
         },
         {
           "title": "报道：伊朗准备向除以色列以外的所有国家出售石油",
@@ -85,7 +111,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -96,7 +122,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -112,28 +138,6 @@
           "time_info": "00时49分"
         },
         {
-          "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3127565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3127562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录 重点推动资产解冻",
           "url": "https://flash.jin10.com/detail/20260702010617566800",
           "source": "金十数据",
@@ -145,13 +149,24 @@
           "time_info": "01时38分"
         },
         {
+          "title": "伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为",
+          "url": "https://wallstreetcn.com/livenews/3127569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，伊朗代表团在多哈的会谈已结束。",
           "url": "https://flash.jin10.com/detail/20260702012932413800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -202,98 +217,9 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260702012114628800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时42分]"
-        },
-        {
-          "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
-          "url": "https://wallstreetcn.com/livenews/3127538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时38分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260702012101023800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时42分]"
-        },
-        {
-          "title": "美股低开 算力租赁商、存储股大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
-          "url": "https://wallstreetcn.com/livenews/3127574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
         {
           "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
           "url": "https://flash.jin10.com/detail/20260702002047001800",
@@ -304,6 +230,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
+          "url": "https://flash.jin10.com/detail/20260702030012797800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
+          "url": "https://wallstreetcn.com/livenews/3127574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
         },
         {
           "title": "美国总统特朗普：美光科技宣布对“特朗普账户”投资2.5亿美元。",
@@ -346,9 +295,87 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时35分]"
+        },
+        {
+          "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260702012114628800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时42分]"
+        },
+        {
+          "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
+          "url": "https://wallstreetcn.com/livenews/3127538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时38分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时35分]"
+        },
+        {
+          "title": "美股低开 算力租赁商、存储股大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时35分]"
+        },
+        {
+          "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260702012101023800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时42分]"
         }
       ]
     },
@@ -362,11 +389,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时35分]"
         },
         {
           "title": "金价",
@@ -377,8 +405,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时35分]"
         },
         {
           "title": "金价创13年来最大季度跌幅",
@@ -404,11 +432,12 @@
           "ranks": [
             12,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时35分]"
         }
       ]
     },
@@ -421,11 +450,12 @@
           "url": "https://wallstreetcn.com/livenews/3127564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
         }
       ]
     },
@@ -441,8 +471,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 03时35分]"
         }
       ]
     },
