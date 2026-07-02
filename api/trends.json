@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T08:48:01.326176+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-07-02T09:44:36.861851+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
@@ -70,6 +70,17 @@
           "time_info": "[03时35分 ~ 04时38分]"
         },
         {
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 09时44分]"
+        },
+        {
           "title": "美国总统特朗普：古巴正在向美国靠拢。",
           "url": "https://flash.jin10.com/detail/20260702040849951800",
           "source": "金十数据",
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普又来：绝不让中国接管巴拿马运河",
-          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
         },
         {
           "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
@@ -201,6 +201,18 @@
           "time_info": "[05时34分 ~ 06时31分]"
         },
         {
+          "title": "特朗普：油价正在快速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3127674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 09时44分]"
+        },
+        {
           "title": "美国总统特朗普：股市频频创新高。",
           "url": "https://wallstreetcn.com/livenews/3127611",
           "source": "华尔街见闻-快讯",
@@ -213,13 +225,24 @@
           "time_info": "[05时34分 ~ 06时31分]"
         },
         {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "特朗普借建馆仪式对标罗斯福，打响中期选举保卫战",
           "url": "https://flash.jin10.com/detail/20260702081125681800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -268,24 +291,13 @@
           "time_info": "05时34分"
         },
         {
-          "title": "特朗普：油价正在快速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3127674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时48分"
-        },
-        {
           "title": "美国总统特朗普：7月3日，“自由燃料网络”将在大费城地区的25家“自由燃料”加油站下调汽油价格。这家零售商在带头，其他企业也应效仿。汽油价格很快将回到“伊朗行动”之前的创纪录低价。",
           "url": "https://flash.jin10.com/detail/20260702075833414800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -318,7 +330,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
         },
@@ -337,7 +349,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
@@ -531,6 +543,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "霍尔木兹石油流量飙回1000万桶/日！美国称伊朗“封锁牌”失效",
+          "url": "https://flash.jin10.com/detail/20260702091106371800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
           "url": "https://flash.jin10.com/detail/20260702000930829800",
           "source": "金十数据",
@@ -669,6 +692,18 @@
           "time_info": "[00时49分 ~ 05时34分]"
         },
         {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 09时44分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -682,18 +717,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时49分 ~ 07时32分]"
-        },
-        {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 08时48分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -806,6 +829,18 @@
           "time_info": "[04时38分 ~ 05时34分]"
         },
         {
+          "title": "韩国首尔综指跌超5%，芯片股跟随美股科技股隔夜跌势。SK海力士盘初跌7.6%，三星电子跌6.5%。",
+          "url": "https://wallstreetcn.com/livenews/3127675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 09时44分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨0.6%，纳指ETF跌超1.5%，布油基金跌超3.1%",
           "url": "https://wallstreetcn.com/livenews/3127610",
           "source": "华尔街见闻-快讯",
@@ -838,17 +873,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "韩国首尔综指跌超5%，芯片股跟随美股科技股隔夜跌势。SK海力士盘初跌7.6%，三星电子跌6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3127675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时48分"
         },
         {
           "title": "美国财政部：特朗普账户的注资将投资于SPYM ETF。 SPYM将被视作所有账户的默认投资标的。 道富银行ETF（State Street SPDR Portfolio标普500 ETF）将是“特朗普账户”的默认投资（标的）。 iShares核心标普500 ETF、Vanguard Total Stock Market ETF、State Street SPDR Portfolio标普1500综合股市ETF、iShares核心标普总体美股ETF也被列入“投资（标的）阵容”。",
@@ -942,11 +966,12 @@
           "url": "https://wallstreetcn.com/articles/3775976",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 09时44分]"
         },
         {
           "title": "据英国金融时报：在美国政府干预Anthropic和OpenAI的模型发布计划后，AI指导方针预计最快将于下周公布。",
@@ -1062,6 +1087,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3127564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
+        },
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1106,24 +1160,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时49分 ~ 06时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3127564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
         }
       ]
     }
