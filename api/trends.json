@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T19:55:59.257522+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-07-09T22:53:56.564688+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 79,
+      "match_count": 86,
       "titles": [
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -115,7 +115,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -192,7 +192,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -214,7 +214,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -260,9 +260,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
+        },
+        {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 22时53分]"
         },
         {
           "title": "伊朗阿巴斯港传出爆炸声",
@@ -303,19 +317,6 @@
           "time_info": "[00时03分 ~ 06时04分]"
         },
         {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 19时55分]"
-        },
-        {
           "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
           "url": "https://www.zhihu.com/question/2058455554222027217",
           "source": "知乎",
@@ -349,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "伊朗称发射导弹摧毁美军一指挥中心",
+          "url": "https://www.toutiao.com/trending/7660492985578032683/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "伊朗：将大规模打击美军基地",
@@ -439,6 +451,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "沙特批评伊朗持续“威胁地区稳定”。",
+          "url": "https://wallstreetcn.com/livenews/3131434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "据伊朗媒体：伊朗锡里克岛防空系统已启动。",
           "url": "https://flash.jin10.com/detail/20260709035439234800",
           "source": "金十数据",
@@ -459,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "沙特外交部：伊朗的侵犯行为削弱了国际恢复地区安全与稳定的努力。",
+          "url": "https://flash.jin10.com/detail/20260709222810331800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "据伊朗迈赫尔通讯社报道，当地时间7月8日深夜，伊朗南部霍尔木兹甘省首府阿巴斯港传出爆炸声。",
@@ -494,6 +528,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "伊朗发射巡航导弹袭击美国舰艇",
+          "url": "https://www.toutiao.com/trending/7659924718308327474/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "据伊朗媒体：美军袭击恰巴哈尔期间，弹片波及当地伊玛目阿里医院；当地电力公司表示，袭击导致三条电力线路中断，目前已有两条恢复供电。",
           "url": "https://flash.jin10.com/detail/20260709050822429800",
           "source": "金十数据",
@@ -503,6 +548,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "沙特外交部：我们拒绝伊朗侵犯兄弟国家的主权，并继续威胁地区的安全与稳定。",
+          "url": "https://flash.jin10.com/detail/20260709222616267800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "伊朗、阿曼、土耳其围绕霍尔木兹海峡问题开会。",
+          "url": "https://wallstreetcn.com/livenews/3131429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "伊朗副外长：美国近期行动不会不了了之，伊朗将作出回应。",
@@ -538,6 +605,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "消息人士：伊朗目前无意将以色列拖入冲突",
+          "url": "https://flash.jin10.com/detail/20260709222242869800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "伊朗外长与卡塔尔首相通话，强调外交渠道解决地区问题",
           "url": "https://wallstreetcn.com/livenews/3130856",
           "source": "华尔街见闻-快讯",
@@ -566,7 +644,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -709,7 +787,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -720,7 +798,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -775,7 +853,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -830,7 +908,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -841,7 +919,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -909,6 +987,20 @@
           "time_info": "[00时03分 ~ 16时45分]"
         },
         {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时04分 ~ 22时53分]"
+        },
+        {
           "title": "特朗普：今晚可能再打伊朗",
           "url": "https://www.cls.cn/detail/2420856",
           "source": "财联社热门",
@@ -921,20 +1013,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 12时56分]"
-        },
-        {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时04分 ~ 19时55分]"
         },
         {
           "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
@@ -1041,6 +1119,18 @@
           "time_info": "[00时03分 ~ 08时07分]"
         },
         {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 22时53分]"
+        },
+        {
           "title": "美国总统特朗普：对伊朗的攻击是为了报复昨天伊朗对船只的轰炸。如果再发生一次，后果将更加严重。",
           "url": "https://flash.jin10.com/detail/20260709053639585800",
           "source": "金十数据",
@@ -1083,18 +1173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 19时55分]"
         },
         {
           "title": "特朗普就美军再次袭击伊朗发声",
@@ -1207,6 +1285,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时56分 ~ 16时45分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 22时53分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -1362,17 +1452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
         },
         {
           "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
@@ -1598,7 +1677,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -1622,8 +1701,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 19时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 22时53分]"
         },
         {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
@@ -1683,6 +1762,17 @@
           "time_info": "[00时03分 ~ 06时04分]"
         },
         {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美股近七成科技股跌入熊市区间！AI信仰面临大考：获利了结还是周期见顶？",
           "url": "https://flash.jin10.com/detail/20260709122245851800",
           "source": "金十数据",
@@ -1703,6 +1793,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "美股三大指数涨幅收窄，标普500上涨0.2%，纳斯达克上涨0.1%，道琼斯上涨0.09%。",
+          "url": "https://flash.jin10.com/detail/20260709222704788800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
@@ -1774,7 +1886,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -1801,6 +1913,50 @@
           "time_info": "02时16分"
         },
         {
+          "title": "Altman不知是否今年IPO，称：OpenAI最新AI模型在智能体编程中Token效率提升54%",
+          "url": "https://wallstreetcn.com/livenews/3131428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：（在被问及2026年上市计划时）“尚不清楚”。",
+          "url": "https://flash.jin10.com/detail/20260709221617441800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：（就美国政府持有OpenAI股份的相关报道）其中存在诸多不实之处。",
+          "url": "https://flash.jin10.com/detail/20260709221534485800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
           "url": "https://flash.jin10.com/detail/20260709043940767800",
           "source": "金十数据",
@@ -1812,6 +1968,28 @@
           "time_info": "06时04分"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：OpenAI最新的AI模型在代理型编程任务中，令牌效率提升了54%。",
+          "url": "https://flash.jin10.com/detail/20260709221515042800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI在与政府沟通后已做出“诸多调整”。",
+          "url": "https://flash.jin10.com/detail/20260709221325723800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "OpenAI：发布国家安全原则文件。",
           "url": "https://flash.jin10.com/detail/20260709043809283800",
           "source": "金十数据",
@@ -1821,6 +1999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：微软将继续是我们最大的客户之一。",
+          "url": "https://flash.jin10.com/detail/20260709221227214800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         }
       ]
     },
@@ -1857,7 +2046,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         }
